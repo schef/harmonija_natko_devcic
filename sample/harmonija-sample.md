@@ -31,3 +31,13 @@ Kada je riječ o redukciji, želio bih naročito naglasiti da je ne shvaćam kao
 Za ilustraciju ću iznijeti vlastiti postupak u radu sa studentima teoretsko-pedagoškog odjela na zagrebačkoj Muzičkoj akademiji koji je ušao i u novi nastavni program harmonije, a predstavlja stanovit oblik redukcije u gornjem smislu — redukcije koja se tek naknadno nadoknađuje.
 
 Studij harmonije na tom odjelu traje dvije godine, a koncipiran je tako da se paralelno s teoretskim izučavanjem materije i s praktičkom izradbom zadataka izvode i harmonijske analize odgovarajućih djela iz muzičke literature. Program za prvu godinu obuhvaća sve akorde i modulacije u dijatonici i veći dio analogne građe iz kromatike i enharmonije, pa se i harmonijska analiza primjenjuje samo na kompozicije rađene harmonijskim sredstvima koja odgovaraju danom programu. Međutim, gotovo je nemoguće pronaći za analizu neki prikladni, malo duži odlomak, a da se o čitavim stavcima ili kompletnim djelima i ne govori, u kome bi se kompozitor ograničio isključivo na akordički izraz, bez istodobne primjene i raznih neakordičkih tonova. Budući da studenti detaljno proučavaju i praktički svladavaju materiju neakordičkih tonova tek u drugoj godini, a treba da se već od početka bave i harmonijskom analizom, u prvoj godini daju im se o neakordičkim tonovima samo sažeta bitna znanja i informacije, tolika da im omoguće identificiranje konkretnih neakordičkih pojava s kojima će se pri analizi sretati. A višegodišnja praksa je pokazala da su takva početna znanja studentima sasvim dovoljna da uspješno izvode postavljene im analitičke zadatke.
+
+## Glazbeni primjer
+
+**Primjer 2.33.** Skokovi za povećane intervale.
+
+![Primjer 2.33 — skokovi za povećane intervale](images/example-2-33.png)
+
+*Izvor: tiskana stranica 23.*
+
+MuseScore prijepis: *bit će dodan.*
