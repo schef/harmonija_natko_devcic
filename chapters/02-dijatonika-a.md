@@ -221,3 +221,293 @@ U klasičnoj školskoj formuli I–IV–V–I, koja ujedinjuje u logičnom slije
 *Primjer 2.24. Progresija I–IV–V–I. Izvor: tiskana stranica 19.*
 
 MuseScore prijepis: *bit će dodan.*
+
+Ako se u prethodnoj formuli posljednji akord, I, zamijeni kvintakordom VI stupnja, promjena iziskuje nastavak IV–V–I da bi čitav slijed harmonija opet logično završio s toničkim kvintakordom. Slijed tada sadrži sedam kvintakorda: I–IV–V–VI–IV–V–I, a nastaje i spoj nesrodnih kvintakorda V–VI. Budući da terca dominantnog kvintakorda, vođica, zadržava tendenciju kretanja naviše i uzlazi polustepenim pomakom, vođica ide paralelno s basom, a samo se dva preostala glasa kreću u protupomaku na najbliža mjesta. Kvintakord VI stupnja pojavljuje se s udvojenom tercom (primjer 2.25.a). Tako postavljen kvintakord nemoguće je spojiti sa sljedećim, koji je s njime u tercnoj srodnosti, tako da se oba zajednička tona zadrže, jer se jedan od njih nalazi u basu i kreće se; slijedi ga jedan od gornjih glasova, dok drugi skače (primjer 2.25.b). Proširena formula može se izvesti na šest raznih načina (primjer 2.26).
+
+![Primjer 2.25 — spoj V–VI](../images/02-dijatonika-a/primjer-2-25.png)
+
+*Primjer 2.25. Spoj V–VI. Izvor: tiskana stranica 20.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Primjer 2.26 — varijante proširene formule](../images/02-dijatonika-a/primjer-2-26.png)
+
+*Primjer 2.26. Varijante proširene formule. Izvor: tiskana stranica 20.*
+
+MuseScore prijepis: *bit će dodan.*
+
+U spoju V–VI vođica se može kretati i u protupomaku spram basa kada se ne nalazi u najgornjem glasu, ali samo u duru. U molu bi došlo do nemelodičkoga pomaka za povećanu sekundu, koji se, kao i pomaci za sve povećane intervale uopće, izbjegava (primjer 2.27). Iz istoga razloga treba kod spoja VI–V u molu unaprijed udvojiti tercu u glasu u kojem bi inače bio udvojen temeljni ton. Nakon toga jedna od te dvije terce ide paralelno s basom, silazi na vođicu, a ostala se dva glasa kreću u protupomaku, opet na najbliža mjesta (primjer 2.28).
+
+![Primjer 2.27 — dopušteni i nedopušteni spoj V–VI](../images/02-dijatonika-a/primjer-2-27.png)
+
+*Primjer 2.27. Dopušteni i nedopušteni spoj V–VI. Izvor: tiskana stranica 21.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Primjer 2.28 — spoj VI–V u molu](../images/02-dijatonika-a/primjer-2-28.png)
+
+*Primjer 2.28. Spoj VI–V u molu. Izvor: tiskana stranica 21.*
+
+MuseScore prijepis: *bit će dodan.*
+
+Vođenje gornjih glasova iz spoja V–VI može se prenijeti i na druge parove nesrodnih kvintakorda (primjer 2.29), kao i analogno primijeniti na parove kvintno-srodnih kvintakorda gdje temeljni ton prvoga akorda uzlazi za kvartu (primjer 2.30). Kvintno-srodni kvintakordi mogu se međusobno spajati i slobodno, pri čemu se gornji glasovi kreću u protupomaku spram basa (primjer 2.31).
+
+![Primjer 2.29 — slobodni spojevi nesrodnih kvintakorda](../images/02-dijatonika-a/primjer-2-29.png)
+
+*Primjer 2.29. Slobodni spojevi nesrodnih kvintakorda. Izvor: tiskana stranica 22.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Primjer 2.30 — slobodni spojevi kvintno-srodnih kvintakorda](../images/02-dijatonika-a/primjer-2-30.png)
+
+*Primjer 2.30. Slobodni spojevi kvintno-srodnih kvintakorda. Izvor: tiskana stranica 22.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Primjer 2.31 — slobodni spoj kvintno-srodnih kvintakorda](../images/02-dijatonika-a/primjer-2-31.png)
+
+*Primjer 2.31. Slobodni spoj kvintno-srodnih kvintakorda. Izvor: tiskana stranica 22.*
+
+MuseScore prijepis: *bit će dodan.*
+
+Kad iza kvintakorda u tijesnom slogu dolazi neki kvintakord u širokom slogu ili obratno, pri spajanju akorda dolazi do promjene sloga. U gornjim se glasovima tada redovito pojavljuju veći skokovi za kvartu, kvintu ili sekstu. Da takvi skokovi ne bi narušili ravnotežu harmonijskoga kretanja, treba ih kompenzirati tako da se istodobno u nekom od glasova zadrži zajednički ton ili sačuva postepeni pomak, ili da se glas u kojem se javlja skok i bas kreću u protupomaku (primjer 2.32.a). Promjena sloga može se izvršiti i unutar istoga akorda (primjer 2.32.b).
+
+![Primjer 2.32 — promjena sloga](../images/02-dijatonika-a/primjer-2-32.png)
+
+*Primjer 2.32. Promjena sloga. Izvor: tiskana stranica 22.*
+
+MuseScore prijepis: *bit će dodan.*
+
+U primjerima 2.22–2.32 prikazani su neki tipični i standardni spojevi kvintakorda, ali time nisu ni izdaleka obuhvaćene sve varijante i mogućnosti do kojih u praksi može doći. Nije ih ni moguće ni potrebno potpuno obuhvatiti. Treba se pridržavati ograničenja i zabrana kojima se zapravo kontrolira vođenje glasova i spojevi akorda te isključuju pogrešna rješenja. Ograničenja i zabrane odnose se uglavnom na kretanje jednoga glasa samog i na kretanje dvaju ili više glasova istodobno.
+
+U kretanju pojedinoga glasa ne dopuštaju se skokovi za povećane intervale (primjer 2.33). Skokovi za smanjene intervale dopušteni su ako poslije njih dolazi postepeni pomak u suprotnom smjeru (primjer 2.34). Izbjegavaju se dva skoka za redom u istom smjeru u intervalu kvarte ili kvinte; u oba slučaja nastaje nemelodičko kretanje koje se svojim krajnjim točkama poklapa s disonantnim intervalom septime odnosno none (primjer 2.35).
+
+![Primjer 2.33 — nedopušteni skokovi za povećane intervale](../images/02-dijatonika-a/primjer-2-33.png)
+
+*Primjer 2.33. Nedopušteni skokovi za povećane intervale. Izvor: tiskana stranica 23.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Primjer 2.34 — dopušteni skokovi za smanjene intervale](../images/02-dijatonika-a/primjer-2-34.png)
+
+*Primjer 2.34. Dopušteni skokovi za smanjene intervale. Izvor: tiskana stranica 23.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Primjer 2.35 — dva uzastopna skoka](../images/02-dijatonika-a/primjer-2-35.png)
+
+*Primjer 2.35. Dva uzastopna skoka. Izvor: tiskana stranica 23.*
+
+MuseScore prijepis: *bit će dodan.*
+
+U paralelnom kretanju susjednih glasova izbjegava se tzv. preskok. Pri uzlaznom kretanju preskok nastaje kada niži glas dolazi na ton viši od tona što ga je prije skoka imao susjedni viši glas (primjer 2.36.a), a pri silaznom kretanju kada viši glas dolazi na ton niži od tona što ga je prije skoka imao susjedni niži glas (primjer 2.36.b). Ovamo spadaju i slučajevi u primjerima 2.37.a i b, koji se obično formuliraju kao posebna zabrana paralelnoga pomaka u unisono, odnosno paralelnoga pomaka iz unisona.
+
+![Primjer 2.36 — preskok u paralelnom kretanju](../images/02-dijatonika-a/primjer-2-36.png)
+
+*Primjer 2.36. Preskok u paralelnom kretanju. Izvor: tiskana stranica 23.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Primjer 2.37 — paralelni pomak u unisono i iz unisona](../images/02-dijatonika-a/primjer-2-37.png)
+
+*Primjer 2.37. Paralelni pomak u unisono i iz unisona. Izvor: tiskana stranica 23.*
+
+MuseScore prijepis: *bit će dodan.*
+
+Istodobno kretanje svih glasova u istom smjeru narušava homogenost harmonijskoga stavka. Međutim, ne smeta kod slijeda dvaju različitih položaja istoga akorda (primjer 2.38). Paralelne oktave i kvinte, kao i neke druge njima srodne pojave, predmet su različitih ograničenja i zabrana.
+
+![Primjer 2.38 — istodobno kretanje u različitim položajima istoga akorda](../images/02-dijatonika-a/primjer-2-38.png)
+
+*Primjer 2.38. Istodobno kretanje u različitim položajima istoga akorda. Izvor: tiskana stranica 24.*
+
+MuseScore prijepis: *bit će dodan.*
+
+### 2.1.5. Oktave i kvinte
+
+Paralelne oktave i kvinte nastaju kada se dva glasa kreću paralelnim pomakom iz jedne čiste oktave u drugu čistu oktavu, odnosno iz jedne čiste kvinte u drugu čistu kvintu.
+
+Paralelne oktave smatraju se pogrešnima kada se pojave u stavku u kojem se inače glasovi samostalno kreću. One oduzimaju jednom od glasova samostalnost, smanjuju broj realnih glasova i uzrokuju nemotivirano isticanje jednoga pomaka, što narušava ravnotežu kretanja glasova i stvara neujednačenost stila stavka (primjer 2.39.a). Iz istih razloga pogrešan je i paralelni pomak u unisonu, odnosno paralelne prime (primjer 2.39.b). Nisu pogrešni oni paralelni pomaci u oktavama ili u unisonu kojima je svrha namjerno isticanje i pojačavanje neke melodijske linije (primjer 2.7).
+
+![Primjer 2.39 — paralelne oktave i prime](../images/02-dijatonika-a/primjer-2-39.png)
+
+*Primjer 2.39. Paralelne oktave i prime. Izvor: tiskana stranica 24.*
+
+MuseScore prijepis: *bit će dodan.*
+
+Budući da se čista kvinta, za razliku od čiste oktave, ne doima kao jedan ton, paralelne čiste kvinte znatno manje smanjuju samostalnost glasova nego paralelne oktave. Ipak, pogrešne su one paralelne kvinte koje se pojavljuju između temeljnih tonova i kvinta dvaju akorda, osobito između nesrodnih akorda cjelostepenim pomakom (primjer 2.40.a); učinak je ublažen kod skoka između srodnih akorda (primjer 2.40.b). Scarlattijeve kvinte i Mozartove kvinte redovito se ne smatraju pogrešnima (primjer 2.41). Paralelne kvinte mogu u umjetničkom muzičkom kontekstu djelovati dobro kada skladatelj njihovim namjernim isticanjem postiže poseban efekt (primjer 2.42).
+
+![Primjer 2.40 — paralelne kvinte](../images/02-dijatonika-a/primjer-2-40.png)
+
+*Primjer 2.40. Paralelne kvinte. Izvor: tiskana stranica 25.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Primjer 2.41 — Scarlattijeve i Mozartove kvinte](../images/02-dijatonika-a/primjer-2-41.png)
+
+*Primjer 2.41. Scarlattijeve i Mozartove kvinte. Izvor: tiskana stranica 25.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Primjer 2.42 — namjerno istaknute paralelne kvinte (Chopin: Scherzo u cis-molu, op. 39)](../images/02-dijatonika-a/primjer-2-42.png)
+
+*Primjer 2.42. Namjerno istaknute paralelne kvinte. Izvor: tiskana stranica 25.*
+
+MuseScore prijepis: *bit će dodan.*
+
+Od paralelnih nejednakih kvinta, koje nastaju kada iza čiste kvinte slijedi smanjena ili povećana i obratno, pogrešne su one kod kojih je druga kvinta čista. Nasljedne oktave i kvinte jednako su pogrešne kao i paralelne; nastaju kada se druga oktava ili kvinta formira naknadno, rješenjem zaostajalice ili promjenom položaja druge harmonije. Oktave i kvinte u protupomaku dobre su kada su skokovi u oba glasa podjednaki; kod nejednakih skokova djeluju neugodno.
+
+![Primjer 2.43 — nejednake paralelne kvinte](../images/02-dijatonika-a/primjer-2-43.png)
+
+*Primjer 2.43. Nejednake paralelne kvinte. Izvor: tiskana stranica 26.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Primjer 2.44 — nasljedne oktave i kvinte](../images/02-dijatonika-a/primjer-2-44.png)
+
+*Primjer 2.44. Nasljedne oktave i kvinte. Izvor: tiskana stranica 26.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Primjer 2.45 — oktave i kvinte u protupomaku](../images/02-dijatonika-a/primjer-2-45.png)
+
+*Primjer 2.45. Oktave i kvinte u protupomaku. Izvor: tiskana stranica 26.*
+
+MuseScore prijepis: *bit će dodan.*
+
+Akcentne oktave i kvinte loše su kada se na nenaglašenoj dobi između njih ne pojavljuje nova harmonija, nego se samo mijenja položaj prvoga akorda. Sakrite oktave i kvinte nastaju kada se dva glasa paralelno kreću iz nekoga drugog intervala u oktavu odnosno kvintu. Sakrite oktave nastale pomakom sa septime ili none ne dopuštaju se; sakrite kvinte podliježu blažim ogradama.
+
+![Primjer 2.46 — akcentne oktave i kvinte](../images/02-dijatonika-a/primjer-2-46.png)
+
+*Primjer 2.46. Akcentne oktave i kvinte. Izvor: tiskana stranica 27.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Primjer 2.47 — promjena položaja kao razdvajanje oktava i kvinta](../images/02-dijatonika-a/primjer-2-47.png)
+
+*Primjer 2.47. Promjena položaja. Izvor: tiskana stranica 27.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Primjer 2.48 — sakrite oktave](../images/02-dijatonika-a/primjer-2-48.png)
+
+*Primjer 2.48. Sakrite oktave. Izvor: tiskana stranica 27.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Primjer 2.49 — sakrite oktave u vanjskim glasovima](../images/02-dijatonika-a/primjer-2-49.png)
+
+*Primjer 2.49. Sakrite oktave u vanjskim glasovima. Izvor: tiskana stranica 27.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Primjer 2.50 — sakrite kvinte](../images/02-dijatonika-a/primjer-2-50.png)
+
+*Primjer 2.50. Sakrite kvinte. Izvor: tiskana stranica 27.*
+
+MuseScore prijepis: *bit će dodan.*
+
+Slušne kvinte nastaju kada jedan od dva glasa što čine kvintu u sljedećem akordu s nekim trećim glasom opet tvori kvintu. Čuju se kao paralelne samo ako se pojedini glasovi ne mogu međusobno razlikovati ni bojom ni dinamikom (primjer 2.51.a). Čim je razlikovanje glasova jasno, privid paralelizma se gubi (primjeri 2.51.b i c).
+
+![Primjer 2.51 — slušne kvinte](../images/02-dijatonika-a/primjer-2-51.png)
+
+*Primjer 2.51. Slušne kvinte. Izvor: tiskana stranica 28.*
+
+MuseScore prijepis: *bit će dodan.*
+
+### 2.1.6. Harmonizacija basa konsonantnim kvintakordima
+
+Kod harmonizacije zadanoga basa, gdje će svaki ton basove dionice biti temeljni ton nekoga kvintakorda, uz korektno vođenje glasova i spajanje akorda nameće se zahtjev da linija sopranove dionice bude estetski prihvatljiva. U primjeru 2.52 harmonizacija je korektna, ali dobivena sopranova linija nema posebnu fizionomiju i svodi se na izmjenjivanje dvaju tonova.
+
+![Primjer 2.52 — jednostavna harmonizacija zadanoga basa](../images/02-dijatonika-a/primjer-2-52.png)
+
+*Primjer 2.52. Harmonizacija zadanoga basa. Izvor: tiskana stranica 28.*
+
+MuseScore prijepis: *bit će dodan.*
+
+Linija soprana u drugoj realizaciji znatno je razvijenija. To se postiže promjenom položaja, promjenom sloga i slobodnim spojem srodnih kvintakorda (primjer 2.53). Završetak dopušta i slobodnija rješenja: vođica u unutarnjem glasu može skakati za kvartu prema gore ili sva četiri glasa mogu silaziti, ako ih opravdava uvjerljivi završni silazni pomak soprana na toniku (primjer 2.54).
+
+![Primjer 2.53 — razvijenija sopranova linija](../images/02-dijatonika-a/primjer-2-53.png)
+
+*Primjer 2.53. Razvijenija sopranova linija. Izvor: tiskana stranica 29.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Primjer 2.54 — završne varijante harmonizacije basa](../images/02-dijatonika-a/primjer-2-54.png)
+
+*Primjer 2.54. Završne varijante harmonizacije basa. Izvor: tiskana stranica 29.*
+
+MuseScore prijepis: *bit će dodan.*
+
+Primjeri 2.55 i 2.56 donose dvije razne izradbe zadanoga basa u molu. U prvoj se verziji gornji glasovi kreću u istim notnim vrijednostima kao zadani glas, što stvara stanovitu monotoniju; u drugoj je verziji ona izbjegnuta polovinskim pomakom gornjih glasova u prvome i četvrtome taktu te cijelom notom u sopranu u trećem taktu.
+
+![Primjer 2.55 — prva izradba zadanoga basa u molu](../images/02-dijatonika-a/primjer-2-55.png)
+
+*Primjer 2.55. Prva izradba zadanoga basa u molu. Izvor: tiskana stranica 30.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Primjer 2.56 — druga izradba zadanoga basa u molu](../images/02-dijatonika-a/primjer-2-56.png)
+
+*Primjer 2.56. Druga izradba zadanoga basa u molu. Izvor: tiskana stranica 30.*
+
+MuseScore prijepis: *bit će dodan.*
+
+### 2.1.7. Kadence
+
+Slijed harmonija na kraju neke manje ili veće muzičke cjeline čini kadencu; prema tome kadenca je neka vrsta zaključka određenoga harmonijskog kretanja, a taj zaključak može biti konačan ili privremen. Kadence se u klasičnom harmonijskom sistemu dijele na dvije glavne grupe. U jednu spadaju autentična i plagalna kadenca, u kojima je posljednji akord tonički kvintakord i kojima se redovito izvodi definitivni harmonijski završetak; sve ostale vrste kadenca čine drugu grupu.
+
+Autentičnu kadencu čine dominantni i tonički kvintakord, a plagalnu kadencu subdominantni i tonički kvintakord. Savršene su kada su oba akorda u temeljnom obliku, posljednji tonički kvintakord u oktavnom položaju i nastupa na naglašenoj dobi (primjer 2.57). U autentične kadence spada i mješovita ili složena kadenca, redoslijed IV–V–I; dominantnom kvintakordu često prethodi kadencirajući kvartsekstakord na V stupnju, koji se kao zaostajalica rješava u kvintakord na istome stupnju (primjer 2.58).
+
+![Primjer 2.57 — savršene autentične i plagalne kadence](../images/02-dijatonika-a/primjer-2-57.png)
+
+*Primjer 2.57. Savršene autentične i plagalne kadence. Izvor: tiskana stranica 32.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Primjer 2.58 — mješovita kadenca](../images/02-dijatonika-a/primjer-2-58.png)
+
+*Primjer 2.58. Mješovita kadenca. Izvor: tiskana stranica 32.*
+
+MuseScore prijepis: *bit će dodan.*
+
+Nesavršena autentična i plagalna kadenca razlikuje se od savršene po tome što tonički kvintakord ne nastupa u oktavnom nego u nekom drugom položaju (primjer 2.59). U nesavršene kadence spadaju i one u kojima se jedan od akorda, najčešće pretposljednji, pojavljuje u obratu; takve se kadence nazivaju i nepotpunima (primjer 2.60). Autentične i plagalne kadence u molu često završavaju dur-varijantom toničkoga kvintakorda, tzv. pikardijskom tercom (primjer 2.61).
+
+![Primjer 2.59 — nesavršene kadence](../images/02-dijatonika-a/primjer-2-59.png)
+
+*Primjer 2.59. Nesavršene kadence. Izvor: tiskana stranica 32.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Primjer 2.60 — nepotpune kadence](../images/02-dijatonika-a/primjer-2-60.png)
+
+*Primjer 2.60. Nepotpune kadence. Izvor: tiskana stranica 32.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Primjer 2.61 — pikardijska terca](../images/02-dijatonika-a/primjer-2-61.png)
+
+*Primjer 2.61. Pikardijska terca. Izvor: tiskana stranica 33.*
+
+MuseScore prijepis: *bit će dodan.*
+
+Polovična kadenca završava s kvintakordom V ili IV stupnja, najčešće s kvintakordom V stupnja. Polovična kadenca na V stupnju često se pojavljuje u periodičkim muzičkim konstrukcijama, na kraju prve rečenice periode, koja u drugoj rečenici zahtijeva odgovor. Polovična kadenca u molu koja završava s kvintakordom V stupnja u oktavnom položaju, a kojoj prethodi kvintakord ili sekstakord IV stupnja, naziva se frigijskom kadencom (primjer 2.62).
+
+![Primjer 2.62 — polovične kadence](../images/02-dijatonika-a/primjer-2-62.png)
+
+*Primjer 2.62. Polovične kadence. Izvor: tiskana stranica 33.*
+
+MuseScore prijepis: *bit će dodan.*
+
+U varavoj kadenci poslije dominantne harmonije, umjesto toničkoga kvintakorda, dolazi neki drugi akord, najčešće kvintakord VI stupnja (primjer 2.63). Ako je taj drugi akord alterirani ili uopće disonantni suzvuk, koji obično priprema i modulaciju u novi tonalitet, takva se kadenca naziva izbjegnuta (primjer 2.64).
+
+![Primjer 2.63 — varava kadenca](../images/02-dijatonika-a/primjer-2-63.png)
+
+*Primjer 2.63. Varava kadenca. Izvor: tiskana stranica 33.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Primjer 2.64 — izbjegnuta kadenca](../images/02-dijatonika-a/primjer-2-64.png)
+
+*Primjer 2.64. Izbjegnuta kadenca. Izvor: tiskana stranica 33.*
+
+MuseScore prijepis: *bit će dodan.*
