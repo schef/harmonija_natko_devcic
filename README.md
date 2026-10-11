@@ -18,6 +18,8 @@ As the conversion grows, chapters will be stored as Markdown files and visual ma
 
 The section-based queue and its acceptance criteria are in [MILESTONES.md](MILESTONES.md).
 
+Instructions for text conversion, score-only image extraction, and independent visual review are in [AGENTS.md](AGENTS.md). Every musical example must be checked by a reviewer other than the extracting agent before its milestone is complete.
+
 - [x] Add the scanned source PDF to the repository.
 - [x] Create and manually verify a Markdown sample of the opening pages.
 - [x] Extract and embed one cropped musical example (`Primjer 2.33`).

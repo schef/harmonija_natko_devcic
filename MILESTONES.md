@@ -14,6 +14,8 @@ Every conversion job must:
 6. Add a placeholder for an eventual MuseScore transcription when the image is a notated musical example.
 7. Preview the Markdown locally and report the files changed, examples extracted, and any unreadable passages. Do not commit or push unless explicitly asked.
 
+The detailed multi-agent workflow, including the mandatory independent score-image review, is in [AGENTS.md](AGENTS.md).
+
 ## Jobs
 
 | Status | Job | Scope | Printed pages | PDF pages | Output |
