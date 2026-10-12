@@ -511,3 +511,61 @@ MuseScore prijepis: *bit će dodan.*
 *Primjer 2.64. Izbjegnuta kadenca. Izvor: tiskana stranica 33.*
 
 MuseScore prijepis: *bit će dodan.*
+
+Posljednji akord kadence redovito pada na naglašenu dobu, što predstavlja muški završetak. Padne li posljednji akord na nenaglašenu dobu, kadenca se naziva ženskom kadencom ili ženskim završetkom (primjer 2.65). Ženski su završeci rijetki u baroku i klasici, ali su ih romantički skladatelji rado upotrebljavali.
+
+![Primjer 2.65 — ženska kadenca](../images/02-dijatonika-a/primjer-2-65.png)
+
+*Primjer 2.65. Ženska kadenca. Izvor: tiskana stranica 34.*
+
+MuseScore prijepis: *bit će dodan.*
+
+Sve prethodne kadence bile su prikazane shematski, najjednostavnijim akordima i u najjednostavnijem ritmičkom obliku. U praksi mogu imati složeniji izgled: dominantne i subdominantne harmonije mogu se pojaviti kao disonantni akordi ili njihove zamjene, pojedini se tonovi mogu alterirati, a cijelo se zbivanje može obogatiti neakordičkim tonovima. Primjer 2.66 donosi složenije varijante autentične kadence iz umjetničke muzičke literature.
+
+![Primjer 2.66 — autentične kadence u umjetničkoj literaturi](../images/02-dijatonika-a/primjer-2-66.png)
+
+![Primjer 2.66d–e — autentične kadence u umjetničkoj literaturi](../images/02-dijatonika-a/primjer-2-66-d-e.png)
+
+*Primjer 2.66. Autentične kadence. Izvor: tiskane stranice 34–35.*
+
+MuseScore prijepis: *bit će dodan.*
+
+Polovične, varave, izbjegnute i ženske kadence mogu se pojaviti i u složenijim oblicima umjetničke muzičke literature. Primjeri 2.68–2.71 prikazuju po dvije takve varijante: polovičnu, varavu, izbjegnutu i žensku kadencu.
+
+![Primjer 2.68 — polovična kadenca](../images/02-dijatonika-a/primjer-2-68.png)
+
+*Primjer 2.68. Polovična kadenca (Beethoven). Izvor: tiskana stranica 36.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Primjer 2.69 — varava kadenca](../images/02-dijatonika-a/primjer-2-69.png)
+
+*Primjer 2.69. Varava kadenca (J. S. Bach). Izvor: tiskana stranica 36.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Primjer 2.70 — izbjegnuta kadenca](../images/02-dijatonika-a/primjer-2-70.png)
+
+*Primjer 2.70. Izbjegnute kadence (J. S. Bach i Chopin). Izvor: tiskana stranica 37.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Primjer 2.71 — ženska kadenca](../images/02-dijatonika-a/primjer-2-71.png)
+
+*Primjer 2.71. Ženska kadenca (Schumann). Izvor: tiskana stranica 37.*
+
+MuseScore prijepis: *bit će dodan.*
+
+Plagalne kadence iz umjetničke literature prikazane su u primjeru 2.67. Budući da se tiskani primjer proteže preko dvije izvorne stranice, sačuvan je u četiri odvojena, neizmijenjena izvorna isječka umjesto spajanja ili umjetnog popunjavanja slike.
+
+![Primjer 2.67a–b — plagalne kadence](../images/02-dijatonika-a/primjer-2-67-a-b.png)
+
+![Primjer 2.67c — plagalna kadenca](../images/02-dijatonika-a/primjer-2-67-c.png)
+
+![Primjer 2.67d — plagalna kadenca](../images/02-dijatonika-a/primjer-2-67-d.png)
+
+![Primjer 2.67b — plagalna kadenca, nastavak](../images/02-dijatonika-a/primjer-2-67-b-nastavak.png)
+
+*Primjer 2.67. Plagalne kadence. Izvor: tiskane stranice 35–36.*
+
+MuseScore prijepis: *bit će dodan.*
