@@ -1,0 +1,1254 @@
+{
+  "version": 1,
+  "dpi": 300,
+  "images": {
+    "images/01-uvod/primjer-1-1.png": {
+      "pdf_page": 4,
+      "printed_pages": [
+        7
+      ],
+      "rect": [
+        222,
+        1080,
+        1872,
+        1480
+      ],
+      "match_ncc": 0.962816,
+      "source_page": "page-007",
+      "source_image": "sources/pages/page-007.png"
+    },
+    "images/01-uvod/primjer-1-2.png": {
+      "pdf_page": 4,
+      "printed_pages": [
+        7
+      ],
+      "rect": [
+        222,
+        1532,
+        1872,
+        1932
+      ],
+      "match_ncc": 0.925661,
+      "source_page": "page-007",
+      "source_image": "sources/pages/page-007.png"
+    },
+    "images/01-uvod/primjer-1-3.png": {
+      "pdf_page": 5,
+      "printed_pages": [
+        8
+      ],
+      "rect": [
+        100,
+        80,
+        1750,
+        1240
+      ],
+      "match_ncc": 0.972416,
+      "source_page": "page-008",
+      "source_image": "sources/pages/page-008.png"
+    },
+    "images/01-uvod/primjer-1-4.png": {
+      "pdf_page": 5,
+      "printed_pages": [
+        8
+      ],
+      "rect": [
+        120,
+        1468,
+        840,
+        2068
+      ],
+      "match_ncc": 0.881963,
+      "source_page": "page-008",
+      "source_image": "sources/pages/page-008.png"
+    },
+    "images/01-uvod/primjer-1-5.png": {
+      "pdf_page": 5,
+      "printed_pages": [
+        8
+      ],
+      "rect": [
+        900,
+        1460,
+        1800,
+        2080
+      ],
+      "match_ncc": 1.0,
+      "source_page": "page-008",
+      "source_image": "sources/pages/page-008.png"
+    },
+    "images/01-uvod/primjer-1-6.png": {
+      "pdf_page": 5,
+      "printed_pages": [
+        9
+      ],
+      "rect": [
+        212,
+        100,
+        1862,
+        370
+      ],
+      "match_ncc": 0.909174,
+      "source_page": "page-009",
+      "source_image": "sources/pages/page-009.png"
+    },
+    "images/01-uvod/primjer-1-7.png": {
+      "pdf_page": 5,
+      "printed_pages": [
+        9
+      ],
+      "rect": [
+        212,
+        392,
+        1862,
+        1012
+      ],
+      "match_ncc": 0.859674,
+      "source_page": "page-009",
+      "source_image": "sources/pages/page-009.png"
+    },
+    "images/02-dijatonika-a/primjer-2-1.png": {
+      "pdf_page": 6,
+      "printed_pages": [
+        11
+      ],
+      "rect": [
+        214,
+        1512,
+        1878,
+        1772
+      ],
+      "match_ncc": 0.910447,
+      "source_page": "page-011",
+      "source_image": "sources/pages/page-011.png",
+      "status_note": "The prior automatically matched rectangle extended beyond the source image and was bounded to the actual source edge; visually review this crop before approval."
+    },
+    "images/02-dijatonika-a/primjer-2-10.png": {
+      "pdf_page": 8,
+      "printed_pages": [
+        15
+      ],
+      "rect": [
+        217,
+        328,
+        1717,
+        788
+      ],
+      "match_ncc": 0.822403,
+      "source_page": "page-015",
+      "source_image": "sources/pages/page-015.png"
+    },
+    "images/02-dijatonika-a/primjer-2-11.png": {
+      "pdf_page": 8,
+      "printed_pages": [
+        15
+      ],
+      "rect": [
+        569,
+        1568,
+        1419,
+        1788
+      ],
+      "match_ncc": 0.915648,
+      "source_page": "page-015",
+      "source_image": "sources/pages/page-015.png"
+    },
+    "images/02-dijatonika-a/primjer-2-12.png": {
+      "pdf_page": 9,
+      "printed_pages": [
+        16
+      ],
+      "rect": [
+        248,
+        512,
+        1598,
+        922
+      ],
+      "match_ncc": 0.889737,
+      "source_page": "page-016",
+      "source_image": "sources/pages/page-016.png"
+    },
+    "images/02-dijatonika-a/primjer-2-13.png": {
+      "pdf_page": 9,
+      "printed_pages": [
+        16
+      ],
+      "rect": [
+        120,
+        1680,
+        620,
+        2070
+      ],
+      "match_ncc": 0.885106,
+      "source_page": "page-016",
+      "source_image": "sources/pages/page-016.png"
+    },
+    "images/02-dijatonika-a/primjer-2-14.png": {
+      "pdf_page": 9,
+      "printed_pages": [
+        16
+      ],
+      "rect": [
+        620,
+        1628,
+        1040,
+        2138
+      ],
+      "match_ncc": 0.984965,
+      "source_page": "page-016",
+      "source_image": "sources/pages/page-016.png"
+    },
+    "images/02-dijatonika-a/primjer-2-15.png": {
+      "pdf_page": 9,
+      "printed_pages": [
+        16
+      ],
+      "rect": [
+        1020,
+        1628,
+        1720,
+        2138
+      ],
+      "match_ncc": 0.974806,
+      "source_page": "page-016",
+      "source_image": "sources/pages/page-016.png"
+    },
+    "images/02-dijatonika-a/primjer-2-16.png": {
+      "pdf_page": 9,
+      "printed_pages": [
+        17
+      ],
+      "rect": [
+        449,
+        80,
+        1479,
+        530
+      ],
+      "match_ncc": 0.924653,
+      "source_page": "page-017",
+      "source_image": "sources/pages/page-017.png"
+    },
+    "images/02-dijatonika-a/primjer-2-17.png": {
+      "pdf_page": 9,
+      "printed_pages": [
+        17
+      ],
+      "rect": [
+        17,
+        1608,
+        1197,
+        1848
+      ],
+      "match_ncc": 0.907108,
+      "source_page": "page-017",
+      "source_image": "sources/pages/page-017.png"
+    },
+    "images/02-dijatonika-a/primjer-2-18.png": {
+      "pdf_page": 9,
+      "printed_pages": [
+        17
+      ],
+      "rect": [
+        1197,
+        1580,
+        1817,
+        1880
+      ],
+      "match_ncc": 0.947175,
+      "source_page": "page-017",
+      "source_image": "sources/pages/page-017.png"
+    },
+    "images/02-dijatonika-a/primjer-2-19.png": {
+      "pdf_page": 9,
+      "printed_pages": [
+        17
+      ],
+      "rect": [
+        609,
+        1848,
+        1309,
+        2068
+      ],
+      "match_ncc": 0.940015,
+      "source_page": "page-017",
+      "source_image": "sources/pages/page-017.png"
+    },
+    "images/02-dijatonika-a/primjer-2-2.png": {
+      "pdf_page": 6,
+      "printed_pages": [
+        11
+      ],
+      "rect": [
+        102,
+        2140,
+        1878,
+        2410
+      ],
+      "match_ncc": 0.997051,
+      "source_page": "page-011",
+      "source_image": "sources/pages/page-011.png"
+    },
+    "images/02-dijatonika-a/primjer-2-20.png": {
+      "pdf_page": 10,
+      "printed_pages": [
+        18
+      ],
+      "rect": [
+        120,
+        600,
+        640,
+        920
+      ],
+      "match_ncc": 0.997414,
+      "source_page": "page-018",
+      "source_image": "sources/pages/page-018.png"
+    },
+    "images/02-dijatonika-a/primjer-2-21.png": {
+      "pdf_page": 10,
+      "printed_pages": [
+        18
+      ],
+      "rect": [
+        628,
+        588,
+        1778,
+        898
+      ],
+      "match_ncc": 0.901929,
+      "source_page": "page-018",
+      "source_image": "sources/pages/page-018.png"
+    },
+    "images/02-dijatonika-a/primjer-2-22.png": {
+      "pdf_page": 10,
+      "printed_pages": [
+        18
+      ],
+      "rect": [
+        40,
+        1728,
+        1870,
+        2198
+      ],
+      "match_ncc": 0.843887,
+      "source_page": "page-018",
+      "source_image": "sources/pages/page-018.png"
+    },
+    "images/02-dijatonika-a/primjer-2-23.png": {
+      "pdf_page": 10,
+      "printed_pages": [
+        19
+      ],
+      "rect": [
+        222,
+        412,
+        1872,
+        862
+      ],
+      "match_ncc": 0.947915,
+      "source_page": "page-019",
+      "source_image": "sources/pages/page-019.png"
+    },
+    "images/02-dijatonika-a/primjer-2-24.png": {
+      "pdf_page": 10,
+      "printed_pages": [
+        19
+      ],
+      "rect": [
+        174,
+        1152,
+        1824,
+        2082
+      ],
+      "match_ncc": 0.943193,
+      "source_page": "page-019",
+      "source_image": "sources/pages/page-019.png"
+    },
+    "images/02-dijatonika-a/primjer-2-25.png": {
+      "pdf_page": 11,
+      "printed_pages": [
+        20
+      ],
+      "rect": [
+        180,
+        500,
+        1630,
+        1000
+      ],
+      "match_ncc": 0.975987,
+      "source_page": "page-020",
+      "source_image": "sources/pages/page-020.png"
+    },
+    "images/02-dijatonika-a/primjer-2-26.png": {
+      "pdf_page": 11,
+      "printed_pages": [
+        20
+      ],
+      "rect": [
+        120,
+        1060,
+        1770,
+        2380
+      ],
+      "match_ncc": 0.952949,
+      "source_page": "page-020",
+      "source_image": "sources/pages/page-020.png"
+    },
+    "images/02-dijatonika-a/primjer-2-27.png": {
+      "pdf_page": 11,
+      "printed_pages": [
+        21
+      ],
+      "rect": [
+        362,
+        400,
+        1462,
+        800
+      ],
+      "match_ncc": 0.997625,
+      "source_page": "page-021",
+      "source_image": "sources/pages/page-021.png"
+    },
+    "images/02-dijatonika-a/primjer-2-28.png": {
+      "pdf_page": 11,
+      "printed_pages": [
+        21
+      ],
+      "rect": [
+        174,
+        1108,
+        1878,
+        2058
+      ],
+      "match_ncc": 0.884319,
+      "source_page": "page-021",
+      "source_image": "sources/pages/page-021.png",
+      "status_note": "The prior automatically matched rectangle extended beyond the source image and was bounded to the actual source edge; visually review this crop before approval."
+    },
+    "images/02-dijatonika-a/primjer-2-29.png": {
+      "pdf_page": 12,
+      "printed_pages": [
+        22
+      ],
+      "rect": [
+        40,
+        40,
+        1840,
+        540
+      ],
+      "match_ncc": 0.999264,
+      "source_page": "page-022",
+      "source_image": "sources/pages/page-022.png"
+    },
+    "images/02-dijatonika-a/primjer-2-3.png": {
+      "pdf_page": 7,
+      "printed_pages": [
+        12
+      ],
+      "rect": [
+        220,
+        1372,
+        1600,
+        1652
+      ],
+      "match_ncc": 0.924192,
+      "source_page": "page-012",
+      "source_image": "sources/pages/page-012.png"
+    },
+    "images/02-dijatonika-a/primjer-2-30.png": {
+      "pdf_page": 12,
+      "printed_pages": [
+        22
+      ],
+      "rect": [
+        60,
+        572,
+        1810,
+        972
+      ],
+      "match_ncc": 0.86659,
+      "source_page": "page-022",
+      "source_image": "sources/pages/page-022.png"
+    },
+    "images/02-dijatonika-a/primjer-2-31.png": {
+      "pdf_page": 12,
+      "printed_pages": [
+        22
+      ],
+      "rect": [
+        120,
+        1000,
+        1370,
+        1450
+      ],
+      "match_ncc": 0.873222,
+      "source_page": "page-022",
+      "source_image": "sources/pages/page-022.png"
+    },
+    "images/02-dijatonika-a/primjer-2-32.png": {
+      "pdf_page": 12,
+      "printed_pages": [
+        22
+      ],
+      "rect": [
+        40,
+        1900,
+        1840,
+        2400
+      ],
+      "match_ncc": 0.970101,
+      "source_page": "page-022",
+      "source_image": "sources/pages/page-022.png"
+    },
+    "images/02-dijatonika-a/primjer-2-33.png": {
+      "pdf_page": 12,
+      "printed_pages": [
+        23
+      ],
+      "rect": [
+        170,
+        900,
+        870,
+        1330
+      ],
+      "match_ncc": 0.891476,
+      "source_page": "page-023",
+      "source_image": "sources/pages/page-023.png"
+    },
+    "images/02-dijatonika-a/primjer-2-34.png": {
+      "pdf_page": 12,
+      "printed_pages": [
+        23
+      ],
+      "rect": [
+        870,
+        900,
+        1820,
+        1400
+      ],
+      "match_ncc": 0.964285,
+      "source_page": "page-023",
+      "source_image": "sources/pages/page-023.png"
+    },
+    "images/02-dijatonika-a/primjer-2-35.png": {
+      "pdf_page": 12,
+      "printed_pages": [
+        23
+      ],
+      "rect": [
+        422,
+        1368,
+        1672,
+        1678
+      ],
+      "match_ncc": 0.835147,
+      "source_page": "page-023",
+      "source_image": "sources/pages/page-023.png"
+    },
+    "images/02-dijatonika-a/primjer-2-36.png": {
+      "pdf_page": 12,
+      "printed_pages": [
+        23
+      ],
+      "rect": [
+        174,
+        2020,
+        974,
+        2430
+      ],
+      "match_ncc": 0.774068,
+      "source_page": "page-023",
+      "source_image": "sources/pages/page-023.png"
+    },
+    "images/02-dijatonika-a/primjer-2-37.png": {
+      "pdf_page": 12,
+      "printed_pages": [
+        23
+      ],
+      "rect": [
+        942,
+        2052,
+        1842,
+        2422
+      ],
+      "match_ncc": 0.983524,
+      "source_page": "page-023",
+      "source_image": "sources/pages/page-023.png"
+    },
+    "images/02-dijatonika-a/primjer-2-38.png": {
+      "pdf_page": 13,
+      "printed_pages": [
+        24
+      ],
+      "rect": [
+        580,
+        328,
+        1230,
+        688
+      ],
+      "match_ncc": 0.870018,
+      "source_page": "page-024",
+      "source_image": "sources/pages/page-024.png"
+    },
+    "images/02-dijatonika-a/primjer-2-39.png": {
+      "pdf_page": 13,
+      "printed_pages": [
+        24
+      ],
+      "rect": [
+        60,
+        1752,
+        1760,
+        2202
+      ],
+      "match_ncc": 0.890681,
+      "source_page": "page-024",
+      "source_image": "sources/pages/page-024.png"
+    },
+    "images/02-dijatonika-a/primjer-2-4.png": {
+      "pdf_page": 7,
+      "printed_pages": [
+        12
+      ],
+      "rect": [
+        200,
+        1992,
+        1800,
+        2437
+      ],
+      "match_ncc": 0.977185,
+      "source_page": "page-012",
+      "source_image": "sources/pages/page-012.png"
+    },
+    "images/02-dijatonika-a/primjer-2-40.png": {
+      "pdf_page": 13,
+      "printed_pages": [
+        25
+      ],
+      "rect": [
+        48,
+        1000,
+        948,
+        1480
+      ],
+      "match_ncc": 0.95807,
+      "source_page": "page-025",
+      "source_image": "sources/pages/page-025.png"
+    },
+    "images/02-dijatonika-a/primjer-2-41.png": {
+      "pdf_page": 13,
+      "printed_pages": [
+        25
+      ],
+      "rect": [
+        952,
+        1020,
+        1802,
+        1460
+      ],
+      "match_ncc": 0.922392,
+      "source_page": "page-025",
+      "source_image": "sources/pages/page-025.png"
+    },
+    "images/02-dijatonika-a/primjer-2-42.png": {
+      "pdf_page": 13,
+      "printed_pages": [
+        25
+      ],
+      "rect": [
+        148,
+        1480,
+        1848,
+        2430
+      ],
+      "match_ncc": 0.888948,
+      "source_page": "page-025",
+      "source_image": "sources/pages/page-025.png"
+    },
+    "images/02-dijatonika-a/primjer-2-43.png": {
+      "pdf_page": 14,
+      "printed_pages": [
+        26
+      ],
+      "rect": [
+        100,
+        352,
+        1600,
+        752
+      ],
+      "match_ncc": 0.89869,
+      "source_page": "page-026",
+      "source_image": "sources/pages/page-026.png"
+    },
+    "images/02-dijatonika-a/primjer-2-44.png": {
+      "pdf_page": 14,
+      "printed_pages": [
+        26
+      ],
+      "rect": [
+        80,
+        1080,
+        1830,
+        1540
+      ],
+      "match_ncc": 0.940802,
+      "source_page": "page-026",
+      "source_image": "sources/pages/page-026.png"
+    },
+    "images/02-dijatonika-a/primjer-2-45.png": {
+      "pdf_page": 14,
+      "printed_pages": [
+        26
+      ],
+      "rect": [
+        100,
+        1960,
+        1850,
+        2390
+      ],
+      "match_ncc": 0.946409,
+      "source_page": "page-026",
+      "source_image": "sources/pages/page-026.png"
+    },
+    "images/02-dijatonika-a/primjer-2-46.png": {
+      "pdf_page": 14,
+      "printed_pages": [
+        27
+      ],
+      "rect": [
+        160,
+        552,
+        1100,
+        992
+      ],
+      "match_ncc": 0.898676,
+      "source_page": "page-027",
+      "source_image": "sources/pages/page-027.png"
+    },
+    "images/02-dijatonika-a/primjer-2-47.png": {
+      "pdf_page": 14,
+      "printed_pages": [
+        27
+      ],
+      "rect": [
+        1120,
+        500,
+        1820,
+        990
+      ],
+      "match_ncc": 0.915111,
+      "source_page": "page-027",
+      "source_image": "sources/pages/page-027.png"
+    },
+    "images/02-dijatonika-a/primjer-2-48.png": {
+      "pdf_page": 14,
+      "printed_pages": [
+        27
+      ],
+      "rect": [
+        228,
+        1572,
+        988,
+        1940
+      ],
+      "match_ncc": 0.931071,
+      "source_page": "page-027",
+      "source_image": "sources/pages/page-027.png"
+    },
+    "images/02-dijatonika-a/primjer-2-49.png": {
+      "pdf_page": 14,
+      "printed_pages": [
+        27
+      ],
+      "rect": [
+        980,
+        1512,
+        1860,
+        1952
+      ],
+      "match_ncc": 0.919103,
+      "source_page": "page-027",
+      "source_image": "sources/pages/page-027.png"
+    },
+    "images/02-dijatonika-a/primjer-2-5.png": {
+      "pdf_page": 7,
+      "printed_pages": [
+        13
+      ],
+      "rect": [
+        60,
+        1032,
+        1881,
+        1362
+      ],
+      "match_ncc": 0.978383,
+      "source_page": "page-013",
+      "source_image": "sources/pages/page-013.png"
+    },
+    "images/02-dijatonika-a/primjer-2-50.png": {
+      "pdf_page": 14,
+      "printed_pages": [
+        27
+      ],
+      "rect": [
+        620,
+        1952,
+        1620,
+        2392
+      ],
+      "match_ncc": 0.938846,
+      "source_page": "page-027",
+      "source_image": "sources/pages/page-027.png"
+    },
+    "images/02-dijatonika-a/primjer-2-51.png": {
+      "pdf_page": 15,
+      "printed_pages": [
+        28
+      ],
+      "rect": [
+        100,
+        428,
+        1750,
+        1378
+      ],
+      "match_ncc": 0.928664,
+      "source_page": "page-028",
+      "source_image": "sources/pages/page-028.png"
+    },
+    "images/02-dijatonika-a/primjer-2-52.png": {
+      "pdf_page": 15,
+      "printed_pages": [
+        28
+      ],
+      "rect": [
+        80,
+        2012,
+        1830,
+        2382
+      ],
+      "match_ncc": 0.851726,
+      "source_page": "page-028",
+      "source_image": "sources/pages/page-028.png"
+    },
+    "images/02-dijatonika-a/primjer-2-53.png": {
+      "pdf_page": 15,
+      "printed_pages": [
+        29
+      ],
+      "rect": [
+        189,
+        420,
+        1839,
+        820
+      ],
+      "match_ncc": 0.981031,
+      "source_page": "page-029",
+      "source_image": "sources/pages/page-029.png"
+    },
+    "images/02-dijatonika-a/primjer-2-54.png": {
+      "pdf_page": 15,
+      "printed_pages": [
+        29
+      ],
+      "rect": [
+        189,
+        1688,
+        1839,
+        2068
+      ],
+      "match_ncc": 0.909973,
+      "source_page": "page-029",
+      "source_image": "sources/pages/page-029.png"
+    },
+    "images/02-dijatonika-a/primjer-2-55.png": {
+      "pdf_page": 16,
+      "printed_pages": [
+        30
+      ],
+      "rect": [
+        80,
+        160,
+        1830,
+        510
+      ],
+      "match_ncc": 0.925141,
+      "source_page": "page-030",
+      "source_image": "sources/pages/page-030.png"
+    },
+    "images/02-dijatonika-a/primjer-2-56.png": {
+      "pdf_page": 16,
+      "printed_pages": [
+        30
+      ],
+      "rect": [
+        80,
+        600,
+        1830,
+        1030
+      ],
+      "match_ncc": 0.955797,
+      "source_page": "page-030",
+      "source_image": "sources/pages/page-030.png"
+    },
+    "images/02-dijatonika-a/primjer-2-57.png": {
+      "pdf_page": 17,
+      "printed_pages": [
+        32
+      ],
+      "rect": [
+        80,
+        432,
+        1780,
+        762
+      ],
+      "match_ncc": 0.917069,
+      "source_page": "page-032",
+      "source_image": "sources/pages/page-032.png"
+    },
+    "images/02-dijatonika-a/primjer-2-58.png": {
+      "pdf_page": 17,
+      "printed_pages": [
+        32
+      ],
+      "rect": [
+        80,
+        788,
+        1780,
+        1208
+      ],
+      "match_ncc": 0.940735,
+      "source_page": "page-032",
+      "source_image": "sources/pages/page-032.png"
+    },
+    "images/02-dijatonika-a/primjer-2-59.png": {
+      "pdf_page": 17,
+      "printed_pages": [
+        32
+      ],
+      "rect": [
+        80,
+        1668,
+        1130,
+        2128
+      ],
+      "match_ncc": 0.947508,
+      "source_page": "page-032",
+      "source_image": "sources/pages/page-032.png"
+    },
+    "images/02-dijatonika-a/primjer-2-6.png": {
+      "pdf_page": 7,
+      "printed_pages": [
+        13
+      ],
+      "rect": [
+        220,
+        1360,
+        1500,
+        1650
+      ],
+      "match_ncc": 0.919503,
+      "source_page": "page-013",
+      "source_image": "sources/pages/page-013.png"
+    },
+    "images/02-dijatonika-a/primjer-2-60.png": {
+      "pdf_page": 17,
+      "printed_pages": [
+        32
+      ],
+      "rect": [
+        1136,
+        1688,
+        1901,
+        2138
+      ],
+      "match_ncc": 0.92039,
+      "source_pages": [
+        "page-032",
+        "page-033"
+      ],
+      "rect_on_spread": [
+        1136,
+        1688,
+        1901,
+        2138
+      ],
+      "status_note": "This location crosses the source-page seam and remains in spread coordinates until manually resolved."
+    },
+    "images/02-dijatonika-a/primjer-2-61.png": {
+      "pdf_page": 17,
+      "printed_pages": [
+        33
+      ],
+      "rect": [
+        154,
+        40,
+        1804,
+        560
+      ],
+      "match_ncc": 0.974988,
+      "source_page": "page-033",
+      "source_image": "sources/pages/page-033.png"
+    },
+    "images/02-dijatonika-a/primjer-2-62.png": {
+      "pdf_page": 17,
+      "printed_pages": [
+        33
+      ],
+      "rect": [
+        154,
+        1160,
+        1804,
+        1640
+      ],
+      "match_ncc": 0.928699,
+      "source_page": "page-033",
+      "source_image": "sources/pages/page-033.png"
+    },
+    "images/02-dijatonika-a/primjer-2-63.png": {
+      "pdf_page": 17,
+      "printed_pages": [
+        33
+      ],
+      "rect": [
+        150,
+        2000,
+        1050,
+        2420
+      ],
+      "match_ncc": 0.816669,
+      "source_page": "page-033",
+      "source_image": "sources/pages/page-033.png"
+    },
+    "images/02-dijatonika-a/primjer-2-64.png": {
+      "pdf_page": 17,
+      "printed_pages": [
+        33
+      ],
+      "rect": [
+        1082,
+        2000,
+        1802,
+        2420
+      ],
+      "match_ncc": 0.91501,
+      "source_page": "page-033",
+      "source_image": "sources/pages/page-033.png"
+    },
+    "images/02-dijatonika-a/primjer-2-65.png": {
+      "pdf_page": 18,
+      "printed_pages": [
+        34
+      ],
+      "rect": [
+        400,
+        360,
+        1350,
+        760
+      ],
+      "match_ncc": 0.988291,
+      "source_page": "page-034",
+      "source_image": "sources/pages/page-034.png"
+    },
+    "images/02-dijatonika-a/primjer-2-66-d-e.png": {
+      "pdf_page": 18,
+      "printed_pages": [
+        34,
+        35
+      ],
+      "rect": [
+        169,
+        80,
+        1819,
+        1030
+      ],
+      "match_ncc": 0.912886,
+      "source_page": "page-035",
+      "source_image": "sources/pages/page-035.png"
+    },
+    "images/02-dijatonika-a/primjer-2-66.png": {
+      "pdf_page": 18,
+      "printed_pages": [
+        34,
+        35
+      ],
+      "rect": [
+        80,
+        1528,
+        1830,
+        2428
+      ],
+      "match_ncc": 0.940913,
+      "source_page": "page-034",
+      "source_image": "sources/pages/page-034.png"
+    },
+    "images/02-dijatonika-a/primjer-2-67-a-b.png": {
+      "pdf_page": 18,
+      "printed_pages": [
+        35,
+        36
+      ],
+      "rect": [
+        169,
+        1420,
+        1819,
+        1900
+      ],
+      "match_ncc": 0.967088,
+      "source_page": "page-035",
+      "source_image": "sources/pages/page-035.png"
+    },
+    "images/02-dijatonika-a/primjer-2-67-b-nastavak.png": {
+      "pdf_page": 19,
+      "printed_pages": [
+        35,
+        36
+      ],
+      "rect": [
+        215,
+        52,
+        1865,
+        572
+      ],
+      "match_ncc": 0.870175,
+      "source_page": "page-037",
+      "source_image": "sources/pages/page-037.png"
+    },
+    "images/02-dijatonika-a/primjer-2-67-c.png": {
+      "pdf_page": 18,
+      "printed_pages": [
+        35,
+        36
+      ],
+      "rect": [
+        169,
+        1880,
+        1819,
+        2400
+      ],
+      "match_ncc": 0.960059,
+      "source_page": "page-035",
+      "source_image": "sources/pages/page-035.png"
+    },
+    "images/02-dijatonika-a/primjer-2-67-d.png": {
+      "pdf_page": 19,
+      "printed_pages": [
+        35,
+        36
+      ],
+      "rect": [
+        80,
+        52,
+        1830,
+        572
+      ],
+      "match_ncc": 0.869155,
+      "source_page": "page-036",
+      "source_image": "sources/pages/page-036.png"
+    },
+    "images/02-dijatonika-a/primjer-2-68.png": {
+      "pdf_page": 19,
+      "printed_pages": [
+        36
+      ],
+      "rect": [
+        80,
+        900,
+        1830,
+        1330
+      ],
+      "match_ncc": 0.983613,
+      "source_page": "page-036",
+      "source_image": "sources/pages/page-036.png"
+    },
+    "images/02-dijatonika-a/primjer-2-69.png": {
+      "pdf_page": 19,
+      "printed_pages": [
+        36
+      ],
+      "rect": [
+        80,
+        1980,
+        1830,
+        2410
+      ],
+      "match_ncc": 0.973625,
+      "source_page": "page-036",
+      "source_image": "sources/pages/page-036.png"
+    },
+    "images/02-dijatonika-a/primjer-2-7.png": {
+      "pdf_page": 8,
+      "printed_pages": [
+        14
+      ],
+      "rect": [
+        240,
+        104,
+        1690,
+        494
+      ],
+      "match_ncc": 0.950783,
+      "source_page": "page-014",
+      "source_image": "sources/pages/page-014.png"
+    },
+    "images/02-dijatonika-a/primjer-2-70.png": {
+      "pdf_page": 19,
+      "printed_pages": [
+        37
+      ],
+      "rect": [
+        215,
+        980,
+        1815,
+        1480
+      ],
+      "match_ncc": 0.960112,
+      "source_page": "page-037",
+      "source_image": "sources/pages/page-037.png"
+    },
+    "images/02-dijatonika-a/primjer-2-71.png": {
+      "pdf_page": 19,
+      "printed_pages": [
+        37
+      ],
+      "rect": [
+        215,
+        1880,
+        1865,
+        2380
+      ],
+      "match_ncc": 0.862439,
+      "source_page": "page-037",
+      "source_image": "sources/pages/page-037.png"
+    },
+    "images/02-dijatonika-a/primjer-2-8.png": {
+      "pdf_page": 8,
+      "printed_pages": [
+        14
+      ],
+      "rect": [
+        180,
+        712,
+        1680,
+        1162
+      ],
+      "match_ncc": 0.906,
+      "source_page": "page-014",
+      "source_image": "sources/pages/page-014.png"
+    },
+    "images/02-dijatonika-a/primjer-2-9.png": {
+      "pdf_page": 8,
+      "printed_pages": [
+        14
+      ],
+      "rect": [
+        132,
+        2188,
+        1782,
+        2428
+      ],
+      "match_ncc": 0.932643,
+      "source_page": "page-014",
+      "source_image": "sources/pages/page-014.png"
+    }
+  },
+  "coordinate_system": "Local 300 dpi source-page coordinates, except explicitly marked seam-crossing entries."
+}

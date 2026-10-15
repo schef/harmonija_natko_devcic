@@ -1,0 +1,7012 @@
+{
+  "version": 1,
+  "source_pdf": "pdfcoffee.com_natko-devi-harmonija-pdf-free.pdf",
+  "dpi": 300,
+  "warning": "Each PNG is a direct, lossless half of the 300 dpi rendered PDF spread. No resampling, deskewing, cleaning, or artificial border has been applied.",
+  "pages": [
+    {
+      "source_page": "front-001",
+      "printed_page": null,
+      "pdf_page": 1,
+      "side": "left",
+      "image": "sources/pages/front-001.png",
+      "spread_rect": [
+        0,
+        0,
+        1888,
+        2604
+      ],
+      "size": [
+        1888,
+        2604
+      ]
+    },
+    {
+      "source_page": "page-001",
+      "printed_page": 1,
+      "pdf_page": 1,
+      "side": "right",
+      "image": "sources/pages/page-001.png",
+      "spread_rect": [
+        1888,
+        0,
+        3776,
+        2604
+      ],
+      "size": [
+        1888,
+        2604
+      ]
+    },
+    {
+      "source_page": "page-002",
+      "printed_page": 2,
+      "pdf_page": 2,
+      "side": "left",
+      "image": "sources/pages/page-002.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-003",
+      "printed_page": 3,
+      "pdf_page": 2,
+      "side": "right",
+      "image": "sources/pages/page-003.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-004",
+      "printed_page": 4,
+      "pdf_page": 3,
+      "side": "left",
+      "image": "sources/pages/page-004.png",
+      "spread_rect": [
+        0,
+        0,
+        1885,
+        2598
+      ],
+      "size": [
+        1885,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-005",
+      "printed_page": 5,
+      "pdf_page": 3,
+      "side": "right",
+      "image": "sources/pages/page-005.png",
+      "spread_rect": [
+        1885,
+        0,
+        3771,
+        2598
+      ],
+      "size": [
+        1886,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-006",
+      "printed_page": 6,
+      "pdf_page": 4,
+      "side": "left",
+      "image": "sources/pages/page-006.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-007",
+      "printed_page": 7,
+      "pdf_page": 4,
+      "side": "right",
+      "image": "sources/pages/page-007.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-008",
+      "printed_page": 8,
+      "pdf_page": 5,
+      "side": "left",
+      "image": "sources/pages/page-008.png",
+      "spread_rect": [
+        0,
+        0,
+        1888,
+        2604
+      ],
+      "size": [
+        1888,
+        2604
+      ]
+    },
+    {
+      "source_page": "page-009",
+      "printed_page": 9,
+      "pdf_page": 5,
+      "side": "right",
+      "image": "sources/pages/page-009.png",
+      "spread_rect": [
+        1888,
+        0,
+        3776,
+        2604
+      ],
+      "size": [
+        1888,
+        2604
+      ]
+    },
+    {
+      "source_page": "page-010",
+      "printed_page": 10,
+      "pdf_page": 6,
+      "side": "left",
+      "image": "sources/pages/page-010.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-011",
+      "printed_page": 11,
+      "pdf_page": 6,
+      "side": "right",
+      "image": "sources/pages/page-011.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-012",
+      "printed_page": 12,
+      "pdf_page": 7,
+      "side": "left",
+      "image": "sources/pages/page-012.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-013",
+      "printed_page": 13,
+      "pdf_page": 7,
+      "side": "right",
+      "image": "sources/pages/page-013.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-014",
+      "printed_page": 14,
+      "pdf_page": 8,
+      "side": "left",
+      "image": "sources/pages/page-014.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-015",
+      "printed_page": 15,
+      "pdf_page": 8,
+      "side": "right",
+      "image": "sources/pages/page-015.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-016",
+      "printed_page": 16,
+      "pdf_page": 9,
+      "side": "left",
+      "image": "sources/pages/page-016.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-017",
+      "printed_page": 17,
+      "pdf_page": 9,
+      "side": "right",
+      "image": "sources/pages/page-017.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-018",
+      "printed_page": 18,
+      "pdf_page": 10,
+      "side": "left",
+      "image": "sources/pages/page-018.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-019",
+      "printed_page": 19,
+      "pdf_page": 10,
+      "side": "right",
+      "image": "sources/pages/page-019.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-020",
+      "printed_page": 20,
+      "pdf_page": 11,
+      "side": "left",
+      "image": "sources/pages/page-020.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-021",
+      "printed_page": 21,
+      "pdf_page": 11,
+      "side": "right",
+      "image": "sources/pages/page-021.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-022",
+      "printed_page": 22,
+      "pdf_page": 12,
+      "side": "left",
+      "image": "sources/pages/page-022.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-023",
+      "printed_page": 23,
+      "pdf_page": 12,
+      "side": "right",
+      "image": "sources/pages/page-023.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-024",
+      "printed_page": 24,
+      "pdf_page": 13,
+      "side": "left",
+      "image": "sources/pages/page-024.png",
+      "spread_rect": [
+        0,
+        0,
+        1900,
+        2641
+      ],
+      "size": [
+        1900,
+        2641
+      ]
+    },
+    {
+      "source_page": "page-025",
+      "printed_page": 25,
+      "pdf_page": 13,
+      "side": "right",
+      "image": "sources/pages/page-025.png",
+      "spread_rect": [
+        1900,
+        0,
+        3801,
+        2641
+      ],
+      "size": [
+        1901,
+        2641
+      ]
+    },
+    {
+      "source_page": "page-026",
+      "printed_page": 26,
+      "pdf_page": 14,
+      "side": "left",
+      "image": "sources/pages/page-026.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-027",
+      "printed_page": 27,
+      "pdf_page": 14,
+      "side": "right",
+      "image": "sources/pages/page-027.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-028",
+      "printed_page": 28,
+      "pdf_page": 15,
+      "side": "left",
+      "image": "sources/pages/page-028.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-029",
+      "printed_page": 29,
+      "pdf_page": 15,
+      "side": "right",
+      "image": "sources/pages/page-029.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-030",
+      "printed_page": 30,
+      "pdf_page": 16,
+      "side": "left",
+      "image": "sources/pages/page-030.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-031",
+      "printed_page": 31,
+      "pdf_page": 16,
+      "side": "right",
+      "image": "sources/pages/page-031.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-032",
+      "printed_page": 32,
+      "pdf_page": 17,
+      "side": "left",
+      "image": "sources/pages/page-032.png",
+      "spread_rect": [
+        0,
+        0,
+        1898,
+        2634
+      ],
+      "size": [
+        1898,
+        2634
+      ]
+    },
+    {
+      "source_page": "page-033",
+      "printed_page": 33,
+      "pdf_page": 17,
+      "side": "right",
+      "image": "sources/pages/page-033.png",
+      "spread_rect": [
+        1898,
+        0,
+        3796,
+        2634
+      ],
+      "size": [
+        1898,
+        2634
+      ]
+    },
+    {
+      "source_page": "page-034",
+      "printed_page": 34,
+      "pdf_page": 18,
+      "side": "left",
+      "image": "sources/pages/page-034.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-035",
+      "printed_page": 35,
+      "pdf_page": 18,
+      "side": "right",
+      "image": "sources/pages/page-035.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-036",
+      "printed_page": 36,
+      "pdf_page": 19,
+      "side": "left",
+      "image": "sources/pages/page-036.png",
+      "spread_rect": [
+        0,
+        0,
+        1885,
+        2598
+      ],
+      "size": [
+        1885,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-037",
+      "printed_page": 37,
+      "pdf_page": 19,
+      "side": "right",
+      "image": "sources/pages/page-037.png",
+      "spread_rect": [
+        1885,
+        0,
+        3771,
+        2598
+      ],
+      "size": [
+        1886,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-038",
+      "printed_page": 38,
+      "pdf_page": 20,
+      "side": "left",
+      "image": "sources/pages/page-038.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-039",
+      "printed_page": 39,
+      "pdf_page": 20,
+      "side": "right",
+      "image": "sources/pages/page-039.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-040",
+      "printed_page": 40,
+      "pdf_page": 21,
+      "side": "left",
+      "image": "sources/pages/page-040.png",
+      "spread_rect": [
+        0,
+        0,
+        1888,
+        2604
+      ],
+      "size": [
+        1888,
+        2604
+      ]
+    },
+    {
+      "source_page": "page-041",
+      "printed_page": 41,
+      "pdf_page": 21,
+      "side": "right",
+      "image": "sources/pages/page-041.png",
+      "spread_rect": [
+        1888,
+        0,
+        3776,
+        2604
+      ],
+      "size": [
+        1888,
+        2604
+      ]
+    },
+    {
+      "source_page": "page-042",
+      "printed_page": 42,
+      "pdf_page": 22,
+      "side": "left",
+      "image": "sources/pages/page-042.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-043",
+      "printed_page": 43,
+      "pdf_page": 22,
+      "side": "right",
+      "image": "sources/pages/page-043.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-044",
+      "printed_page": 44,
+      "pdf_page": 23,
+      "side": "left",
+      "image": "sources/pages/page-044.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-045",
+      "printed_page": 45,
+      "pdf_page": 23,
+      "side": "right",
+      "image": "sources/pages/page-045.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-046",
+      "printed_page": 46,
+      "pdf_page": 24,
+      "side": "left",
+      "image": "sources/pages/page-046.png",
+      "spread_rect": [
+        0,
+        0,
+        1885,
+        2598
+      ],
+      "size": [
+        1885,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-047",
+      "printed_page": 47,
+      "pdf_page": 24,
+      "side": "right",
+      "image": "sources/pages/page-047.png",
+      "spread_rect": [
+        1885,
+        0,
+        3771,
+        2598
+      ],
+      "size": [
+        1886,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-048",
+      "printed_page": 48,
+      "pdf_page": 25,
+      "side": "left",
+      "image": "sources/pages/page-048.png",
+      "spread_rect": [
+        0,
+        0,
+        1885,
+        2598
+      ],
+      "size": [
+        1885,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-049",
+      "printed_page": 49,
+      "pdf_page": 25,
+      "side": "right",
+      "image": "sources/pages/page-049.png",
+      "spread_rect": [
+        1885,
+        0,
+        3771,
+        2598
+      ],
+      "size": [
+        1886,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-050",
+      "printed_page": 50,
+      "pdf_page": 26,
+      "side": "left",
+      "image": "sources/pages/page-050.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-051",
+      "printed_page": 51,
+      "pdf_page": 26,
+      "side": "right",
+      "image": "sources/pages/page-051.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-052",
+      "printed_page": 52,
+      "pdf_page": 27,
+      "side": "left",
+      "image": "sources/pages/page-052.png",
+      "spread_rect": [
+        0,
+        0,
+        1885,
+        2598
+      ],
+      "size": [
+        1885,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-053",
+      "printed_page": 53,
+      "pdf_page": 27,
+      "side": "right",
+      "image": "sources/pages/page-053.png",
+      "spread_rect": [
+        1885,
+        0,
+        3771,
+        2598
+      ],
+      "size": [
+        1886,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-054",
+      "printed_page": 54,
+      "pdf_page": 28,
+      "side": "left",
+      "image": "sources/pages/page-054.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-055",
+      "printed_page": 55,
+      "pdf_page": 28,
+      "side": "right",
+      "image": "sources/pages/page-055.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-056",
+      "printed_page": 56,
+      "pdf_page": 29,
+      "side": "left",
+      "image": "sources/pages/page-056.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-057",
+      "printed_page": 57,
+      "pdf_page": 29,
+      "side": "right",
+      "image": "sources/pages/page-057.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-058",
+      "printed_page": 58,
+      "pdf_page": 30,
+      "side": "left",
+      "image": "sources/pages/page-058.png",
+      "spread_rect": [
+        0,
+        0,
+        1885,
+        2598
+      ],
+      "size": [
+        1885,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-059",
+      "printed_page": 59,
+      "pdf_page": 30,
+      "side": "right",
+      "image": "sources/pages/page-059.png",
+      "spread_rect": [
+        1885,
+        0,
+        3771,
+        2598
+      ],
+      "size": [
+        1886,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-060",
+      "printed_page": 60,
+      "pdf_page": 31,
+      "side": "left",
+      "image": "sources/pages/page-060.png",
+      "spread_rect": [
+        0,
+        0,
+        1888,
+        2604
+      ],
+      "size": [
+        1888,
+        2604
+      ]
+    },
+    {
+      "source_page": "page-061",
+      "printed_page": 61,
+      "pdf_page": 31,
+      "side": "right",
+      "image": "sources/pages/page-061.png",
+      "spread_rect": [
+        1888,
+        0,
+        3776,
+        2604
+      ],
+      "size": [
+        1888,
+        2604
+      ]
+    },
+    {
+      "source_page": "page-062",
+      "printed_page": 62,
+      "pdf_page": 32,
+      "side": "left",
+      "image": "sources/pages/page-062.png",
+      "spread_rect": [
+        0,
+        0,
+        1888,
+        2604
+      ],
+      "size": [
+        1888,
+        2604
+      ]
+    },
+    {
+      "source_page": "page-063",
+      "printed_page": 63,
+      "pdf_page": 32,
+      "side": "right",
+      "image": "sources/pages/page-063.png",
+      "spread_rect": [
+        1888,
+        0,
+        3776,
+        2604
+      ],
+      "size": [
+        1888,
+        2604
+      ]
+    },
+    {
+      "source_page": "page-064",
+      "printed_page": 64,
+      "pdf_page": 33,
+      "side": "left",
+      "image": "sources/pages/page-064.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-065",
+      "printed_page": 65,
+      "pdf_page": 33,
+      "side": "right",
+      "image": "sources/pages/page-065.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-066",
+      "printed_page": 66,
+      "pdf_page": 34,
+      "side": "left",
+      "image": "sources/pages/page-066.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-067",
+      "printed_page": 67,
+      "pdf_page": 34,
+      "side": "right",
+      "image": "sources/pages/page-067.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-068",
+      "printed_page": 68,
+      "pdf_page": 35,
+      "side": "left",
+      "image": "sources/pages/page-068.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-069",
+      "printed_page": 69,
+      "pdf_page": 35,
+      "side": "right",
+      "image": "sources/pages/page-069.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-070",
+      "printed_page": 70,
+      "pdf_page": 36,
+      "side": "left",
+      "image": "sources/pages/page-070.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-071",
+      "printed_page": 71,
+      "pdf_page": 36,
+      "side": "right",
+      "image": "sources/pages/page-071.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-072",
+      "printed_page": 72,
+      "pdf_page": 37,
+      "side": "left",
+      "image": "sources/pages/page-072.png",
+      "spread_rect": [
+        0,
+        0,
+        1888,
+        2604
+      ],
+      "size": [
+        1888,
+        2604
+      ]
+    },
+    {
+      "source_page": "page-073",
+      "printed_page": 73,
+      "pdf_page": 37,
+      "side": "right",
+      "image": "sources/pages/page-073.png",
+      "spread_rect": [
+        1888,
+        0,
+        3776,
+        2604
+      ],
+      "size": [
+        1888,
+        2604
+      ]
+    },
+    {
+      "source_page": "page-074",
+      "printed_page": 74,
+      "pdf_page": 38,
+      "side": "left",
+      "image": "sources/pages/page-074.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-075",
+      "printed_page": 75,
+      "pdf_page": 38,
+      "side": "right",
+      "image": "sources/pages/page-075.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-076",
+      "printed_page": 76,
+      "pdf_page": 39,
+      "side": "left",
+      "image": "sources/pages/page-076.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-077",
+      "printed_page": 77,
+      "pdf_page": 39,
+      "side": "right",
+      "image": "sources/pages/page-077.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-078",
+      "printed_page": 78,
+      "pdf_page": 40,
+      "side": "left",
+      "image": "sources/pages/page-078.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-079",
+      "printed_page": 79,
+      "pdf_page": 40,
+      "side": "right",
+      "image": "sources/pages/page-079.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-080",
+      "printed_page": 80,
+      "pdf_page": 41,
+      "side": "left",
+      "image": "sources/pages/page-080.png",
+      "spread_rect": [
+        0,
+        0,
+        1885,
+        2598
+      ],
+      "size": [
+        1885,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-081",
+      "printed_page": 81,
+      "pdf_page": 41,
+      "side": "right",
+      "image": "sources/pages/page-081.png",
+      "spread_rect": [
+        1885,
+        0,
+        3771,
+        2598
+      ],
+      "size": [
+        1886,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-082",
+      "printed_page": 82,
+      "pdf_page": 42,
+      "side": "left",
+      "image": "sources/pages/page-082.png",
+      "spread_rect": [
+        0,
+        0,
+        1888,
+        2604
+      ],
+      "size": [
+        1888,
+        2604
+      ]
+    },
+    {
+      "source_page": "page-083",
+      "printed_page": 83,
+      "pdf_page": 42,
+      "side": "right",
+      "image": "sources/pages/page-083.png",
+      "spread_rect": [
+        1888,
+        0,
+        3776,
+        2604
+      ],
+      "size": [
+        1888,
+        2604
+      ]
+    },
+    {
+      "source_page": "page-084",
+      "printed_page": 84,
+      "pdf_page": 43,
+      "side": "left",
+      "image": "sources/pages/page-084.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-085",
+      "printed_page": 85,
+      "pdf_page": 43,
+      "side": "right",
+      "image": "sources/pages/page-085.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-086",
+      "printed_page": 86,
+      "pdf_page": 44,
+      "side": "left",
+      "image": "sources/pages/page-086.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-087",
+      "printed_page": 87,
+      "pdf_page": 44,
+      "side": "right",
+      "image": "sources/pages/page-087.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-088",
+      "printed_page": 88,
+      "pdf_page": 45,
+      "side": "left",
+      "image": "sources/pages/page-088.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-089",
+      "printed_page": 89,
+      "pdf_page": 45,
+      "side": "right",
+      "image": "sources/pages/page-089.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-090",
+      "printed_page": 90,
+      "pdf_page": 46,
+      "side": "left",
+      "image": "sources/pages/page-090.png",
+      "spread_rect": [
+        0,
+        0,
+        1885,
+        2598
+      ],
+      "size": [
+        1885,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-091",
+      "printed_page": 91,
+      "pdf_page": 46,
+      "side": "right",
+      "image": "sources/pages/page-091.png",
+      "spread_rect": [
+        1885,
+        0,
+        3771,
+        2598
+      ],
+      "size": [
+        1886,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-092",
+      "printed_page": 92,
+      "pdf_page": 47,
+      "side": "left",
+      "image": "sources/pages/page-092.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-093",
+      "printed_page": 93,
+      "pdf_page": 47,
+      "side": "right",
+      "image": "sources/pages/page-093.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-094",
+      "printed_page": 94,
+      "pdf_page": 48,
+      "side": "left",
+      "image": "sources/pages/page-094.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-095",
+      "printed_page": 95,
+      "pdf_page": 48,
+      "side": "right",
+      "image": "sources/pages/page-095.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-096",
+      "printed_page": 96,
+      "pdf_page": 49,
+      "side": "left",
+      "image": "sources/pages/page-096.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-097",
+      "printed_page": 97,
+      "pdf_page": 49,
+      "side": "right",
+      "image": "sources/pages/page-097.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-098",
+      "printed_page": 98,
+      "pdf_page": 50,
+      "side": "left",
+      "image": "sources/pages/page-098.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-099",
+      "printed_page": 99,
+      "pdf_page": 50,
+      "side": "right",
+      "image": "sources/pages/page-099.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-100",
+      "printed_page": 100,
+      "pdf_page": 51,
+      "side": "left",
+      "image": "sources/pages/page-100.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-101",
+      "printed_page": 101,
+      "pdf_page": 51,
+      "side": "right",
+      "image": "sources/pages/page-101.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-102",
+      "printed_page": 102,
+      "pdf_page": 52,
+      "side": "left",
+      "image": "sources/pages/page-102.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-103",
+      "printed_page": 103,
+      "pdf_page": 52,
+      "side": "right",
+      "image": "sources/pages/page-103.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-104",
+      "printed_page": 104,
+      "pdf_page": 53,
+      "side": "left",
+      "image": "sources/pages/page-104.png",
+      "spread_rect": [
+        0,
+        0,
+        1885,
+        2598
+      ],
+      "size": [
+        1885,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-105",
+      "printed_page": 105,
+      "pdf_page": 53,
+      "side": "right",
+      "image": "sources/pages/page-105.png",
+      "spread_rect": [
+        1885,
+        0,
+        3771,
+        2598
+      ],
+      "size": [
+        1886,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-106",
+      "printed_page": 106,
+      "pdf_page": 54,
+      "side": "left",
+      "image": "sources/pages/page-106.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-107",
+      "printed_page": 107,
+      "pdf_page": 54,
+      "side": "right",
+      "image": "sources/pages/page-107.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-108",
+      "printed_page": 108,
+      "pdf_page": 55,
+      "side": "left",
+      "image": "sources/pages/page-108.png",
+      "spread_rect": [
+        0,
+        0,
+        1885,
+        2598
+      ],
+      "size": [
+        1885,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-109",
+      "printed_page": 109,
+      "pdf_page": 55,
+      "side": "right",
+      "image": "sources/pages/page-109.png",
+      "spread_rect": [
+        1885,
+        0,
+        3771,
+        2598
+      ],
+      "size": [
+        1886,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-110",
+      "printed_page": 110,
+      "pdf_page": 56,
+      "side": "left",
+      "image": "sources/pages/page-110.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-111",
+      "printed_page": 111,
+      "pdf_page": 56,
+      "side": "right",
+      "image": "sources/pages/page-111.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-112",
+      "printed_page": 112,
+      "pdf_page": 57,
+      "side": "left",
+      "image": "sources/pages/page-112.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-113",
+      "printed_page": 113,
+      "pdf_page": 57,
+      "side": "right",
+      "image": "sources/pages/page-113.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-114",
+      "printed_page": 114,
+      "pdf_page": 58,
+      "side": "left",
+      "image": "sources/pages/page-114.png",
+      "spread_rect": [
+        0,
+        0,
+        1890,
+        2612
+      ],
+      "size": [
+        1890,
+        2612
+      ]
+    },
+    {
+      "source_page": "page-115",
+      "printed_page": 115,
+      "pdf_page": 58,
+      "side": "right",
+      "image": "sources/pages/page-115.png",
+      "spread_rect": [
+        1890,
+        0,
+        3781,
+        2612
+      ],
+      "size": [
+        1891,
+        2612
+      ]
+    },
+    {
+      "source_page": "page-116",
+      "printed_page": 116,
+      "pdf_page": 59,
+      "side": "left",
+      "image": "sources/pages/page-116.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-117",
+      "printed_page": 117,
+      "pdf_page": 59,
+      "side": "right",
+      "image": "sources/pages/page-117.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-118",
+      "printed_page": 118,
+      "pdf_page": 60,
+      "side": "left",
+      "image": "sources/pages/page-118.png",
+      "spread_rect": [
+        0,
+        0,
+        1895,
+        2627
+      ],
+      "size": [
+        1895,
+        2627
+      ]
+    },
+    {
+      "source_page": "page-119",
+      "printed_page": 119,
+      "pdf_page": 60,
+      "side": "right",
+      "image": "sources/pages/page-119.png",
+      "spread_rect": [
+        1895,
+        0,
+        3791,
+        2627
+      ],
+      "size": [
+        1896,
+        2627
+      ]
+    },
+    {
+      "source_page": "page-120",
+      "printed_page": 120,
+      "pdf_page": 61,
+      "side": "left",
+      "image": "sources/pages/page-120.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-121",
+      "printed_page": 121,
+      "pdf_page": 61,
+      "side": "right",
+      "image": "sources/pages/page-121.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-122",
+      "printed_page": 122,
+      "pdf_page": 62,
+      "side": "left",
+      "image": "sources/pages/page-122.png",
+      "spread_rect": [
+        0,
+        0,
+        1885,
+        2598
+      ],
+      "size": [
+        1885,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-123",
+      "printed_page": 123,
+      "pdf_page": 62,
+      "side": "right",
+      "image": "sources/pages/page-123.png",
+      "spread_rect": [
+        1885,
+        0,
+        3771,
+        2598
+      ],
+      "size": [
+        1886,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-124",
+      "printed_page": 124,
+      "pdf_page": 63,
+      "side": "left",
+      "image": "sources/pages/page-124.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-125",
+      "printed_page": 125,
+      "pdf_page": 63,
+      "side": "right",
+      "image": "sources/pages/page-125.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-126",
+      "printed_page": 126,
+      "pdf_page": 64,
+      "side": "left",
+      "image": "sources/pages/page-126.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-127",
+      "printed_page": 127,
+      "pdf_page": 64,
+      "side": "right",
+      "image": "sources/pages/page-127.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-128",
+      "printed_page": 128,
+      "pdf_page": 65,
+      "side": "left",
+      "image": "sources/pages/page-128.png",
+      "spread_rect": [
+        0,
+        0,
+        1890,
+        2612
+      ],
+      "size": [
+        1890,
+        2612
+      ]
+    },
+    {
+      "source_page": "page-129",
+      "printed_page": 129,
+      "pdf_page": 65,
+      "side": "right",
+      "image": "sources/pages/page-129.png",
+      "spread_rect": [
+        1890,
+        0,
+        3781,
+        2612
+      ],
+      "size": [
+        1891,
+        2612
+      ]
+    },
+    {
+      "source_page": "page-130",
+      "printed_page": 130,
+      "pdf_page": 66,
+      "side": "left",
+      "image": "sources/pages/page-130.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-131",
+      "printed_page": 131,
+      "pdf_page": 66,
+      "side": "right",
+      "image": "sources/pages/page-131.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-132",
+      "printed_page": 132,
+      "pdf_page": 67,
+      "side": "left",
+      "image": "sources/pages/page-132.png",
+      "spread_rect": [
+        0,
+        0,
+        1885,
+        2598
+      ],
+      "size": [
+        1885,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-133",
+      "printed_page": 133,
+      "pdf_page": 67,
+      "side": "right",
+      "image": "sources/pages/page-133.png",
+      "spread_rect": [
+        1885,
+        0,
+        3771,
+        2598
+      ],
+      "size": [
+        1886,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-134",
+      "printed_page": 134,
+      "pdf_page": 68,
+      "side": "left",
+      "image": "sources/pages/page-134.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-135",
+      "printed_page": 135,
+      "pdf_page": 68,
+      "side": "right",
+      "image": "sources/pages/page-135.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-136",
+      "printed_page": 136,
+      "pdf_page": 69,
+      "side": "left",
+      "image": "sources/pages/page-136.png",
+      "spread_rect": [
+        0,
+        0,
+        1885,
+        2598
+      ],
+      "size": [
+        1885,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-137",
+      "printed_page": 137,
+      "pdf_page": 69,
+      "side": "right",
+      "image": "sources/pages/page-137.png",
+      "spread_rect": [
+        1885,
+        0,
+        3771,
+        2598
+      ],
+      "size": [
+        1886,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-138",
+      "printed_page": 138,
+      "pdf_page": 70,
+      "side": "left",
+      "image": "sources/pages/page-138.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-139",
+      "printed_page": 139,
+      "pdf_page": 70,
+      "side": "right",
+      "image": "sources/pages/page-139.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-140",
+      "printed_page": 140,
+      "pdf_page": 71,
+      "side": "left",
+      "image": "sources/pages/page-140.png",
+      "spread_rect": [
+        0,
+        0,
+        1885,
+        2598
+      ],
+      "size": [
+        1885,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-141",
+      "printed_page": 141,
+      "pdf_page": 71,
+      "side": "right",
+      "image": "sources/pages/page-141.png",
+      "spread_rect": [
+        1885,
+        0,
+        3771,
+        2598
+      ],
+      "size": [
+        1886,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-142",
+      "printed_page": 142,
+      "pdf_page": 72,
+      "side": "left",
+      "image": "sources/pages/page-142.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-143",
+      "printed_page": 143,
+      "pdf_page": 72,
+      "side": "right",
+      "image": "sources/pages/page-143.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-144",
+      "printed_page": 144,
+      "pdf_page": 73,
+      "side": "left",
+      "image": "sources/pages/page-144.png",
+      "spread_rect": [
+        0,
+        0,
+        1885,
+        2598
+      ],
+      "size": [
+        1885,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-145",
+      "printed_page": 145,
+      "pdf_page": 73,
+      "side": "right",
+      "image": "sources/pages/page-145.png",
+      "spread_rect": [
+        1885,
+        0,
+        3771,
+        2598
+      ],
+      "size": [
+        1886,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-146",
+      "printed_page": 146,
+      "pdf_page": 74,
+      "side": "left",
+      "image": "sources/pages/page-146.png",
+      "spread_rect": [
+        0,
+        0,
+        1885,
+        2598
+      ],
+      "size": [
+        1885,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-147",
+      "printed_page": 147,
+      "pdf_page": 74,
+      "side": "right",
+      "image": "sources/pages/page-147.png",
+      "spread_rect": [
+        1885,
+        0,
+        3771,
+        2598
+      ],
+      "size": [
+        1886,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-148",
+      "printed_page": 148,
+      "pdf_page": 75,
+      "side": "left",
+      "image": "sources/pages/page-148.png",
+      "spread_rect": [
+        0,
+        0,
+        1885,
+        2598
+      ],
+      "size": [
+        1885,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-149",
+      "printed_page": 149,
+      "pdf_page": 75,
+      "side": "right",
+      "image": "sources/pages/page-149.png",
+      "spread_rect": [
+        1885,
+        0,
+        3771,
+        2598
+      ],
+      "size": [
+        1886,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-150",
+      "printed_page": 150,
+      "pdf_page": 76,
+      "side": "left",
+      "image": "sources/pages/page-150.png",
+      "spread_rect": [
+        0,
+        0,
+        1893,
+        2619
+      ],
+      "size": [
+        1893,
+        2619
+      ]
+    },
+    {
+      "source_page": "page-151",
+      "printed_page": 151,
+      "pdf_page": 76,
+      "side": "right",
+      "image": "sources/pages/page-151.png",
+      "spread_rect": [
+        1893,
+        0,
+        3786,
+        2619
+      ],
+      "size": [
+        1893,
+        2619
+      ]
+    },
+    {
+      "source_page": "page-152",
+      "printed_page": 152,
+      "pdf_page": 77,
+      "side": "left",
+      "image": "sources/pages/page-152.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-153",
+      "printed_page": 153,
+      "pdf_page": 77,
+      "side": "right",
+      "image": "sources/pages/page-153.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-154",
+      "printed_page": 154,
+      "pdf_page": 78,
+      "side": "left",
+      "image": "sources/pages/page-154.png",
+      "spread_rect": [
+        0,
+        0,
+        1903,
+        2649
+      ],
+      "size": [
+        1903,
+        2649
+      ]
+    },
+    {
+      "source_page": "page-155",
+      "printed_page": 155,
+      "pdf_page": 78,
+      "side": "right",
+      "image": "sources/pages/page-155.png",
+      "spread_rect": [
+        1903,
+        0,
+        3806,
+        2649
+      ],
+      "size": [
+        1903,
+        2649
+      ]
+    },
+    {
+      "source_page": "page-156",
+      "printed_page": 156,
+      "pdf_page": 79,
+      "side": "left",
+      "image": "sources/pages/page-156.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-157",
+      "printed_page": 157,
+      "pdf_page": 79,
+      "side": "right",
+      "image": "sources/pages/page-157.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-158",
+      "printed_page": 158,
+      "pdf_page": 80,
+      "side": "left",
+      "image": "sources/pages/page-158.png",
+      "spread_rect": [
+        0,
+        0,
+        1885,
+        2598
+      ],
+      "size": [
+        1885,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-159",
+      "printed_page": 159,
+      "pdf_page": 80,
+      "side": "right",
+      "image": "sources/pages/page-159.png",
+      "spread_rect": [
+        1885,
+        0,
+        3771,
+        2598
+      ],
+      "size": [
+        1886,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-160",
+      "printed_page": 160,
+      "pdf_page": 81,
+      "side": "left",
+      "image": "sources/pages/page-160.png",
+      "spread_rect": [
+        0,
+        0,
+        1885,
+        2598
+      ],
+      "size": [
+        1885,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-161",
+      "printed_page": 161,
+      "pdf_page": 81,
+      "side": "right",
+      "image": "sources/pages/page-161.png",
+      "spread_rect": [
+        1885,
+        0,
+        3771,
+        2598
+      ],
+      "size": [
+        1886,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-162",
+      "printed_page": 162,
+      "pdf_page": 82,
+      "side": "left",
+      "image": "sources/pages/page-162.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-163",
+      "printed_page": 163,
+      "pdf_page": 82,
+      "side": "right",
+      "image": "sources/pages/page-163.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-164",
+      "printed_page": 164,
+      "pdf_page": 83,
+      "side": "left",
+      "image": "sources/pages/page-164.png",
+      "spread_rect": [
+        0,
+        0,
+        1885,
+        2598
+      ],
+      "size": [
+        1885,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-165",
+      "printed_page": 165,
+      "pdf_page": 83,
+      "side": "right",
+      "image": "sources/pages/page-165.png",
+      "spread_rect": [
+        1885,
+        0,
+        3771,
+        2598
+      ],
+      "size": [
+        1886,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-166",
+      "printed_page": 166,
+      "pdf_page": 84,
+      "side": "left",
+      "image": "sources/pages/page-166.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-167",
+      "printed_page": 167,
+      "pdf_page": 84,
+      "side": "right",
+      "image": "sources/pages/page-167.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-168",
+      "printed_page": 168,
+      "pdf_page": 85,
+      "side": "left",
+      "image": "sources/pages/page-168.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-169",
+      "printed_page": 169,
+      "pdf_page": 85,
+      "side": "right",
+      "image": "sources/pages/page-169.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-170",
+      "printed_page": 170,
+      "pdf_page": 86,
+      "side": "left",
+      "image": "sources/pages/page-170.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-171",
+      "printed_page": 171,
+      "pdf_page": 86,
+      "side": "right",
+      "image": "sources/pages/page-171.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-172",
+      "printed_page": 172,
+      "pdf_page": 87,
+      "side": "left",
+      "image": "sources/pages/page-172.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-173",
+      "printed_page": 173,
+      "pdf_page": 87,
+      "side": "right",
+      "image": "sources/pages/page-173.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-174",
+      "printed_page": 174,
+      "pdf_page": 88,
+      "side": "left",
+      "image": "sources/pages/page-174.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-175",
+      "printed_page": 175,
+      "pdf_page": 88,
+      "side": "right",
+      "image": "sources/pages/page-175.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-176",
+      "printed_page": 176,
+      "pdf_page": 89,
+      "side": "left",
+      "image": "sources/pages/page-176.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-177",
+      "printed_page": 177,
+      "pdf_page": 89,
+      "side": "right",
+      "image": "sources/pages/page-177.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-178",
+      "printed_page": 178,
+      "pdf_page": 90,
+      "side": "left",
+      "image": "sources/pages/page-178.png",
+      "spread_rect": [
+        0,
+        0,
+        1885,
+        2598
+      ],
+      "size": [
+        1885,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-179",
+      "printed_page": 179,
+      "pdf_page": 90,
+      "side": "right",
+      "image": "sources/pages/page-179.png",
+      "spread_rect": [
+        1885,
+        0,
+        3771,
+        2598
+      ],
+      "size": [
+        1886,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-180",
+      "printed_page": 180,
+      "pdf_page": 91,
+      "side": "left",
+      "image": "sources/pages/page-180.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-181",
+      "printed_page": 181,
+      "pdf_page": 91,
+      "side": "right",
+      "image": "sources/pages/page-181.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-182",
+      "printed_page": 182,
+      "pdf_page": 92,
+      "side": "left",
+      "image": "sources/pages/page-182.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-183",
+      "printed_page": 183,
+      "pdf_page": 92,
+      "side": "right",
+      "image": "sources/pages/page-183.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-184",
+      "printed_page": 184,
+      "pdf_page": 93,
+      "side": "left",
+      "image": "sources/pages/page-184.png",
+      "spread_rect": [
+        0,
+        0,
+        1890,
+        2612
+      ],
+      "size": [
+        1890,
+        2612
+      ]
+    },
+    {
+      "source_page": "page-185",
+      "printed_page": 185,
+      "pdf_page": 93,
+      "side": "right",
+      "image": "sources/pages/page-185.png",
+      "spread_rect": [
+        1890,
+        0,
+        3781,
+        2612
+      ],
+      "size": [
+        1891,
+        2612
+      ]
+    },
+    {
+      "source_page": "page-186",
+      "printed_page": 186,
+      "pdf_page": 94,
+      "side": "left",
+      "image": "sources/pages/page-186.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-187",
+      "printed_page": 187,
+      "pdf_page": 94,
+      "side": "right",
+      "image": "sources/pages/page-187.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-188",
+      "printed_page": 188,
+      "pdf_page": 95,
+      "side": "left",
+      "image": "sources/pages/page-188.png",
+      "spread_rect": [
+        0,
+        0,
+        1890,
+        2612
+      ],
+      "size": [
+        1890,
+        2612
+      ]
+    },
+    {
+      "source_page": "page-189",
+      "printed_page": 189,
+      "pdf_page": 95,
+      "side": "right",
+      "image": "sources/pages/page-189.png",
+      "spread_rect": [
+        1890,
+        0,
+        3781,
+        2612
+      ],
+      "size": [
+        1891,
+        2612
+      ]
+    },
+    {
+      "source_page": "page-190",
+      "printed_page": 190,
+      "pdf_page": 96,
+      "side": "left",
+      "image": "sources/pages/page-190.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-191",
+      "printed_page": 191,
+      "pdf_page": 96,
+      "side": "right",
+      "image": "sources/pages/page-191.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-192",
+      "printed_page": 192,
+      "pdf_page": 97,
+      "side": "left",
+      "image": "sources/pages/page-192.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-193",
+      "printed_page": 193,
+      "pdf_page": 97,
+      "side": "right",
+      "image": "sources/pages/page-193.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-194",
+      "printed_page": 194,
+      "pdf_page": 98,
+      "side": "left",
+      "image": "sources/pages/page-194.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-195",
+      "printed_page": 195,
+      "pdf_page": 98,
+      "side": "right",
+      "image": "sources/pages/page-195.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-196",
+      "printed_page": 196,
+      "pdf_page": 99,
+      "side": "left",
+      "image": "sources/pages/page-196.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-197",
+      "printed_page": 197,
+      "pdf_page": 99,
+      "side": "right",
+      "image": "sources/pages/page-197.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-198",
+      "printed_page": 198,
+      "pdf_page": 100,
+      "side": "left",
+      "image": "sources/pages/page-198.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-199",
+      "printed_page": 199,
+      "pdf_page": 100,
+      "side": "right",
+      "image": "sources/pages/page-199.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-200",
+      "printed_page": 200,
+      "pdf_page": 101,
+      "side": "left",
+      "image": "sources/pages/page-200.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-201",
+      "printed_page": 201,
+      "pdf_page": 101,
+      "side": "right",
+      "image": "sources/pages/page-201.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-202",
+      "printed_page": 202,
+      "pdf_page": 102,
+      "side": "left",
+      "image": "sources/pages/page-202.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-203",
+      "printed_page": 203,
+      "pdf_page": 102,
+      "side": "right",
+      "image": "sources/pages/page-203.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-204",
+      "printed_page": 204,
+      "pdf_page": 103,
+      "side": "left",
+      "image": "sources/pages/page-204.png",
+      "spread_rect": [
+        0,
+        0,
+        1890,
+        2612
+      ],
+      "size": [
+        1890,
+        2612
+      ]
+    },
+    {
+      "source_page": "page-205",
+      "printed_page": 205,
+      "pdf_page": 103,
+      "side": "right",
+      "image": "sources/pages/page-205.png",
+      "spread_rect": [
+        1890,
+        0,
+        3781,
+        2612
+      ],
+      "size": [
+        1891,
+        2612
+      ]
+    },
+    {
+      "source_page": "page-206",
+      "printed_page": 206,
+      "pdf_page": 104,
+      "side": "left",
+      "image": "sources/pages/page-206.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-207",
+      "printed_page": 207,
+      "pdf_page": 104,
+      "side": "right",
+      "image": "sources/pages/page-207.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-208",
+      "printed_page": 208,
+      "pdf_page": 105,
+      "side": "left",
+      "image": "sources/pages/page-208.png",
+      "spread_rect": [
+        0,
+        0,
+        1890,
+        2612
+      ],
+      "size": [
+        1890,
+        2612
+      ]
+    },
+    {
+      "source_page": "page-209",
+      "printed_page": 209,
+      "pdf_page": 105,
+      "side": "right",
+      "image": "sources/pages/page-209.png",
+      "spread_rect": [
+        1890,
+        0,
+        3781,
+        2612
+      ],
+      "size": [
+        1891,
+        2612
+      ]
+    },
+    {
+      "source_page": "page-210",
+      "printed_page": 210,
+      "pdf_page": 106,
+      "side": "left",
+      "image": "sources/pages/page-210.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-211",
+      "printed_page": 211,
+      "pdf_page": 106,
+      "side": "right",
+      "image": "sources/pages/page-211.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-212",
+      "printed_page": 212,
+      "pdf_page": 107,
+      "side": "left",
+      "image": "sources/pages/page-212.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-213",
+      "printed_page": 213,
+      "pdf_page": 107,
+      "side": "right",
+      "image": "sources/pages/page-213.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-214",
+      "printed_page": 214,
+      "pdf_page": 108,
+      "side": "left",
+      "image": "sources/pages/page-214.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-215",
+      "printed_page": 215,
+      "pdf_page": 108,
+      "side": "right",
+      "image": "sources/pages/page-215.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-216",
+      "printed_page": 216,
+      "pdf_page": 109,
+      "side": "left",
+      "image": "sources/pages/page-216.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-217",
+      "printed_page": 217,
+      "pdf_page": 109,
+      "side": "right",
+      "image": "sources/pages/page-217.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-218",
+      "printed_page": 218,
+      "pdf_page": 110,
+      "side": "left",
+      "image": "sources/pages/page-218.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-219",
+      "printed_page": 219,
+      "pdf_page": 110,
+      "side": "right",
+      "image": "sources/pages/page-219.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-220",
+      "printed_page": 220,
+      "pdf_page": 111,
+      "side": "left",
+      "image": "sources/pages/page-220.png",
+      "spread_rect": [
+        0,
+        0,
+        1885,
+        2598
+      ],
+      "size": [
+        1885,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-221",
+      "printed_page": 221,
+      "pdf_page": 111,
+      "side": "right",
+      "image": "sources/pages/page-221.png",
+      "spread_rect": [
+        1885,
+        0,
+        3771,
+        2598
+      ],
+      "size": [
+        1886,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-222",
+      "printed_page": 222,
+      "pdf_page": 112,
+      "side": "left",
+      "image": "sources/pages/page-222.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-223",
+      "printed_page": 223,
+      "pdf_page": 112,
+      "side": "right",
+      "image": "sources/pages/page-223.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-224",
+      "printed_page": 224,
+      "pdf_page": 113,
+      "side": "left",
+      "image": "sources/pages/page-224.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-225",
+      "printed_page": 225,
+      "pdf_page": 113,
+      "side": "right",
+      "image": "sources/pages/page-225.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-226",
+      "printed_page": 226,
+      "pdf_page": 114,
+      "side": "left",
+      "image": "sources/pages/page-226.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-227",
+      "printed_page": 227,
+      "pdf_page": 114,
+      "side": "right",
+      "image": "sources/pages/page-227.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-228",
+      "printed_page": 228,
+      "pdf_page": 115,
+      "side": "left",
+      "image": "sources/pages/page-228.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-229",
+      "printed_page": 229,
+      "pdf_page": 115,
+      "side": "right",
+      "image": "sources/pages/page-229.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-230",
+      "printed_page": 230,
+      "pdf_page": 116,
+      "side": "left",
+      "image": "sources/pages/page-230.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-231",
+      "printed_page": 231,
+      "pdf_page": 116,
+      "side": "right",
+      "image": "sources/pages/page-231.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-232",
+      "printed_page": 232,
+      "pdf_page": 117,
+      "side": "left",
+      "image": "sources/pages/page-232.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-233",
+      "printed_page": 233,
+      "pdf_page": 117,
+      "side": "right",
+      "image": "sources/pages/page-233.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-234",
+      "printed_page": 234,
+      "pdf_page": 118,
+      "side": "left",
+      "image": "sources/pages/page-234.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-235",
+      "printed_page": 235,
+      "pdf_page": 118,
+      "side": "right",
+      "image": "sources/pages/page-235.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-236",
+      "printed_page": 236,
+      "pdf_page": 119,
+      "side": "left",
+      "image": "sources/pages/page-236.png",
+      "spread_rect": [
+        0,
+        0,
+        1888,
+        2604
+      ],
+      "size": [
+        1888,
+        2604
+      ]
+    },
+    {
+      "source_page": "page-237",
+      "printed_page": 237,
+      "pdf_page": 119,
+      "side": "right",
+      "image": "sources/pages/page-237.png",
+      "spread_rect": [
+        1888,
+        0,
+        3776,
+        2604
+      ],
+      "size": [
+        1888,
+        2604
+      ]
+    },
+    {
+      "source_page": "page-238",
+      "printed_page": 238,
+      "pdf_page": 120,
+      "side": "left",
+      "image": "sources/pages/page-238.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-239",
+      "printed_page": 239,
+      "pdf_page": 120,
+      "side": "right",
+      "image": "sources/pages/page-239.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-240",
+      "printed_page": 240,
+      "pdf_page": 121,
+      "side": "left",
+      "image": "sources/pages/page-240.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-241",
+      "printed_page": 241,
+      "pdf_page": 121,
+      "side": "right",
+      "image": "sources/pages/page-241.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-242",
+      "printed_page": 242,
+      "pdf_page": 122,
+      "side": "left",
+      "image": "sources/pages/page-242.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-243",
+      "printed_page": 243,
+      "pdf_page": 122,
+      "side": "right",
+      "image": "sources/pages/page-243.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-244",
+      "printed_page": 244,
+      "pdf_page": 123,
+      "side": "left",
+      "image": "sources/pages/page-244.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-245",
+      "printed_page": 245,
+      "pdf_page": 123,
+      "side": "right",
+      "image": "sources/pages/page-245.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-246",
+      "printed_page": 246,
+      "pdf_page": 124,
+      "side": "left",
+      "image": "sources/pages/page-246.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-247",
+      "printed_page": 247,
+      "pdf_page": 124,
+      "side": "right",
+      "image": "sources/pages/page-247.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-248",
+      "printed_page": 248,
+      "pdf_page": 125,
+      "side": "left",
+      "image": "sources/pages/page-248.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-249",
+      "printed_page": 249,
+      "pdf_page": 125,
+      "side": "right",
+      "image": "sources/pages/page-249.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-250",
+      "printed_page": 250,
+      "pdf_page": 126,
+      "side": "left",
+      "image": "sources/pages/page-250.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-251",
+      "printed_page": 251,
+      "pdf_page": 126,
+      "side": "right",
+      "image": "sources/pages/page-251.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-252",
+      "printed_page": 252,
+      "pdf_page": 127,
+      "side": "left",
+      "image": "sources/pages/page-252.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-253",
+      "printed_page": 253,
+      "pdf_page": 127,
+      "side": "right",
+      "image": "sources/pages/page-253.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-254",
+      "printed_page": 254,
+      "pdf_page": 128,
+      "side": "left",
+      "image": "sources/pages/page-254.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-255",
+      "printed_page": 255,
+      "pdf_page": 128,
+      "side": "right",
+      "image": "sources/pages/page-255.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-256",
+      "printed_page": 256,
+      "pdf_page": 129,
+      "side": "left",
+      "image": "sources/pages/page-256.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-257",
+      "printed_page": 257,
+      "pdf_page": 129,
+      "side": "right",
+      "image": "sources/pages/page-257.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-258",
+      "printed_page": 258,
+      "pdf_page": 130,
+      "side": "left",
+      "image": "sources/pages/page-258.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-259",
+      "printed_page": 259,
+      "pdf_page": 130,
+      "side": "right",
+      "image": "sources/pages/page-259.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-260",
+      "printed_page": 260,
+      "pdf_page": 131,
+      "side": "left",
+      "image": "sources/pages/page-260.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-261",
+      "printed_page": 261,
+      "pdf_page": 131,
+      "side": "right",
+      "image": "sources/pages/page-261.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-262",
+      "printed_page": 262,
+      "pdf_page": 132,
+      "side": "left",
+      "image": "sources/pages/page-262.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-263",
+      "printed_page": 263,
+      "pdf_page": 132,
+      "side": "right",
+      "image": "sources/pages/page-263.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-264",
+      "printed_page": 264,
+      "pdf_page": 133,
+      "side": "left",
+      "image": "sources/pages/page-264.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-265",
+      "printed_page": 265,
+      "pdf_page": 133,
+      "side": "right",
+      "image": "sources/pages/page-265.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-266",
+      "printed_page": 266,
+      "pdf_page": 134,
+      "side": "left",
+      "image": "sources/pages/page-266.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-267",
+      "printed_page": 267,
+      "pdf_page": 134,
+      "side": "right",
+      "image": "sources/pages/page-267.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-268",
+      "printed_page": 268,
+      "pdf_page": 135,
+      "side": "left",
+      "image": "sources/pages/page-268.png",
+      "spread_rect": [
+        0,
+        0,
+        1885,
+        2598
+      ],
+      "size": [
+        1885,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-269",
+      "printed_page": 269,
+      "pdf_page": 135,
+      "side": "right",
+      "image": "sources/pages/page-269.png",
+      "spread_rect": [
+        1885,
+        0,
+        3771,
+        2598
+      ],
+      "size": [
+        1886,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-270",
+      "printed_page": 270,
+      "pdf_page": 136,
+      "side": "left",
+      "image": "sources/pages/page-270.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-271",
+      "printed_page": 271,
+      "pdf_page": 136,
+      "side": "right",
+      "image": "sources/pages/page-271.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-272",
+      "printed_page": 272,
+      "pdf_page": 137,
+      "side": "left",
+      "image": "sources/pages/page-272.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-273",
+      "printed_page": 273,
+      "pdf_page": 137,
+      "side": "right",
+      "image": "sources/pages/page-273.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-274",
+      "printed_page": 274,
+      "pdf_page": 138,
+      "side": "left",
+      "image": "sources/pages/page-274.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-275",
+      "printed_page": 275,
+      "pdf_page": 138,
+      "side": "right",
+      "image": "sources/pages/page-275.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-276",
+      "printed_page": 276,
+      "pdf_page": 139,
+      "side": "left",
+      "image": "sources/pages/page-276.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-277",
+      "printed_page": 277,
+      "pdf_page": 139,
+      "side": "right",
+      "image": "sources/pages/page-277.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-278",
+      "printed_page": 278,
+      "pdf_page": 140,
+      "side": "left",
+      "image": "sources/pages/page-278.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-279",
+      "printed_page": 279,
+      "pdf_page": 140,
+      "side": "right",
+      "image": "sources/pages/page-279.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-280",
+      "printed_page": 280,
+      "pdf_page": 141,
+      "side": "left",
+      "image": "sources/pages/page-280.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-281",
+      "printed_page": 281,
+      "pdf_page": 141,
+      "side": "right",
+      "image": "sources/pages/page-281.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-282",
+      "printed_page": 282,
+      "pdf_page": 142,
+      "side": "left",
+      "image": "sources/pages/page-282.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-283",
+      "printed_page": 283,
+      "pdf_page": 142,
+      "side": "right",
+      "image": "sources/pages/page-283.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-284",
+      "printed_page": 284,
+      "pdf_page": 143,
+      "side": "left",
+      "image": "sources/pages/page-284.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-285",
+      "printed_page": 285,
+      "pdf_page": 143,
+      "side": "right",
+      "image": "sources/pages/page-285.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-286",
+      "printed_page": 286,
+      "pdf_page": 144,
+      "side": "left",
+      "image": "sources/pages/page-286.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-287",
+      "printed_page": 287,
+      "pdf_page": 144,
+      "side": "right",
+      "image": "sources/pages/page-287.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-288",
+      "printed_page": 288,
+      "pdf_page": 145,
+      "side": "left",
+      "image": "sources/pages/page-288.png",
+      "spread_rect": [
+        0,
+        0,
+        1885,
+        2598
+      ],
+      "size": [
+        1885,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-289",
+      "printed_page": 289,
+      "pdf_page": 145,
+      "side": "right",
+      "image": "sources/pages/page-289.png",
+      "spread_rect": [
+        1885,
+        0,
+        3771,
+        2598
+      ],
+      "size": [
+        1886,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-290",
+      "printed_page": 290,
+      "pdf_page": 146,
+      "side": "left",
+      "image": "sources/pages/page-290.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-291",
+      "printed_page": 291,
+      "pdf_page": 146,
+      "side": "right",
+      "image": "sources/pages/page-291.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-292",
+      "printed_page": 292,
+      "pdf_page": 147,
+      "side": "left",
+      "image": "sources/pages/page-292.png",
+      "spread_rect": [
+        0,
+        0,
+        1885,
+        2598
+      ],
+      "size": [
+        1885,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-293",
+      "printed_page": 293,
+      "pdf_page": 147,
+      "side": "right",
+      "image": "sources/pages/page-293.png",
+      "spread_rect": [
+        1885,
+        0,
+        3771,
+        2598
+      ],
+      "size": [
+        1886,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-294",
+      "printed_page": 294,
+      "pdf_page": 148,
+      "side": "left",
+      "image": "sources/pages/page-294.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-295",
+      "printed_page": 295,
+      "pdf_page": 148,
+      "side": "right",
+      "image": "sources/pages/page-295.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-296",
+      "printed_page": 296,
+      "pdf_page": 149,
+      "side": "left",
+      "image": "sources/pages/page-296.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-297",
+      "printed_page": 297,
+      "pdf_page": 149,
+      "side": "right",
+      "image": "sources/pages/page-297.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-298",
+      "printed_page": 298,
+      "pdf_page": 150,
+      "side": "left",
+      "image": "sources/pages/page-298.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-299",
+      "printed_page": 299,
+      "pdf_page": 150,
+      "side": "right",
+      "image": "sources/pages/page-299.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-300",
+      "printed_page": 300,
+      "pdf_page": 151,
+      "side": "left",
+      "image": "sources/pages/page-300.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-301",
+      "printed_page": 301,
+      "pdf_page": 151,
+      "side": "right",
+      "image": "sources/pages/page-301.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-302",
+      "printed_page": 302,
+      "pdf_page": 152,
+      "side": "left",
+      "image": "sources/pages/page-302.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-303",
+      "printed_page": 303,
+      "pdf_page": 152,
+      "side": "right",
+      "image": "sources/pages/page-303.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-304",
+      "printed_page": 304,
+      "pdf_page": 153,
+      "side": "left",
+      "image": "sources/pages/page-304.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-305",
+      "printed_page": 305,
+      "pdf_page": 153,
+      "side": "right",
+      "image": "sources/pages/page-305.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-306",
+      "printed_page": 306,
+      "pdf_page": 154,
+      "side": "left",
+      "image": "sources/pages/page-306.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-307",
+      "printed_page": 307,
+      "pdf_page": 154,
+      "side": "right",
+      "image": "sources/pages/page-307.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-308",
+      "printed_page": 308,
+      "pdf_page": 155,
+      "side": "left",
+      "image": "sources/pages/page-308.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-309",
+      "printed_page": 309,
+      "pdf_page": 155,
+      "side": "right",
+      "image": "sources/pages/page-309.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-310",
+      "printed_page": 310,
+      "pdf_page": 156,
+      "side": "left",
+      "image": "sources/pages/page-310.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-311",
+      "printed_page": 311,
+      "pdf_page": 156,
+      "side": "right",
+      "image": "sources/pages/page-311.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-312",
+      "printed_page": 312,
+      "pdf_page": 157,
+      "side": "left",
+      "image": "sources/pages/page-312.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-313",
+      "printed_page": 313,
+      "pdf_page": 157,
+      "side": "right",
+      "image": "sources/pages/page-313.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-314",
+      "printed_page": 314,
+      "pdf_page": 158,
+      "side": "left",
+      "image": "sources/pages/page-314.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-315",
+      "printed_page": 315,
+      "pdf_page": 158,
+      "side": "right",
+      "image": "sources/pages/page-315.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-316",
+      "printed_page": 316,
+      "pdf_page": 159,
+      "side": "left",
+      "image": "sources/pages/page-316.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-317",
+      "printed_page": 317,
+      "pdf_page": 159,
+      "side": "right",
+      "image": "sources/pages/page-317.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-318",
+      "printed_page": 318,
+      "pdf_page": 160,
+      "side": "left",
+      "image": "sources/pages/page-318.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-319",
+      "printed_page": 319,
+      "pdf_page": 160,
+      "side": "right",
+      "image": "sources/pages/page-319.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-320",
+      "printed_page": 320,
+      "pdf_page": 161,
+      "side": "left",
+      "image": "sources/pages/page-320.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-321",
+      "printed_page": 321,
+      "pdf_page": 161,
+      "side": "right",
+      "image": "sources/pages/page-321.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-322",
+      "printed_page": 322,
+      "pdf_page": 162,
+      "side": "left",
+      "image": "sources/pages/page-322.png",
+      "spread_rect": [
+        0,
+        0,
+        1885,
+        2598
+      ],
+      "size": [
+        1885,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-323",
+      "printed_page": 323,
+      "pdf_page": 162,
+      "side": "right",
+      "image": "sources/pages/page-323.png",
+      "spread_rect": [
+        1885,
+        0,
+        3771,
+        2598
+      ],
+      "size": [
+        1886,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-324",
+      "printed_page": 324,
+      "pdf_page": 163,
+      "side": "left",
+      "image": "sources/pages/page-324.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-325",
+      "printed_page": 325,
+      "pdf_page": 163,
+      "side": "right",
+      "image": "sources/pages/page-325.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-326",
+      "printed_page": 326,
+      "pdf_page": 164,
+      "side": "left",
+      "image": "sources/pages/page-326.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-327",
+      "printed_page": 327,
+      "pdf_page": 164,
+      "side": "right",
+      "image": "sources/pages/page-327.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-328",
+      "printed_page": 328,
+      "pdf_page": 165,
+      "side": "left",
+      "image": "sources/pages/page-328.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-329",
+      "printed_page": 329,
+      "pdf_page": 165,
+      "side": "right",
+      "image": "sources/pages/page-329.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-330",
+      "printed_page": 330,
+      "pdf_page": 166,
+      "side": "left",
+      "image": "sources/pages/page-330.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-331",
+      "printed_page": 331,
+      "pdf_page": 166,
+      "side": "right",
+      "image": "sources/pages/page-331.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-332",
+      "printed_page": 332,
+      "pdf_page": 167,
+      "side": "left",
+      "image": "sources/pages/page-332.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-333",
+      "printed_page": 333,
+      "pdf_page": 167,
+      "side": "right",
+      "image": "sources/pages/page-333.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-334",
+      "printed_page": 334,
+      "pdf_page": 168,
+      "side": "left",
+      "image": "sources/pages/page-334.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-335",
+      "printed_page": 335,
+      "pdf_page": 168,
+      "side": "right",
+      "image": "sources/pages/page-335.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-336",
+      "printed_page": 336,
+      "pdf_page": 169,
+      "side": "left",
+      "image": "sources/pages/page-336.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-337",
+      "printed_page": 337,
+      "pdf_page": 169,
+      "side": "right",
+      "image": "sources/pages/page-337.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-338",
+      "printed_page": 338,
+      "pdf_page": 170,
+      "side": "left",
+      "image": "sources/pages/page-338.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-339",
+      "printed_page": 339,
+      "pdf_page": 170,
+      "side": "right",
+      "image": "sources/pages/page-339.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-340",
+      "printed_page": 340,
+      "pdf_page": 171,
+      "side": "left",
+      "image": "sources/pages/page-340.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-341",
+      "printed_page": 341,
+      "pdf_page": 171,
+      "side": "right",
+      "image": "sources/pages/page-341.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-342",
+      "printed_page": 342,
+      "pdf_page": 172,
+      "side": "left",
+      "image": "sources/pages/page-342.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-343",
+      "printed_page": 343,
+      "pdf_page": 172,
+      "side": "right",
+      "image": "sources/pages/page-343.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-344",
+      "printed_page": 344,
+      "pdf_page": 173,
+      "side": "left",
+      "image": "sources/pages/page-344.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-345",
+      "printed_page": 345,
+      "pdf_page": 173,
+      "side": "right",
+      "image": "sources/pages/page-345.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-346",
+      "printed_page": 346,
+      "pdf_page": 174,
+      "side": "left",
+      "image": "sources/pages/page-346.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-347",
+      "printed_page": 347,
+      "pdf_page": 174,
+      "side": "right",
+      "image": "sources/pages/page-347.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-348",
+      "printed_page": 348,
+      "pdf_page": 175,
+      "side": "left",
+      "image": "sources/pages/page-348.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-349",
+      "printed_page": 349,
+      "pdf_page": 175,
+      "side": "right",
+      "image": "sources/pages/page-349.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-350",
+      "printed_page": 350,
+      "pdf_page": 176,
+      "side": "left",
+      "image": "sources/pages/page-350.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-351",
+      "printed_page": 351,
+      "pdf_page": 176,
+      "side": "right",
+      "image": "sources/pages/page-351.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-352",
+      "printed_page": 352,
+      "pdf_page": 177,
+      "side": "left",
+      "image": "sources/pages/page-352.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-353",
+      "printed_page": 353,
+      "pdf_page": 177,
+      "side": "right",
+      "image": "sources/pages/page-353.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-354",
+      "printed_page": 354,
+      "pdf_page": 178,
+      "side": "left",
+      "image": "sources/pages/page-354.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-355",
+      "printed_page": 355,
+      "pdf_page": 178,
+      "side": "right",
+      "image": "sources/pages/page-355.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-356",
+      "printed_page": 356,
+      "pdf_page": 179,
+      "side": "left",
+      "image": "sources/pages/page-356.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-357",
+      "printed_page": 357,
+      "pdf_page": 179,
+      "side": "right",
+      "image": "sources/pages/page-357.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-358",
+      "printed_page": 358,
+      "pdf_page": 180,
+      "side": "left",
+      "image": "sources/pages/page-358.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-359",
+      "printed_page": 359,
+      "pdf_page": 180,
+      "side": "right",
+      "image": "sources/pages/page-359.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-360",
+      "printed_page": 360,
+      "pdf_page": 181,
+      "side": "left",
+      "image": "sources/pages/page-360.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-361",
+      "printed_page": 361,
+      "pdf_page": 181,
+      "side": "right",
+      "image": "sources/pages/page-361.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-362",
+      "printed_page": 362,
+      "pdf_page": 182,
+      "side": "left",
+      "image": "sources/pages/page-362.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-363",
+      "printed_page": 363,
+      "pdf_page": 182,
+      "side": "right",
+      "image": "sources/pages/page-363.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-364",
+      "printed_page": 364,
+      "pdf_page": 183,
+      "side": "left",
+      "image": "sources/pages/page-364.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-365",
+      "printed_page": 365,
+      "pdf_page": 183,
+      "side": "right",
+      "image": "sources/pages/page-365.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-366",
+      "printed_page": 366,
+      "pdf_page": 184,
+      "side": "left",
+      "image": "sources/pages/page-366.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-367",
+      "printed_page": 367,
+      "pdf_page": 184,
+      "side": "right",
+      "image": "sources/pages/page-367.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-368",
+      "printed_page": 368,
+      "pdf_page": 185,
+      "side": "left",
+      "image": "sources/pages/page-368.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-369",
+      "printed_page": 369,
+      "pdf_page": 185,
+      "side": "right",
+      "image": "sources/pages/page-369.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-370",
+      "printed_page": 370,
+      "pdf_page": 186,
+      "side": "left",
+      "image": "sources/pages/page-370.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-371",
+      "printed_page": 371,
+      "pdf_page": 186,
+      "side": "right",
+      "image": "sources/pages/page-371.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-372",
+      "printed_page": 372,
+      "pdf_page": 187,
+      "side": "left",
+      "image": "sources/pages/page-372.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-373",
+      "printed_page": 373,
+      "pdf_page": 187,
+      "side": "right",
+      "image": "sources/pages/page-373.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-374",
+      "printed_page": 374,
+      "pdf_page": 188,
+      "side": "left",
+      "image": "sources/pages/page-374.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-375",
+      "printed_page": 375,
+      "pdf_page": 188,
+      "side": "right",
+      "image": "sources/pages/page-375.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-376",
+      "printed_page": 376,
+      "pdf_page": 189,
+      "side": "left",
+      "image": "sources/pages/page-376.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-377",
+      "printed_page": 377,
+      "pdf_page": 189,
+      "side": "right",
+      "image": "sources/pages/page-377.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-378",
+      "printed_page": 378,
+      "pdf_page": 190,
+      "side": "left",
+      "image": "sources/pages/page-378.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-379",
+      "printed_page": 379,
+      "pdf_page": 190,
+      "side": "right",
+      "image": "sources/pages/page-379.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-380",
+      "printed_page": 380,
+      "pdf_page": 191,
+      "side": "left",
+      "image": "sources/pages/page-380.png",
+      "spread_rect": [
+        0,
+        0,
+        1885,
+        2598
+      ],
+      "size": [
+        1885,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-381",
+      "printed_page": 381,
+      "pdf_page": 191,
+      "side": "right",
+      "image": "sources/pages/page-381.png",
+      "spread_rect": [
+        1885,
+        0,
+        3771,
+        2598
+      ],
+      "size": [
+        1886,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-382",
+      "printed_page": 382,
+      "pdf_page": 192,
+      "side": "left",
+      "image": "sources/pages/page-382.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-383",
+      "printed_page": 383,
+      "pdf_page": 192,
+      "side": "right",
+      "image": "sources/pages/page-383.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-384",
+      "printed_page": 384,
+      "pdf_page": 193,
+      "side": "left",
+      "image": "sources/pages/page-384.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-385",
+      "printed_page": 385,
+      "pdf_page": 193,
+      "side": "right",
+      "image": "sources/pages/page-385.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-386",
+      "printed_page": 386,
+      "pdf_page": 194,
+      "side": "left",
+      "image": "sources/pages/page-386.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-387",
+      "printed_page": 387,
+      "pdf_page": 194,
+      "side": "right",
+      "image": "sources/pages/page-387.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-388",
+      "printed_page": 388,
+      "pdf_page": 195,
+      "side": "left",
+      "image": "sources/pages/page-388.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-389",
+      "printed_page": 389,
+      "pdf_page": 195,
+      "side": "right",
+      "image": "sources/pages/page-389.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-390",
+      "printed_page": 390,
+      "pdf_page": 196,
+      "side": "left",
+      "image": "sources/pages/page-390.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-391",
+      "printed_page": 391,
+      "pdf_page": 196,
+      "side": "right",
+      "image": "sources/pages/page-391.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-392",
+      "printed_page": 392,
+      "pdf_page": 197,
+      "side": "left",
+      "image": "sources/pages/page-392.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-393",
+      "printed_page": 393,
+      "pdf_page": 197,
+      "side": "right",
+      "image": "sources/pages/page-393.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-394",
+      "printed_page": 394,
+      "pdf_page": 198,
+      "side": "left",
+      "image": "sources/pages/page-394.png",
+      "spread_rect": [
+        0,
+        0,
+        1885,
+        2598
+      ],
+      "size": [
+        1885,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-395",
+      "printed_page": 395,
+      "pdf_page": 198,
+      "side": "right",
+      "image": "sources/pages/page-395.png",
+      "spread_rect": [
+        1885,
+        0,
+        3771,
+        2598
+      ],
+      "size": [
+        1886,
+        2598
+      ]
+    },
+    {
+      "source_page": "page-396",
+      "printed_page": 396,
+      "pdf_page": 199,
+      "side": "left",
+      "image": "sources/pages/page-396.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-397",
+      "printed_page": 397,
+      "pdf_page": 199,
+      "side": "right",
+      "image": "sources/pages/page-397.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-398",
+      "printed_page": 398,
+      "pdf_page": 200,
+      "side": "left",
+      "image": "sources/pages/page-398.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-399",
+      "printed_page": 399,
+      "pdf_page": 200,
+      "side": "right",
+      "image": "sources/pages/page-399.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-400",
+      "printed_page": 400,
+      "pdf_page": 201,
+      "side": "left",
+      "image": "sources/pages/page-400.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-401",
+      "printed_page": 401,
+      "pdf_page": 201,
+      "side": "right",
+      "image": "sources/pages/page-401.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-402",
+      "printed_page": 402,
+      "pdf_page": 202,
+      "side": "left",
+      "image": "sources/pages/page-402.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-403",
+      "printed_page": 403,
+      "pdf_page": 202,
+      "side": "right",
+      "image": "sources/pages/page-403.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-404",
+      "printed_page": 404,
+      "pdf_page": 203,
+      "side": "left",
+      "image": "sources/pages/page-404.png",
+      "spread_rect": [
+        0,
+        0,
+        1878,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-405",
+      "printed_page": 405,
+      "pdf_page": 203,
+      "side": "right",
+      "image": "sources/pages/page-405.png",
+      "spread_rect": [
+        1878,
+        0,
+        3756,
+        2575
+      ],
+      "size": [
+        1878,
+        2575
+      ]
+    },
+    {
+      "source_page": "page-406",
+      "printed_page": 406,
+      "pdf_page": 204,
+      "side": "left",
+      "image": "sources/pages/page-406.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-407",
+      "printed_page": 407,
+      "pdf_page": 204,
+      "side": "right",
+      "image": "sources/pages/page-407.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-408",
+      "printed_page": 408,
+      "pdf_page": 205,
+      "side": "left",
+      "image": "sources/pages/page-408.png",
+      "spread_rect": [
+        0,
+        0,
+        1880,
+        2583
+      ],
+      "size": [
+        1880,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-409",
+      "printed_page": 409,
+      "pdf_page": 205,
+      "side": "right",
+      "image": "sources/pages/page-409.png",
+      "spread_rect": [
+        1880,
+        0,
+        3761,
+        2583
+      ],
+      "size": [
+        1881,
+        2583
+      ]
+    },
+    {
+      "source_page": "page-410",
+      "printed_page": 410,
+      "pdf_page": 206,
+      "side": "left",
+      "image": "sources/pages/page-410.png",
+      "spread_rect": [
+        0,
+        0,
+        1883,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    },
+    {
+      "source_page": "page-411",
+      "printed_page": 411,
+      "pdf_page": 206,
+      "side": "right",
+      "image": "sources/pages/page-411.png",
+      "spread_rect": [
+        1883,
+        0,
+        3766,
+        2589
+      ],
+      "size": [
+        1883,
+        2589
+      ]
+    }
+  ]
+}
