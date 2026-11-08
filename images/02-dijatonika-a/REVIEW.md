@@ -1,4 +1,78 @@
-# M02 image-review hand-off: examples 2.1–2.71
+# M02 image-review hand-off
+
+## Current checkpoint
+
+The original batch below covers examples 2.1–2.71. A subsequent batch has added
+examples 2.72–2.97 and ten exercises from printed page 45: **36 additional
+approved images**, of which 31 are source-only and five are retouched.
+There are now **111 approved embedded image parts** (82 source-only and
+29 retouched). No saved image remains pending at this checkpoint.
+
+### Subsequent batch: printed pages 38–46 / PDF pages 20–24
+
+Prose on printed pages 38–44 and 46 was transcribed and visually verified by
+text agents. Page 45 contains the separately cropped exercises. Continuation
+of the paragraph from page 43 to page 44 was joined. Printed asterisk footnotes
+for examples 2.83 and 2.87 were transcribed and linked to their captions.
+
+Every example in each range below has the stated final decision.
+
+| Examples / exercises | Printed page | Final image-review result |
+| --- | ---: | --- |
+| 2.72 | 38 | PASS, source-only |
+| 2.73–2.75 | 39 | PASS, source-only |
+| 2.76–2.79 | 40 | PASS, source-only |
+| 2.80 | 41 | PASS, source-only |
+| 2.81 | 41 | PASS, retouched derivative |
+| 2.82 | 41 | PASS, source-only |
+| 2.83 | 41 | PASS, retouched derivative |
+| 2.84–2.86 | 42 | PASS, source-only |
+| 2.87–2.89 | 43 | PASS, source-only |
+| 2.90 | 44 | PASS, source-only |
+| 2.91 | 44 | PASS, retouched derivative |
+| 2.92 | 44 | PASS, source-only |
+| 2.93 | 44 | PASS, retouched derivative |
+| 2.94 | 44 | PASS, source-only |
+| Exercises 1–10 (`zadatak-2-45-<number>.png`) | 45 | PASS, source-only |
+| 2.95–2.96 | 46 | PASS, source-only |
+| 2.97 | 46 | PASS, retouched derivative |
+
+The five additional derivatives were independently checked against original
+crops and scans, including every changed region and all four edges. Original
+crops remain intact and pixel-identical to their recorded source rectangles.
+
+- **2.81:** removed pencil fragments beneath the bass. Restored small erased
+  portions of the printed example number from source pixels; re-review passed.
+- **2.83:** removed the separately transcribed footnote sentence where it
+  overlapped the lowest bass stem vertically. Preserved the score asterisk and
+  full stem; restored slur-edge source pixels; re-review passed.
+- **2.91:** removed a neighbouring 2.90 fragment while retaining both complete
+  melodic/harmonic rhythm labels and note sequences; re-review passed.
+- **2.93:** removed only a prose fragment in crop-local box `[112,0,121,2)`.
+  All other pixels were restored from the scan after cleanup touched the label
+  and barline. Re-review confirmed exactly 15 altered pixels, all inside the
+  authorized prose-removal box, with complete notation and labels.
+- **2.97:** removed pencil marks above variant b and below the notation.
+  Independent review confirmed intact number, a–b, NE, all printed notation,
+  and figured-bass 6; all four edges passed. The unchanged original rectangle
+  `[457,1523,1292,1887]` remains recorded in the crop manifest.
+- Source-only boundary corrections to **2.82, 2.86, and 2.87** were independently
+  re-reviewed and passed. No printed notation was sacrificed to hide marks.
+
+### Resume here
+
+1. Continue on printed page **47 / PDF page 24**, starting with example 2.98.
+   Page-46 prose already references 2.98 and 2.99; their source images and the
+   continuation still need processing.
+2. Complete M02 through printed page 63 and perform full-section prose/link/
+   rendered-preview checks before marking the milestone complete.
+
+No musical content was unreadable in this subsequent batch. All saved crops
+are now approved in their documented source-only or retouched form. After the
+stopping request, the user explicitly requested the final GIMP cleanup of 2.97;
+it passed review and was integrated without proceeding to the next page.
+
+## Original batch: examples 2.1–2.71
 
 ## Scope and status
 

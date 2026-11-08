@@ -24,9 +24,10 @@ HANDLE = 7
 
 def example_paths(example):
     chapter, number = example.split(".", 1)
-    assert chapter in {"1", "2"} and number.isdigit(), "Example must look like 2.48"
+    assert chapter in {"1", "2"} and (number.isdigit() or re.fullmatch(r"z[1-9]\d*-[1-9]\d*", number)), "Use 2.48 for an example or 2.z45-1 for exercise 1 on page 45"
     section = "01-uvod" if chapter == "1" else "02-dijatonika-a"
-    image = ROOT / "images" / section / f"primjer-{chapter}-{number}.png"
+    filename = f"zadatak-{chapter}-{number[1:]}.png" if number.startswith("z") else f"primjer-{chapter}-{number}.png"
+    image = ROOT / "images" / section / filename
     markdown = ROOT / "chapters" / ("01-uvod.md" if chapter == "1" else "02-dijatonika-a.md")
     return image, markdown
 
@@ -41,6 +42,12 @@ def listed_examples(chapter):
 
 def printed_page(markdown, example):
     content = markdown.read_text()
+    exercise = re.fullmatch(r"[12]\.z([1-9]\d*)-([1-9]\d*)", example)
+    if exercise:
+        page, number = exercise.groups()
+        match = re.search(rf"\*Zadatak {number}\..*?Izvor: tiskana stranica {page}\.", content)
+        assert match, f"No source-page caption found for exercise {example}"
+        return int(page)
     match = re.search(rf"\*Primjer {re.escape(example)}\..*?Izvor: tiskan[ae] stranic[ae] (\d+)", content)
     assert match, f"No source-page caption found for example {example}"
     return int(match.group(1))

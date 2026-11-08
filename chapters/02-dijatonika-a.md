@@ -1,6 +1,6 @@
 # 2. Dijatonika
 
-> Napomena digitalnog izdanja: na 24 slike primjera ručno su uklonjeni rukopisni dodaci sa skena. Te su izvedenice zasebno pregledane i pohranjene u `images/02-dijatonika-a/retouched/`; izvorni izrezi sačuvani su bez retuširanja. Popis i rezultati pregleda nalaze se u [izvještaju o slikama](../images/02-dijatonika-a/REVIEW.md).
+> Napomena digitalnog izdanja: na pojedinim slikama primjera ručno su uklonjeni rukopisni dodaci sa skena ili okolni tekst koji nije moguće odvojiti pravokutnim izrezom bez gubitka notacije. Te su izvedenice zasebno pregledane i pohranjene u `images/02-dijatonika-a/retouched/`; izvorni izrezi sačuvani su bez retuširanja. Popis i rezultati pregleda nalaze se u [izvještaju o slikama](../images/02-dijatonika-a/REVIEW.md).
 
 ## 2.1. Kvintakordi
 
@@ -571,3 +571,279 @@ Plagalne kadence iz umjetničke literature prikazane su u primjeru 2.67. Budući
 *Primjer 2.67. Plagalne kadence. Izvor: tiskane stranice 35–36.*
 
 MuseScore prijepis: *bit će dodan.*
+
+### 2.1.8. Harmonizacija soprana konsonantnim kvintakordima
+
+<!-- Izvor teksta: tiskana stranica 38, PDF stranica 20. -->
+
+Svaki ton melodije može se — teoretski — harmonizirati s tri razna kvintakorda tako da bude u dotičnom kvintakordu ili njegovom primom ili tercom ili kvintom. Konkretan izbor između tih mogućnosti uvjetovan je s jedne strane već učinjenim izborom prethodnog akorda, a s druge slijedećim tonom u melodiji, tako da uvjetovanost kontekstom može izbor akorda svesti u određenom slučaju čak i na jedno jedino rješenje. Primjer 2.72.a sadrži najjednostavniji melodijski fragment od tri tona, u C-duru. Želimo li ga harmonizirati samo konsonantnim kvintakordima, i ako prvi ton (»c«) harmoniziramo kvintakordom I stupnja, kao što je na početku melodije i normalno, onda je najbolje rješenje za slijedeći ton (»d«) da on bude kvintom kvintakorda V stupnja, jer slijed I-V daje tonalno jasno određeni početak (pr. 2.72.b). Osim toga, solucija s kvintakordom V stupnja na ovome je mjestu i jedina moguća; ako bismo »d« harmonizirali s kvintakordom II stupnja (dakle, ako bismo ga shvatili kao primu kvintakorda), onda bi spoj I-II rezultirao paralelnim kvintama i oktavama (pr. 2.72.c), a harmonizacija s kvintakordom VII stupnja (gdje bi »d« bio terca) također ne dolazi u obzir, jer je kvintakord VII stupnja smanjeni kvintakord, a taj bi ovdje i loše zvučao i ne bi se dao dobro riješiti (pr. 2.72.d). I dalje, kvintakord V stupnja opet uvjetuje izbor akorda za slijedeći ton (»e«) time što isključuje rješenje gdje bi »e« bio kvintom u kvintakordu VI stupnja, jer bi spoj V—VI na ovom mjestu doveo opet do paralelnih kvinta (pr. 2.72.e). Dakle ostaju još dvije mogućnosti, da »e« bude tercom u kvintakordu I stupnja (pr. 2.72.f) ili primom u kvintakordu III stupnja (pr. 2.72.g). A ako se pojedini tonovi melodije harmoniziraju s više akorda, broj mogućnosti ponovo se povećava (pr. 2.73), a konkretan izbor između njih bit će konačno predmetom slobodne odluke, individualnoga harmonijskog htijenja, mišljenja i ukusa.
+
+![Primjer 2.72 — izbor kvintakorda pri harmonizaciji soprana, varijante a–g](../images/02-dijatonika-a/primjer-2-72.png)
+
+*Primjer 2.72. Izbor kvintakorda pri harmonizaciji soprana, varijante a–g. Izvor: tiskana stranica 38.*
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- Izvor teksta: tiskana stranica 39, PDF stranica 20. -->
+
+![Primjer 2.73 — harmonizacija s više akorda po melodijskom tonu, varijante a–b](../images/02-dijatonika-a/primjer-2-73.png)
+
+*Primjer 2.73. Harmonizacija s više akorda po melodijskom tonu, varijante a–b. Izvor: tiskana stranica 39.*
+
+MuseScore prijepis: *bit će dodan.*
+
+Očito je već i iz ovako jednostavnog primjera da izbor harmonija ne znači samo izbor konkretnoga akorda, izolirano promatranoga, nego je to i izbor određenoga slijeda u kojemu se harmonije međusobno uvjetuju. Nema nikakovih pravila koja bi takav izbor normirala. Postoje samo neki više ili manje standardni slijedovi, odnosno progresije, od dva ili više akorda, koje su dobrim dijelom sadržane već u pojedinim vrstama kadenca (v. odsjek 2.1.7) i koje se analogno primjenjuju i na drugim mjestima i na drugim stupnjevima.
+
+To je prije svega slijed »za kvartu gore« ili »za kvintu dolje«, kao u autentičnoj kadenci (pr. 2.74.a), i slijed za »kvintu gore« ili »za kvartu dolje«, kao u plagalnoj kadenci (pr. 2.74.b). Ako se u progresiji, kakvu nalazimo u mješovitoj kadenci, subdominantni kvintakord zamijeni kvintakordom II stupnja, onda ta, također vrlo uobičajena varijanta, sadrži dva pomaka iste kvalitete, tj. pomak »za kvartu gore« i »za kvintu dolje« (pr. 2.75). U obje progresije (IV-V-I i II-V-I) težnja je vođice (terce dominantnog kvintakorda) za pomakom u toniku prilično istaknuta, ali nju jednako zadovoljava i nastavak s kvintakordom I stupnja, kao i s njegovim zamjenikom, tj. s kvintakordom VI stupnja (pr. 2.76). Ako poslije dominantnog kvintakorda uslijedi njegov zamjenik, kvintakord III stupnja, tada ton koji je bio terca dominantnog kvintakorda, dakle vođica, postaje u novom akordu kvintom i gubi uzlaznu tendenciju, pa i njegov silazni pomak također može sada djelovati logično (pr. 2.77).
+
+![Primjer 2.74 — kvintno srodni akordički slijedovi, varijante a–b](../images/02-dijatonika-a/primjer-2-74.png)
+
+*Primjer 2.74. Akordički slijedovi po uzoru na autentičnu i plagalnu kadencu, varijante a–b. Izvor: tiskana stranica 39.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Primjer 2.75 — progresija II–V–I](../images/02-dijatonika-a/primjer-2-75.png)
+
+*Primjer 2.75. Progresija II–V–I. Izvor: tiskana stranica 39.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Primjer 2.76 — nastavak progresije s kvintakordom VI stupnja, varijante a–b](../images/02-dijatonika-a/primjer-2-76.png)
+
+*Primjer 2.76. Nastavak progresije s kvintakordom VI stupnja, varijante a–b. Izvor: tiskana stranica 40.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Primjer 2.77 — kvintakord III stupnja kao zamjena dominante](../images/02-dijatonika-a/primjer-2-77.png)
+
+*Primjer 2.77. Kvintakord III stupnja kao zamjena dominante. Izvor: tiskana stranica 40.*
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- Izvor teksta: tiskana stranica 40, PDF stranica 21. -->
+
+Progresija I—VI zvuči vrlo uvjerljivo, jer u njoj drugi akord, kao zamjenik prvoga, ponavlja njegova dva najvažnija tona (primu i tercu) i donosi kao novi sam VI stupanj u obliku temeljnog tona kvintakorda, i stoga nastup toga akorda intenzivira zvučno zbivanje. Obratni redoslijed (VI—I) također je upotrebljiv premda kod njega intenzitet zvučnog zbivanja opada, ali to opadanje opet je manje kada se sopran pri tom kreće i kada prvi akord nastupa na naglašenoj dobi, a drugi na nenaglašenoj (pr. 2.78). A kada drugi akord nastupa u obliku sekstakorda, onda je svaki eventualni prigovor neumjestan, jer tada bas izvodi pomak »za kvartu dolje« i uvjerljivo simulira spoj glavnih kvintakorda poput IV—I ili I—V (pr. 2.79). Isto što je ovdje bilo rečeno za spojeve I—VI i VI—I vrijedi za svaku analognu progresiju kvintakorda, tako da se može postaviti da su i one progresije gdje se bas kreće »za tercu dolje«, kao i one gdje ide »za tercu gore«, dobre, ali da su općenito one prve bolje od drugih.
+
+![Primjer 2.78 — progresija VI–I, varijante a–c](../images/02-dijatonika-a/primjer-2-78.png)
+
+*Primjer 2.78. Progresija VI–I, varijante a–c. Izvor: tiskana stranica 40.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Primjer 2.79 — nastavak progresije sekstakordom](../images/02-dijatonika-a/primjer-2-79.png)
+
+*Primjer 2.79. Nastavak progresije sekstakordom. Izvor: tiskana stranica 40.*
+
+MuseScore prijepis: *bit će dodan.*
+
+Što se tiče progresija nesrodnih kvintakorda, dakle onih kod kojih se bas kreće »za sekundu gore« ili »za sekundu dolje«, sve one dolaze u obzir, premda će se neke od njih, izolirano uzete, doimati slabije, kao II—III ili IV—III u konkretnim spojevima u pr. 2.80.a. Ali već drukčije vođenje unutarnjih glasova — po analogiji na spojeve V—VI i VI—V — poboljšava zvučni dojam (pr. 2.80.b), a u kontekstu s harmonijama koji tim progresijama prethode i slijede one mogu biti jednako upotrebljive i uvjerljive kao npr. progresije I—II, IV—V ili V—VI. Izuzetno mjesto pripada progresiji V—IV, koja čini snažan kontrast uobičajenom slijedu u progresiji IV—V—(I) i koja se zbog svoga arhaičnog prizvuka starih načina (v. poglavlje 2. 10) — jednako kao i progresija V—II — upotrebljava rijetko, s posebnom namjenom i za postizanje naročitog efekta (pr. 2.80.c i d).
+
+![Primjer 2.80 — progresije nesrodnih kvintakorda, varijante a–d](../images/02-dijatonika-a/primjer-2-80.png)
+
+*Primjer 2.80. Progresije nesrodnih kvintakorda, varijante a–d. Izvor: tiskana stranica 41.*
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- Izvor teksta: tiskana stranica 41, PDF stranica 21. -->
+
+Prvi korak u harmonizaciji zadane melodije (soprana) sastoji se u određivanju tonaliteta melodije, zatim u uočavanju manjih zaokruženih cjelina (fraza) i u određivanju kadence na kraju svake fraze. Ako melodija čini nedjeljivu cjelinu, određuje se samo kadenca na kraju.
+
+Sopran u pr. 2.81. je u G-duru i ima dvije fraze; prva može završiti s polovičnom kadencom na subdominanti, a druga sa savršenom autentičnom kadencom. Nakon fiksiranja kadenca slijedi druga faza, gdje se izrađuje basova dionica, kojom se u isti mah i određuje slijed kvintakorda, odnosno izbor harmonija (pr. 2.82). U posljednjoj fazi izrađuju se unutarnji glasovi, pri čemu su uvijek moguće i naknadne modifikacije basove dionice i — kao posljedica toga — modifikacije u slijedu akorda. Tako je u 2. taktu u konačnoj verziji kvintakord I stupnja pomaknut sa zadnje na predzadnju četvrtinku (što sopran dopušta), da bi se na tom mjestu postigla ritmička raznolikost, a isto tako u predzadnjem taktu bas u konačnoj verziji skače još za oktavu dolje da bi se izbjegao zastoj u ritmu (pr. 2.83).
+
+[^primjer-2-83]: Prijelaz u tijesni slog omogućuje bolju liniju tenora.
+
+![Primjer 2.81 — zadani sopran i mjesta kadenca](../images/02-dijatonika-a/retouched/primjer-2-81.png)
+
+*Primjer 2.81. Zadani sopran i mjesta kadenca. Izvor: tiskana stranica 41.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Primjer 2.82 — izradba basove dionice](../images/02-dijatonika-a/primjer-2-82.png)
+
+*Primjer 2.82. Izradba basove dionice. Izvor: tiskana stranica 41.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Primjer 2.83 — konačna četveroglasna harmonizacija](../images/02-dijatonika-a/retouched/primjer-2-83.png)
+
+*Primjer 2.83. Konačna četveroglasna harmonizacija.[^primjer-2-83] Izvor: tiskana stranica 41.*
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- Izvor teksta: tiskana stranica 42, PDF stranica 22. -->
+
+Završetak prve fraze može se izvesti i drukčijom kadencom — kadencom koju će činiti kvintakordi VI i II stupnja (pr. 2.84). Ne bi bilo ispravno tu kadencu tumačiti također kao polovičnu kadencu na subdominanti zbog toga što je kvintakord II stupnja zamjenik subdominantnog kvintakorda. Utisak subdominantne funkcije ovdje se gubi jer sporednom kvintakordu (II) prethodi također sporedni kvintakord (VI), pa progresija VI—II simulira slijed glavnih kvintakorda u jednom drugom tonalitetu, tj. slijed I—IV u e-molu. Međutim, iz konteksta cjelokupne harmonizacije proizlazi da se ovdje ne radi niti o e-molu; to je progresija sporednih kvintakorda u G-duru, načinjena po analogiji na progresiju glavnih kvintakorda i zato, naprosto, dobro zvuči. Takav slučaj je jedan od primjera (kojih će biti i više) kako se ne može svako, makar strogo tonalno, harmonijsko zbivanje svoditi bez dogmatičke prisile na odnose harmonijskih funkcija. Ovdje je glavnu riječ imala primjena harmonijske progresije *po analogiji*. (Uostalom, i principi postavljanja dur-kvintakorda, koji proizlaze iz prirodne akustičke pojave niza alikvotnih tonova, prenose se samo *analogijom* na mol-kvintakord, jer njegova egzistencija nije osnovana ni na kakovom prirodnom akustičkom fenomenu.)
+
+![Primjer 2.84 — drukčiji završetak prve fraze, kadenca VI–II](../images/02-dijatonika-a/primjer-2-84.png)
+
+*Primjer 2.84. Drukčiji završetak prve fraze, kadenca VI–II. Izvor: tiskana stranica 42.*
+
+MuseScore prijepis: *bit će dodan.*
+
+Primjer 2.85. donosi melodiju u e-molu, s dvije fraze kojima odgovaraju autentične kadence: prva nesavršena, a druga savršena. Posebnu pažnju zahtijeva istaknuti skok za oktavu prema gore na početku druge fraze. On je zbog sinkopiranoga ritma još više potenciran, pa bi unio i suviše nemira u tok stavka ako bi istodobno s njime uslijedila i promjena harmonije. Stoga za vrijeme skoka bas — a s njime i odgovarajuća harmonija — miruje (pr. 2.86). U konačnoj realizaciji kvintakord IV stupnja (u taktu gdje se nalazi i spomenuti skok) pomaknut je još sa 4. na 3. četvrtinku, čime se dobiva dobar komplementarni ritam sa sinkopom (pr. 2.87).
+
+![Primjer 2.85 — zadana melodija u e-molu i mjesta kadenca](../images/02-dijatonika-a/primjer-2-85.png)
+
+*Primjer 2.85. Zadana melodija u e-molu i mjesta kadenca. Izvor: tiskana stranica 42.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Primjer 2.86 — basova dionica uz zadanu melodiju u e-molu](../images/02-dijatonika-a/primjer-2-86.png)
+
+*Primjer 2.86. Basova dionica uz zadanu melodiju u e-molu. Izvor: tiskana stranica 42.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Primjer 2.87 — konačna harmonizacija melodije u e-molu](../images/02-dijatonika-a/primjer-2-87.png)
+
+*Primjer 2.87. Konačna harmonizacija melodije u e-molu.[^primjer-2-87] Izvor: tiskana stranica 43.*
+
+MuseScore prijepis: *bit će dodan.*
+
+[^primjer-2-87]: Terca e-g između alta i soprana zvuči punije od kvinte c-g.
+
+<!-- Izvor teksta: tiskana stranica 43, PDF stranica 22. -->
+
+Prva fraza mogla bi imati i drukčiju kadencu, tj. polovičnu na subdominanti, ali ova solucija bila bi slaba jer bismo tada u nastavku dobili neuvjerljivu progresiju »za tercu gore«, sa sopranom koji ponavlja ton, i k tome još u nepovoljnom ritmičkom odnosu, s nenaglašene na naglašenu dobu (pr. 2.88).
+
+![Primjer 2.88 — slabiji završetak prve fraze polovičnom kadencom na subdominanti](../images/02-dijatonika-a/primjer-2-88.png)
+
+*Primjer 2.88. Slabiji završetak prve fraze polovičnom kadencom na subdominanti. Izvor: tiskana stranica 43.*
+
+MuseScore prijepis: *bit će dodan.*
+
+Ovdje smo se prvi put sreli s jednim velikim skokom u zadanoj melodiji, a slični, ulazni i silazni skokovi pojavljivat će se neprestano i kasnije u raznim zadacima. Neće stoga biti naodmet usvajanje vrlo korisnoga postupka pri vođenju glasova u takvim slučajevima. Naime, da bi se kod velikog skoka u sopranu izbjegli istodobni veliki skokovi i preskoci u unutarnjim glasovima — koji bi im samo narušili logično kretanje — potrebno je: a) prije ulaznoga skoka u sopranu voditi glasove u tijesnom slogu, a kod skoka prijeći u široki slog (pr. 2.89.a), b) prije silaznoga skoka u sopranu voditi glasove u širokom slogu, a kod skoka prijeći u tijesni slog (pr. 2.89.b). U obratnom postupku neizbježno bi se pojavila neželjena kretanja unutarnjih glasova (pr. 2.89.c i d).
+
+![Primjer 2.89 — promjena sloga pri skoku u sopranu, varijante a–d](../images/02-dijatonika-a/primjer-2-89.png)
+
+*Primjer 2.89. Promjena sloga pri skoku u sopranu, varijante a–d. Izvor: tiskana stranica 43.*
+
+MuseScore prijepis: *bit će dodan.*
+
+U tijesnoj vezi sa slijedom harmonija je tzv. **harmonijski ritam**, tj. ritam u kojem se izmjenjuju harmonije. Harmonijski se ritam može podudarati s ritmom melodije (pr. 2.90), a može se od njega u manjoj ili većoj mjeri i odvajati (pr. 2.91). Loše može djelovati nastup tzv. **sinkopirane harmonije**; ona nastaje kada se harmonija, koja je nastupila na nenaglašenoj dobi, ponavlja i na slijedećoj naglašenoj dobi (pr. 2.92.a), a proturječi prirodnom odvijanju harmonijskoga ritma gdje s naglašenom dobom normalno nastupa i promjena harmonije (pr. 2.92.b).
+
+<!-- Izvor teksta: tiskana stranica 44, PDF stranica 23. -->
+
+![Primjer 2.90 — podudaranje melodijskog i harmonijskog ritma](../images/02-dijatonika-a/primjer-2-90.png)
+
+*Primjer 2.90. Podudaranje melodijskog i harmonijskog ritma. Izvor: tiskana stranica 44.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Primjer 2.91 — odvajanje harmonijskog od melodijskog ritma](../images/02-dijatonika-a/retouched/primjer-2-91.png)
+
+*Primjer 2.91. Odvajanje harmonijskog od melodijskog ritma. Izvor: tiskana stranica 44.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Primjer 2.92 — sinkopirana harmonija i njezino izbjegavanje, varijante a–b](../images/02-dijatonika-a/primjer-2-92.png)
+
+*Primjer 2.92. Sinkopirana harmonija i njezino izbjegavanje, varijante a–b. Izvor: tiskana stranica 44.*
+
+MuseScore prijepis: *bit će dodan.*
+
+Ponovni nastup iste harmonije na simetričnim naglašenim dobama djeluje monotono, kao u pr. 2.93.a; u konkretnom slučaju njega ćemo lako izbjeći uvođenjem dviju harmonija u prvoj polovici 2. takta (pr. 2.93.b), a time ćemo ujedno i oživjeti harmonijski ritam. Tako i u primjeru 2.94.a (gdje sopran izvodi standardni melodijski završetak) tonički kvintakord na početku predzadnjeg takta znatno oslabljuje efekt nastupa istoga akorda na istom mjestu u zadnjem taktu. Rješenje u pr. 2.94.b otklanja dvokratno pojavljivanje toničkoga kvintakorda i, osim toga, donosi najčvršći harmonijski završetak, tj. kadencu u kojoj se pojavljuju sva tri glavna kvintakorda.
+
+![Primjer 2.93 — izbjegavanje monotonog ponavljanja iste harmonije, varijante a–b](../images/02-dijatonika-a/retouched/primjer-2-93.png)
+
+*Primjer 2.93. Izbjegavanje monotonog ponavljanja iste harmonije, varijante a–b. Izvor: tiskana stranica 44.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Primjer 2.94 — jačanje završne kadence izbjegavanjem preranog nastupa tonike, varijante a–b](../images/02-dijatonika-a/primjer-2-94.png)
+
+*Primjer 2.94. Jačanje završne kadence izbjegavanjem preranog nastupa tonike, varijante a–b. Izvor: tiskana stranica 44.*
+
+MuseScore prijepis: *bit će dodan.*
+
+#### Zadaci
+
+<!-- Izvor: tiskana stranica 45, PDF stranica 23. -->
+
+![Zadatak 1 — melodija za harmonizaciju, tiskana stranica 45](../images/02-dijatonika-a/zadatak-2-45-1.png)
+
+*Zadatak 1. Melodija za harmonizaciju. Izvor: tiskana stranica 45.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Zadatak 2 — melodija za harmonizaciju, tiskana stranica 45](../images/02-dijatonika-a/zadatak-2-45-2.png)
+
+*Zadatak 2. Melodija za harmonizaciju. Izvor: tiskana stranica 45.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Zadatak 3 — melodija za harmonizaciju, tiskana stranica 45](../images/02-dijatonika-a/zadatak-2-45-3.png)
+
+*Zadatak 3. Melodija za harmonizaciju. Izvor: tiskana stranica 45.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Zadatak 4 — melodija za harmonizaciju, tiskana stranica 45](../images/02-dijatonika-a/zadatak-2-45-4.png)
+
+*Zadatak 4. Melodija za harmonizaciju. Izvor: tiskana stranica 45.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Zadatak 5 — melodija za harmonizaciju, tiskana stranica 45](../images/02-dijatonika-a/zadatak-2-45-5.png)
+
+*Zadatak 5. Melodija za harmonizaciju. Izvor: tiskana stranica 45.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Zadatak 6 — melodija za harmonizaciju, tiskana stranica 45](../images/02-dijatonika-a/zadatak-2-45-6.png)
+
+*Zadatak 6. Melodija za harmonizaciju. Izvor: tiskana stranica 45.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Zadatak 7 — melodija za harmonizaciju, tiskana stranica 45](../images/02-dijatonika-a/zadatak-2-45-7.png)
+
+*Zadatak 7. Melodija za harmonizaciju. Izvor: tiskana stranica 45.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Zadatak 8 — melodija za harmonizaciju, tiskana stranica 45](../images/02-dijatonika-a/zadatak-2-45-8.png)
+
+*Zadatak 8. Melodija za harmonizaciju. Izvor: tiskana stranica 45.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Zadatak 9 — melodija za harmonizaciju, tiskana stranica 45](../images/02-dijatonika-a/zadatak-2-45-9.png)
+
+*Zadatak 9. Melodija za harmonizaciju. Izvor: tiskana stranica 45.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Zadatak 10 — melodija za harmonizaciju, tiskana stranica 45](../images/02-dijatonika-a/zadatak-2-45-10.png)
+
+*Zadatak 10. Melodija za harmonizaciju. Izvor: tiskana stranica 45.*
+
+MuseScore prijepis: *bit će dodan.*
+
+### 2.1.9. Kvintakord III stupnja u molu (povećani kvintakord)
+
+<!-- Izvor teksta: tiskana stranica 46, PDF stranica 24. -->
+
+Na III stupnju u molu nalazi se povećani kvintakord. Čine ga dvije velike terce, koje zajedno daju interval povećane kvinte (pr. 2.95).
+
+![Primjer 2.95 — građa povećanog kvintakorda](../images/02-dijatonika-a/primjer-2-95.png)
+
+*Primjer 2.95. Građa povećanog kvintakorda. Izvor: tiskana stranica 46.*
+
+MuseScore prijepis: *bit će dodan.*
+
+Zbog disonantnog intervala povećane kvinte on je disonantan akord, a kako je njegova kvinta i vođica, a uz to i povećan interval, povećani kvintakord ima izrazitu dominantnu funkciju. Prvenstveno mu se udvaja terca (dominanta!), a i temeljni ton, samo kvinta ne. Rješava se prije svega u harmoniju I i VI stupnja, pri čemu vođica uvijek uzlazi za pola stepena (pr. 2.96.a i b). Kada nastupa s udvojenim temeljnim tonom, on se dobro spaja i s kvintakordom V stupnja (pr. 2.96.c). Rješenje u kvintakord IV stupnja ne dolazi u obzir zbog paralelnih kvinta (pr. 2.97.a), ali rješenje u sekstakord istoga stupnja bit će moguće (pr. 2.97.b).
+
+![Primjer 2.96 — rješenja povećanog kvintakorda, varijante a–c](../images/02-dijatonika-a/primjer-2-96.png)
+
+*Primjer 2.96. Rješenja povećanog kvintakorda, varijante a–c. Izvor: tiskana stranica 46.*
+
+MuseScore prijepis: *bit će dodan.*
+
+![Primjer 2.97 — spoj povećanog kvintakorda s harmonijom IV stupnja, varijante a–b](../images/02-dijatonika-a/retouched/primjer-2-97.png)
+
+*Primjer 2.97. Spoj povećanog kvintakorda s harmonijom IV stupnja, varijante a–b. Izvor: tiskana stranica 46.*
+
+MuseScore prijepis: *bit će dodan.*
+
+U sopranu u pr. 2.98. prva fraza može završiti s varavom ili (nesavršenom) autentičnom kadencom, a u oba slučaja predzadnji akord može biti kvintakord III stupnja. Progresija IV—VI u 2. taktu posve je u redu (kretanje soprana uz dobar ritmički odnos), a eventualno zadržavanje harmonije IV stupnja kroz cijeli takt prouzročilo bi teškoće u nastavku harmonizacije: ako bi se zadržao tijesni slog, nastale bi pogrešne akcentne oktave i kvinte (pr. 2.99.a), a prijelaz u široki slog rezultirao bi u slijedećem taktu paralelnim velikim skokovima u svim gornjim glasovima (pr. 2.99.b).

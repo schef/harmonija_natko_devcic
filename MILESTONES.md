@@ -39,8 +39,19 @@ M02 partial progress: examples 2.1–2.71 (printed pages 11–37, PDF pages 6–
 are embedded and independently image-reviewed. Of 75 image parts, 51 pass as
 source-only crops and 24 as user-authorized manually retouched derivatives;
 original crops are preserved. See [the image-review hand-off](images/02-dijatonika-a/REVIEW.md).
-M02 remains incomplete: printed pages 38–63 and full-section text/preview review
-are still pending.
+
+Subsequent M02 checkpoint: prose on printed pages 38–44 and 46 is visually
+verified; examples 2.72–2.97 and all ten exercises on page 45 are reviewed and
+embedded (36 additional images: 31 source-only, five authorized retouched).
+The final GIMP cleanup of 2.97 passed independent review; no saved image remains
+pending. Resume on printed page 47 / PDF page 24 with example 2.98.
+Current total: **111 approved embedded image parts**, comprising 82 source-only
+crops and 29 reviewed retouched derivatives. All embedded image links resolve;
+original crops are preserved, and no image placeholders remain in the current
+chapter file. MuseScore transcriptions remain placeholders.
+
+M02 is not complete: printed pages 47–63 and full-section prose and rendered-preview
+review are still required. No further pages were started after the checkpoint.
 
 - **Milestone 1 — structure:** M01 is complete and its Markdown, image paths, and local preview have been reviewed.
 - **Milestone 2 — dijatonika:** M02–M04 are complete and cross-checked for continuous example numbering.

@@ -16,6 +16,17 @@ python tools/review_crop.py 2.66 --part d-e --page 35
 This saves `primjer-2-66-d-e.png` without overwriting `primjer-2-66.png`.
 The continuation image path must already be assigned in the chapter Markdown.
 
+For independently numbered exercises, include the printed page in the ID to
+avoid collisions with musical examples or later exercise sets:
+
+```bash
+python tools/review_crop.py 2.z45-1
+```
+
+This opens exercise 1 on printed page 45 and saves `zadatak-2-45-1.png`.
+The chapter must contain its caption, for example
+`*Zadatak 1. Melodija za harmonizaciju. Izvor: tiskana stranica 45.*`.
+
 List the examples available in a chapter before reviewing them:
 
 ```bash
