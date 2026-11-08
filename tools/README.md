@@ -1,10 +1,20 @@
 # Crop-review tool
 
-Use the interactive reviewer to refine an existing musical-example crop:
+Use the interactive reviewer to create a missing musical-example crop or refine
+an existing one:
 
 ```bash
 python tools/review_crop.py 2.48
 ```
+
+For a separately assigned continuation image on another printed page:
+
+```bash
+python tools/review_crop.py 2.66 --part d-e --page 35
+```
+
+This saves `primjer-2-66-d-e.png` without overwriting `primjer-2-66.png`.
+The continuation image path must already be assigned in the chapter Markdown.
 
 List the examples available in a chapter before reviewing them:
 
@@ -28,6 +38,11 @@ The tool reads `tools/crop-locations.json` to select a single rendered source
 page and starting rectangle, then displays it as a cyan rectangle. Drag inside
 the rectangle to move it, or drag a cyan corner to resize it. The right pane
 previews the exact source crop that will be written.
+
+If the crop has no manifest entry yet, the tool finds its printed source page
+from the Markdown caption and `sources/index.json`, and opens a generic starting
+rectangle for you to adjust. Neither the image nor its manifest entry is written
+until you explicitly save. Missing output directories are created on save.
 
 Every explicit save updates that image's local source-page rectangle in the
 manifest as well as writing the source-only PNG. No PDF rendering or template

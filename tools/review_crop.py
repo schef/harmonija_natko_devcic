@@ -28,7 +28,6 @@ def example_paths(example):
     section = "01-uvod" if chapter == "1" else "02-dijatonika-a"
     image = ROOT / "images" / section / f"primjer-{chapter}-{number}.png"
     markdown = ROOT / "chapters" / ("01-uvod.md" if chapter == "1" else "02-dijatonika-a.md")
-    assert image.is_file(), f"Missing crop: {image}"
     return image, markdown
 
 
@@ -136,7 +135,7 @@ def write_manifest(manifest):
 class CropReview:
     def __init__(self, root, example, source_path, crop_path, rectangle, printed, pdf_page, manifest):
         self.root, self.example, self.crop_path = root, example, crop_path
-        self.source = Image.open(source_path).convert("L")
+        self.source = Image.open(source_path).copy()
         self.rectangle, self.printed, self.pdf_page, self.scale = rectangle, printed, pdf_page, 0.28
         self.manifest = manifest
         self.drag_target = None
@@ -259,6 +258,7 @@ class CropReview:
         self.status.set(f"Crop: {self.rectangle[0]}, {self.rectangle[1]} → {self.rectangle[2]}, {self.rectangle[3]}  |  Drag rectangle to move; drag cyan corners to resize; Enter saves; Esc cancels.")
 
     def save(self):
+        self.crop_path.parent.mkdir(parents=True, exist_ok=True)
         self.source.crop(tuple(self.rectangle)).save(self.crop_path)
         self.manifest["images"][manifest_key(self.crop_path)]["rect"] = self.rectangle
         self.manifest["images"][manifest_key(self.crop_path)]["pdf_page"] = self.pdf_page
@@ -272,6 +272,8 @@ def main():
     parser.add_argument("example", nargs="?", help="Example number, for example 2.48")
     parser.add_argument("--list", choices=("1", "2"), metavar="CHAPTER", help="List available examples in a chapter")
     parser.add_argument("--compact", action="store_true", help="With --list, print space-separated example numbers only")
+    parser.add_argument("--part", help="Continuation filename suffix, for example d-e")
+    parser.add_argument("--page", type=int, help="Printed source page for a continuation (requires --part)")
     args = parser.parse_args()
     if args.list:
         examples = listed_examples(args.list)
@@ -284,10 +286,34 @@ def main():
     assert args.example, "Supply an example number, or use --list 1 / --list 2"
     image, markdown = example_paths(args.example)
     printed = printed_page(markdown, args.example)
+    if args.part or args.page is not None:
+        if not args.part or args.page is None:
+            parser.error("Continuation crops require both --part and --page")
+        if not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", args.part):
+            parser.error("--part must be a filename suffix such as d-e")
+        image = image.with_stem(f"{image.stem}-{args.part}")
+        if manifest_key(image) not in markdown.read_text():
+            parser.error("The continuation image path must already be assigned in the Markdown")
+        printed = args.page
     manifest = read_manifest()
     entry = manifest["images"].get(manifest_key(image))
-    assert entry, f"No manifest entry for {image}. Run python tools/build_crop_locations.py first."
+    if entry is None:
+        index = json.loads((ROOT / "sources" / "index.json").read_text())
+        page = next((page for page in index["pages"] if page["printed_page"] == printed), None)
+        assert page is not None, f"No source page found for printed page {printed}"
+        width, height = page["size"]
+        entry = {
+            "source_image": page["image"],
+            "source_page": page["source_page"],
+            "printed_page": printed,
+            "pdf_page": page["pdf_page"],
+            "rect": [width // 4, height // 4, 3 * width // 4, 3 * height // 4],
+        }
+        manifest["images"][manifest_key(image)] = entry
+        print("New crop: adjust the starting rectangle to the intended example. Nothing is written until Save crop.")
     assert "source_image" in entry, "Crop locations have not been migrated. Run python tools/split_source_pages.py first."
+    if args.page is not None and entry.get("printed_page") != printed:
+        parser.error("Requested page disagrees with the saved continuation location")
     assert "rect_on_spread" not in entry, f"{args.example} crosses a source-page seam and needs manual resolution before interactive review."
     source = ROOT / entry["source_image"]
     assert source.is_file(), f"Missing source page: {source}. Run python tools/split_source_pages.py first."

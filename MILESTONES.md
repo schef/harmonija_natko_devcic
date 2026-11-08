@@ -35,6 +35,13 @@ The detailed multi-agent workflow, including the mandatory independent score-ima
 
 ## Milestone completion
 
+M02 partial progress: examples 2.1–2.71 (printed pages 11–37, PDF pages 6–19)
+are embedded and independently image-reviewed. Of 75 image parts, 51 pass as
+source-only crops and 24 as user-authorized manually retouched derivatives;
+original crops are preserved. See [the image-review hand-off](images/02-dijatonika-a/REVIEW.md).
+M02 remains incomplete: printed pages 38–63 and full-section text/preview review
+are still pending.
+
 - **Milestone 1 — structure:** M01 is complete and its Markdown, image paths, and local preview have been reviewed.
 - **Milestone 2 — dijatonika:** M02–M04 are complete and cross-checked for continuous example numbering.
 - **Milestone 3 — kromatika i enharmonija:** M05–M07 are complete and cross-checked.
