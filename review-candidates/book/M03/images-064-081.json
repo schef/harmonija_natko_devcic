@@ -1,0 +1,1226 @@
+[
+  {
+    "id": "primjer-2-134",
+    "example": "2.134",
+    "kind": "example",
+    "printed_page": 64,
+    "pdf_page": 33,
+    "source_image": "sources/pages/page-064.png",
+    "rect": [
+      605,
+      876,
+      1223,
+      1075
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-134.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 2.134. Tiskana str. 64."
+  },
+  {
+    "id": "primjer-2-135",
+    "example": "2.135",
+    "kind": "example",
+    "printed_page": 65,
+    "pdf_page": 33,
+    "source_image": "sources/pages/page-065.png",
+    "rect": [
+      214,
+      99,
+      1729,
+      940
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-135.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup_required: original source handwriting/layout retained without retouching. Cleanup required: handwriting above/among variants a–d; retained original pixels.",
+    "caption": "Primjer 2.135. Tiskana str. 65."
+  },
+  {
+    "id": "primjer-2-136",
+    "example": "2.136",
+    "kind": "example",
+    "printed_page": 65,
+    "pdf_page": 33,
+    "source_image": "sources/pages/page-065.png",
+    "rect": [
+      268,
+      1384,
+      1600,
+      1808
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-136.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 2.136. Tiskana str. 65."
+  },
+  {
+    "id": "primjer-2-137",
+    "example": "2.137",
+    "kind": "example",
+    "printed_page": 65,
+    "pdf_page": 33,
+    "source_image": "sources/pages/page-065.png",
+    "rect": [
+      551,
+      1943,
+      1403,
+      2368
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-137.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 2.137. Tiskana str. 65."
+  },
+  {
+    "id": "primjer-2-138",
+    "example": "2.138",
+    "kind": "example",
+    "printed_page": 66,
+    "pdf_page": 34,
+    "source_image": "sources/pages/page-066.png",
+    "rect": [
+      161,
+      364,
+      1679,
+      785
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-138.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup_required: original source handwriting/layout retained without retouching. Cleanup required: pencil marks among lower figures.",
+    "caption": "Primjer 2.138. Tiskana str. 66."
+  },
+  {
+    "id": "primjer-2-139",
+    "example": "2.139",
+    "kind": "example",
+    "printed_page": 66,
+    "pdf_page": 34,
+    "source_image": "sources/pages/page-066.png",
+    "rect": [
+      380,
+      1076,
+      1466,
+      1490
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-139.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 2.139. Tiskana str. 66."
+  },
+  {
+    "id": "primjer-2-140-p66",
+    "example": "2.140.a–b",
+    "kind": "example",
+    "printed_page": 66,
+    "pdf_page": 34,
+    "source_image": "sources/pages/page-066.png",
+    "rect": [
+      159,
+      1935,
+      1679,
+      2354
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-140-p66.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup_required: original source handwriting/layout retained without retouching. Cross-page example, variants a–b. Cleanup required: pencil marks among lower figures.",
+    "caption": "Primjer 2.140.a–b. Tiskana str. 66."
+  },
+  {
+    "id": "primjer-2-140-p67",
+    "example": "2.140.c",
+    "kind": "example",
+    "printed_page": 67,
+    "pdf_page": 34,
+    "source_image": "sources/pages/page-067.png",
+    "rect": [
+      590,
+      119,
+      1403,
+      514
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-140-p67.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup_required: original source handwriting/layout retained without retouching. Cross-page continuation c; number printed on preceding page. Pencil analysis below bass overlaps crop.",
+    "caption": "Primjer 2.140.c. Tiskana str. 67."
+  },
+  {
+    "id": "primjer-2-141",
+    "example": "2.141",
+    "kind": "example",
+    "printed_page": 67,
+    "pdf_page": 34,
+    "source_image": "sources/pages/page-067.png",
+    "rect": [
+      387,
+      549,
+      1595,
+      958
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-141.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup_required: original source handwriting/layout retained without retouching. Cleanup required: pencil circle around NE and analysis among lower figures.",
+    "caption": "Primjer 2.141. Tiskana str. 67."
+  },
+  {
+    "id": "primjer-2-142",
+    "example": "2.142",
+    "kind": "example",
+    "printed_page": 67,
+    "pdf_page": 34,
+    "source_image": "sources/pages/page-067.png",
+    "rect": [
+      651,
+      1537,
+      1346,
+      1917
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-142.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup_required: faint source handwriting above the staff; no pixel alteration.",
+    "caption": "Primjer 2.142. Tiskana str. 67."
+  },
+  {
+    "id": "primjer-2-143-p67",
+    "example": "2.143.a–b",
+    "kind": "example",
+    "printed_page": 67,
+    "pdf_page": 34,
+    "source_image": "sources/pages/page-067.png",
+    "rect": [
+      239,
+      1953,
+      1753,
+      2385
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-143-p67.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup_required: original source handwriting/layout retained without retouching. Cross-page example a–b; pencil annotations overlap original example.",
+    "caption": "Primjer 2.143.a–b. Tiskana str. 67."
+  },
+  {
+    "id": "primjer-2-143-p68",
+    "example": "2.143.c",
+    "kind": "example",
+    "printed_page": 68,
+    "pdf_page": 35,
+    "source_image": "sources/pages/page-068.png",
+    "rect": [
+      149,
+      124,
+      1689,
+      706
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-143-p68.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup_required: original source handwriting/layout retained without retouching. Cross-page continuation c; number printed on preceding page. Pencil marks below staff.",
+    "caption": "Primjer 2.143.c. Tiskana str. 68."
+  },
+  {
+    "id": "primjer-2-144",
+    "example": "2.144",
+    "kind": "example",
+    "printed_page": 68,
+    "pdf_page": 35,
+    "source_image": "sources/pages/page-068.png",
+    "rect": [
+      142,
+      1170,
+      1687,
+      2009
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-144.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup_required: original source handwriting/layout retained without retouching. Cleanup required: pencil harmonic annotations among figures.",
+    "caption": "Primjer 2.144. Tiskana str. 68."
+  },
+  {
+    "id": "zadatak-2-68-progresija-1",
+    "example": "ZADACI: progresija I—II₆—V—I s kadencirajućim kvartsekstakordom",
+    "kind": "exercise",
+    "printed_page": 68,
+    "pdf_page": 35,
+    "source_image": "sources/pages/page-068.png",
+    "rect": [
+      725,
+      2128,
+      1037,
+      2234
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-68-progresija-1.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "ZADACI: progresija I—II₆—V—I s kadencirajućim kvartsekstakordom Tiskana str. 68."
+  },
+  {
+    "id": "zadatak-2-68-progresija-2",
+    "example": "ZADACI: progresija I—II₆—V—VI—II₆—V—I s kadencirajućim kvartsekstakordom",
+    "kind": "exercise",
+    "printed_page": 68,
+    "pdf_page": 35,
+    "source_image": "sources/pages/page-068.png",
+    "rect": [
+      357,
+      2237,
+      920,
+      2339
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-68-progresija-2.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "ZADACI: progresija I—II₆—V—VI—II₆—V—I s kadencirajućim kvartsekstakordom Tiskana str. 68."
+  },
+  {
+    "id": "primjer-2-145",
+    "example": "2.145",
+    "kind": "example",
+    "printed_page": 69,
+    "pdf_page": 35,
+    "source_image": "sources/pages/page-069.png",
+    "rect": [
+      326,
+      774,
+      1656,
+      1209
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-145.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup_required: original source handwriting/layout retained without retouching. Cleanup required: handwritten analysis between labels/staves.",
+    "caption": "Primjer 2.145. Tiskana str. 69."
+  },
+  {
+    "id": "primjer-2-146",
+    "example": "2.146",
+    "kind": "example",
+    "printed_page": 69,
+    "pdf_page": 35,
+    "source_image": "sources/pages/page-069.png",
+    "rect": [
+      634,
+      1537,
+      1372,
+      1938
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-146.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup_required: original source handwriting/layout retained without retouching. Cleanup required: pencil wavy line beside printed NE.",
+    "caption": "Primjer 2.146. Tiskana str. 69."
+  },
+  {
+    "id": "primjer-2-147",
+    "example": "2.147",
+    "kind": "example",
+    "printed_page": 69,
+    "pdf_page": 35,
+    "source_image": "sources/pages/page-069.png",
+    "rect": [
+      230,
+      1956,
+      1755,
+      2369
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-147.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup_required: original source handwriting/layout retained without retouching. Cleanup required: pencil analysis under figures.",
+    "caption": "Primjer 2.147. Tiskana str. 69."
+  },
+  {
+    "id": "primjer-2-148",
+    "example": "2.148",
+    "kind": "example",
+    "printed_page": 70,
+    "pdf_page": 36,
+    "source_image": "sources/pages/page-070.png",
+    "rect": [
+      167,
+      745,
+      1707,
+      1585
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-148.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup_required: original source handwriting/layout retained without retouching. Cleanup required: faint pencil annotations among figured bass.",
+    "caption": "Primjer 2.148. Tiskana str. 70."
+  },
+  {
+    "id": "primjer-2-149",
+    "example": "2.149",
+    "kind": "example",
+    "printed_page": 71,
+    "pdf_page": 36,
+    "source_image": "sources/pages/page-071.png",
+    "rect": [
+      433,
+      113,
+      1528,
+      536
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-149.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup_required: original faint handwritten analysis near the lower edge; printed notation intact.",
+    "caption": "Primjer 2.149. Tiskana str. 71."
+  },
+  {
+    "id": "primjer-2-150",
+    "example": "2.150",
+    "kind": "example",
+    "printed_page": 71,
+    "pdf_page": 36,
+    "source_image": "sources/pages/page-071.png",
+    "rect": [
+      433,
+      1034,
+      1528,
+      1446
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-150.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup_required: original source handwriting/layout retained without retouching. Cleanup required: pencil check mark beside b and marks among notes.",
+    "caption": "Primjer 2.150. Tiskana str. 71."
+  },
+  {
+    "id": "primjer-2-151-p71",
+    "example": "2.151.a–d",
+    "kind": "example",
+    "printed_page": 71,
+    "pdf_page": 36,
+    "source_image": "sources/pages/page-071.png",
+    "rect": [
+      232,
+      1956,
+      1746,
+      2378
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-151-p71.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup_required: original source handwriting/layout retained without retouching. Cross-page a–d. Pencil analysis below figures.",
+    "caption": "Primjer 2.151.a–d. Tiskana str. 71."
+  },
+  {
+    "id": "primjer-2-151-p72",
+    "example": "2.151.e–g",
+    "kind": "example",
+    "printed_page": 72,
+    "pdf_page": 37,
+    "source_image": "sources/pages/page-072.png",
+    "rect": [
+      388,
+      135,
+      1440,
+      560
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-151-p72.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup_required: original source handwriting/layout retained without retouching. Cross-page e–g; number on preceding page. Pencil analysis below figures.",
+    "caption": "Primjer 2.151.e–g. Tiskana str. 72."
+  },
+  {
+    "id": "primjer-2-152",
+    "example": "2.152",
+    "kind": "example",
+    "printed_page": 72,
+    "pdf_page": 37,
+    "source_image": "sources/pages/page-072.png",
+    "rect": [
+      182,
+      1401,
+      1700,
+      1806
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-152.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup_required: original faint handwritten analysis near the lower edge; printed notation intact.",
+    "caption": "Primjer 2.152. Tiskana str. 72."
+  },
+  {
+    "id": "zadatak-2-72-1",
+    "example": "ZADACI 1",
+    "kind": "exercise",
+    "printed_page": 72,
+    "pdf_page": 37,
+    "source_image": "sources/pages/page-072.png",
+    "rect": [
+      182,
+      2029,
+      1699,
+      2199
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-72-1.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "ZADACI 1 Tiskana str. 72."
+  },
+  {
+    "id": "zadatak-2-72-2",
+    "example": "ZADACI 2",
+    "kind": "exercise",
+    "printed_page": 72,
+    "pdf_page": 37,
+    "source_image": "sources/pages/page-072.png",
+    "rect": [
+      182,
+      2217,
+      1699,
+      2401
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-72-2.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "ZADACI 2 Tiskana str. 72."
+  },
+  {
+    "id": "zadatak-2-73-3",
+    "example": "ZADACI 3",
+    "kind": "exercise",
+    "printed_page": 73,
+    "pdf_page": 37,
+    "source_image": "sources/pages/page-073.png",
+    "rect": [
+      223,
+      134,
+      1741,
+      302
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-73-3.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "ZADACI 3 Tiskana str. 73."
+  },
+  {
+    "id": "zadatak-2-73-4",
+    "example": "ZADACI 4",
+    "kind": "exercise",
+    "printed_page": 73,
+    "pdf_page": 37,
+    "source_image": "sources/pages/page-073.png",
+    "rect": [
+      228,
+      323,
+      1739,
+      500
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-73-4.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "ZADACI 4 Tiskana str. 73."
+  },
+  {
+    "id": "zadatak-2-73-5",
+    "example": "ZADACI 5",
+    "kind": "exercise",
+    "printed_page": 73,
+    "pdf_page": 37,
+    "source_image": "sources/pages/page-073.png",
+    "rect": [
+      228,
+      521,
+      1741,
+      702
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-73-5.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "ZADACI 5 Tiskana str. 73."
+  },
+  {
+    "id": "zadatak-2-73-6",
+    "example": "ZADACI 6",
+    "kind": "exercise",
+    "printed_page": 73,
+    "pdf_page": 37,
+    "source_image": "sources/pages/page-073.png",
+    "rect": [
+      228,
+      733,
+      1739,
+      913
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-73-6.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "ZADACI 6 Tiskana str. 73."
+  },
+  {
+    "id": "zadatak-2-73-7",
+    "example": "ZADACI 7",
+    "kind": "exercise",
+    "printed_page": 73,
+    "pdf_page": 37,
+    "source_image": "sources/pages/page-073.png",
+    "rect": [
+      228,
+      917,
+      1741,
+      1096
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-73-7.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "ZADACI 7 Tiskana str. 73."
+  },
+  {
+    "id": "zadatak-2-73-8",
+    "example": "ZADACI 8",
+    "kind": "exercise",
+    "printed_page": 73,
+    "pdf_page": 37,
+    "source_image": "sources/pages/page-073.png",
+    "rect": [
+      228,
+      1115,
+      1741,
+      1306
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-73-8.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "ZADACI 8 Tiskana str. 73."
+  },
+  {
+    "id": "zadatak-2-73-9",
+    "example": "ZADACI 9",
+    "kind": "exercise",
+    "printed_page": 73,
+    "pdf_page": 37,
+    "source_image": "sources/pages/page-073.png",
+    "rect": [
+      228,
+      1314,
+      1741,
+      1443
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-73-9.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "ZADACI 9 Tiskana str. 73."
+  },
+  {
+    "id": "zadatak-2-73-10",
+    "example": "ZADACI 10",
+    "kind": "exercise",
+    "printed_page": 73,
+    "pdf_page": 37,
+    "source_image": "sources/pages/page-073.png",
+    "rect": [
+      221,
+      1512,
+      1741,
+      1674
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-73-10.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "ZADACI 10 Tiskana str. 73."
+  },
+  {
+    "id": "zadatak-2-73-11",
+    "example": "ZADACI 11",
+    "kind": "exercise",
+    "printed_page": 73,
+    "pdf_page": 37,
+    "source_image": "sources/pages/page-073.png",
+    "rect": [
+      221,
+      1703,
+      1738,
+      1840
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-73-11.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "ZADACI 11 Tiskana str. 73."
+  },
+  {
+    "id": "zadatak-2-73-12",
+    "example": "ZADACI 12",
+    "kind": "exercise",
+    "printed_page": 73,
+    "pdf_page": 37,
+    "source_image": "sources/pages/page-073.png",
+    "rect": [
+      221,
+      1893,
+      1739,
+      2051
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-73-12.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "ZADACI 12 Tiskana str. 73."
+  },
+  {
+    "id": "zadatak-2-73-13",
+    "example": "ZADACI 13",
+    "kind": "exercise",
+    "printed_page": 73,
+    "pdf_page": 37,
+    "source_image": "sources/pages/page-073.png",
+    "rect": [
+      220,
+      2070,
+      1738,
+      2417
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-73-13.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "ZADACI 13 Tiskana str. 73."
+  },
+  {
+    "id": "zadatak-2-74-14",
+    "example": "ZADACI 14",
+    "kind": "exercise",
+    "printed_page": 74,
+    "pdf_page": 38,
+    "source_image": "sources/pages/page-074.png",
+    "rect": [
+      176,
+      117,
+      1698,
+      268
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-74-14.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "ZADACI 14 Tiskana str. 74."
+  },
+  {
+    "id": "zadatak-2-74-15",
+    "example": "ZADACI 15",
+    "kind": "exercise",
+    "printed_page": 74,
+    "pdf_page": 38,
+    "source_image": "sources/pages/page-074.png",
+    "rect": [
+      176,
+      309,
+      1697,
+      467
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-74-15.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "ZADACI 15 Tiskana str. 74."
+  },
+  {
+    "id": "zadatak-2-74-16",
+    "example": "ZADACI 16",
+    "kind": "exercise",
+    "printed_page": 74,
+    "pdf_page": 38,
+    "source_image": "sources/pages/page-074.png",
+    "rect": [
+      178,
+      494,
+      1698,
+      663
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-74-16.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "ZADACI 16 Tiskana str. 74."
+  },
+  {
+    "id": "zadatak-2-74-17",
+    "example": "ZADACI 17",
+    "kind": "exercise",
+    "printed_page": 74,
+    "pdf_page": 38,
+    "source_image": "sources/pages/page-074.png",
+    "rect": [
+      176,
+      697,
+      1697,
+      854
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-74-17.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "ZADACI 17 Tiskana str. 74."
+  },
+  {
+    "id": "zadatak-2-74-18",
+    "example": "ZADACI 18",
+    "kind": "exercise",
+    "printed_page": 74,
+    "pdf_page": 38,
+    "source_image": "sources/pages/page-074.png",
+    "rect": [
+      178,
+      878,
+      1698,
+      1043
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-74-18.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "ZADACI 18 Tiskana str. 74."
+  },
+  {
+    "id": "zadatak-2-74-19",
+    "example": "ZADACI 19",
+    "kind": "exercise",
+    "printed_page": 74,
+    "pdf_page": 38,
+    "source_image": "sources/pages/page-074.png",
+    "rect": [
+      178,
+      1066,
+      1698,
+      1230
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-74-19.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "ZADACI 19 Tiskana str. 74."
+  },
+  {
+    "id": "zadatak-2-74-20",
+    "example": "ZADACI 20",
+    "kind": "exercise",
+    "printed_page": 74,
+    "pdf_page": 38,
+    "source_image": "sources/pages/page-074.png",
+    "rect": [
+      176,
+      1260,
+      1696,
+      1427
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-74-20.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "ZADACI 20 Tiskana str. 74."
+  },
+  {
+    "id": "zadatak-2-74-21",
+    "example": "ZADACI 21",
+    "kind": "exercise",
+    "printed_page": 74,
+    "pdf_page": 38,
+    "source_image": "sources/pages/page-074.png",
+    "rect": [
+      176,
+      1452,
+      1693,
+      1615
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-74-21.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "ZADACI 21 Tiskana str. 74."
+  },
+  {
+    "id": "zadatak-2-74-22",
+    "example": "ZADACI 22",
+    "kind": "exercise",
+    "printed_page": 74,
+    "pdf_page": 38,
+    "source_image": "sources/pages/page-074.png",
+    "rect": [
+      176,
+      1639,
+      1693,
+      1805
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-74-22.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "ZADACI 22 Tiskana str. 74."
+  },
+  {
+    "id": "zadatak-2-74-8-realizacija",
+    "example": "Realizacija zadatka 8.",
+    "kind": "realization",
+    "printed_page": 74,
+    "pdf_page": 38,
+    "source_image": "sources/pages/page-074.png",
+    "rect": [
+      157,
+      1887,
+      1697,
+      2373
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-74-8-realizacija.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Identifying title retained above the complete realization.",
+    "caption": "Realizacija zadatka 8. Tiskana str. 74."
+  },
+  {
+    "id": "zadatak-2-75-13-realizacija",
+    "example": "Realizacija zadatka 13.",
+    "kind": "realization",
+    "printed_page": 75,
+    "pdf_page": 38,
+    "source_image": "sources/pages/page-075.png",
+    "rect": [
+      196,
+      108,
+      1736,
+      1006
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-75-13-realizacija.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Identifying title and both systems retained.",
+    "caption": "Realizacija zadatka 13. Tiskana str. 75."
+  },
+  {
+    "id": "primjer-2-153",
+    "example": "2.153",
+    "kind": "example",
+    "printed_page": 76,
+    "pdf_page": 39,
+    "source_image": "sources/pages/page-076.png",
+    "rect": [
+      194,
+      1076,
+      1696,
+      1289
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-153.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup_required: original source handwriting/layout retained without retouching. Cleanup required: handwritten chord names above notes and analysis below.",
+    "caption": "Primjer 2.153. Tiskana str. 76."
+  },
+  {
+    "id": "primjer-2-154-p76",
+    "example": "2.154.a–e",
+    "kind": "example",
+    "printed_page": 76,
+    "pdf_page": 39,
+    "source_image": "sources/pages/page-076.png",
+    "rect": [
+      178,
+      1949,
+      1697,
+      2372
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-154-p76.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup_required: original source handwriting/layout retained without retouching. Cross-page a–e. Cleanup required: handwriting around labels and circled analysis.",
+    "caption": "Primjer 2.154.a–e. Tiskana str. 76."
+  },
+  {
+    "id": "primjer-2-154-p77",
+    "example": "2.154.f–g",
+    "kind": "example",
+    "printed_page": 77,
+    "pdf_page": 39,
+    "source_image": "sources/pages/page-077.png",
+    "rect": [
+      581,
+      100,
+      1401,
+      511
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-154-p77.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup_required: original source handwriting/layout retained without retouching. Cross-page f–g, number on preceding page. Handwriting near labels.",
+    "caption": "Primjer 2.154.f–g. Tiskana str. 77."
+  },
+  {
+    "id": "primjer-2-155",
+    "example": "2.155",
+    "kind": "example",
+    "printed_page": 77,
+    "pdf_page": 39,
+    "source_image": "sources/pages/page-077.png",
+    "rect": [
+      546,
+      792,
+      1401,
+      1169
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-155.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup_required: original source handwriting/layout retained without retouching. Cleanup required: handwritten chord labels above printed variants.",
+    "caption": "Primjer 2.155. Tiskana str. 77."
+  },
+  {
+    "id": "primjer-2-156",
+    "example": "2.156",
+    "kind": "example",
+    "printed_page": 77,
+    "pdf_page": 39,
+    "source_image": "sources/pages/page-077.png",
+    "rect": [
+      400,
+      1469,
+      1490,
+      1876
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-156.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup_required: original source handwriting/layout retained without retouching. Cleanup required: handwriting beside labels.",
+    "caption": "Primjer 2.156. Tiskana str. 77."
+  },
+  {
+    "id": "primjer-2-157",
+    "example": "2.157",
+    "kind": "example",
+    "printed_page": 78,
+    "pdf_page": 40,
+    "source_image": "sources/pages/page-078.png",
+    "rect": [
+      182,
+      404,
+      1701,
+      788
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-157.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup_required: original source handwriting/layout retained without retouching. Cleanup required: handwriting intersects notes and bass, not removable by rectangle.",
+    "caption": "Primjer 2.157. Tiskana str. 78."
+  },
+  {
+    "id": "primjer-2-158",
+    "example": "2.158",
+    "kind": "example",
+    "printed_page": 78,
+    "pdf_page": 40,
+    "source_image": "sources/pages/page-078.png",
+    "rect": [
+      181,
+      1058,
+      1698,
+      1426
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-158.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup_required: original source handwriting/layout retained without retouching. Cleanup required: pencil harmonic annotations around notation.",
+    "caption": "Primjer 2.158. Tiskana str. 78."
+  },
+  {
+    "id": "primjer-2-159",
+    "example": "2.159",
+    "kind": "example",
+    "printed_page": 78,
+    "pdf_page": 40,
+    "source_image": "sources/pages/page-078.png",
+    "rect": [
+      164,
+      2021,
+      992,
+      2367
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-159.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup_required: original source handwriting/layout retained without retouching. Cleanup required: pencil arrow near b.",
+    "caption": "Primjer 2.159. Tiskana str. 78."
+  },
+  {
+    "id": "primjer-2-160",
+    "example": "2.160",
+    "kind": "example",
+    "printed_page": 78,
+    "pdf_page": 40,
+    "source_image": "sources/pages/page-078.png",
+    "rect": [
+      1044,
+      2043,
+      1683,
+      2356
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-160.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup_required: original source handwriting/layout retained without retouching. Cleanup required: pencil writing above soprano.",
+    "caption": "Primjer 2.160. Tiskana str. 78."
+  },
+  {
+    "id": "primjer-2-161",
+    "example": "2.161",
+    "kind": "example",
+    "printed_page": 79,
+    "pdf_page": 40,
+    "source_image": "sources/pages/page-079.png",
+    "rect": [
+      204,
+      427,
+      1719,
+      806
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-161.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup_required: original source handwriting/layout retained without retouching. Cleanup required: handwritten analysis between staves.",
+    "caption": "Primjer 2.161. Tiskana str. 79."
+  },
+  {
+    "id": "primjer-2-162",
+    "example": "2.162",
+    "kind": "example",
+    "printed_page": 79,
+    "pdf_page": 40,
+    "source_image": "sources/pages/page-079.png",
+    "rect": [
+      564,
+      1369,
+      1308,
+      1709
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-162.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup_required: original source handwriting/layout retained without retouching. Cleanup required: handwritten chord names near variants.",
+    "caption": "Primjer 2.162. Tiskana str. 79."
+  },
+  {
+    "id": "primjer-2-163",
+    "example": "2.163",
+    "kind": "example",
+    "printed_page": 80,
+    "pdf_page": 41,
+    "source_image": "sources/pages/page-080.png",
+    "rect": [
+      187,
+      130,
+      1708,
+      1005
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-163.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup_required: original source handwriting/layout retained without retouching. Cleanup required: handwriting near labels and harmonic analysis.",
+    "caption": "Primjer 2.163. Tiskana str. 80."
+  },
+  {
+    "id": "primjer-2-164",
+    "example": "2.164",
+    "kind": "example",
+    "printed_page": 80,
+    "pdf_page": 41,
+    "source_image": "sources/pages/page-080.png",
+    "rect": [
+      269,
+      1368,
+      1539,
+      1803
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-164.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup_required: original source handwriting/layout retained without retouching. Cleanup required: handwritten chord names over bracket and analysis below.",
+    "caption": "Primjer 2.164. Tiskana str. 80."
+  },
+  {
+    "id": "primjer-2-165",
+    "example": "2.165",
+    "kind": "example",
+    "printed_page": 80,
+    "pdf_page": 41,
+    "source_image": "sources/pages/page-080.png",
+    "rect": [
+      196,
+      1872,
+      1048,
+      2323
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-165.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup_required: original source handwriting/layout retained without retouching. Cleanup required: pencil circles on bass notes.",
+    "caption": "Primjer 2.165. Tiskana str. 80."
+  },
+  {
+    "id": "primjer-2-166",
+    "example": "2.166",
+    "kind": "example",
+    "printed_page": 80,
+    "pdf_page": 41,
+    "source_image": "sources/pages/page-080.png",
+    "rect": [
+      1085,
+      1871,
+      1721,
+      2384
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-166.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup_required: original source handwriting/layout retained without retouching. Cleanup required: handwriting between attribution and staff.",
+    "caption": "Primjer 2.166. Tiskana str. 80."
+  },
+  {
+    "id": "primjer-2-167",
+    "example": "2.167",
+    "kind": "example",
+    "printed_page": 81,
+    "pdf_page": 41,
+    "source_image": "sources/pages/page-081.png",
+    "rect": [
+      218,
+      427,
+      1733,
+      947
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-167.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 2.167. Tiskana str. 81."
+  },
+  {
+    "id": "zadatak-2-81-1",
+    "example": "ZADACI 1",
+    "kind": "exercise",
+    "printed_page": 81,
+    "pdf_page": 41,
+    "source_image": "sources/pages/page-081.png",
+    "rect": [
+      221,
+      1221,
+      1725,
+      1396
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-81-1.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "ZADACI 1 Tiskana str. 81."
+  },
+  {
+    "id": "zadatak-2-81-2",
+    "example": "ZADACI 2",
+    "kind": "exercise",
+    "printed_page": 81,
+    "pdf_page": 41,
+    "source_image": "sources/pages/page-081.png",
+    "rect": [
+      212,
+      1404,
+      1725,
+      1868
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-81-2.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "ZADACI 2 Tiskana str. 81."
+  },
+  {
+    "id": "zadatak-2-81-3",
+    "example": "ZADACI 3",
+    "kind": "exercise",
+    "printed_page": 81,
+    "pdf_page": 41,
+    "source_image": "sources/pages/page-081.png",
+    "rect": [
+      218,
+      1885,
+      1725,
+      2025
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-81-3.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "ZADACI 3 Tiskana str. 81."
+  },
+  {
+    "id": "zadatak-2-81-4",
+    "example": "ZADACI 4",
+    "kind": "exercise",
+    "printed_page": 81,
+    "pdf_page": 41,
+    "source_image": "sources/pages/page-081.png",
+    "rect": [
+      210,
+      2050,
+      1725,
+      2390
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-81-4.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "ZADACI 4 Tiskana str. 81."
+  }
+]

@@ -1,0 +1,136 @@
+{
+  "assignment": "TEXT-ONLY: printed 224–240, PDF 113–121",
+  "text_file": "review-candidates/book/M06/text-224-240.md",
+  "verification_method": "Every assigned sources/pages/page-NNN.png opened visually; all prose, headings, exercise instructions, footnotes and references compared with source pixels. PNG-derived OCR drafts consulted only as drafts. No embedded PDF OCR used.",
+  "pdf_page_numbering": "1-based source index, checked against review-candidates/book/ocr/index.json; each PDF page contains two printed pages.",
+  "scope": "Text and visual-location placeholders only. No score extraction, crop approval, chapter integration or shared-file edits.",
+  "boundary_checks": {
+    "223/224": "Opened page-223.png for context. Page 223 ends a complete paragraph referring to examples 3.117–3.120; page 224 starts with 3.117. No missing prose continuation at the boundary.",
+    "240/241": "Opened page-241.png for context. Page 240 ends mid-paragraph with 'Prema'; page 241 starts 'tome, vidimo, da je smanjeni septakord'. Continuation explicitly marked, not transcribed beyond assignment."
+  },
+  "pages": [
+    {
+      "printed_page": 224,
+      "pdf_page": 113,
+      "source_image": "sources/pages/page-224.png",
+      "verified": true,
+      "notes": "Score-only page: slots for 3.117, 3.118, 3.119. Composer/work attributions belong to their score visuals (Mozart K.V. 332; Beethoven op. 13; Schubert op. 120). No running prose."
+    },
+    {
+      "printed_page": 225,
+      "pdf_page": 113,
+      "source_image": "sources/pages/page-225.png",
+      "verified": true,
+      "notes": "3.120 (Schubert op. 53), ZADACI heading, full instruction 1 and individual slots for exercises 2–7 checked. Bottom printer's signature excluded."
+    },
+    {
+      "printed_page": 226,
+      "pdf_page": 114,
+      "source_image": "sources/pages/page-226.png",
+      "verified": true,
+      "notes": "Score-only exercise page, continuing preceding ZADACI. Individual slots 8–19; no running prose."
+    },
+    {
+      "printed_page": 227,
+      "pdf_page": 114,
+      "source_image": "sources/pages/page-227.png",
+      "verified": true,
+      "notes": "Both realization labels (7 and 12), both visual slots, and entire asterisk note below realization 7 checked, including quoted cis/c/a and reference to bars 7–8."
+    },
+    {
+      "printed_page": 228,
+      "pdf_page": 115,
+      "source_image": "sources/pages/page-228.png",
+      "verified": true,
+      "notes": "Both introductory paragraphs, chapter/subchapter headings and entire beginning of paragraph on sekstakord/kvintsekstakord checked. Source heading's unusual 'terckvartsekstakorda' and missing comma after 'sekstakorda' preserved. Handwritten underlining/annotations excluded. Final sentence continues on 229 after example 3.121."
+    },
+    {
+      "printed_page": 229,
+      "pdf_page": 115,
+      "source_image": "sources/pages/page-229.png",
+      "verified": true,
+      "notes": "Continued paragraph from 228 and final Analogno paragraph checked in full. Slots 3.121 a/b, 3.122 a/b and 3.123 in source order."
+    },
+    {
+      "printed_page": 230,
+      "pdf_page": 116,
+      "source_image": "sources/pages/page-230.png",
+      "verified": true,
+      "notes": "Entire paragraph beginning Potpuno isti checked; slots 3.124, 3.125 a/b/c before prose and 3.126, 3.127 a/b after prose."
+    },
+    {
+      "printed_page": 231,
+      "pdf_page": 116,
+      "source_image": "sources/pages/page-231.png",
+      "verified": true,
+      "notes": "All prose checked, including paragraph interrupted by 3.128. Printed reference '3.124.a' retained although preceding example 3.124 has no lettered variant. Tone spellings des-f-as-h, des-f-as-ces and f-a-c preserved. Slots 3.128 a/b and 3.129."
+    },
+    {
+      "printed_page": 232,
+      "pdf_page": 117,
+      "source_image": "sources/pages/page-232.png",
+      "verified": true,
+      "notes": "Slots 3.130 a/b/c (b Mozart K.V. 310, c Schubert op. 164) and 3.131; asterisk note on second eighth notes transcribed separately in its printed location. Bottom paragraph checked. Cross-page word 'po-/laznom' dehyphenated as 'polaznom' on 232, with explicit boundary note before remaining sentence on 233."
+    },
+    {
+      "printed_page": 233,
+      "pdf_page": 117,
+      "source_image": "sources/pages/page-233.png",
+      "verified": true,
+      "notes": "Continuation from 232 and entire final paragraph checked. Source lowercase 'u' after '(pr. 3.132).' preserved. Inline progression transcribed with Roman numerals, double-sharp and figured-bass 6/5 and 6/4. Slots 3.132 a/b and 3.133 (Schubert op. 53). Final sentence continues after 3.134 on 234."
+    },
+    {
+      "printed_page": 234,
+      "pdf_page": 118,
+      "source_image": "sources/pages/page-234.png",
+      "verified": true,
+      "notes": "Continuation from 233, all prose introducing terckvartakord and slots 3.134 a/b/c, 3.135 a/b checked. Printed bold lead-in 'erharmonijske' retained. Source line break 'po-/tercama' represented as 'po tercama'. Final paragraph continues on 235. Score attribution Rimski-Korsakov, Simfonijska suita »Šeherezada« belongs to visual."
+    },
+    {
+      "printed_page": 235,
+      "pdf_page": 118,
+      "source_image": "sources/pages/page-235.png",
+      "verified": true,
+      "notes": "All four prose portions checked: continuation, modulation procedure, secondary-dominant paragraph and final beginning continued on 236. Printed 'u intervale velike sekunde' preserved. Slots 3.136 a–f and 3.137 a/b."
+    },
+    {
+      "printed_page": 236,
+      "pdf_page": 119,
+      "source_image": "sources/pages/page-236.png",
+      "verified": true,
+      "notes": "Continuation from 235 and complete Chopin Fantazija op. 49 paragraph, all modulation types/keys/bar references checked. Slots 3.138 a/b and 3.139 a; latter's reduction continues with b on 237."
+    },
+    {
+      "printed_page": 237,
+      "pdf_page": 119,
+      "source_image": "sources/pages/page-237.png",
+      "verified": true,
+      "notes": "3.139 b slot, both full analytical paragraphs, ZADACI heading and entire instruction 1 checked. Tone sequences cis-cizis, e-eis, g-h-d-eis, g-cizis and Ais-dur verified from pixels. Individual exercise slots 2 and 3."
+    },
+    {
+      "printed_page": 238,
+      "pdf_page": 120,
+      "source_image": "sources/pages/page-238.png",
+      "verified": true,
+      "notes": "Score-only exercise page: individual slots 4–12. Exercises 6 and 11 each include two systems within their respective single slots. No running prose."
+    },
+    {
+      "printed_page": 239,
+      "pdf_page": 120,
+      "source_image": "sources/pages/page-239.png",
+      "verified": true,
+      "notes": "Individual exercise slots 13–17 checked (17 has two systems). Label 'Realizacija zadatka 7.' and its two-system score slot checked. No other running prose."
+    },
+    {
+      "printed_page": 240,
+      "pdf_page": 121,
+      "source_image": "sources/pages/page-240.png",
+      "verified": true,
+      "notes": "Label 'Realizacija zadatka 11.', its three-system score slot, 3.7.2 heading and full printed portion of opening paragraph checked. All inversion terms and 3.140.a–d references preserved. Ends at 'Prema', with explicit continuation to 241."
+    }
+  ],
+  "unreadable_text": [],
+  "image_review": "Not performed: text-only assignment; every visual is a location placeholder, not an extracted or approved image.",
+  "ready_for_text_integration": true,
+  "milestone_complete": false
+}

@@ -1,0 +1,359 @@
+[
+  {
+    "id": "primjer-3-63",
+    "example": "3.63",
+    "kind": "primjer",
+    "printed_page": 199,
+    "pdf_page": 100,
+    "source_image": "sources/pages/page-199.png",
+    "rect": [
+      198,
+      763,
+      1743,
+      1714
+    ],
+    "image": "images/03-kromatika-a/primjer-3-63.png",
+    "review_status": "pending",
+    "review_note": "Pending independent visual review. Cropped algorithmically from original pixels (PIL) with per-example edge detection; this model cannot visually inspect images. Recropped after programmatic review (edge content detected): expanded search {'bottom': 80} from prior rect [199, 788, 1742, 1635]; added white margin where available. Still requires full visual review. Edge-cleaning pass applied (extended to nearest clean whitespace where found). cleanup-required: edge-adjacent dark pixels remain (possible unavoidable overlap/scan artifact or boundary ambiguity); visual decision needed, no retouch. Safe-recrop from detector approx (bounded) with white margins. Safe-recrop from detector approx (bounded) with white margins."
+  },
+  {
+    "id": "primjer-3-64",
+    "example": "3.64",
+    "kind": "primjer",
+    "printed_page": 199,
+    "pdf_page": 100,
+    "source_image": "sources/pages/page-199.png",
+    "rect": [
+      220,
+      1974,
+      1738,
+      2401
+    ],
+    "image": "images/03-kromatika-a/primjer-3-64.png",
+    "review_status": "pending",
+    "review_note": "Pending independent visual review. Cropped algorithmically from original pixels (PIL) with per-example edge detection; this model cannot visually inspect images."
+  },
+  {
+    "id": "primjer-3-65",
+    "example": "3.65",
+    "kind": "primjer",
+    "printed_page": 200,
+    "pdf_page": 101,
+    "source_image": "sources/pages/page-200.png",
+    "rect": [
+      172,
+      305,
+      1695,
+      733
+    ],
+    "image": "images/03-kromatika-a/primjer-3-65.png",
+    "review_status": "pending",
+    "review_note": "Pending independent visual review. Cropped algorithmically from original pixels (PIL) with per-example edge detection; this model cannot visually inspect images."
+  },
+  {
+    "id": "primjer-3-66",
+    "example": "3.66",
+    "kind": "primjer",
+    "printed_page": 200,
+    "pdf_page": 101,
+    "source_image": "sources/pages/page-200.png",
+    "rect": [
+      171,
+      1060,
+      1689,
+      1593
+    ],
+    "image": "images/03-kromatika-a/primjer-3-66.png",
+    "review_status": "pending",
+    "review_note": "Pending independent visual review. Cropped algorithmically from original pixels (PIL) with per-example edge detection; this model cannot visually inspect images. split from merged candidate pdf-101-left-02 labels=['3.66', '3.67']; algorithmic vertical split without visual confirmation; boundary placed at detected whitespace gap, verify separation Recropped with hard non-overlap split boundary; verify separation/completeness visually."
+  },
+  {
+    "id": "primjer-3-67",
+    "example": "3.67",
+    "kind": "primjer",
+    "printed_page": 200,
+    "pdf_page": 101,
+    "source_image": "sources/pages/page-200.png",
+    "rect": [
+      150,
+      1593,
+      1688,
+      2430
+    ],
+    "image": "images/03-kromatika-a/primjer-3-67.png",
+    "review_status": "pending",
+    "review_note": "Pending independent visual review. Cropped algorithmically from original pixels (PIL) with per-example edge detection; this model cannot visually inspect images. split from merged candidate pdf-101-left-02 labels=['3.66', '3.67']; algorithmic vertical split without visual confirmation; boundary placed at detected whitespace gap, verify separation Recropped with hard non-overlap split boundary; verify separation/completeness visually."
+  },
+  {
+    "id": "primjer-3-68",
+    "example": "3.68",
+    "kind": "primjer",
+    "printed_page": 201,
+    "pdf_page": 101,
+    "source_image": "sources/pages/page-201.png",
+    "rect": [
+      193,
+      114,
+      1780,
+      1107
+    ],
+    "image": "images/03-kromatika-a/primjer-3-68.png",
+    "review_status": "pending",
+    "review_note": "Pending independent visual review. Cropped algorithmically from original pixels (PIL) with per-example edge detection; this model cannot visually inspect images. split from merged candidate pdf-101-right-01 labels=['3.68', '3.69']; algorithmic vertical split without visual confirmation; boundary placed at detected whitespace gap, verify separation Recropped with hard non-overlap split boundary; verify separation/completeness visually. Recropped after programmatic review (edge content detected): expanded search {'bottom': 60} from prior rect [217, 138, 1756, 1105]; added white margin where available. Still requires full visual review. Fixed overlap with 3-69: restored hard max_b=1105 at split boundary; recropped bottom within limit. Edge-cleaning pass applied (extended to nearest clean whitespace where found). cleanup-required: edge-adjacent dark pixels remain (possible unavoidable overlap/scan artifact or boundary ambiguity); visual decision needed, no retouch. r2-fix: bottom extended to split boundary (max_b=1107, gap to 3.69); flags=['bottom-boundary']. cleanup-required if split-boundary pixels remain (no retouch)."
+  },
+  {
+    "id": "primjer-3-69",
+    "example": "3.69",
+    "kind": "primjer",
+    "printed_page": 201,
+    "pdf_page": 101,
+    "source_image": "sources/pages/page-201.png",
+    "rect": [
+      163,
+      1107,
+      1757,
+      1987
+    ],
+    "image": "images/03-kromatika-a/primjer-3-69.png",
+    "review_status": "pending",
+    "review_note": "Pending independent visual review. Cropped algorithmically from original pixels (PIL) with per-example edge detection; this model cannot visually inspect images. split from merged candidate pdf-101-right-01 labels=['3.68', '3.69']; algorithmic vertical split without visual confirmation; boundary placed at detected whitespace gap, verify separation Recropped with hard non-overlap split boundary; verify separation/completeness visually."
+  },
+  {
+    "id": "primjer-3-70",
+    "example": "3.70",
+    "kind": "primjer",
+    "printed_page": 202,
+    "pdf_page": 102,
+    "source_image": "sources/pages/page-202.png",
+    "rect": [
+      162,
+      155,
+      1677,
+      674
+    ],
+    "image": "images/03-kromatika-a/primjer-3-70.png",
+    "review_status": "pending",
+    "review_note": "Pending independent visual review. Cropped algorithmically from original pixels (PIL) with per-example edge detection; this model cannot visually inspect images. split from merged candidate pdf-102-left-01 labels=['3.70', '3.71']; algorithmic vertical split without visual confirmation; boundary placed at detected whitespace gap, verify separation Recropped with hard non-overlap split boundary; verify separation/completeness visually."
+  },
+  {
+    "id": "primjer-3-71",
+    "example": "3.71",
+    "kind": "primjer",
+    "printed_page": 202,
+    "pdf_page": 102,
+    "source_image": "sources/pages/page-202.png",
+    "rect": [
+      141,
+      687,
+      1679,
+      1527
+    ],
+    "image": "images/03-kromatika-a/primjer-3-71.png",
+    "review_status": "pending",
+    "review_note": "Pending independent visual review. Cropped algorithmically from original pixels (PIL) with per-example edge detection; this model cannot visually inspect images. split from merged candidate pdf-102-left-01 labels=['3.70', '3.71']; algorithmic vertical split without visual confirmation; boundary placed at detected whitespace gap, verify separation Recropped with hard non-overlap split boundary; verify separation/completeness visually."
+  },
+  {
+    "id": "primjer-3-72",
+    "example": "3.72",
+    "kind": "primjer",
+    "printed_page": 202,
+    "pdf_page": 102,
+    "source_image": "sources/pages/page-202.png",
+    "rect": [
+      460,
+      1833,
+      1425,
+      2034
+    ],
+    "image": "images/03-kromatika-a/primjer-3-72.png",
+    "review_status": "pending",
+    "review_note": "Pending independent visual review. Cropped algorithmically from original pixels (PIL) with per-example edge detection; this model cannot visually inspect images."
+  },
+  {
+    "id": "primjer-3-73",
+    "example": "3.73",
+    "kind": "primjer",
+    "printed_page": 203,
+    "pdf_page": 102,
+    "source_image": "sources/pages/page-203.png",
+    "rect": [
+      221,
+      225,
+      1023,
+      663
+    ],
+    "image": "images/03-kromatika-a/primjer-3-73.png",
+    "review_status": "pending",
+    "review_note": "Pending independent visual review. Cropped algorithmically from original pixels (PIL) with per-example edge detection; this model cannot visually inspect images. split from merged candidate pdf-102-right-01 labels=['3.74', '3.73']; algorithmic split without visual confirmation Split horizontally from merged candidate region (algorithmic, no visual confirmation); verify 3.73/3.74 separation and completeness. Recropped with hard non-overlap split boundary; verify separation/completeness visually."
+  },
+  {
+    "id": "primjer-3-74",
+    "example": "3.74",
+    "kind": "primjer",
+    "printed_page": 203,
+    "pdf_page": 102,
+    "source_image": "sources/pages/page-203.png",
+    "rect": [
+      1027,
+      232,
+      1742,
+      653
+    ],
+    "image": "images/03-kromatika-a/primjer-3-74.png",
+    "review_status": "pending",
+    "review_note": "Pending independent visual review. Cropped algorithmically from original pixels (PIL) with per-example edge detection; this model cannot visually inspect images. split from merged candidate pdf-102-right-01 labels=['3.74', '3.73']; algorithmic split without visual confirmation Split horizontally from merged candidate region (algorithmic, no visual confirmation); verify 3.73/3.74 separation and completeness. Recropped with hard non-overlap split boundary; verify separation/completeness visually."
+  },
+  {
+    "id": "primjer-3-75",
+    "example": "3.75",
+    "kind": "primjer",
+    "printed_page": 203,
+    "pdf_page": 102,
+    "source_image": "sources/pages/page-203.png",
+    "rect": [
+      407,
+      942,
+      1548,
+      1340
+    ],
+    "image": "images/03-kromatika-a/primjer-3-75.png",
+    "review_status": "pending",
+    "review_note": "Pending independent visual review. Cropped algorithmically from original pixels (PIL) with per-example edge detection; this model cannot visually inspect images. Recropped after programmatic review (edge content detected): expanded search {'bottom': 80} from prior rect [408, 943, 1547, 1325]; added white margin where available. Still requires full visual review. Re-recropped with constrained search to avoid adjacent content; verify all edges and completeness visually. Edge-cleaning pass applied (extended to nearest clean whitespace where found). cleanup-required: edge-adjacent dark pixels remain (possible unavoidable overlap/scan artifact or boundary ambiguity); visual decision needed, no retouch. Safe-recrop from detector approx (bounded) with white margins."
+  },
+  {
+    "id": "p203-pdf-102-right-03",
+    "example": "pdf-102-right-03",
+    "kind": "unverified-candidate",
+    "printed_page": 203,
+    "pdf_page": 102,
+    "source_image": "sources/pages/page-203.png",
+    "rect": [
+      222,
+      1568,
+      1740,
+      2318
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-203-pdf-102-right-03.png",
+    "review_status": "pending",
+    "review_note": "Pending independent visual review. Cropped algorithmically from original pixels (PIL) with per-example edge detection; this model cannot visually inspect images. OCR/detector did not identify a clear example number; verify identity and whether this is an example, exercise, or diagram. Recropped after programmatic review (edge content detected): expanded search {'bottom': 160} from prior rect [221, 1657, 1741, 1913]; added white margin where available. Still requires full visual review. Edge-cleaning pass applied (extended to nearest clean whitespace where found). r2-fix: extended bottom search; flags=['bottom-ink']. Verify identity/completeness visually."
+  },
+  {
+    "id": "p203-pdf-102-right-04",
+    "example": "pdf-102-right-04",
+    "kind": "unverified-candidate",
+    "printed_page": 203,
+    "pdf_page": 102,
+    "source_image": "sources/pages/page-203.png",
+    "rect": [
+      222,
+      1929,
+      1743,
+      2476
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-203-pdf-102-right-04.png",
+    "review_status": "pending",
+    "review_note": "Pending independent visual review. Cropped algorithmically from original pixels (PIL) with per-example edge detection; this model cannot visually inspect images. OCR/detector did not identify a clear example number; verify identity and whether this is an example, exercise, or diagram. Recropped after programmatic review (edge content detected): expanded search {'top': 80, 'bottom': 100} from prior rect [221, 2195, 1743, 2447]; added white margin where available. Still requires full visual review. Edge-cleaning pass applied (extended to nearest clean whitespace where found). cleanup-required: edge-adjacent dark pixels remain (possible unavoidable overlap/scan artifact or boundary ambiguity); visual decision needed, no retouch. Safe-recrop from detector approx (bounded): could not add clean margin on ['top-no-margin'] - cleanup-required/natural separation; no retouch. r2-fix: repositioned with upward search from detector area; flags=['top-ink']. Verify identity/no foreign content/completeness visually (unverified candidate)."
+  },
+  {
+    "id": "primjer-3-76",
+    "example": "3.76",
+    "kind": "primjer",
+    "printed_page": 204,
+    "pdf_page": 103,
+    "source_image": "sources/pages/page-204.png",
+    "rect": [
+      161,
+      240,
+      1699,
+      882
+    ],
+    "image": "images/03-kromatika-a/primjer-3-76.png",
+    "review_status": "pending",
+    "review_note": "Pending independent visual review. Cropped algorithmically from original pixels (PIL) with per-example edge detection; this model cannot visually inspect images. Recropped after programmatic review (edge content detected): expanded search {'top': 80, 'bottom': 120, 'left': 30} from prior rect [211, 379, 1701, 613]; added white margin where available. Still requires full visual review. Edge-cleaning pass applied (extended to nearest clean whitespace where found). cleanup-required: edge-adjacent dark pixels remain (possible unavoidable overlap/scan artifact or boundary ambiguity); visual decision needed, no retouch. Safe-recrop from detector approx (bounded): could not add clean margin on ['top-no-margin', 'bottom-no-margin', 'left-no-margin'] - cleanup-required/natural separation; no retouch. r2-fix: bounded recrop (searched for whitespace gap above to avoid prose; extended below/left). flags=['top-ink', 'bottom-ink']. HIGH RISK of residual clipping or included foreign content - full visual check required."
+  },
+  {
+    "id": "p204-pdf-103-left-02",
+    "example": "pdf-103-left-02",
+    "kind": "unverified-candidate",
+    "printed_page": 204,
+    "pdf_page": 103,
+    "source_image": "sources/pages/page-204.png",
+    "rect": [
+      173,
+      1031,
+      1689,
+      1496
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-204-pdf-103-left-02.png",
+    "review_status": "pending",
+    "review_note": "Pending independent visual review. Cropped algorithmically from original pixels (PIL) with per-example edge detection; this model cannot visually inspect images. OCR/detector did not identify a clear example number; verify identity and whether this is an example, exercise, or diagram. Recropped after programmatic review (edge content detected): expanded search {'top': 80, 'bottom': 80} from prior rect [171, 1087, 1691, 1331]; added white margin where available. Still requires full visual review. Edge-cleaning pass applied (extended to nearest clean whitespace where found). cleanup-required: edge-adjacent dark pixels remain (possible unavoidable overlap/scan artifact or boundary ambiguity); visual decision needed, no retouch. Safe-recrop from detector approx (bounded): could not add clean margin on ['top-no-margin', 'bottom-no-margin'] - cleanup-required/natural separation; no retouch. r2-fix: bounded recrop (whitespace gap search above; extended below). flags=['bottom-ink']. Verify identity/no foreign content/completeness visually."
+  },
+  {
+    "id": "primjer-3-78",
+    "example": "3.78",
+    "kind": "primjer",
+    "printed_page": 205,
+    "pdf_page": 103,
+    "source_image": "sources/pages/page-205.png",
+    "rect": [
+      218,
+      136,
+      1745,
+      642
+    ],
+    "image": "images/03-kromatika-a/primjer-3-78.png",
+    "review_status": "pending",
+    "review_note": "Pending independent visual review. Cropped algorithmically from original pixels (PIL) with per-example edge detection; this model cannot visually inspect images. Recropped after programmatic review (edge content detected): expanded search {'bottom': 60} from prior rect [220, 138, 1743, 585]; added white margin where available. Still requires full visual review."
+  },
+  {
+    "id": "p205-pdf-103-right-02",
+    "example": "pdf-103-right-02",
+    "kind": "unverified-candidate",
+    "printed_page": 205,
+    "pdf_page": 103,
+    "source_image": "sources/pages/page-205.png",
+    "rect": [
+      154,
+      700,
+      1816,
+      2496
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-205-pdf-103-right-02.png",
+    "review_status": "pending",
+    "review_note": "Pending independent visual review. Cropped algorithmically from original pixels (PIL) with per-example edge detection; this model cannot visually inspect images. OCR/detector did not identify a clear example number; verify identity and whether this is an example, exercise, or diagram. Recropped after programmatic review (edge content detected): expanded search {'top': 60, 'bottom': 80} from prior rect [217, 828, 1742, 2463]; added white margin where available. Still requires full visual review."
+  },
+  {
+    "id": "p206-pdf-104-left-01",
+    "example": "pdf-104-left-01",
+    "kind": "unverified-candidate",
+    "printed_page": 206,
+    "pdf_page": 104,
+    "source_image": "sources/pages/page-206.png",
+    "rect": [
+      150,
+      128,
+      1707,
+      1071
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-206-pdf-104-left-01.png",
+    "review_status": "pending",
+    "review_note": "Pending independent visual review. Cropped algorithmically from original pixels (PIL) with per-example edge detection; this model cannot visually inspect images. OCR/detector did not identify a clear example number; verify identity and whether this is an example, exercise, or diagram."
+  },
+  {
+    "id": "p206-pdf-104-left-02",
+    "example": "pdf-104-left-02",
+    "kind": "unverified-candidate",
+    "printed_page": 206,
+    "pdf_page": 104,
+    "source_image": "sources/pages/page-206.png",
+    "rect": [
+      131,
+      1435,
+      1675,
+      2359
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-206-pdf-104-left-02.png",
+    "review_status": "pending",
+    "review_note": "Pending independent visual review. Cropped algorithmically from original pixels (PIL) with per-example edge detection; this model cannot visually inspect images. OCR/detector did not identify a clear example number; verify identity and whether this is an example, exercise, or diagram. Recropped after programmatic review (edge content detected): expanded search {'top': 80} from prior rect [133, 1543, 1673, 2357]; added white margin where available. Still requires full visual review."
+  }
+]

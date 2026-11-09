@@ -1,0 +1,138 @@
+{
+  "assignment": {
+    "printed_pages": [257, 276],
+    "pdf_pages": [129, 139],
+    "text_file": "review-candidates/book/M07/text-257-276.md",
+    "source_index": "sources/index.json",
+    "method": "Svaka od 20 autoritativnih PNG stranica otvorena je i vizualno pročitana. Proza je izravno prepisana i provjerena prema pikselima; nije korišten ugrađeni PDF OCR. Rastavljene riječi spojene su. Notni sadržaj ostavljen je roditelju kroz komentare visual na izvornim položajima.",
+    "scope": "Samo tekst; bez izrezivanja slika i bez odobravanja slikovnog pregleda.",
+    "boundaries": {
+      "256/257": "Stranica 257 započinje naslovom 3. 8.; nema početnog fragmenta rečenice.",
+      "276/277": "Stranica 276 završava potpunom rečenicom; stranica 277 nije prepisivana."
+    }
+  },
+  "pages": [
+    {
+      "printed_page": 257,
+      "pdf_page": 129,
+      "verified": true,
+      "notes": "Vizualno provjereni naslov 3. 8. i oba odlomka. Visual: 3.176, 3.177. Početna granica označena; nema nečitkih mjesta."
+    },
+    {
+      "printed_page": 258,
+      "pdf_page": 130,
+      "verified": true,
+      "notes": "Vizualno provjeren jedini prozni odlomak. Visual: 3.178, 3.179, 3.180 (svi redovi varijanata a–g)."
+    },
+    {
+      "printed_page": 259,
+      "pdf_page": 130,
+      "verified": true,
+      "notes": "Vizualno provjeren odlomak i obje zvjezdicom označene napomene ispod pripadnih primjera. Visual: 3.181, 3.182; akordička redukcija pripada 3.182."
+    },
+    {
+      "printed_page": 260,
+      "pdf_page": 131,
+      "verified": true,
+      "notes": "Vizualno provjerene napomene * i ** te oba odlomka. Visual: 3.183, 3.184, 3.185. Završni odlomak nastavlja se na 261 nakon riječi povećanog; nastavak označen."
+    },
+    {
+      "printed_page": 261,
+      "pdf_page": 131,
+      "verified": true,
+      "notes": "Vizualno provjeren nastavak s 260, napomena uz 3.187 i završni odlomak. Visual: 3.186, 3.187, 3.188 (a i b)."
+    },
+    {
+      "printed_page": 262,
+      "pdf_page": 132,
+      "verified": true,
+      "notes": "Vizualno provjeren cijeli početni odlomak. Visual: 3.189, 3.190 (svi redovi a–f). Rukopisne bilješke nisu izvorni tiskani tekst."
+    },
+    {
+      "printed_page": 263,
+      "pdf_page": 132,
+      "verified": true,
+      "notes": "Vizualno provjereni oba prozna odlomka, tonska imena i reference. Visual: 3.191, 3.192. Završna rečenica nastavlja se na 264 nakon već; označeno."
+    },
+    {
+      "printed_page": 264,
+      "pdf_page": 133,
+      "verified": true,
+      "notes": "Vizualno provjeren nastavak s 263 i naslov ZADACI. Visual: 3.193 te zadaci 1, 2 i 3. Nema dodatnih proznih uputa."
+    },
+    {
+      "printed_page": 265,
+      "pdf_page": 133,
+      "verified": true,
+      "notes": "Cijela PNG stranica vizualno pregledana; samo notni zadaci 4–10, bez proznih odlomaka. Svaki ima zaseban visual komentar."
+    },
+    {
+      "printed_page": 266,
+      "pdf_page": 134,
+      "verified": true,
+      "notes": "Vizualno provjeren tekst Realizacija zadatka 6. i pripadni visual komentar; ostatak stranice nema proze."
+    },
+    {
+      "printed_page": 267,
+      "pdf_page": 134,
+      "verified": true,
+      "notes": "Vizualno provjeren naslov 3. 9. i sva proza, uključujući nabrajanje a–d. Visual: 3.194, 3.195. Rečenica prekinuta primjerom 3.194 zadržana na izvornim položajima."
+    },
+    {
+      "printed_page": 268,
+      "pdf_page": 135,
+      "verified": true,
+      "notes": "Vizualno provjereni svi odlomci i napomena uz 3.196. Visual: 3.196, 3.197, 3.198. Završna rečenica nastavlja se na 269 nakon tona; označeno."
+    },
+    {
+      "printed_page": 269,
+      "pdf_page": 135,
+      "verified": true,
+      "notes": "Vizualno provjeren nastavak s 268 i završni odlomak. Visual: 3.199, 3.200, 3.201. Završna rečenica nastavlja se na 270 nakon u; označeno."
+    },
+    {
+      "printed_page": 270,
+      "pdf_page": 136,
+      "verified": true,
+      "notes": "Vizualno provjeren nastavak s 269 i odlomak o šesteroglasnom akordu. Visual: 3.202, 3.203, 3.204, 3.205."
+    },
+    {
+      "printed_page": 271,
+      "pdf_page": 136,
+      "verified": true,
+      "notes": "Cijela PNG stranica vizualno pregledana: naslov ZADACI i notni zadaci 1–5. Svi zadaci imaju zasebne visual komentare; nema drugih proznih uputa."
+    },
+    {
+      "printed_page": 272,
+      "pdf_page": 137,
+      "verified": true,
+      "notes": "Vizualno provjeren tekst Realizacija zadatka 3. i pripadni visual komentar; ostatak stranice nema proze."
+    },
+    {
+      "printed_page": 273,
+      "pdf_page": 137,
+      "verified": true,
+      "notes": "Vizualno provjeren naslov 3. 10. i sva proza, uključujući tonska imena i citate. Visual: 3.206, 3.207. Primjer 3.206 prekida rečenicu unutar stranice; zadržan položaj. Završna rečenica nastavlja se na 274 nakon nastup; označeno."
+    },
+    {
+      "printed_page": 274,
+      "pdf_page": 138,
+      "verified": true,
+      "notes": "Vizualno provjeren nastavak s 273 i oba daljnja odlomka. Visual: 3.208, 3.209, 3.210. Završna rečenica nastavlja se na 275 nakon ćemo; označeno."
+    },
+    {
+      "printed_page": 275,
+      "pdf_page": 138,
+      "verified": true,
+      "notes": "Vizualno provjeren nastavak s 274 i oba daljnja odlomka. Visual: 3.211, 3.212, 3.213. Referenca na 3.214 vodi na iduću stranicu, ali nema prekinute rečenice."
+    },
+    {
+      "printed_page": 276,
+      "pdf_page": 139,
+      "verified": true,
+      "notes": "Vizualno provjereni oba odlomka. Visual: 3.214 i 3.215 (a, b, c). Završetak dodijeljenog raspona izričito označen. Nema nečitkog tiskanog proznog teksta."
+    }
+  ],
+  "text_ready_for_integration": true,
+  "image_review": "Nije dio ovog tekstualnog zadatka; roditelj zasebno provodi ekstrakciju i neovisni pregled slika."
+}

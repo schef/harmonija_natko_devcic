@@ -1,0 +1,1316 @@
+[
+  {
+    "id": "primjer-2-302",
+    "example": "2.302",
+    "kind": "example",
+    "printed_page": 137,
+    "pdf_page": 69,
+    "source_image": "sources/pages/page-137.png",
+    "rect": [
+      201,
+      1372,
+      1735,
+      1904
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-302.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.302 — tiskana str. 137."
+  },
+  {
+    "id": "primjer-2-303",
+    "example": "2.303",
+    "kind": "example",
+    "printed_page": 137,
+    "pdf_page": 69,
+    "source_image": "sources/pages/page-137.png",
+    "rect": [
+      201,
+      1906,
+      1734,
+      2411
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-303.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.303 — tiskana str. 137."
+  },
+  {
+    "id": "primjer-2-304",
+    "example": "2.304",
+    "kind": "example",
+    "printed_page": 138,
+    "pdf_page": 70,
+    "source_image": "sources/pages/page-138.png",
+    "rect": [
+      144,
+      1742,
+      1675,
+      2043
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-304.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.304 — tiskana str. 138."
+  },
+  {
+    "id": "primjer-2-305-p139",
+    "example": "2.305",
+    "kind": "example",
+    "printed_page": 139,
+    "pdf_page": 70,
+    "source_image": "sources/pages/page-139.png",
+    "rect": [
+      201,
+      1858,
+      1738,
+      2307
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-305-p139.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.305 — tiskana str. 139 (p139)."
+  },
+  {
+    "id": "primjer-2-305-p140",
+    "example": "2.305",
+    "kind": "example",
+    "printed_page": 140,
+    "pdf_page": 71,
+    "source_image": "sources/pages/page-140.png",
+    "rect": [
+      486,
+      112,
+      1374,
+      542
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-305-p140.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Continuation variant c); source does not repeat example number, retained without fabrication.",
+    "caption": "Primjer 2.305 — tiskana str. 140 (p140)."
+  },
+  {
+    "id": "primjer-2-306",
+    "example": "2.306",
+    "kind": "example",
+    "printed_page": 140,
+    "pdf_page": 71,
+    "source_image": "sources/pages/page-140.png",
+    "rect": [
+      426,
+      1343,
+      1417,
+      1795
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-306.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.306 — tiskana str. 140."
+  },
+  {
+    "id": "primjer-2-307",
+    "example": "2.307",
+    "kind": "example",
+    "printed_page": 140,
+    "pdf_page": 71,
+    "source_image": "sources/pages/page-140.png",
+    "rect": [
+      140,
+      1874,
+      1676,
+      2325
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-307.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.307 — tiskana str. 140."
+  },
+  {
+    "id": "primjer-2-308",
+    "example": "2.308",
+    "kind": "example",
+    "printed_page": 141,
+    "pdf_page": 71,
+    "source_image": "sources/pages/page-141.png",
+    "rect": [
+      487,
+      477,
+      1472,
+      905
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-308.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.308 — tiskana str. 141."
+  },
+  {
+    "id": "primjer-2-309",
+    "example": "2.309",
+    "kind": "example",
+    "printed_page": 141,
+    "pdf_page": 71,
+    "source_image": "sources/pages/page-141.png",
+    "rect": [
+      460,
+      1555,
+      1452,
+      1989
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-309.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.309 — tiskana str. 141."
+  },
+  {
+    "id": "primjer-2-310",
+    "example": "2.310",
+    "kind": "example",
+    "printed_page": 141,
+    "pdf_page": 71,
+    "source_image": "sources/pages/page-141.png",
+    "rect": [
+      356,
+      1998,
+      1582,
+      2417
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-310.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.310 — tiskana str. 141."
+  },
+  {
+    "id": "primjer-2-311",
+    "example": "2.311",
+    "kind": "example",
+    "printed_page": 142,
+    "pdf_page": 72,
+    "source_image": "sources/pages/page-142.png",
+    "rect": [
+      421,
+      115,
+      1405,
+      528
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-311.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.311 — tiskana str. 142."
+  },
+  {
+    "id": "primjer-2-312",
+    "example": "2.312",
+    "kind": "example",
+    "printed_page": 142,
+    "pdf_page": 72,
+    "source_image": "sources/pages/page-142.png",
+    "rect": [
+      420,
+      529,
+      1406,
+      949
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-312.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.312 — tiskana str. 142."
+  },
+  {
+    "id": "primjer-2-313",
+    "example": "2.313",
+    "kind": "example",
+    "printed_page": 142,
+    "pdf_page": 72,
+    "source_image": "sources/pages/page-142.png",
+    "rect": [
+      417,
+      1974,
+      1405,
+      2408
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-313.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.313 — tiskana str. 142."
+  },
+  {
+    "id": "primjer-2-314",
+    "example": "2.314",
+    "kind": "example",
+    "printed_page": 143,
+    "pdf_page": 72,
+    "source_image": "sources/pages/page-143.png",
+    "rect": [
+      438,
+      112,
+      1506,
+      525
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-314.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.314 — tiskana str. 143."
+  },
+  {
+    "id": "primjer-2-315",
+    "example": "2.315",
+    "kind": "example",
+    "printed_page": 143,
+    "pdf_page": 72,
+    "source_image": "sources/pages/page-143.png",
+    "rect": [
+      458,
+      1465,
+      1442,
+      1916
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-315.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.315 — tiskana str. 143."
+  },
+  {
+    "id": "primjer-2-316",
+    "example": "2.316",
+    "kind": "example",
+    "printed_page": 143,
+    "pdf_page": 72,
+    "source_image": "sources/pages/page-143.png",
+    "rect": [
+      318,
+      1917,
+      1551,
+      2402
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-316.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.316 — tiskana str. 143."
+  },
+  {
+    "id": "primjer-2-317",
+    "example": "2.317",
+    "kind": "example",
+    "printed_page": 144,
+    "pdf_page": 73,
+    "source_image": "sources/pages/page-144.png",
+    "rect": [
+      426,
+      856,
+      1417,
+      1280
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-317.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup_required: source layout interleaves next example C–E title with this example's lower analysis. Candidate retains complete 2.317 but includes adjacent title; no retouch.",
+    "caption": "Primjer 2.317 — tiskana str. 144."
+  },
+  {
+    "id": "primjer-2-318",
+    "example": "2.318",
+    "kind": "example",
+    "printed_page": 144,
+    "pdf_page": 73,
+    "source_image": "sources/pages/page-144.png",
+    "rect": [
+      425,
+      1239,
+      1415,
+      1637
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-318.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup_required: previous example 2.317 lower analysis overlaps vertical span of this example's title/clef. Candidate retains complete 2.318; adjacent analysis remains, no retouch.",
+    "caption": "Primjer 2.318 — tiskana str. 144."
+  },
+  {
+    "id": "primjer-2-319",
+    "example": "2.319",
+    "kind": "example",
+    "printed_page": 144,
+    "pdf_page": 73,
+    "source_image": "sources/pages/page-144.png",
+    "rect": [
+      423,
+      1638,
+      1415,
+      2046
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-319.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.319 — tiskana str. 144."
+  },
+  {
+    "id": "primjer-2-320",
+    "example": "2.320",
+    "kind": "example",
+    "printed_page": 144,
+    "pdf_page": 73,
+    "source_image": "sources/pages/page-144.png",
+    "rect": [
+      417,
+      2047,
+      1412,
+      2463
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-320.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.320 — tiskana str. 144."
+  },
+  {
+    "id": "primjer-2-321",
+    "example": "2.321",
+    "kind": "example",
+    "printed_page": 145,
+    "pdf_page": 73,
+    "source_image": "sources/pages/page-145.png",
+    "rect": [
+      507,
+      103,
+      1495,
+      512
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-321.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup_required: faint handwritten marks alongside the lower analysis cannot be excluded by a rectangular crop while retaining the complete example; source pixels preserved.",
+    "caption": "Primjer 2.321 — tiskana str. 145."
+  },
+  {
+    "id": "primjer-2-322",
+    "example": "2.322",
+    "kind": "example",
+    "printed_page": 145,
+    "pdf_page": 73,
+    "source_image": "sources/pages/page-145.png",
+    "rect": [
+      503,
+      513,
+      1490,
+      929
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-322.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.322 — tiskana str. 145."
+  },
+  {
+    "id": "primjer-2-323",
+    "example": "2.323",
+    "kind": "example",
+    "printed_page": 145,
+    "pdf_page": 73,
+    "source_image": "sources/pages/page-145.png",
+    "rect": [
+      455,
+      1237,
+      1503,
+      1668
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-323.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup_required: analysis of 2.323 vertically interleaves title/clef of following example 2.324. No retouch.",
+    "caption": "Primjer 2.323 — tiskana str. 145."
+  },
+  {
+    "id": "primjer-2-324",
+    "example": "2.324",
+    "kind": "example",
+    "printed_page": 145,
+    "pdf_page": 73,
+    "source_image": "sources/pages/page-145.png",
+    "rect": [
+      403,
+      1622,
+      1568,
+      2047
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-324.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup_required: preceding 2.323 analysis and following 2.325 title interleave this crop's vertical span. No retouch.",
+    "caption": "Primjer 2.324 — tiskana str. 145."
+  },
+  {
+    "id": "primjer-2-325-score",
+    "example": "2.325",
+    "kind": "example",
+    "printed_page": 145,
+    "pdf_page": 73,
+    "source_image": "sources/pages/page-145.png",
+    "rect": [
+      460,
+      1991,
+      1503,
+      2395
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-325-score.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup_required: preceding 2.324 lower analysis interleaves this score's title. Lower analysis of 2.325 is separately cropped to avoid printed footer; no stitching/retouch. First analysis line retained with score so lowest bass stem is complete.",
+    "caption": "Primjer 2.325 — tiskana str. 145 (score)."
+  },
+  {
+    "id": "primjer-2-325-analysis",
+    "example": "2.325",
+    "kind": "example",
+    "printed_page": 145,
+    "pdf_page": 73,
+    "source_image": "sources/pages/page-145.png",
+    "rect": [
+      792,
+      2395,
+      1087,
+      2491
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-325-analysis.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Remaining lower analysis; first analysis line is in -score. No repeated number in this source part; pair with -score. Separate rectangle excludes running footer.",
+    "caption": "Primjer 2.325 — tiskana str. 145 (analysis)."
+  },
+  {
+    "id": "primjer-2-326",
+    "example": "2.326",
+    "kind": "example",
+    "printed_page": 146,
+    "pdf_page": 74,
+    "source_image": "sources/pages/page-146.png",
+    "rect": [
+      392,
+      104,
+      1443,
+      588
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-326.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.326 — tiskana str. 146."
+  },
+  {
+    "id": "primjer-2-327",
+    "example": "2.327",
+    "kind": "example",
+    "printed_page": 146,
+    "pdf_page": 74,
+    "source_image": "sources/pages/page-146.png",
+    "rect": [
+      281,
+      891,
+      1552,
+      1294
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-327.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.327 — tiskana str. 146."
+  },
+  {
+    "id": "primjer-2-328",
+    "example": "2.328",
+    "kind": "example",
+    "printed_page": 146,
+    "pdf_page": 74,
+    "source_image": "sources/pages/page-146.png",
+    "rect": [
+      275,
+      1324,
+      1590,
+      2164
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-328.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.328 — tiskana str. 146."
+  },
+  {
+    "id": "primjer-2-329",
+    "example": "2.329",
+    "kind": "example",
+    "printed_page": 147,
+    "pdf_page": 74,
+    "source_image": "sources/pages/page-147.png",
+    "rect": [
+      213,
+      973,
+      1743,
+      1429
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-329.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.329 — tiskana str. 147."
+  },
+  {
+    "id": "primjer-2-330",
+    "example": "2.330",
+    "kind": "example",
+    "printed_page": 147,
+    "pdf_page": 74,
+    "source_image": "sources/pages/page-147.png",
+    "rect": [
+      213,
+      1984,
+      913,
+      2398
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-330.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.330 — tiskana str. 147."
+  },
+  {
+    "id": "primjer-2-331",
+    "example": "2.331",
+    "kind": "example",
+    "printed_page": 147,
+    "pdf_page": 74,
+    "source_image": "sources/pages/page-147.png",
+    "rect": [
+      940,
+      1985,
+      1746,
+      2397
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-331.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.331 — tiskana str. 147."
+  },
+  {
+    "id": "primjer-2-332",
+    "example": "2.332",
+    "kind": "example",
+    "printed_page": 148,
+    "pdf_page": 75,
+    "source_image": "sources/pages/page-148.png",
+    "rect": [
+      174,
+      257,
+      926,
+      647
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-332.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.332 — tiskana str. 148."
+  },
+  {
+    "id": "primjer-2-333",
+    "example": "2.333",
+    "kind": "example",
+    "printed_page": 148,
+    "pdf_page": 75,
+    "source_image": "sources/pages/page-148.png",
+    "rect": [
+      953,
+      259,
+      1707,
+      648
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-333.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.333 — tiskana str. 148."
+  },
+  {
+    "id": "primjer-2-334",
+    "example": "2.334",
+    "kind": "example",
+    "printed_page": 148,
+    "pdf_page": 75,
+    "source_image": "sources/pages/page-148.png",
+    "rect": [
+      390,
+      651,
+      1493,
+      1046
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-334.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.334 — tiskana str. 148."
+  },
+  {
+    "id": "primjer-2-335",
+    "example": "2.335",
+    "kind": "example",
+    "printed_page": 148,
+    "pdf_page": 75,
+    "source_image": "sources/pages/page-148.png",
+    "rect": [
+      168,
+      1048,
+      927,
+      1442
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-335.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.335 — tiskana str. 148."
+  },
+  {
+    "id": "primjer-2-336",
+    "example": "2.336",
+    "kind": "example",
+    "printed_page": 148,
+    "pdf_page": 75,
+    "source_image": "sources/pages/page-148.png",
+    "rect": [
+      944,
+      1048,
+      1700,
+      1460
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-336.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.336 — tiskana str. 148."
+  },
+  {
+    "id": "primjer-2-337",
+    "example": "2.337",
+    "kind": "example",
+    "printed_page": 148,
+    "pdf_page": 75,
+    "source_image": "sources/pages/page-148.png",
+    "rect": [
+      303,
+      1495,
+      1530,
+      1903
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-337.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.337 — tiskana str. 148."
+  },
+  {
+    "id": "primjer-2-338",
+    "example": "2.338",
+    "kind": "example",
+    "printed_page": 148,
+    "pdf_page": 75,
+    "source_image": "sources/pages/page-148.png",
+    "rect": [
+      365,
+      1973,
+      1476,
+      2384
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-338.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.338 — tiskana str. 148."
+  },
+  {
+    "id": "primjer-2-339",
+    "example": "2.339",
+    "kind": "example",
+    "printed_page": 149,
+    "pdf_page": 75,
+    "source_image": "sources/pages/page-149.png",
+    "rect": [
+      468,
+      475,
+      1515,
+      926
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-339.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.339 — tiskana str. 149."
+  },
+  {
+    "id": "primjer-2-340",
+    "example": "2.340",
+    "kind": "example",
+    "printed_page": 149,
+    "pdf_page": 75,
+    "source_image": "sources/pages/page-149.png",
+    "rect": [
+      377,
+      994,
+      1599,
+      1439
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-340.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.340 — tiskana str. 149."
+  },
+  {
+    "id": "primjer-2-341",
+    "example": "2.341",
+    "kind": "example",
+    "printed_page": 149,
+    "pdf_page": 75,
+    "source_image": "sources/pages/page-149.png",
+    "rect": [
+      409,
+      1923,
+      1519,
+      2362
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-341.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.341 — tiskana str. 149."
+  },
+  {
+    "id": "primjer-2-342",
+    "example": "2.342",
+    "kind": "example",
+    "printed_page": 150,
+    "pdf_page": 76,
+    "source_image": "sources/pages/page-150.png",
+    "rect": [
+      393,
+      152,
+      1502,
+      613
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-342.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.342 — tiskana str. 150."
+  },
+  {
+    "id": "primjer-2-343",
+    "example": "2.343",
+    "kind": "example",
+    "printed_page": 150,
+    "pdf_page": 76,
+    "source_image": "sources/pages/page-150.png",
+    "rect": [
+      189,
+      1164,
+      974,
+      1584
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-343.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.343 — tiskana str. 150."
+  },
+  {
+    "id": "primjer-2-344",
+    "example": "2.344",
+    "kind": "example",
+    "printed_page": 150,
+    "pdf_page": 76,
+    "source_image": "sources/pages/page-150.png",
+    "rect": [
+      990,
+      1162,
+      1715,
+      1590
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-344.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.344 — tiskana str. 150."
+  },
+  {
+    "id": "primjer-2-345",
+    "example": "2.345",
+    "kind": "example",
+    "printed_page": 150,
+    "pdf_page": 76,
+    "source_image": "sources/pages/page-150.png",
+    "rect": [
+      367,
+      1604,
+      1476,
+      2031
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-345.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.345 — tiskana str. 150."
+  },
+  {
+    "id": "primjer-2-346",
+    "example": "2.346",
+    "kind": "example",
+    "printed_page": 150,
+    "pdf_page": 76,
+    "source_image": "sources/pages/page-150.png",
+    "rect": [
+      406,
+      2035,
+      1396,
+      2436
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-346.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.346 — tiskana str. 150."
+  },
+  {
+    "id": "primjer-2-347",
+    "example": "2.347",
+    "kind": "example",
+    "printed_page": 151,
+    "pdf_page": 76,
+    "source_image": "sources/pages/page-151.png",
+    "rect": [
+      502,
+      136,
+      1493,
+      522
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-347.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup_required: lower analysis interleaves following example 2.348 title; source pixels preserved.",
+    "caption": "Primjer 2.347 — tiskana str. 151."
+  },
+  {
+    "id": "primjer-2-348",
+    "example": "2.348",
+    "kind": "example",
+    "printed_page": 151,
+    "pdf_page": 76,
+    "source_image": "sources/pages/page-151.png",
+    "rect": [
+      449,
+      500,
+      1558,
+      883
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-348.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup_required: preceding example 2.347 lower analysis interleaves title; source pixels preserved.",
+    "caption": "Primjer 2.348 — tiskana str. 151."
+  },
+  {
+    "id": "primjer-2-349",
+    "example": "2.349",
+    "kind": "example",
+    "printed_page": 151,
+    "pdf_page": 76,
+    "source_image": "sources/pages/page-151.png",
+    "rect": [
+      495,
+      883,
+      1484,
+      1275
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-349.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.349 — tiskana str. 151."
+  },
+  {
+    "id": "primjer-2-350",
+    "example": "2.350",
+    "kind": "example",
+    "printed_page": 151,
+    "pdf_page": 76,
+    "source_image": "sources/pages/page-151.png",
+    "rect": [
+      444,
+      1286,
+      1550,
+      1683
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-350.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.350 — tiskana str. 151."
+  },
+  {
+    "id": "primjer-2-351",
+    "example": "2.351",
+    "kind": "example",
+    "printed_page": 151,
+    "pdf_page": 76,
+    "source_image": "sources/pages/page-151.png",
+    "rect": [
+      444,
+      2042,
+      1493,
+      2489
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-351.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.351 — tiskana str. 151."
+  },
+  {
+    "id": "primjer-2-352",
+    "example": "2.352",
+    "kind": "example",
+    "printed_page": 152,
+    "pdf_page": 77,
+    "source_image": "sources/pages/page-152.png",
+    "rect": [
+      213,
+      114,
+      1555,
+      577
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-352.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.352 — tiskana str. 152."
+  },
+  {
+    "id": "primjer-2-353",
+    "example": "2.353",
+    "kind": "example",
+    "printed_page": 152,
+    "pdf_page": 77,
+    "source_image": "sources/pages/page-152.png",
+    "rect": [
+      291,
+      827,
+      1458,
+      1259
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-353.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.353 — tiskana str. 152."
+  },
+  {
+    "id": "primjer-2-354",
+    "example": "2.354",
+    "kind": "example",
+    "printed_page": 152,
+    "pdf_page": 77,
+    "source_image": "sources/pages/page-152.png",
+    "rect": [
+      239,
+      1275,
+      1523,
+      1720
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-354.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.354 — tiskana str. 152."
+  },
+  {
+    "id": "primjer-2-355",
+    "example": "2.355",
+    "kind": "example",
+    "printed_page": 153,
+    "pdf_page": 77,
+    "source_image": "sources/pages/page-153.png",
+    "rect": [
+      191,
+      103,
+      907,
+      511
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-355.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.355 — tiskana str. 153."
+  },
+  {
+    "id": "primjer-2-356",
+    "example": "2.356",
+    "kind": "example",
+    "printed_page": 153,
+    "pdf_page": 77,
+    "source_image": "sources/pages/page-153.png",
+    "rect": [
+      921,
+      111,
+      1723,
+      524
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-356.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.356 — tiskana str. 153."
+  },
+  {
+    "id": "primjer-2-357",
+    "example": "2.357",
+    "kind": "example",
+    "printed_page": 153,
+    "pdf_page": 77,
+    "source_image": "sources/pages/page-153.png",
+    "rect": [
+      190,
+      524,
+      939,
+      929
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-357.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.357 — tiskana str. 153."
+  },
+  {
+    "id": "primjer-2-358",
+    "example": "2.358",
+    "kind": "example",
+    "printed_page": 153,
+    "pdf_page": 77,
+    "source_image": "sources/pages/page-153.png",
+    "rect": [
+      954,
+      526,
+      1724,
+      926
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-358.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.358 — tiskana str. 153."
+  },
+  {
+    "id": "primjer-2-359",
+    "example": "2.359",
+    "kind": "example",
+    "printed_page": 153,
+    "pdf_page": 77,
+    "source_image": "sources/pages/page-153.png",
+    "rect": [
+      189,
+      936,
+      996,
+      1341
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-359.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.359 — tiskana str. 153."
+  },
+  {
+    "id": "primjer-2-360",
+    "example": "2.360",
+    "kind": "example",
+    "printed_page": 153,
+    "pdf_page": 77,
+    "source_image": "sources/pages/page-153.png",
+    "rect": [
+      1009,
+      929,
+      1724,
+      1339
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-360.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.360 — tiskana str. 153."
+  },
+  {
+    "id": "primjer-2-361",
+    "example": "2.361",
+    "kind": "example",
+    "printed_page": 153,
+    "pdf_page": 77,
+    "source_image": "sources/pages/page-153.png",
+    "rect": [
+      189,
+      1341,
+      1046,
+      1764
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-361.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.361 — tiskana str. 153."
+  },
+  {
+    "id": "primjer-2-362",
+    "example": "2.362",
+    "kind": "example",
+    "printed_page": 153,
+    "pdf_page": 77,
+    "source_image": "sources/pages/page-153.png",
+    "rect": [
+      1049,
+      1344,
+      1724,
+      1750
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-362.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.362 — tiskana str. 153."
+  },
+  {
+    "id": "primjer-2-363",
+    "example": "2.363",
+    "kind": "example",
+    "printed_page": 153,
+    "pdf_page": 77,
+    "source_image": "sources/pages/page-153.png",
+    "rect": [
+      380,
+      1764,
+      1489,
+      2168
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-363.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.363 — tiskana str. 153."
+  },
+  {
+    "id": "primjer-2-364",
+    "example": "2.364",
+    "kind": "example",
+    "printed_page": 154,
+    "pdf_page": 78,
+    "source_image": "sources/pages/page-154.png",
+    "rect": [
+      429,
+      466,
+      1532,
+      905
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-364.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.364 — tiskana str. 154."
+  },
+  {
+    "id": "primjer-2-365",
+    "example": "2.365",
+    "kind": "example",
+    "printed_page": 154,
+    "pdf_page": 78,
+    "source_image": "sources/pages/page-154.png",
+    "rect": [
+      428,
+      914,
+      1531,
+      1342
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-365.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.365 — tiskana str. 154."
+  },
+  {
+    "id": "primjer-2-366",
+    "example": "2.366",
+    "kind": "example",
+    "printed_page": 154,
+    "pdf_page": 78,
+    "source_image": "sources/pages/page-154.png",
+    "rect": [
+      424,
+      1347,
+      1530,
+      1768
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-366.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.366 — tiskana str. 154."
+  },
+  {
+    "id": "primjer-2-367",
+    "example": "2.367",
+    "kind": "example",
+    "printed_page": 154,
+    "pdf_page": 78,
+    "source_image": "sources/pages/page-154.png",
+    "rect": [
+      417,
+      1775,
+      1527,
+      2216
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-367.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.367 — tiskana str. 154."
+  },
+  {
+    "id": "primjer-2-368",
+    "example": "2.368",
+    "kind": "example",
+    "printed_page": 155,
+    "pdf_page": 78,
+    "source_image": "sources/pages/page-155.png",
+    "rect": [
+      258,
+      641,
+      1791,
+      1113
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-368.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.368 — tiskana str. 155."
+  },
+  {
+    "id": "primjer-2-369",
+    "example": "2.369",
+    "kind": "example",
+    "printed_page": 155,
+    "pdf_page": 78,
+    "source_image": "sources/pages/page-155.png",
+    "rect": [
+      257,
+      1224,
+      1090,
+      1666
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-369.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.369 — tiskana str. 155."
+  },
+  {
+    "id": "primjer-2-370",
+    "example": "2.370",
+    "kind": "example",
+    "printed_page": 155,
+    "pdf_page": 78,
+    "source_image": "sources/pages/page-155.png",
+    "rect": [
+      1098,
+      1201,
+      1791,
+      1675
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-370.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.370 — tiskana str. 155."
+  },
+  {
+    "id": "primjer-2-371",
+    "example": "2.371",
+    "kind": "example",
+    "printed_page": 155,
+    "pdf_page": 78,
+    "source_image": "sources/pages/page-155.png",
+    "rect": [
+      252,
+      1989,
+      1090,
+      2429
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-371.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.371 — tiskana str. 155."
+  },
+  {
+    "id": "primjer-2-372",
+    "example": "2.372",
+    "kind": "example",
+    "printed_page": 155,
+    "pdf_page": 78,
+    "source_image": "sources/pages/page-155.png",
+    "rect": [
+      1098,
+      1967,
+      1787,
+      2420
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-372.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only candidate; independent four-edge/source review required.",
+    "caption": "Primjer 2.372 — tiskana str. 155."
+  }
+]

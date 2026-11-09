@@ -1,0 +1,114 @@
+{
+  "assignment": {
+    "role": "text-only",
+    "printed_pages": [241, 256],
+    "pdf_pages": [121, 129],
+    "pdf_page_indexing": "1-based",
+    "text_file": "review-candidates/book/M06/text-241-256.md",
+    "source": "sources/pages/page-NNN.png",
+    "method": "Every assigned source PNG opened visually; OCR text used only as a draft and corrected against source pixels. Boundary PNGs 240 and 257 also opened visually. No embedded PDF OCR used.",
+    "image_review": "Not performed: text-only assignment. Visual comments identify original score/exercise locations, not approval of crops.",
+    "ready_for_text_integration": true,
+    "unreadable_text": [],
+    "boundary_240_241": "Page 240 ends with Prema; page 241 begins tome, vidimo, da je. Continuation explicitly marked without duplicating page 240.",
+    "boundary_256_257": "No sentence or example continues; page 257 begins section 3. 8. Povećani sekundakord. Boundary explicitly marked."
+  },
+  "pages": [
+    {
+      "printed_page": 241,
+      "pdf_page": 121,
+      "verified": true,
+      "notes": "All prose checked visually. Continuation from page 240 marked. Preserved source vocabulary zvukovno, stupnja/stepena and cizis. Slots 3.140, 3.141, 3.142; complete variants remain the responsibility of extraction. Printer signature and page number excluded as furniture."
+    },
+    {
+      "printed_page": 242,
+      "pdf_page": 122,
+      "verified": true,
+      "notes": "All paragraphs checked against scan, including ink/underlining across prose. Corrected OCR tonaliteti, stupnjevima, sekundarnih, povišenom and duru. Bold run-in heading preserved. Slots 3.143 and 3.144 a–b; tables within scores assigned to visual slots. Unfinished sentence and 3.144 continuation marked."
+    },
+    {
+      "printed_page": 243,
+      "pdf_page": 122,
+      "verified": true,
+      "notes": "All prose and attributions checked visually. 3.144 c precedes 3.145 and continued prose in original page order. Chopin Mazurka op. 7 br. 4 attribution restored. Slots 3.144 c, 3.145, 3.146, 3.147. Beethoven Sonata u c-molu op. 13 attribution included. Final sentence continues on 244."
+    },
+    {
+      "printed_page": 244,
+      "pdf_page": 123,
+      "verified": true,
+      "notes": "All prose, run-in heading, Beethoven attribution and starred footnote checked visually. Preserved note spellings b-cis-e-g, ais-cis-e-fizis and ais-cis-e-g; footnote VII₂ transcribed with Unicode subscript. Slots 3.148 and 3.149. Continuation from 243 explicit."
+    },
+    {
+      "printed_page": 245,
+      "pdf_page": 123,
+      "verified": true,
+      "notes": "All paragraphs and Beethoven attribution checked visually. Restored original page order: 3.150, run-in heading/prose, 3.151, attribution and 3.152, closing paragraph. Preserved printed blize rather than silently modernizing. Slots 3.150, 3.151, 3.152."
+    },
+    {
+      "printed_page": 246,
+      "pdf_page": 124,
+      "verified": true,
+      "notes": "Both full prose paragraphs checked visually; corrected OCR zaostajalica, dominantni and ton. Slots 3.153, 3.154, 3.155, 3.156 in source positions."
+    },
+    {
+      "printed_page": 247,
+      "pdf_page": 124,
+      "verified": true,
+      "notes": "ZADACI heading and full instruction 1 checked visually. Separate slots for exercises 2–7, including multi-system exercises. No invented prose for notation."
+    },
+    {
+      "printed_page": 248,
+      "pdf_page": 125,
+      "verified": true,
+      "notes": "Realizacija zadatka 7. and both footnotes checked visually, including gis-f, appoggiatura, as/g and 3. dobi. Separate slots for exercises 8, 9 and realization of 7."
+    },
+    {
+      "printed_page": 249,
+      "pdf_page": 125,
+      "verified": true,
+      "notes": "Section 3. 7. 3. heading and both full paragraphs checked visually. Preserved source period before (pr. 3.157.d), terminology and mol-dur. Slots 3.157, 3.158, 3.159; next example 3.160 is on page 250."
+    },
+    {
+      "printed_page": 250,
+      "pdf_page": 126,
+      "verified": true,
+      "notes": "Both prose paragraphs and Schubert attribution checked visually. Corrected OCR naravno and nalazi. Slots 3.160, 3.161, 3.162, 3.163, 3.164; source table within 3.161 retained as visual location, not body prose."
+    },
+    {
+      "printed_page": 251,
+      "pdf_page": 126,
+      "verified": true,
+      "notes": "Both prose paragraphs and Chopin/Smetana attributions checked visually. Restored V i na and printed genitive accent kvintakordâ. Slots 3.165, 3.166, 3.167, 3.168."
+    },
+    {
+      "printed_page": 252,
+      "pdf_page": 127,
+      "verified": true,
+      "notes": "Full paragraph and Chopin Preludij op. 28 br. 24 attribution checked visually. Corrected OCR punctuation after vođica and 3.170.c. Slots 3.169 and 3.170 a–c. Unfinished prose sentence and example continuation to 253 explicitly marked."
+    },
+    {
+      "printed_page": 253,
+      "pdf_page": 127,
+      "verified": true,
+      "notes": "Continued full paragraph, heading and instruction checked visually. 3.170 d slot before continued prose, then exercise slots 2–5. Preserved numbered rules 1) and 2) within paragraph and reference 2—4."
+    },
+    {
+      "printed_page": 254,
+      "pdf_page": 128,
+      "verified": true,
+      "notes": "Realization caption, section 3. 7. 4. heading and full long paragraph checked visually. Slots exercise 6 and Realizacija zadatka 5. precede heading, restoring content absent from OCR draft. All example references retained."
+    },
+    {
+      "printed_page": 255,
+      "pdf_page": 128,
+      "verified": true,
+      "notes": "Score-only body represented by slots 3.171, 3.172 (two systems), 3.173, 3.174. Both Chopin Sonata attributions checked visually and transcribed (h-molu op. 58; b-molu op. 35). Starred appoggiatura footnote checked and transcribed."
+    },
+    {
+      "printed_page": 256,
+      "pdf_page": 129,
+      "verified": true,
+      "notes": "Full prose paragraph, ZADACI heading and both numbered instructions checked visually. Slot 3.175 covers three systems. No prose or example continues onto 257; next section boundary verified visually and marked."
+    }
+  ]
+}

@@ -1,0 +1,1314 @@
+[
+  {
+    "id": "primjer-2-98",
+    "example": "2.98",
+    "kind": "example",
+    "printed_page": 47,
+    "pdf_page": 24,
+    "source_image": "sources/pages/page-047.png",
+    "rect": [
+      193,
+      125,
+      1730,
+      535
+    ],
+    "image": "images/02-dijatonika-a/primjer-2-98.png",
+    "review_status": "source_limited",
+    "review_note": "Number, both staves, slurs, final barline and printed sharp-5 figures are complete, but faint handwritten analytical characters occupy the lower figure band and reach the bottom edge. A rectangular trim cannot remove all handwriting while retaining the printed figures and their margins. No erasure authorized.",
+    "caption": "2.98"
+  },
+  {
+    "id": "primjer-2-99",
+    "example": "2.99",
+    "kind": "example",
+    "printed_page": 47,
+    "pdf_page": 24,
+    "source_image": "sources/pages/page-047.png",
+    "rect": [
+      349,
+      543,
+      1541,
+      902
+    ],
+    "image": "images/02-dijatonika-a/primjer-2-99.png",
+    "review_status": "independent_pass",
+    "review_note": "2.99, variants a/b, brackets, arrows, both staves and final barline complete; four edges clean of meaningful foreign ink, with source whitespace. Tiny isolated bottom speck is not a prose fragment.",
+    "caption": "2.99"
+  },
+  {
+    "id": "zadatak-2-47-1",
+    "example": "zadatak-2-47-1",
+    "kind": "exercise",
+    "printed_page": 47,
+    "pdf_page": 24,
+    "source_image": "sources/pages/page-047.png",
+    "rect": [
+      202,
+      1209,
+      1721,
+      1399
+    ],
+    "image": "images/02-dijatonika-a/zadatak-2-47-1.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 1, key/time signatures, complete bass line, accidental/5 figures and extension line retained; four source margins clean; no ZADACI heading or neighbouring exercise.",
+    "caption": "zadatak-2-47-1"
+  },
+  {
+    "id": "zadatak-2-47-2",
+    "example": "zadatak-2-47-2",
+    "kind": "exercise",
+    "printed_page": 47,
+    "pdf_page": 24,
+    "source_image": "sources/pages/page-047.png",
+    "rect": [
+      202,
+      1426,
+      1717,
+      1607
+    ],
+    "image": "images/02-dijatonika-a/zadatak-2-47-2.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 2 and complete figured bass, including sharps, 5s, extension and final barline, retained with clean four-edge source margins.",
+    "caption": "zadatak-2-47-2"
+  },
+  {
+    "id": "zadatak-2-47-3",
+    "example": "zadatak-2-47-3",
+    "kind": "exercise",
+    "printed_page": 47,
+    "pdf_page": 24,
+    "source_image": "sources/pages/page-047.png",
+    "rect": [
+      202,
+      1658,
+      1717,
+      1816
+    ],
+    "image": "images/02-dijatonika-a/zadatak-2-47-3.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 3, initial signature, later 3/2 change, rest, all figures and final barline complete; four edges contain no adjacent exercise or prose.",
+    "caption": "zadatak-2-47-3"
+  },
+  {
+    "id": "zadatak-2-47-4",
+    "example": "zadatak-2-47-4",
+    "kind": "exercise",
+    "printed_page": 47,
+    "pdf_page": 24,
+    "source_image": "sources/pages/page-047.png",
+    "rect": [
+      203,
+      1842,
+      1714,
+      1993
+    ],
+    "image": "images/02-dijatonika-a/zadatak-2-47-4.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 4, full treble clef, both flats, sharp, long slur and lower tie retained; small genuine margins on all four edges.",
+    "caption": "zadatak-2-47-4"
+  },
+  {
+    "id": "zadatak-2-47-5",
+    "example": "zadatak-2-47-5",
+    "kind": "exercise",
+    "printed_page": 47,
+    "pdf_page": 24,
+    "source_image": "sources/pages/page-047.png",
+    "rect": [
+      202,
+      2052,
+      1713,
+      2217
+    ],
+    "image": "images/02-dijatonika-a/zadatak-2-47-5.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 5, complete signature, both slurs, ledger-line notes and final barline retained; clean source whitespace at every edge.",
+    "caption": "zadatak-2-47-5"
+  },
+  {
+    "id": "zadatak-2-47-6",
+    "example": "zadatak-2-47-6",
+    "kind": "exercise",
+    "printed_page": 47,
+    "pdf_page": 24,
+    "source_image": "sources/pages/page-047.png",
+    "rect": [
+      202,
+      2247,
+      1712,
+      2427
+    ],
+    "image": "images/02-dijatonika-a/recrops/zadatak-2-47-6.png",
+    "review_status": "pending_recrop_review",
+    "review_note": "Lower edge cuts the extreme bottom of the treble-clef curl. Source-tested replacement restores the curl and white margin without admitting printed page number 47.",
+    "caption": "zadatak-2-47-6",
+    "original_image": "images/02-dijatonika-a/zadatak-2-47-6.png",
+    "original_rect": [
+      202,
+      2247,
+      1712,
+      2411
+    ]
+  },
+  {
+    "id": "primjer-2-100",
+    "example": "2.100",
+    "kind": "example",
+    "printed_page": 48,
+    "pdf_page": 25,
+    "source_image": "sources/pages/page-048.png",
+    "rect": [
+      585,
+      744,
+      1264,
+      955
+    ],
+    "image": "images/02-dijatonika-a/primjer-2-100.png",
+    "review_status": "source_limited",
+    "review_note": "Printed 2.100, arrow, brackets and figures are complete, but pencil curves/analytical remnants above and below the right chord and adjacent to the bracket remain. They share the notation/figure bounding area; no clean rectangular solution established.",
+    "caption": "2.100"
+  },
+  {
+    "id": "primjer-2-101",
+    "example": "2.101",
+    "kind": "example",
+    "printed_page": 48,
+    "pdf_page": 25,
+    "source_image": "sources/pages/page-048.png",
+    "rect": [
+      207,
+      1408,
+      1721,
+      1663
+    ],
+    "image": "images/02-dijatonika-a/primjer-2-101.png",
+    "review_status": "source_limited",
+    "review_note": "Both variants and all chords/signatures complete, but handwritten marks above and below chords and beside the clef remain inside the required notation bounds. Cropping alone cannot meet the no-handwriting requirement.",
+    "caption": "2.101"
+  },
+  {
+    "id": "primjer-2-102",
+    "example": "2.102",
+    "kind": "example",
+    "printed_page": 48,
+    "pdf_page": 25,
+    "source_image": "sources/pages/page-048.png",
+    "rect": [
+      625,
+      2042,
+      1135,
+      2399
+    ],
+    "image": "images/02-dijatonika-a/primjer-2-102.png",
+    "review_status": "source_limited",
+    "review_note": "Number, two staves and both 6 figures complete. Enlarged inspection shows a pencil arc around/above the high bass note inside the system, as well as upper pencil remnants; this is not merely an isolated scan speck and cannot be removed by a rectangular crop.",
+    "caption": "2.102"
+  },
+  {
+    "id": "primjer-2-103",
+    "example": "2.103",
+    "kind": "example",
+    "printed_page": 49,
+    "pdf_page": 25,
+    "source_image": "sources/pages/page-049.png",
+    "rect": [
+      220,
+      698,
+      1173,
+      1104
+    ],
+    "image": "images/02-dijatonika-a/primjer-2-103.png",
+    "review_status": "source_limited",
+    "review_note": "2.103 a/b, asterisk, printed figuring and extension complete; pencil circles/remnants beside notes remain between staves. Footnote prose is correctly outside the crop and represented in the text shard. Internal handwriting prevents a clean rectangular recrop.",
+    "caption": "2.103"
+  },
+  {
+    "id": "primjer-2-104",
+    "example": "2.104",
+    "kind": "example",
+    "printed_page": 49,
+    "pdf_page": 25,
+    "source_image": "sources/pages/page-049.png",
+    "rect": [
+      1207,
+      705,
+      1744,
+      1085
+    ],
+    "image": "images/02-dijatonika-a/primjer-2-104.png",
+    "review_status": "source_limited",
+    "review_note": "Printed example complete, but pencil curves above the upper staff, beside high bass notes and across/below the lower staff remain; some lower remnants approach the edge. Their overlap with score bounds prevents a clean rectangle.",
+    "caption": "2.104"
+  },
+  {
+    "id": "primjer-2-105",
+    "example": "2.105",
+    "kind": "example",
+    "printed_page": 49,
+    "pdf_page": 25,
+    "source_image": "sources/pages/page-049.png",
+    "rect": [
+      704,
+      2164,
+      1262,
+      2354
+    ],
+    "image": "images/02-dijatonika-a/primjer-2-105.png",
+    "review_status": "independent_pass",
+    "review_note": "2.105, complete treble staff/chords, brackets and both 6 figures retained; all four edges have clean genuine whitespace; footer and page number excluded.",
+    "caption": "2.105"
+  },
+  {
+    "id": "primjer-2-106",
+    "example": "2.106",
+    "kind": "example",
+    "printed_page": 50,
+    "pdf_page": 26,
+    "source_image": "sources/pages/page-050.png",
+    "rect": [
+      164,
+      986,
+      788,
+      1349
+    ],
+    "image": "images/02-dijatonika-a/primjer-2-106.png",
+    "review_status": "source_limited",
+    "review_note": "Number, NE, both staves, brackets and 6s complete, but handwritten analytical remnants occur between staves, including to the right of the second bracket. They lie inside the score bounds and cannot be cropped out safely.",
+    "caption": "2.106"
+  },
+  {
+    "id": "primjer-2-107",
+    "example": "2.107",
+    "kind": "example",
+    "printed_page": 50,
+    "pdf_page": 26,
+    "source_image": "sources/pages/page-050.png",
+    "rect": [
+      867,
+      981,
+      1690,
+      1323
+    ],
+    "image": "images/02-dijatonika-a/primjer-2-107.png",
+    "review_status": "source_limited",
+    "review_note": "2.107 a/b and both complete systems retained; a handwritten analytical string remains below the treble clef/first chord inside the system. Rectangle-only removal would sacrifice required score content.",
+    "caption": "2.107"
+  },
+  {
+    "id": "primjer-2-108",
+    "example": "2.108",
+    "kind": "example",
+    "printed_page": 50,
+    "pdf_page": 26,
+    "source_image": "sources/pages/page-050.png",
+    "rect": [
+      140,
+      1363,
+      1691,
+      2179
+    ],
+    "image": "images/02-dijatonika-a/primjer-2-108.png",
+    "review_status": "source_limited",
+    "review_note": "Both systems, a–d, printed asterisk markers, accidentals, connections and all figures complete; handwritten circles inside the first system and analytical characters below the last figures remain. Printed footnotes are excluded and transcribed separately. No clean rectangle can remove internal pencil marks.",
+    "caption": "2.108"
+  },
+  {
+    "id": "primjer-2-109",
+    "example": "2.109",
+    "kind": "example",
+    "printed_page": 51,
+    "pdf_page": 26,
+    "source_image": "sources/pages/page-051.png",
+    "rect": [
+      201,
+      549,
+      1726,
+      1016
+    ],
+    "image": "images/02-dijatonika-a/primjer-2-109.png",
+    "review_status": "source_limited",
+    "review_note": "a/b, printed accidentals, connections and 6s complete, but pencil circles around notes, internal analytical marks and handwritten T/VII-type analysis below the staff remain. Internal marks make this source-limited rather than a simple bottom trim.",
+    "caption": "2.109"
+  },
+  {
+    "id": "primjer-2-110",
+    "example": "2.110",
+    "kind": "example",
+    "printed_page": 51,
+    "pdf_page": 26,
+    "source_image": "sources/pages/page-051.png",
+    "rect": [
+      638,
+      1423,
+      1240,
+      1601
+    ],
+    "image": "images/02-dijatonika-a/primjer-2-110.png",
+    "review_status": "independent_pass",
+    "review_note": "2.110, full key signature, brackets, all chord notes, final barline and two 6s retained; four source margins clean of prose and unrelated ink.",
+    "caption": "2.110"
+  },
+  {
+    "id": "primjer-2-111",
+    "example": "2.111",
+    "kind": "example",
+    "printed_page": 51,
+    "pdf_page": 26,
+    "source_image": "sources/pages/page-051.png",
+    "rect": [
+      191,
+      2017,
+      1708,
+      2394
+    ],
+    "image": "images/02-dijatonika-a/recrops/primjer-2-111.png",
+    "review_status": "pending_recrop_review",
+    "review_note": "Part a is complete, including printed number and all 6s, but faint pencil analytical remnants below the figures reach the lower edge. Source-tested bottom trim removes that band while retaining all printed content and a small genuine margin. Parts b–d correctly belong to the separate page-52 continuation.",
+    "caption": "2.111",
+    "original_image": "images/02-dijatonika-a/primjer-2-111.png",
+    "original_rect": [
+      191,
+      2017,
+      1708,
+      2428
+    ]
+  },
+  {
+    "id": "primjer-2-111-nastavak",
+    "example": "2.111-nastavak",
+    "kind": "example",
+    "printed_page": 52,
+    "pdf_page": 27,
+    "source_image": "sources/pages/page-052.png",
+    "rect": [
+      169,
+      130,
+      1717,
+      939
+    ],
+    "image": "images/02-dijatonika-a/primjer-2-111-nastavak.png",
+    "review_status": "source_limited",
+    "review_note": "Continuation identity is correct: b–d, both systems, printed asterisk and figures retained; source does not repeat 2.111 here. Handwritten character beside b and remnants between systems/around the first system remain inside the combined score bounds, so no clean rectangle established. Footnote prose correctly excluded/transcribed.",
+    "caption": "2.111-nastavak"
+  },
+  {
+    "id": "primjer-2-112",
+    "example": "2.112",
+    "kind": "example",
+    "printed_page": 52,
+    "pdf_page": 27,
+    "source_image": "sources/pages/page-052.png",
+    "rect": [
+      638,
+      1390,
+      1199,
+      1609
+    ],
+    "image": "images/02-dijatonika-a/primjer-2-112.png",
+    "review_status": "independent_pass",
+    "review_note": "2.112, full signature, brackets, low ledger-line note and its lower 6 retained; all four edges clean and separated from surrounding prose.",
+    "caption": "2.112"
+  },
+  {
+    "id": "primjer-2-113",
+    "example": "2.113",
+    "kind": "example",
+    "printed_page": 52,
+    "pdf_page": 27,
+    "source_image": "sources/pages/page-052.png",
+    "rect": [
+      183,
+      1977,
+      1708,
+      2427
+    ],
+    "image": "images/02-dijatonika-a/primjer-2-113.png",
+    "review_status": "source_limited",
+    "review_note": "2.113 a–c, all staves and printed figures retained, but handwritten circles within the score and T/VI-type labels below the figures remain. Bottom trim alone cannot remove the internal circles; no safe rectangular cleanup.",
+    "caption": "2.113"
+  },
+  {
+    "id": "primjer-2-114",
+    "example": "2.114",
+    "kind": "example",
+    "printed_page": 53,
+    "pdf_page": 27,
+    "source_image": "sources/pages/page-053.png",
+    "rect": [
+      412,
+      579,
+      1509,
+      1057
+    ],
+    "image": "images/02-dijatonika-a/primjer-2-114.png",
+    "review_status": "source_limited",
+    "review_note": "a/b and all printed Roman numerals including II6 retained. Handwritten words above variants and pencil circles around notes inside the system remain. Source-limited because removing the upper band does not remove internal pencil marks.",
+    "caption": "2.114"
+  },
+  {
+    "id": "primjer-2-115",
+    "example": "2.115",
+    "kind": "example",
+    "printed_page": 53,
+    "pdf_page": 27,
+    "source_image": "sources/pages/page-053.png",
+    "rect": [
+      395,
+      1821,
+      1491,
+      2202
+    ],
+    "image": "images/02-dijatonika-a/primjer-2-115.png",
+    "review_status": "independent_pass",
+    "review_note": "2.115 a/b, NE, signatures, brackets and notes complete with clean four-edge source margins. Open-ended right staff is exactly as printed, not a cropped final barline; exercise prose below excluded.",
+    "caption": "2.115"
+  },
+  {
+    "id": "primjer-2-116",
+    "example": "2.116",
+    "kind": "example",
+    "printed_page": 54,
+    "pdf_page": 28,
+    "source_image": "sources/pages/page-054.png",
+    "rect": [
+      193,
+      1077,
+      978,
+      1456
+    ],
+    "image": "images/02-dijatonika-a/recrops/primjer-2-116.png",
+    "review_status": "pending_recrop_review",
+    "review_note": "Printed a/b and all figures complete, but a handwritten T and stray pencil stroke remain below the figure row. Source-tested lower boundary removes these without cutting printed figures or introducing prose.",
+    "caption": "2.116",
+    "original_image": "images/02-dijatonika-a/primjer-2-116.png",
+    "original_rect": [
+      193,
+      1077,
+      978,
+      1518
+    ]
+  },
+  {
+    "id": "primjer-2-117",
+    "example": "2.117",
+    "kind": "example",
+    "printed_page": 54,
+    "pdf_page": 28,
+    "source_image": "sources/pages/page-054.png",
+    "rect": [
+      1025,
+      1067,
+      1719,
+      1528
+    ],
+    "image": "images/02-dijatonika-a/primjer-2-117.png",
+    "review_status": "source_limited",
+    "review_note": "a/b and printed 6s complete, but handwritten numbers/circles within the system and D/T analysis below remain. A lower trim cannot remove internal pencil marks; clean rectangular recrop not feasible from this source.",
+    "caption": "2.117"
+  },
+  {
+    "id": "primjer-2-118",
+    "example": "2.118",
+    "kind": "example",
+    "printed_page": 54,
+    "pdf_page": 28,
+    "source_image": "sources/pages/page-054.png",
+    "rect": [
+      205,
+      2003,
+      1725,
+      2444
+    ],
+    "image": "images/02-dijatonika-a/primjer-2-118.png",
+    "review_status": "source_limited",
+    "review_note": "First system, number, complete staves and printed 6s retained; handwritten numbers and circles overlap/lie among upper notes, with more handwriting below. These cannot be removed by a rectangle without clipping notation. Continuation correctly assigned to page 55.",
+    "caption": "2.118"
+  },
+  {
+    "id": "primjer-2-118-nastavak",
+    "example": "2.118-nastavak",
+    "kind": "example",
+    "printed_page": 55,
+    "pdf_page": 28,
+    "source_image": "sources/pages/page-055.png",
+    "rect": [
+      203,
+      111,
+      1744,
+      465
+    ],
+    "image": "images/02-dijatonika-a/primjer-2-118-nastavak.png",
+    "review_status": "independent_pass",
+    "review_note": "Correct continuation of 2.118, whose number appears on page 54 only. Entire continuation system, all figures and final barline retained; four edges clean; handwriting belonging to the following 2.119 excluded.",
+    "caption": "2.118-nastavak"
+  },
+  {
+    "id": "primjer-2-119",
+    "example": "2.119",
+    "kind": "example",
+    "printed_page": 55,
+    "pdf_page": 28,
+    "source_image": "sources/pages/page-055.png",
+    "rect": [
+      516,
+      471,
+      1369,
+      950
+    ],
+    "image": "images/02-dijatonika-a/primjer-2-119.png",
+    "review_status": "source_limited",
+    "review_note": "Number, opposing printed arrows, both staves, figures and barline complete. Handwritten voice/analysis labels above arrows, D/T labels below and pencil circles inside the score remain. Internal circles preclude a clean rectangular solution.",
+    "caption": "2.119"
+  },
+  {
+    "id": "primjer-2-120",
+    "example": "2.120",
+    "kind": "example",
+    "printed_page": 55,
+    "pdf_page": 28,
+    "source_image": "sources/pages/page-055.png",
+    "rect": [
+      330,
+      1278,
+      1662,
+      1676
+    ],
+    "image": "images/02-dijatonika-a/primjer-2-120.png",
+    "review_status": "independent_pass",
+    "review_note": "2.120 a–c, slur, accidentals and complete 6–5 figuring retained; all four margins are genuine source whitespace, with no adjacent paragraph fragments.",
+    "caption": "2.120"
+  },
+  {
+    "id": "primjer-2-121",
+    "example": "2.121",
+    "kind": "example",
+    "printed_page": 55,
+    "pdf_page": 28,
+    "source_image": "sources/pages/page-055.png",
+    "rect": [
+      219,
+      2000,
+      1745,
+      2392
+    ],
+    "image": "images/02-dijatonika-a/recrops/primjer-2-121.png",
+    "review_status": "pending_recrop_review",
+    "review_note": "A partial descender from the preceding prose is visible at the top edge near crop x=150. Printed example a–d is otherwise complete. Source-tested top y=2000 removes all prose while retaining the full d label beginning at y=2004; the narrow upper margin is constrained by the actual six-row source gap.",
+    "caption": "2.121",
+    "original_image": "images/02-dijatonika-a/primjer-2-121.png",
+    "original_rect": [
+      219,
+      1996,
+      1745,
+      2392
+    ]
+  },
+  {
+    "id": "primjer-2-122",
+    "example": "2.122",
+    "kind": "example",
+    "printed_page": 56,
+    "pdf_page": 29,
+    "source_image": "sources/pages/page-056.png",
+    "rect": [
+      169,
+      594,
+      1697,
+      1001
+    ],
+    "image": "images/02-dijatonika-a/primjer-2-122.png",
+    "review_status": "independent_pass",
+    "review_note": "2.122 a/b, signatures, all voices/connections and lower 6s complete; clean genuine margins on all four edges; surrounding paragraphs excluded.",
+    "caption": "2.122"
+  },
+  {
+    "id": "primjer-2-123",
+    "example": "2.123",
+    "kind": "example",
+    "printed_page": 56,
+    "pdf_page": 29,
+    "source_image": "sources/pages/page-056.png",
+    "rect": [
+      658,
+      1339,
+      1156,
+      1695
+    ],
+    "image": "images/02-dijatonika-a/primjer-2-123.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, NE, brackets, complete staves and both 6s retained. Four margins exclude prose; isolated small lower-left scan blemish is not identifiable handwriting, a letter fragment or a neighbouring score element.",
+    "caption": "2.123"
+  },
+  {
+    "id": "primjer-2-124",
+    "example": "2.124",
+    "kind": "example",
+    "printed_page": 57,
+    "pdf_page": 29,
+    "source_image": "sources/pages/page-057.png",
+    "rect": [
+      192,
+      325,
+      1741,
+      1166
+    ],
+    "image": "images/02-dijatonika-a/primjer-2-124.png",
+    "review_status": "source_limited",
+    "review_note": "Both systems and variants a–c complete, including printed connections, figures and final barline. Pencil analysis remains in the inter-system gap and below the second system, with a pencil circle around an internal note. No rectangular crop removes all of this while preserving both systems.",
+    "caption": "2.124"
+  },
+  {
+    "id": "primjer-2-125",
+    "example": "2.125",
+    "kind": "example",
+    "printed_page": 57,
+    "pdf_page": 29,
+    "source_image": "sources/pages/page-057.png",
+    "rect": [
+      222,
+      1483,
+      1740,
+      1952
+    ],
+    "image": "images/02-dijatonika-a/primjer-2-125.png",
+    "review_status": "source_limited",
+    "review_note": "a–d, upper brackets, lower connecting lines and printed 5/6 figures complete, but faint handwritten analytical characters remain below and among the figure band, especially under c/d. Some share the vertical band needed by the printed figures, so no fully clean rectangle established.",
+    "caption": "2.125"
+  },
+  {
+    "id": "primjer-2-126",
+    "example": "2.126",
+    "kind": "example",
+    "printed_page": 58,
+    "pdf_page": 30,
+    "source_image": "sources/pages/page-058.png",
+    "rect": [
+      459,
+      130,
+      1430,
+      521
+    ],
+    "image": "images/02-dijatonika-a/primjer-2-126.png",
+    "review_status": "independent_pass",
+    "review_note": "2.126 a/b, both full staves, all notes and lower 6s retained; all four edges have clean source margins and exclude the following paragraph.",
+    "caption": "2.126"
+  },
+  {
+    "id": "primjer-2-127",
+    "example": "2.127",
+    "kind": "example",
+    "printed_page": 58,
+    "pdf_page": 30,
+    "source_image": "sources/pages/page-058.png",
+    "rect": [
+      177,
+      1916,
+      1091,
+      2394
+    ],
+    "image": "images/02-dijatonika-a/primjer-2-127.png",
+    "review_status": "independent_pass",
+    "review_note": "2.127 a/b, complete boxed 5 passage, all notes/accidentals, lower figures and final barline retained. Enlarged inspection finds only isolated faint scan remnants/specks, not a meaningful handwritten label or foreign partial character at an edge; four margins acceptable.",
+    "caption": "2.127"
+  },
+  {
+    "id": "primjer-2-128",
+    "example": "2.128",
+    "kind": "example",
+    "printed_page": 58,
+    "pdf_page": 30,
+    "source_image": "sources/pages/page-058.png",
+    "rect": [
+      1113,
+      1964,
+      1698,
+      2395
+    ],
+    "image": "images/02-dijatonika-a/primjer-2-128.png",
+    "review_status": "source_limited",
+    "review_note": "Printed number, slurs, notes and staves complete, but handwritten analytical characters below and a pencil curve beside the moving bass note remain. Internal pencil overlap prevents a clean rectangular trim; no erasure authorized.",
+    "caption": "2.128"
+  },
+  {
+    "id": "primjer-2-129",
+    "example": "2.129",
+    "kind": "example",
+    "printed_page": 59,
+    "pdf_page": 30,
+    "source_image": "sources/pages/page-059.png",
+    "rect": [
+      232,
+      123,
+      1768,
+      933
+    ],
+    "image": "images/02-dijatonika-a/primjer-2-129.png",
+    "review_status": "source_limited",
+    "review_note": "Both systems and a–e complete; following body paragraph excluded. Faint analytical letters in the inter-system gap and below the lower staff, plus pencil curves around internal notes, remain. Rectangle-only cleanup cannot preserve both systems and remove these marks.",
+    "caption": "2.129"
+  },
+  {
+    "id": "primjer-2-130",
+    "example": "2.130",
+    "kind": "example",
+    "printed_page": 60,
+    "pdf_page": 31,
+    "source_image": "sources/pages/page-060.png",
+    "rect": [
+      130,
+      706,
+      751,
+      1095
+    ],
+    "image": "images/02-dijatonika-a/primjer-2-130.png",
+    "review_status": "independent_pass",
+    "review_note": "2.130 a/b, complete staves, moving bass and both 5-extension figures retained; four source margins clean.",
+    "caption": "2.130"
+  },
+  {
+    "id": "primjer-2-131",
+    "example": "2.131",
+    "kind": "example",
+    "printed_page": 60,
+    "pdf_page": 31,
+    "source_image": "sources/pages/page-060.png",
+    "rect": [
+      832,
+      703,
+      1661,
+      1090
+    ],
+    "image": "images/02-dijatonika-a/primjer-2-131.png",
+    "review_status": "independent_pass",
+    "review_note": "2.131 a/b, chromatic signs, all chord notes and lower sharp/flat/sharp-5 figures complete; four edges clean and separate from adjacent examples.",
+    "caption": "2.131"
+  },
+  {
+    "id": "primjer-2-132",
+    "example": "2.132",
+    "kind": "example",
+    "printed_page": 60,
+    "pdf_page": 31,
+    "source_image": "sources/pages/page-060.png",
+    "rect": [
+      145,
+      1122,
+      751,
+      1335
+    ],
+    "image": "images/02-dijatonika-a/primjer-2-132.png",
+    "review_status": "independent_pass",
+    "review_note": "2.132, all three chords and both levels of accidental/6 figuring retained; four clean genuine margins; tiny isolated scan specks do not form foreign text.",
+    "caption": "2.132"
+  },
+  {
+    "id": "primjer-2-133",
+    "example": "2.133",
+    "kind": "example",
+    "printed_page": 60,
+    "pdf_page": 31,
+    "source_image": "sources/pages/page-060.png",
+    "rect": [
+      827,
+      1126,
+      1457,
+      1497
+    ],
+    "image": "images/02-dijatonika-a/primjer-2-133.png",
+    "review_status": "independent_pass",
+    "review_note": "2.133, both complete staves, (3), (8) and lower 6 retained with clean four-edge source margins; NAPOMENA excluded.",
+    "caption": "2.133"
+  },
+  {
+    "id": "zadatak-2-60-1",
+    "example": "zadatak-2-60-1",
+    "kind": "exercise",
+    "printed_page": 60,
+    "pdf_page": 31,
+    "source_image": "sources/pages/page-060.png",
+    "rect": [
+      137,
+      1849,
+      1651,
+      1997
+    ],
+    "image": "images/02-dijatonika-a/zadatak-2-60-1.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 1, time signature, complete bass/rest, all lower 6s and final barline retained; four source margins exclude heading and neighbouring exercises.",
+    "caption": "zadatak-2-60-1"
+  },
+  {
+    "id": "zadatak-2-60-2",
+    "example": "zadatak-2-60-2",
+    "kind": "exercise",
+    "printed_page": 60,
+    "pdf_page": 31,
+    "source_image": "sources/pages/page-060.png",
+    "rect": [
+      134,
+      2052,
+      1648,
+      2211
+    ],
+    "image": "images/02-dijatonika-a/zadatak-2-60-2.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 2, complete bass and chromatic signs, all sharp/6/sharp-5 figures and final barline complete; four margins clean.",
+    "caption": "zadatak-2-60-2"
+  },
+  {
+    "id": "zadatak-2-60-3",
+    "example": "zadatak-2-60-3",
+    "kind": "exercise",
+    "printed_page": 60,
+    "pdf_page": 31,
+    "source_image": "sources/pages/page-060.png",
+    "rect": [
+      132,
+      2247,
+      1646,
+      2401
+    ],
+    "image": "images/02-dijatonika-a/zadatak-2-60-3.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 3, signature, rest, complete bass and all lower 6s retained; four source margins clean; printed page number 60 excluded.",
+    "caption": "zadatak-2-60-3"
+  },
+  {
+    "id": "zadatak-2-61-4",
+    "example": "zadatak-2-61-4",
+    "kind": "exercise",
+    "printed_page": 61,
+    "pdf_page": 31,
+    "source_image": "sources/pages/page-061.png",
+    "rect": [
+      241,
+      145,
+      1753,
+      312
+    ],
+    "image": "images/02-dijatonika-a/zadatak-2-61-4.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 4, full line, accidentals, all figures/extensions and final barline complete; four source margins clean.",
+    "caption": "zadatak-2-61-4"
+  },
+  {
+    "id": "zadatak-2-61-5",
+    "example": "zadatak-2-61-5",
+    "kind": "exercise",
+    "printed_page": 61,
+    "pdf_page": 31,
+    "source_image": "sources/pages/page-061.png",
+    "rect": [
+      241,
+      367,
+      1753,
+      512
+    ],
+    "image": "images/02-dijatonika-a/zadatak-2-61-5.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 5, signature, full bass and all multi-symbol figuring retained; four edges have clean source whitespace.",
+    "caption": "zadatak-2-61-5"
+  },
+  {
+    "id": "zadatak-2-61-6",
+    "example": "zadatak-2-61-6",
+    "kind": "exercise",
+    "printed_page": 61,
+    "pdf_page": 31,
+    "source_image": "sources/pages/page-061.png",
+    "rect": [
+      241,
+      585,
+      1753,
+      741
+    ],
+    "image": "images/02-dijatonika-a/zadatak-2-61-6.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 6, full sharp signature, all bass notes including low ledger note and complete 6/5 figuring retained; four margins clean apart from an isolated scan speck, not foreign notation.",
+    "caption": "zadatak-2-61-6"
+  },
+  {
+    "id": "zadatak-2-61-7",
+    "example": "zadatak-2-61-7",
+    "kind": "exercise",
+    "printed_page": 61,
+    "pdf_page": 31,
+    "source_image": "sources/pages/page-061.png",
+    "rect": [
+      241,
+      773,
+      1750,
+      923
+    ],
+    "image": "images/02-dijatonika-a/zadatak-2-61-7.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 7, full signature/bass/rest and all 5/6 figures retained, including final dotted note; four source margins clean.",
+    "caption": "zadatak-2-61-7"
+  },
+  {
+    "id": "zadatak-2-61-8",
+    "example": "zadatak-2-61-8",
+    "kind": "exercise",
+    "printed_page": 61,
+    "pdf_page": 31,
+    "source_image": "sources/pages/page-061.png",
+    "rect": [
+      238,
+      963,
+      1755,
+      1088
+    ],
+    "image": "images/02-dijatonika-a/zadatak-2-61-8.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 8, key/time signatures, natural signs and complete bass through final barline retained; clean four-edge source margins.",
+    "caption": "zadatak-2-61-8"
+  },
+  {
+    "id": "zadatak-2-61-9",
+    "example": "zadatak-2-61-9",
+    "kind": "exercise",
+    "printed_page": 61,
+    "pdf_page": 31,
+    "source_image": "sources/pages/page-061.png",
+    "rect": [
+      233,
+      1152,
+      1749,
+      1276
+    ],
+    "image": "images/02-dijatonika-a/zadatak-2-61-9.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 9, complete extended sharp signature, bass/rest and final dotted note/barline retained; all four margins clean.",
+    "caption": "zadatak-2-61-9"
+  },
+  {
+    "id": "zadatak-2-61-10",
+    "example": "zadatak-2-61-10",
+    "kind": "exercise",
+    "printed_page": 61,
+    "pdf_page": 31,
+    "source_image": "sources/pages/page-061.png",
+    "rect": [
+      227,
+      1337,
+      1751,
+      1456
+    ],
+    "image": "images/02-dijatonika-a/zadatak-2-61-10.png",
+    "review_status": "independent_pass",
+    "review_note": "Full two-digit exercise number 10, signature, all bass notes and final barline complete; clean source margin at every edge.",
+    "caption": "zadatak-2-61-10"
+  },
+  {
+    "id": "zadatak-2-61-11",
+    "example": "zadatak-2-61-11",
+    "kind": "exercise",
+    "printed_page": 61,
+    "pdf_page": 31,
+    "source_image": "sources/pages/page-061.png",
+    "rect": [
+      228,
+      1522,
+      1751,
+      1638
+    ],
+    "image": "images/02-dijatonika-a/zadatak-2-61-11.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 11, both flats, complete bass including eighth note/rest, and final barline retained; four source margins clean.",
+    "caption": "zadatak-2-61-11"
+  },
+  {
+    "id": "zadatak-2-61-12",
+    "example": "zadatak-2-61-12",
+    "kind": "exercise",
+    "printed_page": 61,
+    "pdf_page": 31,
+    "source_image": "sources/pages/page-061.png",
+    "rect": [
+      228,
+      1663,
+      1753,
+      1824
+    ],
+    "image": "images/02-dijatonika-a/zadatak-2-61-12.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 12, full treble clef, sharp/6-4 signature, both long slur and inner tie, high notes and final barline complete; four small genuine source margins retained.",
+    "caption": "zadatak-2-61-12"
+  },
+  {
+    "id": "zadatak-2-61-13",
+    "example": "zadatak-2-61-13",
+    "kind": "exercise",
+    "printed_page": 61,
+    "pdf_page": 31,
+    "source_image": "sources/pages/page-061.png",
+    "rect": [
+      227,
+      1864,
+      1751,
+      2036
+    ],
+    "image": "images/02-dijatonika-a/zadatak-2-61-13.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 13, complete clef/signature, both slurs, accidentals and all low/high notes retained through final barline; four margins clean.",
+    "caption": "zadatak-2-61-13"
+  },
+  {
+    "id": "zadatak-2-61-14",
+    "example": "zadatak-2-61-14",
+    "kind": "exercise",
+    "printed_page": 61,
+    "pdf_page": 31,
+    "source_image": "sources/pages/page-061.png",
+    "rect": [
+      227,
+      2071,
+      1751,
+      2233
+    ],
+    "image": "images/02-dijatonika-a/zadatak-2-61-14.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 14, complete clef/signature, long slur and inner tie, all notes and final barline retained; four source margins clean.",
+    "caption": "zadatak-2-61-14"
+  },
+  {
+    "id": "zadatak-2-61-15",
+    "example": "zadatak-2-61-15",
+    "kind": "exercise",
+    "printed_page": 61,
+    "pdf_page": 31,
+    "source_image": "sources/pages/page-061.png",
+    "rect": [
+      227,
+      2264,
+      1751,
+      2428
+    ],
+    "image": "images/02-dijatonika-a/zadatak-2-61-15.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 15, full flat signature and 3/2, both slurs, complete line/final barline retained; four source margins clean; page number 61 excluded.",
+    "caption": "zadatak-2-61-15"
+  },
+  {
+    "id": "zadatak-2-62-16",
+    "example": "zadatak-2-62-16",
+    "kind": "exercise",
+    "printed_page": 62,
+    "pdf_page": 32,
+    "source_image": "sources/pages/page-062.png",
+    "rect": [
+      146,
+      132,
+      1667,
+      303
+    ],
+    "image": "images/02-dijatonika-a/recrops/zadatak-2-62-16.png",
+    "review_status": "pending_recrop_review",
+    "review_note": "Lower crop boundary cuts the treble-clef curl. Exercise number, slurs, tie, notes and right barline otherwise complete. Source-tested replacement extends the bottom into clean whitespace without reaching exercise 17.",
+    "caption": "zadatak-2-62-16",
+    "original_image": "images/02-dijatonika-a/zadatak-2-62-16.png",
+    "original_rect": [
+      146,
+      132,
+      1667,
+      286
+    ]
+  },
+  {
+    "id": "zadatak-2-62-17",
+    "example": "zadatak-2-62-17",
+    "kind": "exercise",
+    "printed_page": 62,
+    "pdf_page": 32,
+    "source_image": "sources/pages/page-062.png",
+    "rect": [
+      146,
+      341,
+      1667,
+      501
+    ],
+    "image": "images/02-dijatonika-a/recrops/zadatak-2-62-17.png",
+    "review_status": "pending_recrop_review",
+    "review_note": "Bottom edge clips the lowest treble-clef curl; other score content is complete. Source-tested replacement restores the whole curl and margin, excluding exercise 18.",
+    "caption": "zadatak-2-62-17",
+    "original_image": "images/02-dijatonika-a/zadatak-2-62-17.png",
+    "original_rect": [
+      146,
+      341,
+      1667,
+      482
+    ]
+  },
+  {
+    "id": "zadatak-2-62-18",
+    "example": "zadatak-2-62-18",
+    "kind": "exercise",
+    "printed_page": 62,
+    "pdf_page": 32,
+    "source_image": "sources/pages/page-062.png",
+    "rect": [
+      142,
+      534,
+      1664,
+      693
+    ],
+    "image": "images/02-dijatonika-a/zadatak-2-62-18.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 18, complete clef/sharp signature, rest, both slurs, high ledger note and final barline retained; four margins clean.",
+    "caption": "zadatak-2-62-18"
+  },
+  {
+    "id": "zadatak-2-62-19",
+    "example": "zadatak-2-62-19",
+    "kind": "exercise",
+    "printed_page": 62,
+    "pdf_page": 32,
+    "source_image": "sources/pages/page-062.png",
+    "rect": [
+      142,
+      745,
+      1664,
+      905
+    ],
+    "image": "images/02-dijatonika-a/zadatak-2-62-19.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 19, full clef/signature, accidentals, upper slurs and lower tie complete through final barline; four source margins clean.",
+    "caption": "zadatak-2-62-19"
+  },
+  {
+    "id": "zadatak-2-62-20",
+    "example": "zadatak-2-62-20",
+    "kind": "exercise",
+    "printed_page": 62,
+    "pdf_page": 32,
+    "source_image": "sources/pages/page-062.png",
+    "rect": [
+      143,
+      923,
+      1663,
+      1094
+    ],
+    "image": "images/02-dijatonika-a/recrops/zadatak-2-62-20.png",
+    "review_status": "pending_recrop_review",
+    "review_note": "Clef is technically complete but its lowest curl has approximately one blank source row below it, despite available clean whitespace. Source-tested replacement adds a small genuine lower margin without admitting exercise 21.",
+    "caption": "zadatak-2-62-20",
+    "original_image": "images/02-dijatonika-a/zadatak-2-62-20.png",
+    "original_rect": [
+      143,
+      923,
+      1663,
+      1083
+    ]
+  },
+  {
+    "id": "zadatak-2-62-21",
+    "example": "zadatak-2-62-21",
+    "kind": "exercise",
+    "printed_page": 62,
+    "pdf_page": 32,
+    "source_image": "sources/pages/page-062.png",
+    "rect": [
+      145,
+      1137,
+      1663,
+      1293
+    ],
+    "image": "images/02-dijatonika-a/zadatak-2-62-21.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 21, complete clef/flat signature, long slur, beamed notes, naturals and final barline retained; four source margins clean.",
+    "caption": "zadatak-2-62-21"
+  },
+  {
+    "id": "zadatak-2-62-22",
+    "example": "zadatak-2-62-22",
+    "kind": "exercise",
+    "printed_page": 62,
+    "pdf_page": 32,
+    "source_image": "sources/pages/page-062.png",
+    "rect": [
+      137,
+      1331,
+      1664,
+      1504
+    ],
+    "image": "images/02-dijatonika-a/recrops/zadatak-2-62-22.png",
+    "review_status": "pending_recrop_review",
+    "review_note": "Lower edge cuts ink at the extreme bottom of the treble-clef curl. Source-tested replacement preserves the complete curl, key signature, long slur, notes and final barline, adding clean whitespace before exercise 23.",
+    "caption": "zadatak-2-62-22",
+    "original_image": "images/02-dijatonika-a/zadatak-2-62-22.png",
+    "original_rect": [
+      137,
+      1331,
+      1664,
+      1486
+    ]
+  },
+  {
+    "id": "zadatak-2-62-23",
+    "example": "zadatak-2-62-23",
+    "kind": "exercise",
+    "printed_page": 62,
+    "pdf_page": 32,
+    "source_image": "sources/pages/page-062.png",
+    "rect": [
+      141,
+      1539,
+      1663,
+      1730
+    ],
+    "image": "images/02-dijatonika-a/zadatak-2-62-23.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 23, full clef/signature, both slurs, low tie, all ledger-line notes/accidentals and final breve/rest-like printed symbol retained; four clean source margins; realization heading excluded.",
+    "caption": "zadatak-2-62-23"
+  },
+  {
+    "id": "zadatak-2-62-12-realizacija",
+    "example": "zadatak-2-62-12-realizacija",
+    "kind": "exercise",
+    "printed_page": 62,
+    "pdf_page": 32,
+    "source_image": "sources/pages/page-062.png",
+    "rect": [
+      115,
+      1885,
+      1660,
+      2396
+    ],
+    "image": "images/02-dijatonika-a/recrops/zadatak-2-62-12-realizacija.png",
+    "review_status": "pending_recrop_review",
+    "review_note": "Notation and lower analytical connecting lines are complete and edges clean, but the identifying printed label 'Realizacija zadatka 12.' is omitted. Text shard transcribes it separately, yet the crop itself lacks the required identifying number/label. Source-tested replacement retains the label and full score without page number or exercise 23. Manifest caption identity is correct, though its spacing is compressed ('zadatka12').",
+    "caption": "Realizacija zadatka12",
+    "original_image": "images/02-dijatonika-a/zadatak-2-62-12-realizacija.png",
+    "original_rect": [
+      115,
+      1979,
+      1660,
+      2396
+    ]
+  },
+  {
+    "id": "zadatak-2-63-13-realizacija",
+    "example": "zadatak-2-63-13-realizacija",
+    "kind": "exercise",
+    "printed_page": 63,
+    "pdf_page": 32,
+    "source_image": "sources/pages/page-063.png",
+    "rect": [
+      168,
+      125,
+      1715,
+      1094
+    ],
+    "image": "images/02-dijatonika-a/recrops/zadatak-2-63-13-realizacija.png",
+    "review_status": "pending_recrop_review",
+    "review_note": "Both score systems are complete with clean margins, but printed identifying label 'Realizacija zadatka 13.' is omitted. Separate prose transcription does not satisfy the image number/label checklist. Source-tested replacement includes the label and both systems, excludes page number and left marginal mark. Manifest caption identity is correct, though spacing is compressed ('zadatka13').",
+    "caption": "Realizacija zadatka13",
+    "original_image": "images/02-dijatonika-a/zadatak-2-63-13-realizacija.png",
+    "original_rect": [
+      168,
+      264,
+      1715,
+      1094
+    ]
+  }
+]

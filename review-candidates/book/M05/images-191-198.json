@@ -1,0 +1,410 @@
+[
+  {
+    "id": "zadatak-3-191-1",
+    "example": null,
+    "kind": "zadatak",
+    "printed_page": 191,
+    "pdf_page": 96,
+    "source_image": "sources/pages/page-191.png",
+    "rect": [
+      194,
+      183,
+      1797,
+      621
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-191-1.png",
+    "review_status": "pending",
+    "review_note": "Realizacija zadatka 8 (no 3.x example number printed on this block). Bounds determined from staff/content; verify heading exclusion and all staves/annotations retained."
+  },
+  {
+    "id": "primjer-3-37",
+    "example": "3.37",
+    "kind": "primjer",
+    "printed_page": 192,
+    "pdf_page": 97,
+    "source_image": "sources/pages/page-192.png",
+    "rect": [
+      176,
+      1679,
+      1695,
+      2126
+    ],
+    "image": "images/03-kromatika-a/primjer-3-37.png",
+    "review_status": "pending",
+    "review_note": "Bounds from source analysis (label 3.37 at left; includes staves/annotations through end of block). Verify footnote/prose exclusion at bottom and all notation retained. | Adjusted after programmatic edge review (split-left edges kept conservative)."
+  },
+  {
+    "id": "primjer-3-39",
+    "example": "3.39",
+    "kind": "primjer",
+    "printed_page": 193,
+    "pdf_page": 97,
+    "source_image": "sources/pages/page-193.png",
+    "rect": [
+      309,
+      62,
+      1606,
+      470
+    ],
+    "image": "images/03-kromatika-a/primjer-3-39.png",
+    "review_status": "pending",
+    "review_note": "Top example; verify 3.39 label, all notation, and prose exclusion below. | Adjusted after programmatic edge review (split-left edges kept conservative)."
+  },
+  {
+    "id": "primjer-3-40",
+    "example": "3.40",
+    "kind": "primjer",
+    "printed_page": 193,
+    "pdf_page": 97,
+    "source_image": "sources/pages/page-193.png",
+    "rect": [
+      216,
+      931,
+      1730,
+      1177
+    ],
+    "image": "images/03-kromatika-a/primjer-3-40.png",
+    "review_status": "pending",
+    "review_note": "Split from merged candidate; verify separation from 3.41 and all content retained. | Adjusted after programmatic edge review (split-left edges kept conservative)."
+  },
+  {
+    "id": "primjer-3-41",
+    "example": "3.41",
+    "kind": "primjer",
+    "printed_page": 193,
+    "pdf_page": 97,
+    "source_image": "sources/pages/page-193.png",
+    "rect": [
+      216,
+      1110,
+      1732,
+      1564
+    ],
+    "image": "images/03-kromatika-a/primjer-3-41.png",
+    "review_status": "pending",
+    "review_note": "Split from merged candidate; verify separation from 3.40/3.42. | Adjusted after programmatic edge review (split-left edges kept conservative)."
+  },
+  {
+    "id": "primjer-3-42",
+    "example": "3.42",
+    "kind": "primjer",
+    "printed_page": 193,
+    "pdf_page": 97,
+    "source_image": "sources/pages/page-193.png",
+    "rect": [
+      261,
+      1610,
+      1552,
+      2012
+    ],
+    "image": "images/03-kromatika-a/primjer-3-42.png",
+    "review_status": "pending",
+    "review_note": "Split from merged candidate; verify lower annotations/final barline and prose exclusion below. | Adjusted after programmatic edge review (split-left edges kept conservative)."
+  },
+  {
+    "id": "primjer-3-43",
+    "example": "3.43",
+    "kind": "primjer",
+    "printed_page": 194,
+    "pdf_page": 98,
+    "source_image": "sources/pages/page-194.png",
+    "rect": [
+      105,
+      117,
+      783,
+      508
+    ],
+    "image": "images/03-kromatika-a/primjer-3-43.png",
+    "review_status": "pending",
+    "review_note": "Split from side-by-side block with 3.44; verify split edge has no clipped notation and 3.43 label/content complete."
+  },
+  {
+    "id": "primjer-3-44",
+    "example": "3.44",
+    "kind": "primjer",
+    "printed_page": 194,
+    "pdf_page": 98,
+    "source_image": "sources/pages/page-194.png",
+    "rect": [
+      785,
+      109,
+      1727,
+      505
+    ],
+    "image": "images/03-kromatika-a/primjer-3-44.png",
+    "review_status": "pending",
+    "review_note": "Split from side-by-side block with 3.43; verify split edge and all notation. | Adjusted after programmatic edge review (split-left edges kept conservative)."
+  },
+  {
+    "id": "primjer-3-45",
+    "example": "3.45",
+    "kind": "primjer",
+    "printed_page": 194,
+    "pdf_page": 98,
+    "source_image": "sources/pages/page-194.png",
+    "rect": [
+      263,
+      733,
+      1571,
+      1146
+    ],
+    "image": "images/03-kromatika-a/primjer-3-45.png",
+    "review_status": "pending",
+    "review_note": "3.45; verify label and all notation."
+  },
+  {
+    "id": "primjer-3-46",
+    "example": "3.46",
+    "kind": "primjer",
+    "printed_page": 194,
+    "pdf_page": 98,
+    "source_image": "sources/pages/page-194.png",
+    "rect": [
+      182,
+      1399,
+      978,
+      1805
+    ],
+    "image": "images/03-kromatika-a/primjer-3-46.png",
+    "review_status": "pending",
+    "review_note": "Split from block with 3.47; verify split edge. | Adjusted after programmatic edge review (split-left edges kept conservative)."
+  },
+  {
+    "id": "primjer-3-47",
+    "example": "3.47",
+    "kind": "primjer",
+    "printed_page": 194,
+    "pdf_page": 98,
+    "source_image": "sources/pages/page-194.png",
+    "rect": [
+      980,
+      1407,
+      1695,
+      1811
+    ],
+    "image": "images/03-kromatika-a/primjer-3-47.png",
+    "review_status": "pending",
+    "review_note": "Split from block with 3.46; verify split edge. | Adjusted after programmatic edge review (split-left edges kept conservative)."
+  },
+  {
+    "id": "primjer-3-48",
+    "example": "3.48",
+    "kind": "primjer",
+    "printed_page": 195,
+    "pdf_page": 98,
+    "source_image": "sources/pages/page-195.png",
+    "rect": [
+      228,
+      138,
+      934,
+      511
+    ],
+    "image": "images/03-kromatika-a/primjer-3-48.png",
+    "review_status": "pending",
+    "review_note": "Split from side-by-side 3.48/3.49 block; verify split edge and completeness. | Adjusted after programmatic edge review (split-left edges kept conservative)."
+  },
+  {
+    "id": "primjer-3-49",
+    "example": "3.49",
+    "kind": "primjer",
+    "printed_page": 195,
+    "pdf_page": 98,
+    "source_image": "sources/pages/page-195.png",
+    "rect": [
+      936,
+      144,
+      1745,
+      526
+    ],
+    "image": "images/03-kromatika-a/primjer-3-49.png",
+    "review_status": "pending",
+    "review_note": "Split from side-by-side 3.48/3.49 block; verify split edge and completeness. | Adjusted after programmatic edge review (split-left edges kept conservative)."
+  },
+  {
+    "id": "primjer-3-50",
+    "example": "3.50",
+    "kind": "primjer",
+    "printed_page": 195,
+    "pdf_page": 98,
+    "source_image": "sources/pages/page-195.png",
+    "rect": [
+      224,
+      994,
+      1738,
+      1370
+    ],
+    "image": "images/03-kromatika-a/primjer-3-50.png",
+    "review_status": "pending",
+    "review_note": "3.50; verify bounds. | Adjusted after programmatic edge review (split-left edges kept conservative)."
+  },
+  {
+    "id": "primjer-3-52",
+    "example": "3.52",
+    "kind": "primjer",
+    "printed_page": 195,
+    "pdf_page": 98,
+    "source_image": "sources/pages/page-195.png",
+    "rect": [
+      213,
+      1760,
+      1731,
+      2152
+    ],
+    "image": "images/03-kromatika-a/primjer-3-52.png",
+    "review_status": "pending",
+    "review_note": "Labeled 3.52 on page; prose also references 3.51/3.53 nearby — verify this crop contains only 3.52 and whether 3.51/3.53 have separate music blocks (uncertainty flagged). | Adjusted after programmatic edge review (split-left edges kept conservative)."
+  },
+  {
+    "id": "primjer-3-54",
+    "example": "3.54",
+    "kind": "primjer",
+    "printed_page": 196,
+    "pdf_page": 99,
+    "source_image": "sources/pages/page-196.png",
+    "rect": [
+      157,
+      432,
+      902,
+      814
+    ],
+    "image": "images/03-kromatika-a/primjer-3-54.png",
+    "review_status": "pending",
+    "review_note": "Split from 3.54/3.55 block; verify split and labels/notation. | Adjusted after programmatic edge review (split-left edges kept conservative)."
+  },
+  {
+    "id": "primjer-3-55",
+    "example": "3.55",
+    "kind": "primjer",
+    "printed_page": 196,
+    "pdf_page": 99,
+    "source_image": "sources/pages/page-196.png",
+    "rect": [
+      904,
+      439,
+      1680,
+      809
+    ],
+    "image": "images/03-kromatika-a/primjer-3-55.png",
+    "review_status": "pending",
+    "review_note": "Split from 3.54/3.55 block; verify split and labels/notation. | Adjusted after programmatic edge review (split-left edges kept conservative)."
+  },
+  {
+    "id": "primjer-3-56",
+    "example": "3.56",
+    "kind": "primjer",
+    "printed_page": 196,
+    "pdf_page": 99,
+    "source_image": "sources/pages/page-196.png",
+    "rect": [
+      170,
+      1467,
+      866,
+      1820
+    ],
+    "image": "images/03-kromatika-a/primjer-3-56.png",
+    "review_status": "pending",
+    "review_note": "Split from 3.56/3.57 block; verify split and labels/notation. | Adjusted after programmatic edge review (split-left edges kept conservative)."
+  },
+  {
+    "id": "primjer-3-57",
+    "example": "3.57",
+    "kind": "primjer",
+    "printed_page": 196,
+    "pdf_page": 99,
+    "source_image": "sources/pages/page-196.png",
+    "rect": [
+      868,
+      1454,
+      1682,
+      1824
+    ],
+    "image": "images/03-kromatika-a/primjer-3-57.png",
+    "review_status": "pending",
+    "review_note": "Split from 3.56/3.57 block; verify split and labels/notation. | Adjusted after programmatic edge review (split-left edges kept conservative)."
+  },
+  {
+    "id": "primjer-3-58",
+    "example": "3.58",
+    "kind": "primjer",
+    "printed_page": 196,
+    "pdf_page": 99,
+    "source_image": "sources/pages/page-196.png",
+    "rect": [
+      238,
+      1905,
+      1395,
+      2217
+    ],
+    "image": "images/03-kromatika-a/primjer-3-58.png",
+    "review_status": "pending",
+    "review_note": "3.58; verify bounds."
+  },
+  {
+    "id": "primjer-3-59",
+    "example": "3.59",
+    "kind": "primjer",
+    "printed_page": 197,
+    "pdf_page": 99,
+    "source_image": "sources/pages/page-197.png",
+    "rect": [
+      200,
+      130,
+      1747,
+      970
+    ],
+    "image": "images/03-kromatika-a/primjer-3-59.png",
+    "review_status": "pending",
+    "review_note": "Liszt attribution included; large multi-system example. Verify all systems, attribution, and no prose bleed from below. | Adjusted after programmatic edge review (split-left edges kept conservative)."
+  },
+  {
+    "id": "primjer-3-60",
+    "example": "3.60",
+    "kind": "primjer",
+    "printed_page": 197,
+    "pdf_page": 99,
+    "source_image": "sources/pages/page-197.png",
+    "rect": [
+      224,
+      1347,
+      1739,
+      1692
+    ],
+    "image": "images/03-kromatika-a/primjer-3-60.png",
+    "review_status": "pending",
+    "review_note": "Chopin attribution included; verify complete 3.60 notation and separation from Wagner/3.61. | Adjusted after programmatic edge review (split-left edges kept conservative)."
+  },
+  {
+    "id": "primjer-3-61",
+    "example": "3.61",
+    "kind": "primjer",
+    "printed_page": 197,
+    "pdf_page": 99,
+    "source_image": "sources/pages/page-197.png",
+    "rect": [
+      224,
+      1898,
+      1742,
+      2299
+    ],
+    "image": "images/03-kromatika-a/primjer-3-61.png",
+    "review_status": "pending",
+    "review_note": "Wagner/Parsifal attribution included; verify all notation and label 3.61. | Adjusted after programmatic edge review (split-left edges kept conservative)."
+  },
+  {
+    "id": "primjer-3-62",
+    "example": "3.62",
+    "kind": "primjer",
+    "printed_page": 198,
+    "pdf_page": 100,
+    "source_image": "sources/pages/page-198.png",
+    "rect": [
+      144,
+      137,
+      1685,
+      1439
+    ],
+    "image": "images/03-kromatika-a/primjer-3-62.png",
+    "review_status": "pending",
+    "review_note": "Grieg attribution included; large example. Verify all systems, notation, and prose/ZADACI exclusion below. | Adjusted after programmatic edge review (split-left edges kept conservative)."
+  }
+]

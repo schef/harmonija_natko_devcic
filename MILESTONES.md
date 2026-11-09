@@ -18,6 +18,54 @@ The detailed multi-agent workflow, including the mandatory independent score-ima
 
 ## Jobs
 
+### Active whole-book preparation assignment
+
+The user has assigned all remaining milestones M02–M11 for unattended preparation:
+printed pages 47–411 (PDF pages 24–206). Preserve the already reviewed material
+through printed page 46. Milestone coordinators may delegate the text,
+extraction, and independent visual-review roles within their own ranges.
+Each coordinator owns only its listed chapter/image outputs and its own
+`review-candidates/book/Mxx/` hand-off directory. Do not change shared manifests,
+another milestone's files, or this tracker concurrently. The parent integration
+agent owns shared tracking, link validation, and the consolidated human-review
+queue. Preparing a milestone for human image confirmation is not a claim that
+the user has approved it or that transcription uncertainties have been resolved.
+
+Concurrency constraint: **at most one subagent may run at a time**, with no nested
+delegation or model subprocesses. Complete and checkpoint one bounded batch before
+starting the next. Check reported Codex limits between batches and stop at 50%
+remaining in an active-account usage window (or earlier if a quota blocks work).
+
+### Current unattended-preparation checkpoint
+
+| Scope | Verified text / integration | Independent image review | Outstanding |
+| --- | --- | --- | --- |
+| M02, printed 47–63 / PDF 24–32 | All 17 pages appended to the existing chapter | 69 parts: 49 pass, 20 cleanup required | Human confirmation, handwriting cleanup, full-section preview |
+| M03, printed 64–136 / PDF 33–69 | All 73 pages verified and provisionally integrated | 310 parts: 158 pass, 152 cleanup required | Human confirmation, handwriting/layout cleanup, full-section preview |
+| M04, printed 137–174 / PDF 69–88 | All 38 pages verified and provisionally integrated, including blank page 174 | 128 parts: 107 pass, 21 cleanup required | Human confirmation, handwriting/layout cleanup, full-section preview |
+| M05, printed 175–206 / PDF 88–104 | All 32 pages verified and provisionally integrated | 104 parts: 66 pass, 38 cleanup required | Human confirmation, handwriting/layout cleanup, full-section preview |
+| M06, printed 207–256 / PDF 104–129 | All 50 pages verified and provisionally integrated | 169 parts: 142 pass, 27 cleanup required | Human confirmation, handwriting/layout cleanup, full-section preview |
+| M07, printed 257–276 / PDF 129–139 | All 20 pages verified in the text shard; not yet chapter-integrated | 57 source-only crops prepared, all pending independent review | Independent review, corrections and integration before confirmation |
+
+The consolidated queue currently contains these **837 newly prepared parts**:
+522 independently passing crops, 258 explicitly blocked cleanup cases, and
+57 crops still awaiting independent review. The local viewer defaults to the
+independently passed images for confirmation; cleanup and pending-review cases
+have separate views and are never presented as approved.
+It excludes the previously reviewed material through printed page 46 and is
+not a claim of whole-book completion. Start local confirmation with
+`python tools/review_book.py`; decisions are saved separately from source crops.
+Detailed hand-offs are under `review-candidates/book/M02/` through `M07/`.
+Original source crops and extraction manifests are preserved. M03's final shard
+has 35 corrected PDF references, checked against `sources/index.json`.
+
+**Paused at the usage guard:** active-account weekly allowance was 51% remaining
+at the last check. No further subagent was started, to avoid crossing the user's
+50%-remaining cutoff. Resume with independent review of M07's
+`review-candidates/book/M07/images.json` (57 records), then integrate the verified
+`text-257-276.md`. M08–M11 remain incomplete; earlier partial assets are preserved
+but have not been promoted to reviewed chapter content.
+
 | Status | Job | Scope | Printed pages | PDF pages | Output |
 | --- | --- | --- | --- | --- | --- |
 | [x] | Demo | Verified opening sample and one cropped score example | cover–5, 23 | 1–3, 12 | `sample/` |

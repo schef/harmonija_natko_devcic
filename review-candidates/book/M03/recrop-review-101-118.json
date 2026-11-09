@@ -1,0 +1,47 @@
+[
+  {
+    "id": "primjer-2-224",
+    "image": "images/02-dijatonika-b/recrops/primjer-2-224.png",
+    "printed_page": 104,
+    "decision": "PASS",
+    "reason": "Compared with source page 104 and inspected at native resolution, including all four edges. Number 2.224, variants a–d, all chords, accidentals, interval text and brackets, clef and staff ends are complete. The lower handwritten harmonic lettering is excluded without clipping the lowest notes. Genuine source margins remain on all sides (dark-content clearances left/top/right/bottom: 20/13/16/5 pixels). RGB mode, dimensions and every decoded pixel exactly match source rectangle [182,1400,1707,1595].",
+    "source_limited": false,
+    "proposed_rect": null
+  },
+  {
+    "id": "primjer-2-229",
+    "image": "images/02-dijatonika-b/recrops/primjer-2-229.png",
+    "printed_page": 106,
+    "decision": "PASS",
+    "reason": "Compared with source page 106 and inspected at native resolution, including all four edges. The handwritten chord names above the example are excluded. Number 2.229, complete clef, key signature, chords, accidentals, staff ends and II7/IV7/VI7 labels remain. No surrounding prose or meaningful foreign edge marks appear. Genuine source margins remain (dark-content clearances left/top/right/bottom: 17/9/19/21 pixels). RGB mode, dimensions and every decoded pixel exactly match source rectangle [519,103,1268,298].",
+    "source_limited": false,
+    "proposed_rect": null
+  },
+  {
+    "id": "zadatak-2-117-1",
+    "image": "images/02-dijatonika-b/recrops/zadatak-2-117-1.png",
+    "printed_page": 117,
+    "decision": "PASS",
+    "reason": "Compared with source page 117 and inspected at native resolution, including all four edges. The unrelated horizontal stroke above the staff is excluded. Exercise number 1, uppermost key-signature sharps, time signature, complete notation, final barline and every lowest stacked figure/accidental remain. Genuine source margins remain (dark-content clearances left/top/right/bottom: 17/6/16/9 pixels); no prose, page number or neighboring exercise is included. RGB mode, dimensions and every decoded pixel exactly match source rectangle [248,687,1763,873].",
+    "source_limited": false,
+    "proposed_rect": null
+  },
+  {
+    "id": "zadatak-2-117-3",
+    "image": "images/02-dijatonika-b/recrops/zadatak-2-117-3.png",
+    "printed_page": 117,
+    "decision": "PASS",
+    "reason": "Compared with native-resolution source context and inspected on all four edges. Exercise number 3, clef, key/time signatures, complete slur, all notation and staff ends remain; exercise 2's bottom figure is completely excluded. Important margin qualification: there is NO full-width blank top row. The preceding figure's last dark pixels occur at source y=1074, while this exercise's slur first begins at y=1075, exactly the retained top row. Source inspection confirms no slur pixels are omitted above that boundary. Moving upward would introduce the preceding figure, and moving downward would clip the slur, so this is the natural source separation with no feasible clean top margin, not permission to add a border. Other dark-content clearances left/right/bottom are 18/8/7 pixels. RGB mode, dimensions and every decoded pixel exactly match source rectangle [243,1075,1763,1213].",
+    "source_limited": false,
+    "proposed_rect": null
+  },
+  {
+    "id": "zadatak-2-117-5",
+    "image": "images/02-dijatonika-b/recrops/zadatak-2-117-5.png",
+    "printed_page": 117,
+    "decision": "PASS",
+    "reason": "Compared with source page 117 and inspected at native resolution, including all four edges. The lower-left foreign diagonal stroke is excluded. The entire number 5, clef, key/time signatures, slurs, ties, accidentals, notes, stems and final barline remain. Genuine source margins remain (dark-content clearances left/top/right/bottom: 5/3/16/15 pixels). Isolated small scan specks are not meaningful foreign lettering or handwriting. RGB mode, dimensions and every decoded pixel exactly match source rectangle [261,1434,1763,1609].",
+    "source_limited": false,
+    "proposed_rect": null
+  }
+]

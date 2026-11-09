@@ -1,0 +1,410 @@
+[
+  {
+    "id": "m05-p175-3-1",
+    "example": "3.1",
+    "kind": "primjer",
+    "printed_page": 175,
+    "pdf_page": 88,
+    "source_image": "sources/pages/page-175.png",
+    "rect": [
+      215,
+      541,
+      1728,
+      1074
+    ],
+    "image": "images/03-kromatika-a/primjer-3-1.png",
+    "review_status": "pending",
+    "review_note": "ink-bounded from original pixels; includes variants a-d per TSV/provisional hints; example 3.1 label position OCR-uncertain, manual review needed"
+  },
+  {
+    "id": "m05-p175-3-2",
+    "example": "3.2",
+    "kind": "primjer",
+    "printed_page": 175,
+    "pdf_page": 88,
+    "source_image": "sources/pages/page-175.png",
+    "rect": [
+      196,
+      1902,
+      846,
+      2400
+    ],
+    "image": "images/03-kromatika-a/primjer-3-2.png",
+    "review_status": "pending",
+    "review_note": "ink-bounded from original pixels; left portion of bottom block, split at vertical gap; verify split boundary"
+  },
+  {
+    "id": "m05-p175-3-3",
+    "example": "3.3",
+    "kind": "primjer",
+    "printed_page": 175,
+    "pdf_page": 88,
+    "source_image": "sources/pages/page-175.png",
+    "rect": [
+      891,
+      1902,
+      1728,
+      2388
+    ],
+    "image": "images/03-kromatika-a/primjer-3-3.png",
+    "review_status": "pending",
+    "review_note": "ink-bounded from original pixels; right portion of bottom block, split at vertical gap; verify split boundary"
+  },
+  {
+    "id": "m05-p176-3-4",
+    "example": "3.4",
+    "kind": "primjer",
+    "printed_page": 176,
+    "pdf_page": 89,
+    "source_image": "sources/pages/page-176.png",
+    "rect": [
+      272,
+      472,
+      1550,
+      918
+    ],
+    "image": "images/03-kromatika-a/primjer-3-4.png",
+    "review_status": "pending",
+    "review_note": "ink-bounded from original pixels; split heuristic local y=372 from gaps=[(360, 384, 24), (696, 713, 17)]; contains 3.4 variants per refs - VERIFY split/identity | cleanup-required: heuristic split within merged region."
+  },
+  {
+    "id": "m05-p176-3-5",
+    "example": "3.5",
+    "kind": "primjer",
+    "printed_page": 176,
+    "pdf_page": 89,
+    "source_image": "sources/pages/page-176.png",
+    "rect": [
+      276,
+      882,
+      1550,
+      1333
+    ],
+    "image": "images/03-kromatika-a/primjer-3-5.png",
+    "review_status": "pending",
+    "review_note": "ink-bounded from original pixels; split heuristic; contains 3.5 per refs - VERIFY split/identity | cleanup-required: heuristic split within merged region."
+  },
+  {
+    "id": "m05-p177-3-6",
+    "example": "3.6",
+    "kind": "primjer",
+    "printed_page": 177,
+    "pdf_page": 89,
+    "source_image": "sources/pages/page-177.png",
+    "rect": [
+      159,
+      1171,
+      1738,
+      1623
+    ],
+    "image": "images/03-kromatika-a/primjer-3-6.png",
+    "review_status": "pending",
+    "review_note": "ink-bounded from original pixels; Primjer 3.6 (provisional label), includes variants a-g refs nearby"
+  },
+  {
+    "id": "m05-p178-3-7",
+    "example": "3.7",
+    "kind": "primjer",
+    "printed_page": 178,
+    "pdf_page": 90,
+    "source_image": "sources/pages/page-178.png",
+    "rect": [
+      125,
+      577,
+      1437,
+      823
+    ],
+    "image": "images/03-kromatika-a/primjer-3-7.png",
+    "review_status": "pending",
+    "review_note": "ink-bounded from original pixels; first segment of merged block; identity inferred (3.7-3.10 appear on page) - VERIFY example number/identity | cleanup-required: merged block split by gaps, example numbers inferred."
+  },
+  {
+    "id": "m05-p178-3-8",
+    "example": "3.8",
+    "kind": "primjer",
+    "printed_page": 178,
+    "pdf_page": 90,
+    "source_image": "sources/pages/page-178.png",
+    "rect": [
+      133,
+      789,
+      1436,
+      1059
+    ],
+    "image": "images/03-kromatika-a/primjer-3-8.png",
+    "review_status": "pending",
+    "review_note": "ink-bounded from original pixels; second segment - VERIFY identity | cleanup-required: merged block split by gaps, example numbers inferred."
+  },
+  {
+    "id": "m05-p178-3-9",
+    "example": "3.9",
+    "kind": "primjer",
+    "printed_page": 178,
+    "pdf_page": 90,
+    "source_image": "sources/pages/page-178.png",
+    "rect": [
+      127,
+      1043,
+      1675,
+      1938
+    ],
+    "image": "images/03-kromatika-a/primjer-3-9.png",
+    "review_status": "pending",
+    "review_note": "ink-bounded from original pixels; third segment - VERIFY identity; page refs suggest 3.8-3.10 present | cleanup-required: merged block split by gaps, example numbers inferred."
+  },
+  {
+    "id": "m05-p178-3-10",
+    "example": "3.10",
+    "kind": "primjer",
+    "printed_page": 178,
+    "pdf_page": 90,
+    "source_image": "sources/pages/page-178.png",
+    "rect": [
+      131,
+      2102,
+      1734,
+      2481
+    ],
+    "image": "images/03-kromatika-a/primjer-3-10.png",
+    "review_status": "pending",
+    "review_note": "ink-bounded from original pixels; bottom block on page 178 (detector candidate 02 region extended) - VERIFY example identity/number | cleanup-required: merged block split by gaps, example numbers inferred."
+  },
+  {
+    "id": "m05-p179-3.11",
+    "example": "3.11",
+    "kind": "primjer",
+    "printed_page": 179,
+    "pdf_page": 90,
+    "source_image": "sources/pages/page-179.png",
+    "rect": [
+      363,
+      368,
+      1776,
+      607
+    ],
+    "image": "images/03-kromatika-a/primjer-3-11.png",
+    "review_status": "pending",
+    "review_note": "ink-bounded music band from staff detection; band1; refs 3.11.a,b,3.12 nearby above - VERIFY identity | cleanup-required: staff-band detection used, no visual confirmation."
+  },
+  {
+    "id": "m05-p179-3.12",
+    "example": "3.12",
+    "kind": "primjer",
+    "printed_page": 179,
+    "pdf_page": 90,
+    "source_image": "sources/pages/page-179.png",
+    "rect": [
+      210,
+      657,
+      1743,
+      922
+    ],
+    "image": "images/03-kromatika-a/primjer-3-12.png",
+    "review_status": "pending",
+    "review_note": "ink-bounded music band from staff detection; band2 - VERIFY identity (sequence inferred) | cleanup-required: staff-band detection used, no visual confirmation."
+  },
+  {
+    "id": "m05-p179-3.13",
+    "example": "3.13",
+    "kind": "primjer",
+    "printed_page": 179,
+    "pdf_page": 90,
+    "source_image": "sources/pages/page-179.png",
+    "rect": [
+      203,
+      1188,
+      1742,
+      1472
+    ],
+    "image": "images/03-kromatika-a/primjer-3-13.png",
+    "review_status": "pending",
+    "review_note": "ink-bounded music band from staff detection; band3; ref \"U primjeru 3.13\" at y~994 - VERIFY | cleanup-required: staff-band detection used, no visual confirmation."
+  },
+  {
+    "id": "m05-p179-3.14",
+    "example": "3.14",
+    "kind": "primjer",
+    "printed_page": 179,
+    "pdf_page": 90,
+    "source_image": "sources/pages/page-179.png",
+    "rect": [
+      292,
+      1498,
+      1360,
+      1742
+    ],
+    "image": "images/03-kromatika-a/primjer-3-14.png",
+    "review_status": "pending",
+    "review_note": "staff-band music crop; split adjusted to avoid overlap with 3.15 - VERIFY identity/boundaries | cleanup-required: staff-band detection used, no visual confirmation."
+  },
+  {
+    "id": "m05-p179-3.15",
+    "example": "3.15",
+    "kind": "primjer",
+    "printed_page": 179,
+    "pdf_page": 90,
+    "source_image": "sources/pages/page-179.png",
+    "rect": [
+      292,
+      1728,
+      1772,
+      1952
+    ],
+    "image": "images/03-kromatika-a/primjer-3-15.png",
+    "review_status": "pending",
+    "review_note": "staff-band music crop; split adjusted - VERIFY identity/boundaries | cleanup-required: staff-band detection used, no visual confirmation."
+  },
+  {
+    "id": "m05-p180-3-16",
+    "example": "3.16",
+    "kind": "primjer",
+    "printed_page": 180,
+    "pdf_page": 91,
+    "source_image": "sources/pages/page-180.png",
+    "rect": [
+      186,
+      187,
+      1708,
+      1173
+    ],
+    "image": "images/03-kromatika-a/primjer-3-16.png",
+    "review_status": "pending",
+    "review_note": "ink-bounded from original pixels; upper music block on p180; text refs mention 3.16.a,b - VERIFY identity/extent (may include 3.15)"
+  },
+  {
+    "id": "m05-p180-3-17",
+    "example": "3.17",
+    "kind": "primjer",
+    "printed_page": 180,
+    "pdf_page": 91,
+    "source_image": "sources/pages/page-180.png",
+    "rect": [
+      173,
+      1802,
+      1694,
+      2388
+    ],
+    "image": "images/03-kromatika-a/primjer-3-17.png",
+    "review_status": "pending",
+    "review_note": "ink-bounded from original pixels; lower region; text refs \"U primjeru 3.17\" - VERIFY this crop contains Primjer 3.17 (may be prose/attribution mixed) | cleanup-required: crop may include preceding prose/attribution boundary issues (no vision confirmation)."
+  },
+  {
+    "id": "m05-p181-3-18a",
+    "example": "3.18.a",
+    "kind": "primjer",
+    "printed_page": 181,
+    "pdf_page": 91,
+    "source_image": "sources/pages/page-181.png",
+    "rect": [
+      222,
+      490,
+      1731,
+      820
+    ],
+    "image": "images/03-kromatika-a/primjer-3-18a.png",
+    "review_status": "pending",
+    "review_note": "ink-bounded; 3.18.a label at ~y546 on page 181 TSV - corrected from wrong detector region; VERIFY"
+  },
+  {
+    "id": "m05-p181-3-18b",
+    "example": "3.18.b",
+    "kind": "primjer",
+    "printed_page": 181,
+    "pdf_page": 91,
+    "source_image": "sources/pages/page-181.png",
+    "rect": [
+      222,
+      840,
+      1732,
+      1080
+    ],
+    "image": "images/03-kromatika-a/primjer-3-18b.png",
+    "review_status": "pending",
+    "review_note": "ink-bounded; 3.18.b label at ~y895 - corrected from wrong detector region; VERIFY"
+  },
+  {
+    "id": "m05-p182-3-19",
+    "example": "3.19",
+    "kind": "primjer",
+    "printed_page": 182,
+    "pdf_page": 92,
+    "source_image": "sources/pages/page-182.png",
+    "rect": [
+      113,
+      142,
+      1703,
+      788
+    ],
+    "image": "images/03-kromatika-a/primjer-3-19.png",
+    "review_status": "pending",
+    "review_note": "ink-bounded from original pixels; first segment of p182 block 01 - VERIFY identity | CLEANUP/VERIFY: p182 TSV shows refs 3.19.a,3.20,3.21,3.22,3.23 at y>=1992; segment-to-example mapping inferred without visual confirmation - reviewer must correct identities/filenames if needed."
+  },
+  {
+    "id": "m05-p182-3-20",
+    "example": "3.20",
+    "kind": "primjer",
+    "printed_page": 182,
+    "pdf_page": 92,
+    "source_image": "sources/pages/page-182.png",
+    "rect": [
+      164,
+      762,
+      1737,
+      1153
+    ],
+    "image": "images/03-kromatika-a/primjer-3-20.png",
+    "review_status": "pending",
+    "review_note": "ink-bounded from original pixels; second segment - VERIFY identity | CLEANUP/VERIFY: p182 TSV shows refs 3.19.a,3.20,3.21,3.22,3.23 at y>=1992; segment-to-example mapping inferred without visual confirmation - reviewer must correct identities/filenames if needed."
+  },
+  {
+    "id": "m05-p182-3-21",
+    "example": "3.21",
+    "kind": "primjer",
+    "printed_page": 182,
+    "pdf_page": 92,
+    "source_image": "sources/pages/page-182.png",
+    "rect": [
+      164,
+      1127,
+      1739,
+      1513
+    ],
+    "image": "images/03-kromatika-a/primjer-3-21.png",
+    "review_status": "pending",
+    "review_note": "ink-bounded from original pixels; third segment - VERIFY identity | CLEANUP/VERIFY: p182 TSV shows refs 3.19.a,3.20,3.21,3.22,3.23 at y>=1992; segment-to-example mapping inferred without visual confirmation - reviewer must correct identities/filenames if needed."
+  },
+  {
+    "id": "m05-p182-3-22",
+    "example": "3.22",
+    "kind": "primjer",
+    "printed_page": 182,
+    "pdf_page": 92,
+    "source_image": "sources/pages/page-182.png",
+    "rect": [
+      178,
+      2118,
+      1737,
+      2408
+    ],
+    "image": "images/03-kromatika-a/primjer-3-22.png",
+    "review_status": "pending",
+    "review_note": "split from bottom block (gap ~2381-2437); VERIFY identity | p182 mapping uncertain"
+  },
+  {
+    "id": "m05-p182-3-23",
+    "example": "3.23",
+    "kind": "primjer",
+    "printed_page": 182,
+    "pdf_page": 92,
+    "source_image": "sources/pages/page-182.png",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "image": "images/03-kromatika-a/primjer-3-23.png",
+    "review_status": "pending",
+    "review_note": "lower part of bottom block; VERIFY identity/extent | p182 mapping uncertain"
+  }
+]

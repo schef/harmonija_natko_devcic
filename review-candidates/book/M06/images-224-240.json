@@ -1,0 +1,1218 @@
+[
+  {
+    "id": "M06-p224-slot-01",
+    "example": "3.117",
+    "kind": "musical_example",
+    "printed_page": 224,
+    "pdf_page": 113,
+    "source_image": "sources/pages/page-224.png",
+    "rect": [
+      154,
+      118,
+      1699,
+      1030
+    ],
+    "image": "images/03-kromatika-b/primjer-3-117.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "Primjer 3.117. Tiskana str. 224.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p224-slot-02",
+    "example": "3.118",
+    "kind": "musical_example",
+    "printed_page": 224,
+    "pdf_page": 113,
+    "source_image": "sources/pages/page-224.png",
+    "rect": [
+      167,
+      1175,
+      1699,
+      1653
+    ],
+    "image": "images/03-kromatika-b/primjer-3-118.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "Primjer 3.118. Tiskana str. 224.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p224-slot-03",
+    "example": "3.119",
+    "kind": "musical_example",
+    "printed_page": 224,
+    "pdf_page": 113,
+    "source_image": "sources/pages/page-224.png",
+    "rect": [
+      167,
+      1777,
+      1699,
+      2341
+    ],
+    "image": "images/03-kromatika-b/primjer-3-119.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "Primjer 3.119. Tiskana str. 224.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p225-slot-04",
+    "example": "3.120",
+    "kind": "musical_example",
+    "printed_page": 225,
+    "pdf_page": 113,
+    "source_image": "sources/pages/page-225.png",
+    "rect": [
+      212,
+      143,
+      1733,
+      673
+    ],
+    "image": "images/03-kromatika-b/primjer-3-120.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "Primjer 3.120. Tiskana str. 225.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p225-slot-05",
+    "example": "ZADACI 2",
+    "kind": "exercise",
+    "printed_page": 225,
+    "pdf_page": 113,
+    "source_image": "sources/pages/page-225.png",
+    "rect": [
+      225,
+      950,
+      1731,
+      1163
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-6-2.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "ZADACI 2. Tiskana str. 225.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p225-slot-06",
+    "example": "ZADACI 3",
+    "kind": "exercise",
+    "printed_page": 225,
+    "pdf_page": 113,
+    "source_image": "sources/pages/page-225.png",
+    "rect": [
+      224,
+      1192,
+      1731,
+      1383
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-6-3.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "ZADACI 3. Tiskana str. 225.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p225-slot-07",
+    "example": "ZADACI 4",
+    "kind": "exercise",
+    "printed_page": 225,
+    "pdf_page": 113,
+    "source_image": "sources/pages/page-225.png",
+    "rect": [
+      225,
+      1416,
+      1731,
+      1630
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-6-4.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "ZADACI 4. Tiskana str. 225.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p225-slot-08",
+    "example": "ZADACI 5",
+    "kind": "exercise",
+    "printed_page": 225,
+    "pdf_page": 113,
+    "source_image": "sources/pages/page-225.png",
+    "rect": [
+      227,
+      1657,
+      1731,
+      1878
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-6-5.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "ZADACI 5. Tiskana str. 225.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p225-slot-09",
+    "example": "ZADACI 6",
+    "kind": "exercise",
+    "printed_page": 225,
+    "pdf_page": 113,
+    "source_image": "sources/pages/page-225.png",
+    "rect": [
+      228,
+      1898,
+      1733,
+      2108
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-6-6.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "ZADACI 6. Tiskana str. 225.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p225-slot-10",
+    "example": "ZADACI 7",
+    "kind": "exercise",
+    "printed_page": 225,
+    "pdf_page": 113,
+    "source_image": "sources/pages/page-225.png",
+    "rect": [
+      227,
+      2135,
+      1733,
+      2254
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-6-7.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "ZADACI 7. Tiskana str. 225.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p226-slot-11",
+    "example": "ZADACI 8",
+    "kind": "exercise",
+    "printed_page": 226,
+    "pdf_page": 114,
+    "source_image": "sources/pages/page-226.png",
+    "rect": [
+      179,
+      138,
+      1691,
+      264
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-6-8.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "ZADACI 8. Tiskana str. 226.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p226-slot-12",
+    "example": "ZADACI 9",
+    "kind": "exercise",
+    "printed_page": 226,
+    "pdf_page": 114,
+    "source_image": "sources/pages/page-226.png",
+    "rect": [
+      179,
+      322,
+      1691,
+      440
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-6-9.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "ZADACI 9. Tiskana str. 226.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p226-slot-13",
+    "example": "ZADACI 10",
+    "kind": "exercise",
+    "printed_page": 226,
+    "pdf_page": 114,
+    "source_image": "sources/pages/page-226.png",
+    "rect": [
+      169,
+      492,
+      1691,
+      631
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-6-10.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "ZADACI 10. Tiskana str. 226.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p226-slot-14",
+    "example": "ZADACI 11",
+    "kind": "exercise",
+    "printed_page": 226,
+    "pdf_page": 114,
+    "source_image": "sources/pages/page-226.png",
+    "rect": [
+      174,
+      694,
+      1691,
+      825
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-6-11.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "ZADACI 11. Tiskana str. 226.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p226-slot-15",
+    "example": "ZADACI 12",
+    "kind": "exercise",
+    "printed_page": 226,
+    "pdf_page": 114,
+    "source_image": "sources/pages/page-226.png",
+    "rect": [
+      172,
+      856,
+      1691,
+      1020
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-6-12.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "ZADACI 12. Tiskana str. 226.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p226-slot-16",
+    "example": "ZADACI 13",
+    "kind": "exercise",
+    "printed_page": 226,
+    "pdf_page": 114,
+    "source_image": "sources/pages/page-226.png",
+    "rect": [
+      172,
+      1047,
+      1691,
+      1206
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-6-13.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "ZADACI 13. Tiskana str. 226.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p226-slot-17",
+    "example": "ZADACI 14",
+    "kind": "exercise",
+    "printed_page": 226,
+    "pdf_page": 114,
+    "source_image": "sources/pages/page-226.png",
+    "rect": [
+      170,
+      1236,
+      1691,
+      1403
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-6-14.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "ZADACI 14. Tiskana str. 226.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p226-slot-18",
+    "example": "ZADACI 15",
+    "kind": "exercise",
+    "printed_page": 226,
+    "pdf_page": 114,
+    "source_image": "sources/pages/page-226.png",
+    "rect": [
+      167,
+      1425,
+      1691,
+      1596
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-6-15.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "ZADACI 15. Tiskana str. 226.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p226-slot-19",
+    "example": "ZADACI 16",
+    "kind": "exercise",
+    "printed_page": 226,
+    "pdf_page": 114,
+    "source_image": "sources/pages/page-226.png",
+    "rect": [
+      170,
+      1616,
+      1691,
+      1774
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-6-16.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "ZADACI 16. Tiskana str. 226.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p226-slot-20",
+    "example": "ZADACI 17",
+    "kind": "exercise",
+    "printed_page": 226,
+    "pdf_page": 114,
+    "source_image": "sources/pages/page-226.png",
+    "rect": [
+      170,
+      1800,
+      1691,
+      1963
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-6-17.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "ZADACI 17. Tiskana str. 226.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p226-slot-21",
+    "example": "ZADACI 18",
+    "kind": "exercise",
+    "printed_page": 226,
+    "pdf_page": 114,
+    "source_image": "sources/pages/page-226.png",
+    "rect": [
+      170,
+      1990,
+      1691,
+      2157
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-6-18.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "ZADACI 18. Tiskana str. 226.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p226-slot-22",
+    "example": "ZADACI 19",
+    "kind": "exercise",
+    "printed_page": 226,
+    "pdf_page": 114,
+    "source_image": "sources/pages/page-226.png",
+    "rect": [
+      163,
+      2176,
+      1691,
+      2339
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-6-19.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "ZADACI 19. Tiskana str. 226.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p227-slot-23",
+    "example": "Realizacija zadatka 7.",
+    "kind": "realization",
+    "printed_page": 227,
+    "pdf_page": 114,
+    "source_image": "sources/pages/page-227.png",
+    "rect": [
+      211,
+      107,
+      1758,
+      1016
+    ],
+    "image": "images/03-kromatika-b/realizacija-3-6-7.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "Realizacija zadatka 7. Tiskana str. 227.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p227-slot-24",
+    "example": "Realizacija zadatka 12.",
+    "kind": "realization",
+    "printed_page": 227,
+    "pdf_page": 114,
+    "source_image": "sources/pages/page-227.png",
+    "rect": [
+      219,
+      1302,
+      1763,
+      1804
+    ],
+    "image": "images/03-kromatika-b/realizacija-3-6-12.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "Realizacija zadatka 12. Tiskana str. 227.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p229-slot-25",
+    "example": "3.121 a), b)",
+    "kind": "musical_example",
+    "printed_page": 229,
+    "pdf_page": 115,
+    "source_image": "sources/pages/page-229.png",
+    "rect": [
+      232,
+      90,
+      1738,
+      381
+    ],
+    "image": "images/03-kromatika-b/primjer-3-121.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "Primjer 3.121 a), b). Tiskana str. 229.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p229-slot-26",
+    "example": "3.122 a), b)",
+    "kind": "musical_example",
+    "printed_page": 229,
+    "pdf_page": 115,
+    "source_image": "sources/pages/page-229.png",
+    "rect": [
+      223,
+      1057,
+      1734,
+      1553
+    ],
+    "image": "images/03-kromatika-b/primjer-3-122.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "Primjer 3.122 a), b). Tiskana str. 229.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p229-slot-27",
+    "example": "3.123",
+    "kind": "musical_example",
+    "printed_page": 229,
+    "pdf_page": 115,
+    "source_image": "sources/pages/page-229.png",
+    "rect": [
+      515,
+      1563,
+      1430,
+      2066
+    ],
+    "image": "images/03-kromatika-b/primjer-3-123.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "Primjer 3.123. Tiskana str. 229.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p230-slot-28",
+    "example": "3.124",
+    "kind": "musical_example",
+    "printed_page": 230,
+    "pdf_page": 116,
+    "source_image": "sources/pages/page-230.png",
+    "rect": [
+      297,
+      182,
+      1516,
+      627
+    ],
+    "image": "images/03-kromatika-b/primjer-3-124.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "Primjer 3.124. Tiskana str. 230.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p230-slot-29",
+    "example": "3.125 a), b), c)",
+    "kind": "musical_example",
+    "printed_page": 230,
+    "pdf_page": 116,
+    "source_image": "sources/pages/page-230.png",
+    "rect": [
+      144,
+      662,
+      1682,
+      1621
+    ],
+    "image": "images/03-kromatika-b/primjer-3-125.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "Primjer 3.125 a), b), c). Tiskana str. 230.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p230-slot-30",
+    "example": "3.126",
+    "kind": "musical_example",
+    "printed_page": 230,
+    "pdf_page": 116,
+    "source_image": "sources/pages/page-230.png",
+    "rect": [
+      174,
+      1969,
+      944,
+      2414
+    ],
+    "image": "images/03-kromatika-b/primjer-3-126.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "Primjer 3.126. Tiskana str. 230.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p230-slot-31",
+    "example": "3.127 a), b)",
+    "kind": "musical_example",
+    "printed_page": 230,
+    "pdf_page": 116,
+    "source_image": "sources/pages/page-230.png",
+    "rect": [
+      958,
+      1943,
+      1685,
+      2379
+    ],
+    "image": "images/03-kromatika-b/primjer-3-127.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "Primjer 3.127 a), b). Tiskana str. 230.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p231-slot-32",
+    "example": "3.128 a), b)",
+    "kind": "musical_example",
+    "printed_page": 231,
+    "pdf_page": 116,
+    "source_image": "sources/pages/page-231.png",
+    "rect": [
+      255,
+      787,
+      1751,
+      1067
+    ],
+    "image": "images/03-kromatika-b/primjer-3-128.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "Primjer 3.128 a), b). Tiskana str. 231.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p231-slot-33",
+    "example": "3.129",
+    "kind": "musical_example",
+    "printed_page": 231,
+    "pdf_page": 116,
+    "source_image": "sources/pages/page-231.png",
+    "rect": [
+      420,
+      1535,
+      1570,
+      2039
+    ],
+    "image": "images/03-kromatika-b/primjer-3-129.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "Primjer 3.129. Tiskana str. 231.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p232-slot-34",
+    "example": "3.130 a)",
+    "kind": "musical_example",
+    "printed_page": 232,
+    "pdf_page": 117,
+    "source_image": "sources/pages/page-232.png",
+    "rect": [
+      558,
+      168,
+      1302,
+      624
+    ],
+    "image": "images/03-kromatika-b/primjer-3-130-a.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "Primjer 3.130 a). Tiskana str. 232.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p232-slot-35",
+    "example": "3.130 b)",
+    "kind": "musical_example",
+    "printed_page": 232,
+    "pdf_page": 117,
+    "source_image": "sources/pages/page-232.png",
+    "rect": [
+      150,
+      630,
+      1694,
+      1089
+    ],
+    "image": "images/03-kromatika-b/primjer-3-130-b.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required. Variant-only source part: example number occurs on preceding part; no number synthesized.",
+    "caption": "Primjer 3.130 b). Tiskana str. 232.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p232-slot-36",
+    "example": "3.130 c)",
+    "kind": "musical_example",
+    "printed_page": 232,
+    "pdf_page": 117,
+    "source_image": "sources/pages/page-232.png",
+    "rect": [
+      154,
+      1098,
+      1695,
+      1611
+    ],
+    "image": "images/03-kromatika-b/primjer-3-130-c.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required. Variant-only source part: example number occurs on preceding part; no number synthesized.",
+    "caption": "Primjer 3.130 c). Tiskana str. 232.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p232-slot-37",
+    "example": "3.131",
+    "kind": "musical_example",
+    "printed_page": 232,
+    "pdf_page": 117,
+    "source_image": "sources/pages/page-232.png",
+    "rect": [
+      580,
+      1755,
+      1262,
+      2219
+    ],
+    "image": "images/03-kromatika-b/primjer-3-131.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "Primjer 3.131. Tiskana str. 232.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p233-slot-38",
+    "example": "3.132 a), b)",
+    "kind": "musical_example",
+    "printed_page": 233,
+    "pdf_page": 117,
+    "source_image": "sources/pages/page-233.png",
+    "rect": [
+      223,
+      391,
+      1745,
+      916
+    ],
+    "image": "images/03-kromatika-b/primjer-3-132.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "Primjer 3.132 a), b). Tiskana str. 233.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p233-slot-39",
+    "example": "3.133",
+    "kind": "musical_example",
+    "printed_page": 233,
+    "pdf_page": 117,
+    "source_image": "sources/pages/page-233.png",
+    "rect": [
+      203,
+      953,
+      1747,
+      1977
+    ],
+    "image": "images/03-kromatika-b/primjer-3-133.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "Primjer 3.133. Tiskana str. 233.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p234-slot-40",
+    "example": "3.134 a), b), c)",
+    "kind": "musical_example",
+    "printed_page": 234,
+    "pdf_page": 118,
+    "source_image": "sources/pages/page-234.png",
+    "rect": [
+      163,
+      169,
+      1680,
+      628
+    ],
+    "image": "images/03-kromatika-b/primjer-3-134.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "Primjer 3.134 a), b), c). Tiskana str. 234.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p234-slot-41",
+    "example": "3.135 a), b)",
+    "kind": "musical_example",
+    "printed_page": 234,
+    "pdf_page": 118,
+    "source_image": "sources/pages/page-234.png",
+    "rect": [
+      124,
+      887,
+      1689,
+      1868
+    ],
+    "image": "images/03-kromatika-b/primjer-3-135.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "Primjer 3.135 a), b). Tiskana str. 234.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p235-slot-42",
+    "example": "3.136 a), b), c), d), e), f)",
+    "kind": "musical_example",
+    "printed_page": 235,
+    "pdf_page": 118,
+    "source_image": "sources/pages/page-235.png",
+    "rect": [
+      234,
+      916,
+      1749,
+      1143
+    ],
+    "image": "images/03-kromatika-b/primjer-3-136.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "Primjer 3.136 a), b), c), d), e), f). Tiskana str. 235.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p235-slot-43",
+    "example": "3.137 a), b)",
+    "kind": "musical_example",
+    "printed_page": 235,
+    "pdf_page": 118,
+    "source_image": "sources/pages/page-235.png",
+    "rect": [
+      223,
+      1521,
+      1745,
+      2026
+    ],
+    "image": "images/03-kromatika-b/primjer-3-137.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "Primjer 3.137 a), b). Tiskana str. 235.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p236-slot-44",
+    "example": "3.138 a), b)",
+    "kind": "musical_example",
+    "printed_page": 236,
+    "pdf_page": 119,
+    "source_image": "sources/pages/page-236.png",
+    "rect": [
+      160,
+      280,
+      1684,
+      814
+    ],
+    "image": "images/03-kromatika-b/primjer-3-138.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "Primjer 3.138 a), b). Tiskana str. 236.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p236-slot-45",
+    "example": "3.139 a)",
+    "kind": "musical_example",
+    "printed_page": 236,
+    "pdf_page": 119,
+    "source_image": "sources/pages/page-236.png",
+    "rect": [
+      133,
+      1276,
+      1676,
+      2265
+    ],
+    "image": "images/03-kromatika-b/primjer-3-139-a.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required. Attribution is in adjacent prose, not printed within this score block; retained in text, not copied into image.",
+    "caption": "Primjer 3.139 a). Tiskana str. 236.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p237-slot-46",
+    "example": "3.139 b)",
+    "kind": "musical_example",
+    "printed_page": 237,
+    "pdf_page": 119,
+    "source_image": "sources/pages/page-237.png",
+    "rect": [
+      514,
+      163,
+      1469,
+      747
+    ],
+    "image": "images/03-kromatika-b/primjer-3-139-b.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required. Variant-only source part: example number occurs on preceding part; no number synthesized.",
+    "caption": "Primjer 3.139 b). Tiskana str. 237.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p237-slot-47",
+    "example": "ZADACI 2",
+    "kind": "exercise",
+    "printed_page": 237,
+    "pdf_page": 119,
+    "source_image": "sources/pages/page-237.png",
+    "rect": [
+      214,
+      1976,
+      1732,
+      2217
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-7-1-2.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "ZADACI 2. Tiskana str. 237.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p237-slot-48",
+    "example": "ZADACI 3",
+    "kind": "exercise",
+    "printed_page": 237,
+    "pdf_page": 119,
+    "source_image": "sources/pages/page-237.png",
+    "rect": [
+      214,
+      2219,
+      1729,
+      2435
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-7-1-3.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "ZADACI 3. Tiskana str. 237.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p238-slot-49",
+    "example": "ZADACI 4",
+    "kind": "exercise",
+    "printed_page": 238,
+    "pdf_page": 120,
+    "source_image": "sources/pages/page-238.png",
+    "rect": [
+      163,
+      151,
+      1679,
+      366
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-7-1-4.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "ZADACI 4. Tiskana str. 238.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p238-slot-50",
+    "example": "ZADACI 5",
+    "kind": "exercise",
+    "printed_page": 238,
+    "pdf_page": 120,
+    "source_image": "sources/pages/page-238.png",
+    "rect": [
+      168,
+      369,
+      1681,
+      589
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-7-1-5.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "ZADACI 5. Tiskana str. 238.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p238-slot-51",
+    "example": "ZADACI 6",
+    "kind": "exercise",
+    "printed_page": 238,
+    "pdf_page": 120,
+    "source_image": "sources/pages/page-238.png",
+    "rect": [
+      167,
+      597,
+      1688,
+      1043
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-7-1-6.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required. cleanup_required: inseparable rectangular source layout. Lowest figures of exercise 6 overlap vertically with highest accidental of exercise 7. All intended notation retained, with unavoidable foreign ink at the shared edge; no retouching. This crop cannot pass the clean-edge checklist as-is.",
+    "caption": "ZADACI 6. Tiskana str. 238.",
+    "cleanup_required": true
+  },
+  {
+    "id": "M06-p238-slot-52",
+    "example": "ZADACI 7",
+    "kind": "exercise",
+    "printed_page": 238,
+    "pdf_page": 120,
+    "source_image": "sources/pages/page-238.png",
+    "rect": [
+      181,
+      1016,
+      1691,
+      1169
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-7-1-7.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required. cleanup_required: inseparable rectangular source layout. Lowest figures of exercise 6 overlap vertically with highest accidental of exercise 7. All intended notation retained, with unavoidable foreign ink at the shared edge; no retouching. This crop cannot pass the clean-edge checklist as-is.",
+    "caption": "ZADACI 7. Tiskana str. 238.",
+    "cleanup_required": true
+  },
+  {
+    "id": "M06-p238-slot-53",
+    "example": "ZADACI 8",
+    "kind": "exercise",
+    "printed_page": 238,
+    "pdf_page": 120,
+    "source_image": "sources/pages/page-238.png",
+    "rect": [
+      186,
+      1226,
+      1694,
+      1364
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-7-1-8.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "ZADACI 8. Tiskana str. 238.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p238-slot-54",
+    "example": "ZADACI 9",
+    "kind": "exercise",
+    "printed_page": 238,
+    "pdf_page": 120,
+    "source_image": "sources/pages/page-238.png",
+    "rect": [
+      186,
+      1421,
+      1694,
+      1560
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-7-1-9.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "ZADACI 9. Tiskana str. 238.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p238-slot-55",
+    "example": "ZADACI 10",
+    "kind": "exercise",
+    "printed_page": 238,
+    "pdf_page": 120,
+    "source_image": "sources/pages/page-238.png",
+    "rect": [
+      180,
+      1605,
+      1699,
+      1736
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-7-1-10.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "ZADACI 10. Tiskana str. 238.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p238-slot-56",
+    "example": "ZADACI 11",
+    "kind": "exercise",
+    "printed_page": 238,
+    "pdf_page": 120,
+    "source_image": "sources/pages/page-238.png",
+    "rect": [
+      185,
+      1766,
+      1703,
+      2128
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-7-1-11.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "ZADACI 11. Tiskana str. 238.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p238-slot-57",
+    "example": "ZADACI 12",
+    "kind": "exercise",
+    "printed_page": 238,
+    "pdf_page": 120,
+    "source_image": "sources/pages/page-238.png",
+    "rect": [
+      184,
+      2154,
+      1708,
+      2338
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-7-1-12.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "ZADACI 12. Tiskana str. 238.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p239-slot-58",
+    "example": "ZADACI 13",
+    "kind": "exercise",
+    "printed_page": 239,
+    "pdf_page": 120,
+    "source_image": "sources/pages/page-239.png",
+    "rect": [
+      206,
+      128,
+      1729,
+      298
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-7-1-13.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "ZADACI 13. Tiskana str. 239.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p239-slot-59",
+    "example": "ZADACI 14",
+    "kind": "exercise",
+    "printed_page": 239,
+    "pdf_page": 120,
+    "source_image": "sources/pages/page-239.png",
+    "rect": [
+      206,
+      324,
+      1726,
+      483
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-7-1-14.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "ZADACI 14. Tiskana str. 239.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p239-slot-60",
+    "example": "ZADACI 15",
+    "kind": "exercise",
+    "printed_page": 239,
+    "pdf_page": 120,
+    "source_image": "sources/pages/page-239.png",
+    "rect": [
+      206,
+      506,
+      1726,
+      671
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-7-1-15.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "ZADACI 15. Tiskana str. 239.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p239-slot-61",
+    "example": "ZADACI 16",
+    "kind": "exercise",
+    "printed_page": 239,
+    "pdf_page": 120,
+    "source_image": "sources/pages/page-239.png",
+    "rect": [
+      206,
+      693,
+      1729,
+      858
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-7-1-16.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "ZADACI 16. Tiskana str. 239.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p239-slot-62",
+    "example": "ZADACI 17",
+    "kind": "exercise",
+    "printed_page": 239,
+    "pdf_page": 120,
+    "source_image": "sources/pages/page-239.png",
+    "rect": [
+      201,
+      889,
+      1732,
+      1253
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-7-1-17.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "ZADACI 17. Tiskana str. 239.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p239-slot-63",
+    "example": "Realizacija zadatka 7.",
+    "kind": "realization",
+    "printed_page": 239,
+    "pdf_page": 120,
+    "source_image": "sources/pages/page-239.png",
+    "rect": [
+      182,
+      1450,
+      1732,
+      2357
+    ],
+    "image": "images/03-kromatika-b/realizacija-3-7-1-7.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "Realizacija zadatka 7. Tiskana str. 239.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p240-slot-64",
+    "example": "Realizacija zadatka 11.",
+    "kind": "realization",
+    "printed_page": 240,
+    "pdf_page": 121,
+    "source_image": "sources/pages/page-240.png",
+    "rect": [
+      171,
+      120,
+      1713,
+      1537
+    ],
+    "image": "images/03-kromatika-b/realizacija-3-7-1-11.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; individually selected four edges. Independent visual review required.",
+    "caption": "Realizacija zadatka 11. Tiskana str. 240.",
+    "cleanup_required": false
+  }
+]

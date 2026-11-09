@@ -1,0 +1,58 @@
+{
+  "milestone": "M05",
+  "review_type": "independent_applied_recrop_review",
+  "manifest": "review-candidates/book/M05/images-corrected.json",
+  "selection": "Only records whose review_status is pending_recrop_review",
+  "summary": {"assigned": 2, "reviewed": 2, "PASS": 2, "RECROP_REQUIRED": 0, "unreviewed": 0},
+  "method": "One independent reviewer reopened both complete applied recrop files and both full source PNGs. All four crop edges were visually inspected at native resolution, and full content was compared against the source. Each recrop was independently compared byte-for-byte as decoded RGB pixels with source_image.crop(rect), including dimensions and mode. No other manifest records were reviewed or reclassified in this follow-up. No delegation, model calls or GUI used.",
+  "rect_convention": "Source-pixel [left, top, right, bottom], right/bottom exclusive. All file paths are repository-root-relative.",
+  "records": [
+    {
+      "id": "primjer-3-2",
+      "image": "images/03-kromatika-a/recrops/primjer-3-2.png",
+      "source_image": "sources/pages/page-175.png",
+      "printed_page": 175,
+      "pdf_page": 88,
+      "rect": [215, 1958, 848, 2298],
+      "size": [633, 340],
+      "mode": "RGB",
+      "exact_source_pixel_equality": true,
+      "decision": "PASS",
+      "reason": "The applied recrop removes the marginal foreign fragments while preserving number 3.2, variants a/b, both complete staves and clefs, every note/accidental and both printed connecting lines. Native-resolution inspection confirms clean top, bottom, left and right boundaries with small genuine source margins. No surrounding prose, adjacent example, page number or handwriting is retained.",
+      "edges": {
+        "top": "PASS: a/b labels, upper clef and highest note fully retained below a genuine blank source margin; no partial foreign character at the boundary.",
+        "bottom": "PASS: lower clef, lowest notes, lower staff and barlines intact with blank source area below.",
+        "left": "PASS: complete 3.2 number, brace and both clefs retained; previous marginal fragments excluded and a real margin remains.",
+        "right": "PASS: both staff ends and final barlines complete, with genuine source whitespace beyond."
+      },
+      "metadata_agreement": "Manifest ID, example 3.2, image path, printed-page reference and caption agree with the reopened source.",
+      "proposed_rect": null,
+      "source_limited": false
+    },
+    {
+      "id": "primjer-3-33",
+      "image": "images/03-kromatika-a/recrops/primjer-3-33.png",
+      "source_image": "sources/pages/page-188.png",
+      "printed_page": 188,
+      "pdf_page": 95,
+      "rect": [157, 1459, 1678, 1802],
+      "size": [1521, 343],
+      "mode": "RGB",
+      "exact_source_pixel_equality": true,
+      "decision": "PASS",
+      "reason": "The applied recrop excludes the pencil chord names above the score while preserving number 3.33, the entire highest bracket and the other two brackets, all upward and lowest downward stems, both clefs, all notes/accidentals, both complete staves and final barlines. All four boundaries are clean at native resolution with genuine source margins; no prose, adjacent example, page number or handwriting remains.",
+      "edges": {
+        "top": "PASS: all three brackets, highest stems and upper clef fully retained; genuine blank margin above the highest bracket, with no residual pencil fragments.",
+        "bottom": "PASS: lowest bass down-stems and lower staff ends intact; genuine blank source margin below.",
+        "left": "PASS: complete 3.33 number, brace and clefs retained with real source whitespace; no neighbouring content.",
+        "right": "PASS: both complete staff ends and final barlines retained, followed by genuine source whitespace."
+      },
+      "metadata_agreement": "Manifest ID, example 3.33, image path, printed-page reference and caption agree with the reopened source. No printed variant label or composer attribution belongs to this example in the source.",
+      "proposed_rect": null,
+      "source_limited": false
+    }
+  ],
+  "unreviewed_ids": [],
+  "source_ambiguities": "No unreadable, ambiguous or incomplete printed material identified in these two applied recrops. Isolated scan grain is not a foreign character. Exact source-pixel equality confirms that no artificial border, retouch or resampling was used.",
+  "handoff": "Both applied recrops pass and are ready for image integration individually. This follow-up does not approve the other 102 manifest records or resolve previously reported source-limited conflicts. Only recrop-review.json and recrop-review.md were created; no images, manifest, chapters, global files, commits or pushes were changed."
+}

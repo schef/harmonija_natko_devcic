@@ -1,0 +1,410 @@
+[
+  {
+    "id": "primjer-3-22",
+    "example": "3.22",
+    "kind": "primjer",
+    "printed_page": 183,
+    "pdf_page": 92,
+    "source_image": "sources/pages/page-183.png",
+    "rect": [
+      184,
+      1013,
+      1764,
+      1965
+    ],
+    "image": "images/03-kromatika-a/primjer-3-22.png",
+    "review_status": "pending",
+    "review_note": "Replaced bad prose crop. Reviewer: 3.22 has a),b),c) across two systems on p.183, stop before 3.23. Verify all parts/notation/edges. (recropped after independent visual review; re-review required)"
+  },
+  {
+    "id": "primjer-3-25",
+    "example": "3.25",
+    "kind": "primjer",
+    "printed_page": 184,
+    "pdf_page": 93,
+    "source_image": "sources/pages/page-184.png",
+    "rect": [
+      485,
+      1471,
+      1353,
+      1972
+    ],
+    "image": "images/03-kromatika-a/primjer-3-25.png",
+    "review_status": "pending",
+    "review_note": "Reviewer: bottom clipped figured-bass annotation incl. '2 (D/II)'; extended bottom. Verify complete. (recropped after independent visual review; re-review required)"
+  },
+  {
+    "id": "primjer-3-28",
+    "example": "3.28 (a–d)",
+    "kind": "primjer",
+    "printed_page": 185,
+    "pdf_page": 93,
+    "source_image": "sources/pages/page-185.png",
+    "rect": [
+      157,
+      1537,
+      1755,
+      2453
+    ],
+    "image": "images/03-kromatika-a/primjer-3-28.png",
+    "review_status": "pending",
+    "review_note": "Reviewer: prior crop included 3.26,3.27,prose. Isolated 3.28 start ~1550. 3.28 continues with e),f) on p.186 - see primjer-3-28-cont. Verify lower annotations, no page number. (recropped after independent visual review; re-review required)"
+  },
+  {
+    "id": "primjer-3-28-cont",
+    "example": "3.28 (e–f, nastavak)",
+    "kind": "primjer",
+    "printed_page": 186,
+    "pdf_page": 94,
+    "source_image": "sources/pages/page-186.png",
+    "rect": [
+      161,
+      152,
+      1750,
+      768
+    ],
+    "image": "images/03-kromatika-a/primjer-3-28-cont.png",
+    "review_status": "pending",
+    "review_note": "Crosspage continuation per reviewer (3.28 e),f) on p.186). Bounds estimated from top of p186 before 3.29/prose; VERIFY exact extent, all variants, no prose inclusion. (recropped after independent visual review; re-review required)"
+  },
+  {
+    "id": "primjer-3-29",
+    "example": "3.29",
+    "kind": "primjer",
+    "printed_page": 186,
+    "pdf_page": 94,
+    "source_image": "sources/pages/page-186.png",
+    "rect": [
+      163,
+      752,
+      1745,
+      2093
+    ],
+    "image": "images/03-kromatika-a/primjer-3-29.png",
+    "review_status": "pending",
+    "review_note": "Reviewer: prior merged 3.28 continuation, paragraph, prose+footnote. Isolated 3.29 a)-e). Verify top boundary with 3.28-cont, bottom excludes footnote/prose, all parts intact. (recropped after independent visual review; re-review required)"
+  },
+  {
+    "id": "primjer-3-30",
+    "example": "3.30",
+    "kind": "primjer",
+    "printed_page": 187,
+    "pdf_page": 94,
+    "source_image": "sources/pages/page-187.png",
+    "rect": [
+      220,
+      535,
+      1800,
+      1422
+    ],
+    "image": "images/03-kromatika-a/primjer-3-30.png",
+    "review_status": "pending",
+    "review_note": "Reviewer: top clipped Bach/work attribution; bottom clipped (T). Extended per suggestion. Verify attribution and (T) fully included, gap before next paragraph. (recropped after independent visual review; re-review required)"
+  },
+  {
+    "id": "primjer-3-32",
+    "example": "3.32",
+    "kind": "primjer",
+    "printed_page": 188,
+    "pdf_page": 95,
+    "source_image": "sources/pages/page-188.png",
+    "rect": [
+      125,
+      582,
+      1710,
+      1423
+    ],
+    "image": "images/03-kromatika-a/primjer-3-32.png",
+    "review_status": "pending",
+    "review_note": "Reviewer: identity 3.32 but b) (incl. staves/notes, Mozart attribution) was cut. Extended to include complete a)+b), stop before 3.33. VERIFY completeness. (recropped after independent visual review; re-review required)"
+  },
+  {
+    "id": "primjer-3-33",
+    "example": "3.33",
+    "kind": "primjer",
+    "printed_page": 188,
+    "pdf_page": 95,
+    "source_image": "sources/pages/page-188.png",
+    "rect": [
+      125,
+      1437,
+      1710,
+      1813
+    ],
+    "image": "images/03-kromatika-a/primjer-3-33.png",
+    "review_status": "pending",
+    "review_note": "Reviewer: prior was bottom of 3.32 b), not 3.33. Replaced with 3.33 system. VERIFY identity/number/notation. (recropped after independent visual review; re-review required)"
+  },
+  {
+    "id": "primjer-3-34",
+    "example": "3.34",
+    "kind": "primjer",
+    "printed_page": 188,
+    "pdf_page": 95,
+    "source_image": "sources/pages/page-188.png",
+    "rect": [
+      125,
+      1887,
+      1710,
+      2253
+    ],
+    "image": "images/03-kromatika-a/primjer-3-34.png",
+    "review_status": "pending",
+    "review_note": "Reviewer: prior showed 3.33. Replaced with 3.34 system. VERIFY identity, top/bottom edges, no handwriting. (recropped after independent visual review; re-review required)"
+  },
+  {
+    "id": "primjer-3-35",
+    "example": "3.35",
+    "kind": "primjer",
+    "printed_page": 189,
+    "pdf_page": 95,
+    "source_image": "sources/pages/page-189.png",
+    "rect": [
+      225,
+      116,
+      1760,
+      519
+    ],
+    "image": "images/03-kromatika-a/primjer-3-35.png",
+    "review_status": "pending",
+    "review_note": "Reviewer: 3.35 is top system on p.189 (not p.188). Prior p188 crop was 3.34. Replaced/corrected location. VERIFY identity/notation. (recropped after independent visual review; re-review required)"
+  },
+  {
+    "id": "primjer-3-36",
+    "example": "3.36",
+    "kind": "primjer",
+    "printed_page": 189,
+    "pdf_page": 95,
+    "source_image": "sources/pages/page-189.png",
+    "rect": [
+      205,
+      514,
+      1776,
+      1314
+    ],
+    "image": "images/03-kromatika-a/primjer-3-36.png",
+    "review_status": "pending",
+    "review_note": "Reviewer: prior contained 3.35+3.36+prose footnote. Isolated 3.36 a)-c). Retain '*) NE' score marking if present; exclude prose footnote. VERIFY. (recropped after independent visual review; re-review required)"
+  },
+  {
+    "id": "zadatak-189-2",
+    "example": "zadatak 2 (str. 189)",
+    "kind": "zadatak",
+    "printed_page": 189,
+    "pdf_page": 95,
+    "source_image": "sources/pages/page-189.png",
+    "rect": [
+      175,
+      1672,
+      1790,
+      1932
+    ],
+    "image": "images/03-kromatika-a/zadatak-189-2.png",
+    "review_status": "pending",
+    "review_note": "Reviewer: split p189 ZADACI block. This targets task 2 score; VERIFY task number/boundaries/figured bass. Heading and task 1 prose need text transcription (text role). (recropped after independent visual review; re-review required)"
+  },
+  {
+    "id": "zadatak-189-3",
+    "example": "zadatak 3 (str. 189)",
+    "kind": "zadatak",
+    "printed_page": 189,
+    "pdf_page": 95,
+    "source_image": "sources/pages/page-189.png",
+    "rect": [
+      175,
+      1902,
+      1790,
+      2148
+    ],
+    "image": "images/03-kromatika-a/zadatak-189-3.png",
+    "review_status": "pending",
+    "review_note": "Reviewer-split task 3 score. VERIFY number/boundaries/figured bass. (recropped after independent visual review; re-review required)"
+  },
+  {
+    "id": "zadatak-189-4",
+    "example": "zadatak 4 (str. 189)",
+    "kind": "zadatak",
+    "printed_page": 189,
+    "pdf_page": 95,
+    "source_image": "sources/pages/page-189.png",
+    "rect": [
+      175,
+      2127,
+      1790,
+      2365
+    ],
+    "image": "images/03-kromatika-a/zadatak-189-4.png",
+    "review_status": "pending",
+    "review_note": "Reviewer-split task 4 score. VERIFY number/boundaries/figured bass; check bottom for page number/clip. (recropped after independent visual review; re-review required)"
+  },
+  {
+    "id": "zadatak-190-5",
+    "example": "zadatak 5? (str. 190)",
+    "kind": "zadatak",
+    "printed_page": 190,
+    "pdf_page": 96,
+    "source_image": "sources/pages/page-190.png",
+    "rect": [
+      120,
+      472,
+      1705,
+      526
+    ],
+    "image": "images/03-kromatika-a/zadatak-190-5.png",
+    "review_status": "pending",
+    "review_note": "Auto-split from ink bands after reviewer flagged missing/merged tasks 5-14. Band 1/10; task number mapping UNCERTAIN (reviewer says 5-14, keep both systems for 10,14). VERIFY identity, completeness, numbering, figured bass. (recropped after independent visual review; re-review required)"
+  },
+  {
+    "id": "zadatak-190-6",
+    "example": "zadatak 6? (str. 190)",
+    "kind": "zadatak",
+    "printed_page": 190,
+    "pdf_page": 96,
+    "source_image": "sources/pages/page-190.png",
+    "rect": [
+      120,
+      516,
+      1705,
+      889
+    ],
+    "image": "images/03-kromatika-a/zadatak-190-6.png",
+    "review_status": "pending",
+    "review_note": "Auto-split from ink bands after reviewer flagged missing/merged tasks 5-14. Band 2/10; task number mapping UNCERTAIN (reviewer says 5-14, keep both systems for 10,14). VERIFY identity, completeness, numbering, figured bass. (recropped after independent visual review; re-review required)"
+  },
+  {
+    "id": "zadatak-190-7",
+    "example": "zadatak 7? (str. 190)",
+    "kind": "zadatak",
+    "printed_page": 190,
+    "pdf_page": 96,
+    "source_image": "sources/pages/page-190.png",
+    "rect": [
+      120,
+      896,
+      1705,
+      1079
+    ],
+    "image": "images/03-kromatika-a/zadatak-190-7.png",
+    "review_status": "pending",
+    "review_note": "Auto-split from ink bands after reviewer flagged missing/merged tasks 5-14. Band 3/10; task number mapping UNCERTAIN (reviewer says 5-14, keep both systems for 10,14). VERIFY identity, completeness, numbering, figured bass. (recropped after independent visual review; re-review required)"
+  },
+  {
+    "id": "zadatak-190-8",
+    "example": "zadatak 8? (str. 190)",
+    "kind": "zadatak",
+    "printed_page": 190,
+    "pdf_page": 96,
+    "source_image": "sources/pages/page-190.png",
+    "rect": [
+      120,
+      1060,
+      1705,
+      1267
+    ],
+    "image": "images/03-kromatika-a/zadatak-190-8.png",
+    "review_status": "pending",
+    "review_note": "Auto-split from ink bands after reviewer flagged missing/merged tasks 5-14. Band 4/10; task number mapping UNCERTAIN (reviewer says 5-14, keep both systems for 10,14). VERIFY identity, completeness, numbering, figured bass. (recropped after independent visual review; re-review required)"
+  },
+  {
+    "id": "zadatak-190-9",
+    "example": "zadatak 9? (str. 190)",
+    "kind": "zadatak",
+    "printed_page": 190,
+    "pdf_page": 96,
+    "source_image": "sources/pages/page-190.png",
+    "rect": [
+      120,
+      1277,
+      1705,
+      1455
+    ],
+    "image": "images/03-kromatika-a/zadatak-190-9.png",
+    "review_status": "pending",
+    "review_note": "Auto-split from ink bands after reviewer flagged missing/merged tasks 5-14. Band 5/10; task number mapping UNCERTAIN (reviewer says 5-14, keep both systems for 10,14). VERIFY identity, completeness, numbering, figured bass. (recropped after independent visual review; re-review required)"
+  },
+  {
+    "id": "zadatak-190-10",
+    "example": "zadatak 10? (str. 190)",
+    "kind": "zadatak",
+    "printed_page": 190,
+    "pdf_page": 96,
+    "source_image": "sources/pages/page-190.png",
+    "rect": [
+      120,
+      1460,
+      1705,
+      1643
+    ],
+    "image": "images/03-kromatika-a/zadatak-190-10.png",
+    "review_status": "pending",
+    "review_note": "Auto-split from ink bands after reviewer flagged missing/merged tasks 5-14. Band 6/10; task number mapping UNCERTAIN (reviewer says 5-14, keep both systems for 10,14). VERIFY identity, completeness, numbering, figured bass. (recropped after independent visual review; re-review required)"
+  },
+  {
+    "id": "zadatak-190-11",
+    "example": "zadatak 11? (str. 190)",
+    "kind": "zadatak",
+    "printed_page": 190,
+    "pdf_page": 96,
+    "source_image": "sources/pages/page-190.png",
+    "rect": [
+      120,
+      1643,
+      1705,
+      1834
+    ],
+    "image": "images/03-kromatika-a/zadatak-190-11.png",
+    "review_status": "pending",
+    "review_note": "Auto-split from ink bands after reviewer flagged missing/merged tasks 5-14. Band 7/10; task number mapping UNCERTAIN (reviewer says 5-14, keep both systems for 10,14). VERIFY identity, completeness, numbering, figured bass. (recropped after independent visual review; re-review required)"
+  },
+  {
+    "id": "zadatak-190-12",
+    "example": "zadatak 12? (str. 190)",
+    "kind": "zadatak",
+    "printed_page": 190,
+    "pdf_page": 96,
+    "source_image": "sources/pages/page-190.png",
+    "rect": [
+      120,
+      1838,
+      1705,
+      2023
+    ],
+    "image": "images/03-kromatika-a/zadatak-190-12.png",
+    "review_status": "pending",
+    "review_note": "Auto-split from ink bands after reviewer flagged missing/merged tasks 5-14. Band 8/10; task number mapping UNCERTAIN (reviewer says 5-14, keep both systems for 10,14). VERIFY identity, completeness, numbering, figured bass. (recropped after independent visual review; re-review required)"
+  },
+  {
+    "id": "zadatak-190-13",
+    "example": "zadatak 13? (str. 190)",
+    "kind": "zadatak",
+    "printed_page": 190,
+    "pdf_page": 96,
+    "source_image": "sources/pages/page-190.png",
+    "rect": [
+      120,
+      2019,
+      1705,
+      2216
+    ],
+    "image": "images/03-kromatika-a/zadatak-190-13.png",
+    "review_status": "pending",
+    "review_note": "Auto-split from ink bands after reviewer flagged missing/merged tasks 5-14. Band 9/10; task number mapping UNCERTAIN (reviewer says 5-14, keep both systems for 10,14). VERIFY identity, completeness, numbering, figured bass. (recropped after independent visual review; re-review required)"
+  },
+  {
+    "id": "zadatak-190-14",
+    "example": "zadatak 14? (str. 190)",
+    "kind": "zadatak",
+    "printed_page": 190,
+    "pdf_page": 96,
+    "source_image": "sources/pages/page-190.png",
+    "rect": [
+      118,
+      2217,
+      1705,
+      2397
+    ],
+    "image": "images/03-kromatika-a/zadatak-190-14.png",
+    "review_status": "pending",
+    "review_note": "Auto-split from ink bands after reviewer flagged missing/merged tasks 5-14. Band 10/10; task number mapping UNCERTAIN (reviewer says 5-14, keep both systems for 10,14). VERIFY identity, completeness, numbering, figured bass. (recropped after independent visual review; re-review required)"
+  }
+]

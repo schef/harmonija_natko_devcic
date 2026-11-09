@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "p082:zadatak 5",
+    "example": "zadatak 5",
+    "kind": "exercise",
+    "printed_page": 82,
+    "pdf_page": 42,
+    "source_image": "sources/pages/page-082.png",
+    "rect": [
+      182,
+      104,
+      1706,
+      456
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-82-5.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required.",
+    "caption": "Zadatak 5. — str. 82."
+  },
+  {
+    "id": "p082:zadatak 6",
+    "example": "zadatak 6",
+    "kind": "exercise",
+    "printed_page": 82,
+    "pdf_page": 42,
+    "source_image": "sources/pages/page-082.png",
+    "rect": [
+      189,
+      482,
+      1706,
+      644
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-82-6.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required.",
+    "caption": "Zadatak 6. — str. 82."
+  },
+  {
+    "id": "p082:zadatak 7",
+    "example": "zadatak 7",
+    "kind": "exercise",
+    "printed_page": 82,
+    "pdf_page": 42,
+    "source_image": "sources/pages/page-082.png",
+    "rect": [
+      189,
+      658,
+      1706,
+      833
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-82-7.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required.",
+    "caption": "Zadatak 7. — str. 82."
+  },
+  {
+    "id": "p082:Realizacija zadatka 4.",
+    "example": "Realizacija zadatka 4.",
+    "kind": "realization",
+    "printed_page": 82,
+    "pdf_page": 42,
+    "source_image": "sources/pages/page-082.png",
+    "rect": [
+      156,
+      1068,
+      1706,
+      2083
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-82-4-realizacija.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required.",
+    "caption": "Realizacija zadatka 4. — str. 82."
+  },
+  {
+    "id": "p083:2.168",
+    "example": "2.168",
+    "kind": "example",
+    "printed_page": 83,
+    "pdf_page": 42,
+    "source_image": "sources/pages/page-083.png",
+    "rect": [
+      560,
+      781,
+      1413,
+      957
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-168.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required.",
+    "caption": "Primjer 2.168. — str. 83."
+  },
+  {
+    "id": "p083:2.169",
+    "example": "2.169",
+    "kind": "example",
+    "printed_page": 83,
+    "pdf_page": 42,
+    "source_image": "sources/pages/page-083.png",
+    "rect": [
+      208,
+      1588,
+      690,
+      1953
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-169.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.169. — str. 83."
+  },
+  {
+    "id": "p083:2.170",
+    "example": "2.170",
+    "kind": "example",
+    "printed_page": 83,
+    "pdf_page": 42,
+    "source_image": "sources/pages/page-083.png",
+    "rect": [
+      755,
+      1575,
+      1732,
+      1979
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-170.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.170. — str. 83."
+  },
+  {
+    "id": "p083:2.171",
+    "example": "2.171",
+    "kind": "example",
+    "printed_page": 83,
+    "pdf_page": 42,
+    "source_image": "sources/pages/page-083.png",
+    "rect": [
+      384,
+      2018,
+      1536,
+      2396
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-171.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.171. — str. 83."
+  },
+  {
+    "id": "p084:2.172",
+    "example": "2.172",
+    "kind": "example",
+    "printed_page": 84,
+    "pdf_page": 43,
+    "source_image": "sources/pages/page-084.png",
+    "rect": [
+      188,
+      576,
+      809,
+      841
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-172.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.172. — str. 84."
+  },
+  {
+    "id": "p084:2.173",
+    "example": "2.173",
+    "kind": "example",
+    "printed_page": 84,
+    "pdf_page": 43,
+    "source_image": "sources/pages/page-084.png",
+    "rect": [
+      867,
+      524,
+      1709,
+      964
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-173.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.173. — str. 84."
+  },
+  {
+    "id": "p084:2.174",
+    "example": "2.174",
+    "kind": "example",
+    "printed_page": 84,
+    "pdf_page": 43,
+    "source_image": "sources/pages/page-084.png",
+    "rect": [
+      162,
+      1553,
+      1709,
+      2421
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-174.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.174. — str. 84."
+  },
+  {
+    "id": "p085:2.175",
+    "example": "2.175",
+    "kind": "example",
+    "printed_page": 85,
+    "pdf_page": 43,
+    "source_image": "sources/pages/page-085.png",
+    "rect": [
+      220,
+      511,
+      712,
+      718
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-175.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.175. — str. 85."
+  },
+  {
+    "id": "p085:2.176",
+    "example": "2.176",
+    "kind": "example",
+    "printed_page": 85,
+    "pdf_page": 43,
+    "source_image": "sources/pages/page-085.png",
+    "rect": [
+      718,
+      511,
+      1735,
+      939
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-176.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.176. — str. 85."
+  },
+  {
+    "id": "p085:2.177",
+    "example": "2.177",
+    "kind": "example",
+    "printed_page": 85,
+    "pdf_page": 43,
+    "source_image": "sources/pages/page-085.png",
+    "rect": [
+      686,
+      1683,
+      1262,
+      1896
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-177.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.177. — str. 85."
+  },
+  {
+    "id": "p085:2.178",
+    "example": "2.178",
+    "kind": "example",
+    "printed_page": 85,
+    "pdf_page": 43,
+    "source_image": "sources/pages/page-085.png",
+    "rect": [
+      214,
+      1955,
+      1735,
+      2427
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-178.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.178. — str. 85."
+  },
+  {
+    "id": "p086:2.179",
+    "example": "2.179",
+    "kind": "example",
+    "printed_page": 86,
+    "pdf_page": 44,
+    "source_image": "sources/pages/page-086.png",
+    "rect": [
+      670,
+      109,
+      1204,
+      509
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-179.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.179. — str. 86."
+  },
+  {
+    "id": "p086:2.180",
+    "example": "2.180",
+    "kind": "example",
+    "printed_page": 86,
+    "pdf_page": 44,
+    "source_image": "sources/pages/page-086.png",
+    "rect": [
+      174,
+      972,
+      586,
+      1146
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-180.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required.",
+    "caption": "Primjer 2.180. — str. 86."
+  },
+  {
+    "id": "p086:2.181",
+    "example": "2.181",
+    "kind": "example",
+    "printed_page": 86,
+    "pdf_page": 44,
+    "source_image": "sources/pages/page-086.png",
+    "rect": [
+      644,
+      959,
+      1700,
+      1358
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-181.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required.",
+    "caption": "Primjer 2.181. — str. 86."
+  },
+  {
+    "id": "p086:2.182",
+    "example": "2.182",
+    "kind": "example",
+    "printed_page": 86,
+    "pdf_page": 44,
+    "source_image": "sources/pages/page-086.png",
+    "rect": [
+      167,
+      1738,
+      1687,
+      2157
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-182.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.182. — str. 86."
+  },
+  {
+    "id": "p087:2.183",
+    "example": "2.183",
+    "kind": "example",
+    "printed_page": 87,
+    "pdf_page": 44,
+    "source_image": "sources/pages/page-087.png",
+    "rect": [
+      225,
+      97,
+      1745,
+      547
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-183.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.183. — str. 87."
+  },
+  {
+    "id": "p087:2.184",
+    "example": "2.184",
+    "kind": "example",
+    "printed_page": 87,
+    "pdf_page": 44,
+    "source_image": "sources/pages/page-087.png",
+    "rect": [
+      200,
+      731,
+      1745,
+      1596
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-184.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.184. — str. 87."
+  },
+  {
+    "id": "p087:2.185",
+    "example": "2.185",
+    "kind": "example",
+    "printed_page": 87,
+    "pdf_page": 44,
+    "source_image": "sources/pages/page-087.png",
+    "rect": [
+      219,
+      1841,
+      1738,
+      2272
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-185.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.185. — str. 87."
+  },
+  {
+    "id": "p088:2.186",
+    "example": "2.186",
+    "kind": "example",
+    "printed_page": 88,
+    "pdf_page": 45,
+    "source_image": "sources/pages/page-088.png",
+    "rect": [
+      154,
+      708,
+      1242,
+      1146
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-186.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.186. — str. 88."
+  },
+  {
+    "id": "p088:2.187",
+    "example": "2.187",
+    "kind": "example",
+    "printed_page": 88,
+    "pdf_page": 45,
+    "source_image": "sources/pages/page-088.png",
+    "rect": [
+      1281,
+      747,
+      1680,
+      908
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-187.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required.",
+    "caption": "Primjer 2.187. — str. 88."
+  },
+  {
+    "id": "p088:2.188",
+    "example": "2.188",
+    "kind": "example",
+    "printed_page": 88,
+    "pdf_page": 45,
+    "source_image": "sources/pages/page-088.png",
+    "rect": [
+      154,
+      1116,
+      1680,
+      1545
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-188.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.188. — str. 88."
+  },
+  {
+    "id": "p088:2.189",
+    "example": "2.189",
+    "kind": "example",
+    "printed_page": 88,
+    "pdf_page": 45,
+    "source_image": "sources/pages/page-088.png",
+    "rect": [
+      161,
+      2002,
+      1687,
+      2440
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-189.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.189. — str. 88."
+  },
+  {
+    "id": "p089:2.190",
+    "example": "2.190",
+    "kind": "example",
+    "printed_page": 89,
+    "pdf_page": 45,
+    "source_image": "sources/pages/page-089.png",
+    "rect": [
+      406,
+      360,
+      1500,
+      805
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-190.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.190. — str. 89."
+  },
+  {
+    "id": "p089:2.191",
+    "example": "2.191",
+    "kind": "example",
+    "printed_page": 89,
+    "pdf_page": 45,
+    "source_image": "sources/pages/page-089.png",
+    "rect": [
+      206,
+      1075,
+      1230,
+      1532
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-191.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.191. — str. 89."
+  },
+  {
+    "id": "p089:2.192",
+    "example": "2.192",
+    "kind": "example",
+    "printed_page": 89,
+    "pdf_page": 45,
+    "source_image": "sources/pages/page-089.png",
+    "rect": [
+      1268,
+      1062,
+      1725,
+      1487
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-192.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.192. — str. 89."
+  },
+  {
+    "id": "p089:2.193",
+    "example": "2.193",
+    "kind": "example",
+    "printed_page": 89,
+    "pdf_page": 45,
+    "source_image": "sources/pages/page-089.png",
+    "rect": [
+      715,
+      1963,
+      1242,
+      2427
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-193.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.193. — str. 89."
+  },
+  {
+    "id": "p090:2.194",
+    "example": "2.194",
+    "kind": "example",
+    "printed_page": 90,
+    "pdf_page": 46,
+    "source_image": "sources/pages/page-090.png",
+    "rect": [
+      162,
+      136,
+      1689,
+      682
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-194.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.194. — str. 90."
+  },
+  {
+    "id": "p090:2.195",
+    "example": "2.195",
+    "kind": "example",
+    "printed_page": 90,
+    "pdf_page": 46,
+    "source_image": "sources/pages/page-090.png",
+    "rect": [
+      526,
+      955,
+      1325,
+      1416
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-195.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.195. — str. 90."
+  },
+  {
+    "id": "p090:2.196",
+    "example": "2.196",
+    "kind": "example",
+    "printed_page": 90,
+    "pdf_page": 46,
+    "source_image": "sources/pages/page-090.png",
+    "rect": [
+      682,
+      1702,
+      1215,
+      2137
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-196.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.196. — str. 90."
+  },
+  {
+    "id": "p091:2.197",
+    "example": "2.197",
+    "kind": "example",
+    "printed_page": 91,
+    "pdf_page": 46,
+    "source_image": "sources/pages/page-091.png",
+    "rect": [
+      455,
+      110,
+      1494,
+      546
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-197.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.197. — str. 91."
+  },
+  {
+    "id": "p091:2.198",
+    "example": "2.198",
+    "kind": "example",
+    "printed_page": 91,
+    "pdf_page": 46,
+    "source_image": "sources/pages/page-091.png",
+    "rect": [
+      377,
+      547,
+      1585,
+      987
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-198.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.198. — str. 91."
+  },
+  {
+    "id": "p091:2.199",
+    "example": "2.199",
+    "kind": "example",
+    "printed_page": 91,
+    "pdf_page": 46,
+    "source_image": "sources/pages/page-091.png",
+    "rect": [
+      221,
+      979,
+      1741,
+      1409
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-199.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them. Source layout conflict: pencil analysis from 2.198 adjoins the Schumann attribution at this crop top; preserved original pixels.",
+    "caption": "Primjer 2.199. — str. 91."
+  },
+  {
+    "id": "p091:zadatak 1",
+    "example": "zadatak 1",
+    "kind": "exercise",
+    "printed_page": 91,
+    "pdf_page": 46,
+    "source_image": "sources/pages/page-091.png",
+    "rect": [
+      247,
+      1494,
+      1767,
+      1686
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-91-1.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required.",
+    "caption": "Zadatak 1. — str. 91."
+  },
+  {
+    "id": "p091:zadatak 2",
+    "example": "zadatak 2",
+    "kind": "exercise",
+    "printed_page": 91,
+    "pdf_page": 46,
+    "source_image": "sources/pages/page-091.png",
+    "rect": [
+      247,
+      1693,
+      1767,
+      1889
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-91-2.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required.",
+    "caption": "Zadatak 2. — str. 91."
+  },
+  {
+    "id": "p091:zadatak 3",
+    "example": "zadatak 3",
+    "kind": "exercise",
+    "printed_page": 91,
+    "pdf_page": 46,
+    "source_image": "sources/pages/page-091.png",
+    "rect": [
+      247,
+      1889,
+      1767,
+      2068
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-91-3.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required.",
+    "caption": "Zadatak 3. — str. 91."
+  },
+  {
+    "id": "p091:zadatak 4",
+    "example": "zadatak 4",
+    "kind": "exercise",
+    "printed_page": 91,
+    "pdf_page": 46,
+    "source_image": "sources/pages/page-091.png",
+    "rect": [
+      247,
+      2068,
+      1767,
+      2256
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-91-4.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: source layout conflict: exercise 4 lowest figured-bass line and exercise 5 highest ledger note overlap vertically. Both intended contents retained; rectangular crops necessarily retain a fragment of the neighbouring exercise. No clipping of intended notation or retouching used.",
+    "caption": "Zadatak 4. — str. 91."
+  },
+  {
+    "id": "p091:zadatak 5",
+    "example": "zadatak 5",
+    "kind": "exercise",
+    "printed_page": 91,
+    "pdf_page": 46,
+    "source_image": "sources/pages/page-091.png",
+    "rect": [
+      247,
+      2245,
+      1767,
+      2384
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-91-5.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: source layout conflict: exercise 4 lowest figured-bass line and exercise 5 highest ledger note overlap vertically. Both intended contents retained; rectangular crops necessarily retain a fragment of the neighbouring exercise. No clipping of intended notation or retouching used.",
+    "caption": "Zadatak 5. — str. 91."
+  },
+  {
+    "id": "p092:zadatak 6",
+    "example": "zadatak 6",
+    "kind": "exercise",
+    "printed_page": 92,
+    "pdf_page": 47,
+    "source_image": "sources/pages/page-092.png",
+    "rect": [
+      168,
+      129,
+      1685,
+      297
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-92-6.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required.",
+    "caption": "Zadatak 6. — str. 92."
+  },
+  {
+    "id": "p092:zadatak 7",
+    "example": "zadatak 7",
+    "kind": "exercise",
+    "printed_page": 92,
+    "pdf_page": 47,
+    "source_image": "sources/pages/page-092.png",
+    "rect": [
+      168,
+      342,
+      1685,
+      484
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-92-7.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required.",
+    "caption": "Zadatak 7. — str. 92."
+  },
+  {
+    "id": "p092:zadatak 8",
+    "example": "zadatak 8",
+    "kind": "exercise",
+    "printed_page": 92,
+    "pdf_page": 47,
+    "source_image": "sources/pages/page-092.png",
+    "rect": [
+      168,
+      510,
+      1685,
+      646
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-92-8.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required.",
+    "caption": "Zadatak 8. — str. 92."
+  },
+  {
+    "id": "p092:zadatak 9",
+    "example": "zadatak 9",
+    "kind": "exercise",
+    "printed_page": 92,
+    "pdf_page": 47,
+    "source_image": "sources/pages/page-092.png",
+    "rect": [
+      168,
+      678,
+      1685,
+      846
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-92-9.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required.",
+    "caption": "Zadatak 9. — str. 92."
+  },
+  {
+    "id": "p092:zadatak 10",
+    "example": "zadatak 10",
+    "kind": "exercise",
+    "printed_page": 92,
+    "pdf_page": 47,
+    "source_image": "sources/pages/page-092.png",
+    "rect": [
+      161,
+      878,
+      1685,
+      1040
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-92-10.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required.",
+    "caption": "Zadatak 10. — str. 92."
+  },
+  {
+    "id": "p092:zadatak 11",
+    "example": "zadatak 11",
+    "kind": "exercise",
+    "printed_page": 92,
+    "pdf_page": 47,
+    "source_image": "sources/pages/page-092.png",
+    "rect": [
+      155,
+      1065,
+      1685,
+      1227
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-92-11.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required.",
+    "caption": "Zadatak 11. — str. 92."
+  },
+  {
+    "id": "p092:zadatak 12",
+    "example": "zadatak 12",
+    "kind": "exercise",
+    "printed_page": 92,
+    "pdf_page": 47,
+    "source_image": "sources/pages/page-092.png",
+    "rect": [
+      161,
+      1259,
+      1685,
+      1421
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-92-12.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required.",
+    "caption": "Zadatak 12. — str. 92."
+  },
+  {
+    "id": "p092:zadatak 13",
+    "example": "zadatak 13",
+    "kind": "exercise",
+    "printed_page": 92,
+    "pdf_page": 47,
+    "source_image": "sources/pages/page-092.png",
+    "rect": [
+      155,
+      1440,
+      1685,
+      1795
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-92-13.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required.",
+    "caption": "Zadatak 13. — str. 92."
+  },
+  {
+    "id": "p092:zadatak 14",
+    "example": "zadatak 14",
+    "kind": "exercise",
+    "printed_page": 92,
+    "pdf_page": 47,
+    "source_image": "sources/pages/page-092.png",
+    "rect": [
+      155,
+      1806,
+      1685,
+      1989
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-92-14.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required.",
+    "caption": "Zadatak 14. — str. 92."
+  },
+  {
+    "id": "p092:zadatak 15",
+    "example": "zadatak 15",
+    "kind": "exercise",
+    "printed_page": 92,
+    "pdf_page": 47,
+    "source_image": "sources/pages/page-092.png",
+    "rect": [
+      155,
+      2015,
+      1685,
+      2180
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-92-15.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required.",
+    "caption": "Zadatak 15. — str. 92."
+  },
+  {
+    "id": "p092:zadatak 16",
+    "example": "zadatak 16",
+    "kind": "exercise",
+    "printed_page": 92,
+    "pdf_page": 47,
+    "source_image": "sources/pages/page-092.png",
+    "rect": [
+      155,
+      2208,
+      1685,
+      2370
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-92-16.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required.",
+    "caption": "Zadatak 16. — str. 92."
+  },
+  {
+    "id": "p093:Realizacija zadatka 13.",
+    "example": "Realizacija zadatka 13.",
+    "kind": "realization",
+    "printed_page": 93,
+    "pdf_page": 47,
+    "source_image": "sources/pages/page-093.png",
+    "rect": [
+      200,
+      110,
+      1750,
+      1059
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-93-13-realizacija.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required.",
+    "caption": "Realizacija zadatka 13. — str. 93."
+  },
+  {
+    "id": "p093:2.200",
+    "example": "2.200",
+    "kind": "example",
+    "printed_page": 93,
+    "pdf_page": 47,
+    "source_image": "sources/pages/page-093.png",
+    "rect": [
+      400,
+      1472,
+      1524,
+      1692
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-200.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required.",
+    "caption": "Primjer 2.200. — str. 93."
+  },
+  {
+    "id": "p093:2.201",
+    "example": "2.201",
+    "kind": "example",
+    "printed_page": 93,
+    "pdf_page": 47,
+    "source_image": "sources/pages/page-093.png",
+    "rect": [
+      220,
+      2051,
+      1744,
+      2428
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-201.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.201. — str. 93."
+  },
+  {
+    "id": "p094:2.202",
+    "example": "2.202",
+    "kind": "example",
+    "printed_page": 94,
+    "pdf_page": 48,
+    "source_image": "sources/pages/page-094.png",
+    "rect": [
+      154,
+      425,
+      1075,
+      914
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-202.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.202. — str. 94."
+  },
+  {
+    "id": "p094:2.203",
+    "example": "2.203",
+    "kind": "example",
+    "printed_page": 94,
+    "pdf_page": 48,
+    "source_image": "sources/pages/page-094.png",
+    "rect": [
+      1088,
+      431,
+      1680,
+      914
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-203.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.203. — str. 94."
+  },
+  {
+    "id": "p094:2.204",
+    "example": "2.204",
+    "kind": "example",
+    "printed_page": 94,
+    "pdf_page": 48,
+    "source_image": "sources/pages/page-094.png",
+    "rect": [
+      154,
+      1558,
+      843,
+      1989
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-204.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.204. — str. 94."
+  },
+  {
+    "id": "p094:2.205",
+    "example": "2.205",
+    "kind": "example",
+    "printed_page": 94,
+    "pdf_page": 48,
+    "source_image": "sources/pages/page-094.png",
+    "rect": [
+      979,
+      1519,
+      1680,
+      2002
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-205.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.205. — str. 94."
+  },
+  {
+    "id": "p095:2.206",
+    "example": "2.206",
+    "kind": "example",
+    "printed_page": 95,
+    "pdf_page": 48,
+    "source_image": "sources/pages/page-095.png",
+    "rect": [
+      393,
+      335,
+      1494,
+      734
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-206.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.206. — str. 95."
+  },
+  {
+    "id": "p095:2.207",
+    "example": "2.207",
+    "kind": "example",
+    "printed_page": 95,
+    "pdf_page": 48,
+    "source_image": "sources/pages/page-095.png",
+    "rect": [
+      200,
+      747,
+      1732,
+      1236
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-207.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.207. — str. 95."
+  },
+  {
+    "id": "p095:2.208",
+    "example": "2.208",
+    "kind": "example",
+    "printed_page": 95,
+    "pdf_page": 48,
+    "source_image": "sources/pages/page-095.png",
+    "rect": [
+      354,
+      1848,
+      1577,
+      2395
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-208.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.208. — str. 95."
+  },
+  {
+    "id": "p096:2.209",
+    "example": "2.209",
+    "kind": "example",
+    "printed_page": 96,
+    "pdf_page": 49,
+    "source_image": "sources/pages/page-096.png",
+    "rect": [
+      433,
+      110,
+      1472,
+      517
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-209.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.209. — str. 96."
+  },
+  {
+    "id": "p096:2.210",
+    "example": "2.210",
+    "kind": "example",
+    "printed_page": 96,
+    "pdf_page": 49,
+    "source_image": "sources/pages/page-096.png",
+    "rect": [
+      155,
+      1001,
+      1705,
+      1860
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-210.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them. Source includes variants a–h, although prose references only a–g; h is retained.",
+    "caption": "Primjer 2.210. — str. 96."
+  },
+  {
+    "id": "p097:2.211",
+    "example": "2.211",
+    "kind": "example",
+    "printed_page": 97,
+    "pdf_page": 49,
+    "source_image": "sources/pages/page-097.png",
+    "rect": [
+      394,
+      90,
+      1537,
+      542
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-211.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.211. — str. 97."
+  },
+  {
+    "id": "p097:2.212",
+    "example": "2.212",
+    "kind": "example",
+    "printed_page": 97,
+    "pdf_page": 49,
+    "source_image": "sources/pages/page-097.png",
+    "rect": [
+      187,
+      1078,
+      923,
+      1341
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-212.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.212. — str. 97."
+  },
+  {
+    "id": "p097:2.213.a—m",
+    "example": "2.213.a—m",
+    "kind": "example",
+    "printed_page": 97,
+    "pdf_page": 49,
+    "source_image": "sources/pages/page-097.png",
+    "rect": [
+      161,
+      1341,
+      1711,
+      2228
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-213-p97.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.213.a—m. — str. 97."
+  },
+  {
+    "id": "p098:2.213.n—t (nastavak)",
+    "example": "2.213.n—t (nastavak)",
+    "kind": "example",
+    "printed_page": 98,
+    "pdf_page": 50,
+    "source_image": "sources/pages/page-098.png",
+    "rect": [
+      155,
+      110,
+      1705,
+      572
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-213-p98.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them. Cross-page continuation: printed example number occurs only in the p97 part; no number fabricated here. Printed variant sequence n,o,p,r,s,t retained.",
+    "caption": "Primjer 2.213.n—t (nastavak). — str. 98."
+  },
+  {
+    "id": "p098:2.214.a",
+    "example": "2.214.a",
+    "kind": "example",
+    "printed_page": 98,
+    "pdf_page": 50,
+    "source_image": "sources/pages/page-098.png",
+    "rect": [
+      504,
+      1091,
+      1369,
+      1621
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-214-a.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.214.a. — str. 98."
+  },
+  {
+    "id": "p098:2.214.b",
+    "example": "2.214.b",
+    "kind": "example",
+    "printed_page": 98,
+    "pdf_page": 50,
+    "source_image": "sources/pages/page-098.png",
+    "rect": [
+      323,
+      1621,
+      1582,
+      2154
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-214-b.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them. Printed shared example number is in part a; part b retains its own variant label and Bach attribution.",
+    "caption": "Primjer 2.214.b. — str. 98."
+  },
+  {
+    "id": "p099:2.215",
+    "example": "2.215",
+    "kind": "example",
+    "printed_page": 99,
+    "pdf_page": 50,
+    "source_image": "sources/pages/page-099.png",
+    "rect": [
+      200,
+      407,
+      1756,
+      1388
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-215.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.215. — str. 99."
+  },
+  {
+    "id": "p099:2.216",
+    "example": "2.216",
+    "kind": "example",
+    "printed_page": 99,
+    "pdf_page": 50,
+    "source_image": "sources/pages/page-099.png",
+    "rect": [
+      355,
+      1944,
+      1756,
+      2422
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-216.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.216. — str. 99."
+  },
+  {
+    "id": "p100:2.217",
+    "example": "2.217",
+    "kind": "example",
+    "printed_page": 100,
+    "pdf_page": 51,
+    "source_image": "sources/pages/page-100.png",
+    "rect": [
+      148,
+      109,
+      1680,
+      547
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-217.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required. cleanup_required: original pencil marks/scan interference within or immediately adjoining notation and analysis; preserved, not retouched or clipped to hide them.",
+    "caption": "Primjer 2.217. — str. 100."
+  },
+  {
+    "id": "p100:2.218",
+    "example": "2.218",
+    "kind": "example",
+    "printed_page": 100,
+    "pdf_page": 51,
+    "source_image": "sources/pages/page-100.png",
+    "rect": [
+      148,
+      547,
+      856,
+      955
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-218.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required.",
+    "caption": "Primjer 2.218. — str. 100."
+  },
+  {
+    "id": "p100:2.219",
+    "example": "2.219",
+    "kind": "example",
+    "printed_page": 100,
+    "pdf_page": 51,
+    "source_image": "sources/pages/page-100.png",
+    "rect": [
+      869,
+      547,
+      1680,
+      940
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-219.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required.",
+    "caption": "Primjer 2.219. — str. 100."
+  },
+  {
+    "id": "p100:2.220",
+    "example": "2.220",
+    "kind": "example",
+    "printed_page": 100,
+    "pdf_page": 51,
+    "source_image": "sources/pages/page-100.png",
+    "rect": [
+      566,
+      953,
+      1378,
+      1333
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-220.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required.",
+    "caption": "Primjer 2.220. — str. 100."
+  },
+  {
+    "id": "p100:2.221",
+    "example": "2.221",
+    "kind": "example",
+    "printed_page": 100,
+    "pdf_page": 51,
+    "source_image": "sources/pages/page-100.png",
+    "rect": [
+      148,
+      1333,
+      1680,
+      1751
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-221.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required.",
+    "caption": "Primjer 2.221. — str. 100."
+  },
+  {
+    "id": "p100:zadatak 1",
+    "example": "zadatak 1",
+    "kind": "exercise",
+    "printed_page": 100,
+    "pdf_page": 51,
+    "source_image": "sources/pages/page-100.png",
+    "rect": [
+      161,
+      1828,
+      1680,
+      2012
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-100-1.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required.",
+    "caption": "Zadatak 1. — str. 100."
+  },
+  {
+    "id": "p100:zadatak 2",
+    "example": "zadatak 2",
+    "kind": "exercise",
+    "printed_page": 100,
+    "pdf_page": 51,
+    "source_image": "sources/pages/page-100.png",
+    "rect": [
+      161,
+      2019,
+      1680,
+      2195
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-100-2.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required.",
+    "caption": "Zadatak 2. — str. 100."
+  },
+  {
+    "id": "p100:zadatak 3",
+    "example": "zadatak 3",
+    "kind": "exercise",
+    "printed_page": 100,
+    "pdf_page": 51,
+    "source_image": "sources/pages/page-100.png",
+    "rect": [
+      154,
+      2208,
+      1680,
+      2388
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-100-3.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-pixel crop; independently selected edges. Independent visual review required.",
+    "caption": "Zadatak 3. — str. 100."
+  }
+]

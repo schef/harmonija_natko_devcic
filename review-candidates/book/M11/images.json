@@ -1,0 +1,794 @@
+[
+  {
+    "id": "M11-primjer-5-1",
+    "example": "1",
+    "kind": "score",
+    "printed_page": 379,
+    "pdf_page": 190,
+    "source_image": "sources/pages/page-379.png",
+    "rect": [
+      201,
+      1326,
+      1726,
+      1859
+    ],
+    "image": "images/05-rekapitulacija/primjer-5-1.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges.",
+    "caption": "Zadatak 1."
+  },
+  {
+    "id": "M11-primjer-5-2",
+    "example": "2",
+    "kind": "score",
+    "printed_page": 379,
+    "pdf_page": 190,
+    "source_image": "sources/pages/page-379.png",
+    "rect": [
+      203,
+      1906,
+      1726,
+      2418
+    ],
+    "image": "images/05-rekapitulacija/primjer-5-2.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges.",
+    "caption": "Zadatak 2."
+  },
+  {
+    "id": "M11-primjer-5-3",
+    "example": "3",
+    "kind": "score",
+    "printed_page": 380,
+    "pdf_page": 191,
+    "source_image": "sources/pages/page-380.png",
+    "rect": [
+      177,
+      127,
+      1704,
+      656
+    ],
+    "image": "images/05-rekapitulacija/primjer-5-3.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges.",
+    "caption": "Zadatak 3."
+  },
+  {
+    "id": "M11-primjer-5-4",
+    "example": "4",
+    "kind": "score",
+    "printed_page": 380,
+    "pdf_page": 191,
+    "source_image": "sources/pages/page-380.png",
+    "rect": [
+      177,
+      668,
+      1699,
+      1231
+    ],
+    "image": "images/05-rekapitulacija/primjer-5-4.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges.",
+    "caption": "Zadatak 4."
+  },
+  {
+    "id": "M11-primjer-5-5",
+    "example": "5",
+    "kind": "score",
+    "printed_page": 380,
+    "pdf_page": 191,
+    "source_image": "sources/pages/page-380.png",
+    "rect": [
+      174,
+      1263,
+      1696,
+      1806
+    ],
+    "image": "images/05-rekapitulacija/primjer-5-5.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges.",
+    "caption": "Zadatak 5."
+  },
+  {
+    "id": "M11-primjer-5-6",
+    "example": "6",
+    "kind": "score",
+    "printed_page": 380,
+    "pdf_page": 191,
+    "source_image": "sources/pages/page-380.png",
+    "rect": [
+      164,
+      1825,
+      1694,
+      2393
+    ],
+    "image": "images/05-rekapitulacija/primjer-5-6.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges.",
+    "caption": "Zadatak 6."
+  },
+  {
+    "id": "M11-primjer-5-7",
+    "example": "7",
+    "kind": "score",
+    "printed_page": 381,
+    "pdf_page": 191,
+    "source_image": "sources/pages/page-381.png",
+    "rect": [
+      208,
+      136,
+      1732,
+      672
+    ],
+    "image": "images/05-rekapitulacija/primjer-5-7.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges.",
+    "caption": "Zadatak 7."
+  },
+  {
+    "id": "M11-primjer-5-8",
+    "example": "8",
+    "kind": "score",
+    "printed_page": 381,
+    "pdf_page": 191,
+    "source_image": "sources/pages/page-381.png",
+    "rect": [
+      212,
+      694,
+      1733,
+      1273
+    ],
+    "image": "images/05-rekapitulacija/primjer-5-8.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges.",
+    "caption": "Zadatak 8."
+  },
+  {
+    "id": "M11-primjer-5-9",
+    "example": "9",
+    "kind": "score",
+    "printed_page": 381,
+    "pdf_page": 191,
+    "source_image": "sources/pages/page-381.png",
+    "rect": [
+      210,
+      1276,
+      1733,
+      1843
+    ],
+    "image": "images/05-rekapitulacija/primjer-5-9.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges.",
+    "caption": "Zadatak 9."
+  },
+  {
+    "id": "M11-primjer-5-10-part-1",
+    "example": "10",
+    "kind": "score",
+    "printed_page": 381,
+    "pdf_page": 191,
+    "source_image": "sources/pages/page-381.png",
+    "rect": [
+      204,
+      1819,
+      1734,
+      2415
+    ],
+    "image": "images/05-rekapitulacija/primjer-5-10-part-1.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges.",
+    "caption": "Zadatak 10., prvi dio."
+  },
+  {
+    "id": "M11-primjer-5-10-part-2",
+    "example": "10",
+    "kind": "score",
+    "printed_page": 382,
+    "pdf_page": 192,
+    "source_image": "sources/pages/page-382.png",
+    "rect": [
+      169,
+      116,
+      1693,
+      287
+    ],
+    "image": "images/05-rekapitulacija/primjer-5-10-part-2.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges. Continuation has no repeated printed exercise number in source; do not invent one.",
+    "caption": "Zadatak 10., nastavak sa str. 381."
+  },
+  {
+    "id": "M11-primjer-5-11",
+    "example": "11",
+    "kind": "score",
+    "printed_page": 382,
+    "pdf_page": 192,
+    "source_image": "sources/pages/page-382.png",
+    "rect": [
+      164,
+      325,
+      1696,
+      1130
+    ],
+    "image": "images/05-rekapitulacija/primjer-5-11.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges. Closely adjacent exercise ending and following tempo indication require special boundary review.",
+    "caption": "Zadatak 11."
+  },
+  {
+    "id": "M11-primjer-5-12",
+    "example": "12",
+    "kind": "score",
+    "printed_page": 382,
+    "pdf_page": 192,
+    "source_image": "sources/pages/page-382.png",
+    "rect": [
+      156,
+      1080,
+      1685,
+      2038
+    ],
+    "image": "images/05-rekapitulacija/primjer-5-12.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges. Closely adjacent exercise ending and following tempo indication require special boundary review.",
+    "caption": "Zadatak 12."
+  },
+  {
+    "id": "M11-primjer-5-13-part-1",
+    "example": "13",
+    "kind": "score",
+    "printed_page": 382,
+    "pdf_page": 192,
+    "source_image": "sources/pages/page-382.png",
+    "rect": [
+      154,
+      2048,
+      1682,
+      2411
+    ],
+    "image": "images/05-rekapitulacija/primjer-5-13-part-1.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges.",
+    "caption": "Zadatak 13., prvi dio."
+  },
+  {
+    "id": "M11-primjer-5-13-part-2",
+    "example": "13",
+    "kind": "score",
+    "printed_page": 383,
+    "pdf_page": 192,
+    "source_image": "sources/pages/page-383.png",
+    "rect": [
+      217,
+      108,
+      1740,
+      482
+    ],
+    "image": "images/05-rekapitulacija/primjer-5-13-part-2.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges. Continuation has no repeated printed exercise number in source; do not invent one.",
+    "caption": "Zadatak 13., nastavak sa str. 382."
+  },
+  {
+    "id": "M11-primjer-5-14",
+    "example": "14",
+    "kind": "score",
+    "printed_page": 383,
+    "pdf_page": 192,
+    "source_image": "sources/pages/page-383.png",
+    "rect": [
+      217,
+      489,
+      1741,
+      1293
+    ],
+    "image": "images/05-rekapitulacija/primjer-5-14.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges.",
+    "caption": "Zadatak 14."
+  },
+  {
+    "id": "M11-primjer-5-15",
+    "example": "15",
+    "kind": "score",
+    "printed_page": 383,
+    "pdf_page": 192,
+    "source_image": "sources/pages/page-383.png",
+    "rect": [
+      217,
+      1317,
+      1742,
+      2243
+    ],
+    "image": "images/05-rekapitulacija/primjer-5-15.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges.",
+    "caption": "Zadatak 15."
+  },
+  {
+    "id": "M11-slika-384-1",
+    "example": null,
+    "kind": "score",
+    "printed_page": 384,
+    "pdf_page": 193,
+    "source_image": "sources/pages/page-384.png",
+    "rect": [
+      161,
+      106,
+      1714,
+      2012
+    ],
+    "image": "images/05-rekapitulacija/slika-384-1.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges.",
+    "caption": "Realizacija zadatka 4."
+  },
+  {
+    "id": "M11-slika-385-1",
+    "example": null,
+    "kind": "score",
+    "printed_page": 385,
+    "pdf_page": 193,
+    "source_image": "sources/pages/page-385.png",
+    "rect": [
+      183,
+      106,
+      1725,
+      1523
+    ],
+    "image": "images/05-rekapitulacija/slika-385-1.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges.",
+    "caption": "Realizacija zadatka 9."
+  },
+  {
+    "id": "M11-slika-386-1",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 386,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-386.png",
+    "rect": [
+      1043,
+      1031,
+      1155,
+      1093
+    ],
+    "image": "images/dodaci/slika-386-1.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges.",
+    "caption": "Oznaka povišene kvarte: ♯4."
+  },
+  {
+    "id": "M11-slika-386-2",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 386,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-386.png",
+    "rect": [
+      1061,
+      1125,
+      1092,
+      1173
+    ],
+    "image": "images/dodaci/slika-386-2.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges.",
+    "caption": "Brojka 4 precrtana kosim potezom."
+  },
+  {
+    "id": "M11-slika-386-3",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 386,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-386.png",
+    "rect": [
+      1002,
+      1195,
+      1094,
+      1250
+    ],
+    "image": "images/dodaci/slika-386-3.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges.",
+    "caption": "Kosi potezi za ponavljanje prethodne oznake."
+  },
+  {
+    "id": "M11-slika-386-4",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 386,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-386.png",
+    "rect": [
+      483,
+      1681,
+      510,
+      1730
+    ],
+    "image": "images/dodaci/slika-386-4.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges.",
+    "caption": "Precrtana brojka 5 u francuskom obilježavanju."
+  },
+  {
+    "id": "M11-slika-386-5",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 386,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-386.png",
+    "rect": [
+      856,
+      1725,
+      882,
+      1772
+    ],
+    "image": "images/dodaci/slika-386-5.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges.",
+    "caption": "Precrtana brojka 7 u francuskom obilježavanju."
+  },
+  {
+    "id": "M11-slika-386-6",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 386,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-386.png",
+    "rect": [
+      272,
+      1906,
+      315,
+      1976
+    ],
+    "image": "images/dodaci/slika-386-6.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges.",
+    "caption": "Francuska oznaka dominantnog septakorda."
+  },
+  {
+    "id": "M11-slika-386-7",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 386,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-386.png",
+    "rect": [
+      276,
+      1980,
+      310,
+      2042
+    ],
+    "image": "images/dodaci/slika-386-7.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges.",
+    "caption": "Francuska oznaka dominantnog kvintsekstakorda."
+  },
+  {
+    "id": "M11-slika-386-8",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 386,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-386.png",
+    "rect": [
+      251,
+      2054,
+      310,
+      2102
+    ],
+    "image": "images/dodaci/slika-386-8.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges.",
+    "caption": "Francuska oznaka dominantnog terckvartakorda."
+  },
+  {
+    "id": "M11-slika-386-9",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 386,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-386.png",
+    "rect": [
+      248,
+      2118,
+      310,
+      2164
+    ],
+    "image": "images/dodaci/slika-386-9.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges.",
+    "caption": "Francuska oznaka dominantnog sekundakorda."
+  },
+  {
+    "id": "M11-slika-386-10",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 386,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-386.png",
+    "rect": [
+      252,
+      2173,
+      314,
+      2236
+    ],
+    "image": "images/dodaci/slika-386-10.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges.",
+    "caption": "Francuska oznaka prvog obrata smanjenog septakorda."
+  },
+  {
+    "id": "M11-slika-386-11",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 386,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-386.png",
+    "rect": [
+      247,
+      2240,
+      313,
+      2311
+    ],
+    "image": "images/dodaci/slika-386-11.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges.",
+    "caption": "Francuska oznaka drugog obrata smanjenog septakorda."
+  },
+  {
+    "id": "M11-slika-387-1",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 387,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-387.png",
+    "rect": [
+      626,
+      64,
+      688,
+      156
+    ],
+    "image": "images/dodaci/slika-387-1.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges.",
+    "caption": "Varijanta oznake s razrješilicom."
+  },
+  {
+    "id": "M11-slika-387-2",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 387,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-387.png",
+    "rect": [
+      850,
+      62,
+      915,
+      154
+    ],
+    "image": "images/dodaci/slika-387-2.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges.",
+    "caption": "Varijanta oznake s povisilicom."
+  },
+  {
+    "id": "M11-slika-387-3",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 387,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-387.png",
+    "rect": [
+      1008,
+      62,
+      1067,
+      138
+    ],
+    "image": "images/dodaci/slika-387-3.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges.",
+    "caption": "Varijanta oznake sa snizilicom."
+  },
+  {
+    "id": "M11-slika-387-4",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 387,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-387.png",
+    "rect": [
+      355,
+      187,
+      462,
+      283
+    ],
+    "image": "images/dodaci/slika-387-4.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges.",
+    "caption": "Francuska oznaka dominantnog nonakorda."
+  },
+  {
+    "id": "M11-slika-387-5",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 387,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-387.png",
+    "rect": [
+      355,
+      290,
+      394,
+      363
+    ],
+    "image": "images/dodaci/slika-387-5.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges.",
+    "caption": "Francuska oznaka prvog obrata dominantnog nonakorda."
+  },
+  {
+    "id": "M11-slika-387-6",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 387,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-387.png",
+    "rect": [
+      333,
+      376,
+      391,
+      467
+    ],
+    "image": "images/dodaci/slika-387-6.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges.",
+    "caption": "Francuska oznaka drugog obrata dominantnog nonakorda."
+  },
+  {
+    "id": "M11-slika-387-7",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 387,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-387.png",
+    "rect": [
+      332,
+      476,
+      391,
+      566
+    ],
+    "image": "images/dodaci/slika-387-7.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges.",
+    "caption": "Francuska oznaka trećeg obrata dominantnog nonakorda."
+  },
+  {
+    "id": "M11-slika-387-8",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 387,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-387.png",
+    "rect": [
+      291,
+      716,
+      357,
+      792
+    ],
+    "image": "images/dodaci/slika-387-8.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges.",
+    "caption": "Francuska oznaka zaostajalice na basov ton kvintakorda."
+  },
+  {
+    "id": "M11-slika-387-9",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 387,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-387.png",
+    "rect": [
+      291,
+      800,
+      358,
+      876
+    ],
+    "image": "images/dodaci/slika-387-9.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges.",
+    "caption": "Francuska oznaka zaostajalice na basov ton sekstakorda."
+  },
+  {
+    "id": "M11-slika-387-10",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 387,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-387.png",
+    "rect": [
+      290,
+      877,
+      359,
+      967
+    ],
+    "image": "images/dodaci/slika-387-10.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges.",
+    "caption": "Francuska oznaka zaostajalice na basov ton kvintsekstakorda."
+  },
+  {
+    "id": "M11-slika-387-11",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 387,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-387.png",
+    "rect": [
+      1429,
+      894,
+      1486,
+      964
+    ],
+    "image": "images/dodaci/slika-387-11.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges.",
+    "caption": "Oznaka rješenja zaostajalice na basov ton kvintsekstakorda."
+  },
+  {
+    "id": "M11-slika-387-12",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 387,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-387.png",
+    "rect": [
+      291,
+      981,
+      359,
+      1071
+    ],
+    "image": "images/dodaci/slika-387-12.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges.",
+    "caption": "Francuska oznaka zaostajalice na basov ton terckvartakorda."
+  },
+  {
+    "id": "M11-slika-387-13",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 387,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-387.png",
+    "rect": [
+      1432,
+      993,
+      1492,
+      1060
+    ],
+    "image": "images/dodaci/slika-387-13.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges.",
+    "caption": "Oznaka rješenja zaostajalice na basov ton terckvartakorda."
+  },
+  {
+    "id": "M11-slika-387-14",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 387,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-387.png",
+    "rect": [
+      649,
+      1145,
+      689,
+      1192
+    ],
+    "image": "images/dodaci/slika-387-14.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; requires independent comparison of all four edges.",
+    "caption": "Alternativna oznaka smanjene kvinte odnosno smanjenog kvintakorda."
+  }
+]

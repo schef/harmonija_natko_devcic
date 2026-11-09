@@ -1,0 +1,20 @@
+[
+  {"printed_page":101,"pdf_page":51,"verified":true,"notes":"Visually checked page-101.png. Score-only exercises 4–15; visual markers only."},
+  {"printed_page":102,"pdf_page":52,"verified":true,"notes":"Visually checked page-102.png. Exercises 16–23 and beginning of realization 17; instruction transcribed."},
+  {"printed_page":103,"pdf_page":52,"verified":true,"notes":"Visually checked page-103.png. Realization 17 continues; starred explanatory note transcribed. Section 2.5.3; examples 2.222–2.223."},
+  {"printed_page":104,"pdf_page":53,"verified":true,"notes":"Visually checked page-104.png. Examples 2.224–2.225; paragraph continues across page 105, with 2.226 interposed in source."},
+  {"printed_page":105,"pdf_page":53,"verified":true,"notes":"Visually checked page-105.png. Examples 2.226–2.228. Continued paragraph explicitly marked; in-prose stacked figures represented by Unicode subscripts."},
+  {"printed_page":106,"pdf_page":54,"verified":true,"notes":"Visually checked page-106.png. Examples 2.229–2.231. Manuscript analyses excluded; all printed prose retained."},
+  {"printed_page":107,"pdf_page":54,"verified":true,"notes":"Visually checked page-107.png. Examples 2.232–2.233. Printed reference 'pr. 233.a' retained without silently supplying missing 2."},
+  {"printed_page":108,"pdf_page":55,"verified":true,"notes":"Visually checked page-108.png. Examples 2.234–2.237; printed genitive accent in septakordâ retained."},
+  {"printed_page":109,"pdf_page":55,"verified":true,"notes":"Visually checked page-109.png. ZADACI heading; exercises 1–10 represented by visual markers."},
+  {"printed_page":110,"pdf_page":56,"verified":true,"notes":"Visually checked page-110.png. Score-only exercises 11–22; visual markers only."},
+  {"printed_page":111,"pdf_page":56,"verified":true,"notes":"Visually checked page-111.png. Exercise 23, realization 16, section 2.5.4, examples 2.238–2.239."},
+  {"printed_page":112,"pdf_page":57,"verified":true,"notes":"Visually checked page-112.png. Examples 2.240–2.242; in-prose stacked figures represented by Unicode subscripts."},
+  {"printed_page":113,"pdf_page":57,"verified":true,"notes":"Visually checked page-113.png. Example 2.243; ZADACI and exercises 1–7. Printer signature excluded as production furniture."},
+  {"printed_page":114,"pdf_page":58,"verified":true,"notes":"Visually checked page-114.png. Realization 4 instruction and starred explanatory footnote transcribed."},
+  {"printed_page":115,"pdf_page":58,"verified":true,"notes":"Visually checked page-115.png. Section 2.6, examples 2.244–2.246; prose interrupted by 2.244 retained in source order."},
+  {"printed_page":116,"pdf_page":59,"verified":true,"notes":"Visually checked page-116.png. Examples 2.247–2.251. Composer/work labels remain with score visuals, not duplicated in prose."},
+  {"printed_page":117,"pdf_page":59,"verified":true,"notes":"Visually checked page-117.png. Example 2.252, exercises 1–6, realization 4; heading and instruction transcribed."},
+  {"printed_page":118,"pdf_page":60,"verified":true,"notes":"Visually checked page-118.png. Section 2.7; examples 2.253–2.255. Final paragraph continues on page 119 outside assignment; no continuation invented."}
+]

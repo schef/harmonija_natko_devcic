@@ -1,0 +1,1250 @@
+[
+  {
+    "id": "primjer-2-256",
+    "example": "2.256",
+    "kind": "example",
+    "printed_page": 119,
+    "pdf_page": 60,
+    "source_image": "sources/pages/page-119.png",
+    "rect": [
+      205,
+      1394,
+      1731,
+      1824
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-256.png",
+    "review_status": "source_limited",
+    "review_note": "All a–d variants and printed notation are present, but pencil arrows enter through the top/left edges and handwritten Roman numerals run along the bottom; some marks overlap the music. No clean complete rectangular isolation.",
+    "caption": "Primjer 2.256. — tiskana str. 119."
+  },
+  {
+    "id": "primjer-2-257",
+    "example": "2.257",
+    "kind": "example",
+    "printed_page": 119,
+    "pdf_page": 60,
+    "source_image": "sources/pages/page-119.png",
+    "rect": [
+      472,
+      1981,
+      1401,
+      2421
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-257.png",
+    "review_status": "source_limited",
+    "review_note": "Printed number, brackets, and both staves are complete. Coherent handwritten harmonic letters/figures appear above and below, including between printed bracket heights; not isolated scan specks.",
+    "caption": "Primjer 2.257. — tiskana str. 119."
+  },
+  {
+    "id": "primjer-2-258",
+    "example": "2.258",
+    "kind": "example",
+    "printed_page": 120,
+    "pdf_page": 61,
+    "source_image": "sources/pages/page-120.png",
+    "rect": [
+      154,
+      49,
+      1675,
+      525
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-258.png",
+    "review_status": "source_limited",
+    "review_note": "Complete printed system, but handwritten harmonic letters and Roman numerals occupy the upper/lower margins, with writing extending into the brackets' vertical range and through crop boundaries.",
+    "caption": "Primjer 2.258. — tiskana str. 120.",
+    "original_pdf_page": 60
+  },
+  {
+    "id": "primjer-2-259",
+    "example": "2.259",
+    "kind": "example",
+    "printed_page": 120,
+    "pdf_page": 61,
+    "source_image": "sources/pages/page-120.png",
+    "rect": [
+      152,
+      528,
+      1677,
+      981
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-259.png",
+    "review_status": "source_limited",
+    "review_note": "Printed staves and lowest bass stems survive. Handwritten letters/figures above the brackets and beneath the bass are retained and partly cut at the horizontal edges; handwriting intrudes into the complete music's bounding rectangle.",
+    "caption": "Primjer 2.259. — tiskana str. 120.",
+    "original_pdf_page": 60
+  },
+  {
+    "id": "primjer-2-260",
+    "example": "2.260",
+    "kind": "example",
+    "printed_page": 120,
+    "pdf_page": 61,
+    "source_image": "sources/pages/page-120.png",
+    "rect": [
+      325,
+      1402,
+      1483,
+      1859
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-260.png",
+    "review_status": "source_limited",
+    "review_note": "The open-ended printed excerpt is complete as printed. Handwritten tonal labels/Roman numerals remain above and below; their vertical range overlaps printed brackets and descending stems.",
+    "caption": "Primjer 2.260. — tiskana str. 120.",
+    "original_pdf_page": 60
+  },
+  {
+    "id": "primjer-2-261",
+    "example": "2.261",
+    "kind": "example",
+    "printed_page": 120,
+    "pdf_page": 61,
+    "source_image": "sources/pages/page-120.png",
+    "rect": [
+      239,
+      1863,
+      1575,
+      2331
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-261.png",
+    "review_status": "source_limited",
+    "review_note": "Number, open staff ends, and printed ties survive. Pencil harmonic lettering above and below is unmistakable, with foreign fragments at the top edge; complete isolation is not possible by a rectangle.",
+    "caption": "Primjer 2.261. — tiskana str. 120.",
+    "original_pdf_page": 60
+  },
+  {
+    "id": "primjer-2-262",
+    "example": "2.262",
+    "kind": "example",
+    "printed_page": 121,
+    "pdf_page": 61,
+    "source_image": "sources/pages/page-121.png",
+    "rect": [
+      340,
+      562,
+      1620,
+      999
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-262.png",
+    "review_status": "source_limited",
+    "review_note": "Complete printed notation and slurs, but handwritten tonal labels above and harmonic analysis beneath the slurs/stems are retained, partly intersecting the bottom boundary.",
+    "caption": "Primjer 2.262. — tiskana str. 121."
+  },
+  {
+    "id": "primjer-2-263",
+    "example": "2.263",
+    "kind": "example",
+    "printed_page": 121,
+    "pdf_page": 61,
+    "source_image": "sources/pages/page-121.png",
+    "rect": [
+      205,
+      1191,
+      1802,
+      1608
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-263.png",
+    "review_status": "source_limited",
+    "review_note": "Printed example is complete. Large pencil arrows from surrounding prose enter the top/side edges, and handwritten analysis is present above/below the systems. Foreign ink occupies the required notation rectangle.",
+    "caption": "Primjer 2.263. — tiskana str. 121."
+  },
+  {
+    "id": "primjer-2-264",
+    "example": "2.264",
+    "kind": "example",
+    "printed_page": 121,
+    "pdf_page": 61,
+    "source_image": "sources/pages/page-121.png",
+    "rect": [
+      299,
+      1610,
+      1584,
+      2005
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-264.png",
+    "review_status": "source_limited",
+    "review_note": "Both printed staves, brackets, and ties survive, but a pencil arrow is cut at the left edge; handwritten harmonic marks also occur between staves and below the bass. Removing only outer writing would not make it clean.",
+    "caption": "Primjer 2.264. — tiskana str. 121."
+  },
+  {
+    "id": "primjer-2-265",
+    "example": "2.265",
+    "kind": "example",
+    "printed_page": 121,
+    "pdf_page": 61,
+    "source_image": "sources/pages/page-121.png",
+    "rect": [
+      209,
+      2010,
+      1738,
+      2381
+    ],
+    "image": "images/02-dijatonika-b/recrops/primjer-2-265.png",
+    "review_status": "pending_recrop_review",
+    "review_note": "A partial handwritten 3 belonging below example 2.264 remains at the top edge. Source-tested top=2010 removes it while retaining the highest/rightmost bracket (ink begins at y=2014), all notes, number, lowest beams, and genuine margins. The small disconnected cluster under the first bracket was enlarged and is scan flecking, not lettering. Do not use top=2015: that clips the rightmost bracket.",
+    "caption": "Primjer 2.265. — tiskana str. 121.",
+    "original_image": "images/02-dijatonika-b/primjer-2-265.png",
+    "original_rect": [
+      209,
+      2007,
+      1738,
+      2381
+    ]
+  },
+  {
+    "id": "primjer-2-266",
+    "example": "2.266",
+    "kind": "example",
+    "printed_page": 122,
+    "pdf_page": 62,
+    "source_image": "sources/pages/page-122.png",
+    "rect": [
+      156,
+      624,
+      1691,
+      1282
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-266.png",
+    "review_status": "source_limited",
+    "review_note": "Bach attribution and all three staves survive. A coherent handwritten star/check-like mark remains below the last bass note; it begins at y=1235 while required lower beams elsewhere extend through y=1241. A horizontal trim would clip music, and its x-position lies inside the required system width.",
+    "caption": "Primjer 2.266. — tiskana str. 122.",
+    "original_pdf_page": 61
+  },
+  {
+    "id": "primjer-2-267",
+    "example": "2.267",
+    "kind": "example",
+    "printed_page": 122,
+    "pdf_page": 62,
+    "source_image": "sources/pages/page-122.png",
+    "rect": [
+      153,
+      1566,
+      1700,
+      2413
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-267.png",
+    "review_status": "source_limited",
+    "review_note": "Mozart attribution and both continuation systems are complete; page number excluded. Enlarged inter-system source inspection shows coherent pencil analysis/strokes immediately below the first bass staff on the left and right. These internal marks cannot be excluded by recropping the complete two-system example.",
+    "caption": "Primjer 2.267. — tiskana str. 122.",
+    "original_pdf_page": 61
+  },
+  {
+    "id": "primjer-2-268",
+    "example": "2.268",
+    "kind": "example",
+    "printed_page": 123,
+    "pdf_page": 62,
+    "source_image": "sources/pages/page-123.png",
+    "rect": [
+      206,
+      123,
+      1735,
+      551
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-268.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, complete Beethoven attribution, brackets, long slurs/ties, both staves, and lowest stems match the source. All four edges have genuine clear margins without foreign lettering or adjacent content.",
+    "caption": "Primjer 2.268. — tiskana str. 123."
+  },
+  {
+    "id": "primjer-2-269",
+    "example": "2.269",
+    "kind": "example",
+    "printed_page": 123,
+    "pdf_page": 62,
+    "source_image": "sources/pages/page-123.png",
+    "rect": [
+      198,
+      745,
+      1731,
+      1162
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-269.png",
+    "review_status": "source_limited",
+    "review_note": "Chopin attribution and all printed notation are complete. A dotted diagonal foreign source line crosses the left margin near the number and exits below the bass staff at the bottom edge. This is a coherent line, not a letter or isolated dust specks; a complete rectangle cannot exclude its internal path.",
+    "caption": "Primjer 2.269. — tiskana str. 123."
+  },
+  {
+    "id": "primjer-2-270",
+    "example": "2.270",
+    "kind": "example",
+    "printed_page": 123,
+    "pdf_page": 62,
+    "source_image": "sources/pages/page-123.png",
+    "rect": [
+      200,
+      1362,
+      1731,
+      1778
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-270.png",
+    "review_status": "independent_pass",
+    "review_note": "Wagner attribution, number, brackets, long slurs, accidentals, full staff ends, and low stems are intact. Four inspected edges are clean with genuine whitespace; isolated source flecks are not lettering.",
+    "caption": "Primjer 2.270. — tiskana str. 123."
+  },
+  {
+    "id": "primjer-2-271",
+    "example": "2.271",
+    "kind": "example",
+    "printed_page": 124,
+    "pdf_page": 63,
+    "source_image": "sources/pages/page-124.png",
+    "rect": [
+      337,
+      1372,
+      1433,
+      1709
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-271.png",
+    "review_status": "source_limited",
+    "review_note": "Both variants and every printed stacked figure survive. Pencil arrows begin inside the staff/figure area and lead to handwritten labels below; handwriting is also cut at the bottom/right margins. It cannot be removed with a complete rectangular crop.",
+    "caption": "Primjer 2.271. — tiskana str. 124.",
+    "original_pdf_page": 62
+  },
+  {
+    "id": "primjer-2-272",
+    "example": "2.272",
+    "kind": "example",
+    "printed_page": 124,
+    "pdf_page": 63,
+    "source_image": "sources/pages/page-124.png",
+    "rect": [
+      156,
+      1987,
+      733,
+      2384
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-272.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, upper accidental, both staff ends/final barlines, connecting lines, and complete 6 and 9/7 figures survive. Four edges are clean with genuine source margins; no page number or neighbouring example.",
+    "caption": "Primjer 2.272. — tiskana str. 124.",
+    "original_pdf_page": 62
+  },
+  {
+    "id": "primjer-2-273",
+    "example": "2.273",
+    "kind": "example",
+    "printed_page": 124,
+    "pdf_page": 63,
+    "source_image": "sources/pages/page-124.png",
+    "rect": [
+      822,
+      1944,
+      1690,
+      2412
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-273.png",
+    "review_status": "source_limited",
+    "review_note": "Variants a/b and lowest 9/5/3 and 9/7/5 figures are complete. A long pencil arrow enters from the top-left and runs onto the staff; handwritten tonal labels/arrows above both variants remain. Embedded ink prevents a clean rectangle.",
+    "caption": "Primjer 2.273. — tiskana str. 124.",
+    "original_pdf_page": 62
+  },
+  {
+    "id": "primjer-2-274",
+    "example": "2.274",
+    "kind": "example",
+    "printed_page": 125,
+    "pdf_page": 63,
+    "source_image": "sources/pages/page-125.png",
+    "rect": [
+      320,
+      549,
+      1492,
+      752
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-274.png",
+    "review_status": "independent_pass",
+    "review_note": "All a/b/c labels, both NE markings, number, stems, and staff ends/final barlines are intact. All four genuine white margins exclude prose and unrelated pencil arrows elsewhere on the page.",
+    "caption": "Primjer 2.274. — tiskana str. 125."
+  },
+  {
+    "id": "primjer-2-275",
+    "example": "2.275",
+    "kind": "example",
+    "printed_page": 125,
+    "pdf_page": 63,
+    "source_image": "sources/pages/page-125.png",
+    "rect": [
+      395,
+      1853,
+      1379,
+      2165
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-275.png",
+    "review_status": "source_limited",
+    "review_note": "All a/b/c variants, bracketed nines, and lowest printed 14/6/5, 12/4/3, 10/2 figures survive. Handwritten arithmetic and small analysis marks occupy the spaces beside/between those printed figures and the staff; these are coherent numbers, not dust.",
+    "caption": "Primjer 2.275. — tiskana str. 125."
+  },
+  {
+    "id": "primjer-2-276",
+    "example": "2.276",
+    "kind": "example",
+    "printed_page": 126,
+    "pdf_page": 64,
+    "source_image": "sources/pages/page-126.png",
+    "rect": [
+      164,
+      81,
+      1691,
+      563
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-276.png",
+    "review_status": "source_limited",
+    "review_note": "All a–e variants and printed stacked figures are complete. Handwritten G9/C labels, a cross, Roman numerals, added figures, and curved pencil marks are present inside the staff/figure rectangle and at horizontal boundaries.",
+    "caption": "Primjer 2.276. — tiskana str. 126.",
+    "original_pdf_page": 63
+  },
+  {
+    "id": "primjer-2-277",
+    "example": "2.277",
+    "kind": "example",
+    "printed_page": 126,
+    "pdf_page": 64,
+    "source_image": "sources/pages/page-126.png",
+    "rect": [
+      162,
+      565,
+      1689,
+      1416
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-277.png",
+    "review_status": "source_limited",
+    "review_note": "Both systems, variants a–e, and all lowest figures survive. A curved pencil line remains beside top label a), and a coherent dotted diagonal foreign source line exits the lower-right edge. Their vertical ranges overlap required labels/figures; trimming margins alone cannot isolate the full example.",
+    "caption": "Primjer 2.277. — tiskana str. 126.",
+    "original_pdf_page": 63
+  },
+  {
+    "id": "primjer-2-278",
+    "example": "2.278",
+    "kind": "example",
+    "printed_page": 126,
+    "pdf_page": 64,
+    "source_image": "sources/pages/page-126.png",
+    "rect": [
+      154,
+      1431,
+      1683,
+      2241
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-278.png",
+    "review_status": "source_limited",
+    "review_note": "Both systems, variants a–d, NE, and lowest 10/6/2 are present. Bottom edge includes the top fragment of the following paragraph's dotted j; enlarged source inspection confirms lettering, not dust. A dotted diagonal foreign line also enters the top-right margin within the required a–c label/staff range. No completely clean rectangular replacement certified.",
+    "caption": "Primjer 2.278. — tiskana str. 126.",
+    "original_pdf_page": 63
+  },
+  {
+    "id": "primjer-2-279",
+    "example": "2.279",
+    "kind": "example",
+    "printed_page": 127,
+    "pdf_page": 64,
+    "source_image": "sources/pages/page-127.png",
+    "rect": [
+      213,
+      122,
+      1742,
+      565
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-279.png",
+    "review_status": "independent_pass",
+    "review_note": "All a–d variants, number, full staves/barlines, and complete lowest figures including 14/6/5 and 6/6/4 survive. Four clean genuine margins; surrounding prose and page-edge marks excluded.",
+    "caption": "Primjer 2.279. — tiskana str. 127."
+  },
+  {
+    "id": "primjer-2-280",
+    "example": "2.280",
+    "kind": "example",
+    "printed_page": 127,
+    "pdf_page": 64,
+    "source_image": "sources/pages/page-127.png",
+    "rect": [
+      380,
+      806,
+      1476,
+      1299
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-280.png",
+    "review_status": "source_limited",
+    "review_note": "Both printed variants, NE, brackets, staff ends, and figures survive. Handwritten tonal labels, a circle around NE, a circled printed figure, and a diagonal foreign source line inside the right staff area remain; no isolated complete rectangle.",
+    "caption": "Primjer 2.280. — tiskana str. 127."
+  },
+  {
+    "id": "primjer-2-281",
+    "example": "2.281",
+    "kind": "example",
+    "printed_page": 127,
+    "pdf_page": 64,
+    "source_image": "sources/pages/page-127.png",
+    "rect": [
+      205,
+      1717,
+      1742,
+      2235
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-281.png",
+    "review_status": "source_limited",
+    "review_note": "Full Beethoven attribution, notation, footnote markers, and printed lower analytical lines are present. Pencil harmonic labels/numbers/arrows above the staff occupy the same vertical range as the attribution and high notes; foreign diagonal line remnants also remain at the bottom.",
+    "caption": "Primjer 2.281. — tiskana str. 127."
+  },
+  {
+    "id": "primjer-2-282",
+    "example": "2.282",
+    "kind": "example",
+    "printed_page": 128,
+    "pdf_page": 65,
+    "source_image": "sources/pages/page-128.png",
+    "rect": [
+      153,
+      112,
+      1692,
+      593
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-282.png",
+    "review_status": "source_limited",
+    "review_note": "Haydn attribution, complete notation, and printed C:V9/7 survive. Handwritten chord letters, a curved arrow over a chord, and pencil analysis below remain inside the complete attribution-to-figures rectangle.",
+    "caption": "Primjer 2.282. — tiskana str. 128.",
+    "original_pdf_page": 64
+  },
+  {
+    "id": "primjer-2-283",
+    "example": "2.283",
+    "kind": "example",
+    "printed_page": 128,
+    "pdf_page": 65,
+    "source_image": "sources/pages/page-128.png",
+    "rect": [
+      342,
+      616,
+      1506,
+      1034
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-283.png",
+    "review_status": "source_limited",
+    "review_note": "Mozart attribution, number, staff ends, and printed F:V10/2 I6 are complete. Handwritten chord letters immediately above the notes and Roman numerals below remain; the upper writing lies below the required attribution and cannot be excluded with a rectangle.",
+    "caption": "Primjer 2.283. — tiskana str. 128.",
+    "original_pdf_page": 64
+  },
+  {
+    "id": "primjer-2-284",
+    "example": "2.284",
+    "kind": "example",
+    "printed_page": 128,
+    "pdf_page": 65,
+    "source_image": "sources/pages/page-128.png",
+    "rect": [
+      140,
+      1040,
+      1693,
+      1971
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-284.png",
+    "review_status": "source_limited",
+    "review_note": "Both Grieg attributions, variants a/b, continuation, all printed figures, and footnote marker survive. Handwritten harmonic lettering above variant a, numerals between systems, and pencil circles/arrows within the continuation remain; a check-like foreign mark is also cut at the bottom.",
+    "caption": "Primjer 2.284. — tiskana str. 128.",
+    "original_pdf_page": 64
+  },
+  {
+    "id": "primjer-2-285",
+    "example": "2.285",
+    "kind": "example",
+    "printed_page": 129,
+    "pdf_page": 65,
+    "source_image": "sources/pages/page-129.png",
+    "rect": [
+      545,
+      26,
+      1420,
+      397
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-285.png",
+    "review_status": "source_limited",
+    "review_note": "Both variants and complete printed note/tie content survive. Numerous coherent handwritten letters and stacked figures above/below, plus a pencil connector between upper notes, lie inside the required notation rectangle.",
+    "caption": "Primjer 2.285. — tiskana str. 129."
+  },
+  {
+    "id": "primjer-2-286",
+    "example": "2.286",
+    "kind": "example",
+    "printed_page": 129,
+    "pdf_page": 65,
+    "source_image": "sources/pages/page-129.png",
+    "rect": [
+      210,
+      1171,
+      1736,
+      1674
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-286.png",
+    "review_status": "source_limited",
+    "review_note": "All a–d variants, low stems, and complete stacked figures survive. Pencil labels/circles/arrows above and within the staves remain; the bottom also catches handwriting above the following example. A simple outer trim would not remove the internal marks.",
+    "caption": "Primjer 2.286. — tiskana str. 129."
+  },
+  {
+    "id": "primjer-2-287",
+    "example": "2.287",
+    "kind": "example",
+    "printed_page": 129,
+    "pdf_page": 65,
+    "source_image": "sources/pages/page-129.png",
+    "rect": [
+      206,
+      1677,
+      1734,
+      2141
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-287.png",
+    "review_status": "source_limited",
+    "review_note": "All a–d variants and printed notation are present. The top cuts through handwritten analysis, while a circled handwritten 2–3, pencil arrows inside the staves, and coherent handwritten figures below the bass remain. No clean rectangular isolation.",
+    "caption": "Primjer 2.287. — tiskana str. 129."
+  },
+  {
+    "id": "zadatak-2-130-1",
+    "example": "Zadatak 1",
+    "kind": "exercise",
+    "printed_page": 130,
+    "pdf_page": 66,
+    "source_image": "sources/pages/page-130.png",
+    "rect": [
+      179,
+      249,
+      1691,
+      456
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-130-1.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise number, bass clef/key/time, staff ends, final barline, tie, and every stacked/chromatic figure including the lowest 3 are complete. Four edges have genuine clean margins without heading or next exercise.",
+    "caption": "Zadatak 1. — tiskana str. 130.",
+    "original_pdf_page": 65
+  },
+  {
+    "id": "zadatak-2-130-2",
+    "example": "Zadatak 2",
+    "kind": "exercise",
+    "printed_page": 130,
+    "pdf_page": 66,
+    "source_image": "sources/pages/page-130.png",
+    "rect": [
+      173,
+      458,
+      1693,
+      646
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-130-2.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, key/time, elevated rest, tie, staff ends, and all bass figures including the lowest 5 are intact. All four edges inspected clean; tight top margin is genuine and does not clip the rest or admit exercise 1.",
+    "caption": "Zadatak 2. — tiskana str. 130.",
+    "original_pdf_page": 65
+  },
+  {
+    "id": "zadatak-2-130-3",
+    "example": "Zadatak 3",
+    "kind": "exercise",
+    "printed_page": 130,
+    "pdf_page": 66,
+    "source_image": "sources/pages/page-130.png",
+    "rect": [
+      177,
+      648,
+      1693,
+      844
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-130-3.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, high opening notes, complete staff ends/barline, lowest figures, naturals/sharps, and horizontal figure lines survive. All four genuine margins are clean and neighbouring exercise 4 is excluded.",
+    "caption": "Zadatak 3. — tiskana str. 130.",
+    "original_pdf_page": 65
+  },
+  {
+    "id": "zadatak-2-130-4",
+    "example": "Zadatak 4",
+    "kind": "exercise",
+    "printed_page": 130,
+    "pdf_page": 66,
+    "source_image": "sources/pages/page-130.png",
+    "rect": [
+      177,
+      845,
+      1693,
+      1041
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-130-4.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, clef/key/time, complete notes/staff/barline, stacked figures and their lowest 2/horizontal line are intact. All four edges clean with source whitespace and no exercise-5 fragments.",
+    "caption": "Zadatak 4. — tiskana str. 130.",
+    "original_pdf_page": 65
+  },
+  {
+    "id": "zadatak-2-130-5",
+    "example": "Zadatak 5",
+    "kind": "exercise",
+    "printed_page": 130,
+    "pdf_page": 66,
+    "source_image": "sources/pages/page-130.png",
+    "rect": [
+      171,
+      1049,
+      1693,
+      1230
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-130-5.png",
+    "review_status": "source_limited",
+    "review_note": "Exercise 5's notation and low figures are retained, but its bottom edge contains exercise 6's long slur. Enlarged authoritative source shows exercise 5's lowest x-like figure at the left and lowest 3 at the right touching that slur. No horizontal or full rectangular separation preserves all figures while excluding the foreign slur; not handwriting or dust.",
+    "caption": "Zadatak 5. — tiskana str. 130.",
+    "original_pdf_page": 65
+  },
+  {
+    "id": "zadatak-2-130-6",
+    "example": "Zadatak 6",
+    "kind": "exercise",
+    "printed_page": 130,
+    "pdf_page": 66,
+    "source_image": "sources/pages/page-130.png",
+    "rect": [
+      177,
+      1224,
+      1697,
+      1376
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-130-6.png",
+    "review_status": "source_limited",
+    "review_note": "Number, melody, key/time, low notes, staff ends/barline survive, but the top cuts exercise 6's long slur and retains foreign exercise-5 figure fragments. Enlarged source confirms the lowest x-like figure and right-hand 3 of exercise 5 physically meet this slur. Lowering the edge loses the required slur; raising it admits more exercise-5 figures. No safe isolated rectangle.",
+    "caption": "Zadatak 6. — tiskana str. 130.",
+    "original_pdf_page": 65
+  },
+  {
+    "id": "zadatak-2-130-7",
+    "example": "Zadatak 7",
+    "kind": "exercise",
+    "printed_page": 130,
+    "pdf_page": 66,
+    "source_image": "sources/pages/page-130.png",
+    "rect": [
+      181,
+      1392,
+      1695,
+      1559
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-130-7.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, opening ledger note, full long slur, all notes/stems, staff ends, and final barline survive. Four clean source margins isolate the exercise without any neighbouring figures.",
+    "caption": "Zadatak 7. — tiskana str. 130.",
+    "original_pdf_page": 65
+  },
+  {
+    "id": "zadatak-2-130-8",
+    "example": "Zadatak 8",
+    "kind": "exercise",
+    "printed_page": 130,
+    "pdf_page": 66,
+    "source_image": "sources/pages/page-130.png",
+    "rect": [
+      179,
+      1584,
+      1695,
+      1746
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-130-8.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, time signature, both full slurs, ledger note, low stems, full staff ends and final barline are retained. Four edges clean with genuine whitespace; no exercises 7/9 fragments.",
+    "caption": "Zadatak 8. — tiskana str. 130.",
+    "original_pdf_page": 65
+  },
+  {
+    "id": "zadatak-2-130-9",
+    "example": "Zadatak 9",
+    "kind": "exercise",
+    "printed_page": 130,
+    "pdf_page": 66,
+    "source_image": "sources/pages/page-130.png",
+    "rect": [
+      171,
+      1772,
+      1695,
+      2130
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-130-9.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, both systems, complete slurs, high ledger note, low stems/notes, staff beginnings and ends, and final barline survive. All four edges and inter-system region are clean; no exercise 10.",
+    "caption": "Zadatak 9. — tiskana str. 130.",
+    "original_pdf_page": 65
+  },
+  {
+    "id": "zadatak-2-130-10",
+    "example": "Zadatak 10",
+    "kind": "exercise",
+    "printed_page": 130,
+    "pdf_page": 66,
+    "source_image": "sources/pages/page-130.png",
+    "rect": [
+      168,
+      2150,
+      1698,
+      2326
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-130-10.png",
+    "review_status": "independent_pass",
+    "review_note": "Two-digit number, clef/key/time, full long slur, all accidentals/beams/stems, full staff ends and final barline are intact. Four clean genuine margins exclude the page number.",
+    "caption": "Zadatak 10. — tiskana str. 130.",
+    "original_pdf_page": 65
+  },
+  {
+    "id": "realizacija-2-131-6",
+    "example": "Realizacija zadatka 6",
+    "kind": "realization",
+    "printed_page": 131,
+    "pdf_page": 66,
+    "source_image": "sources/pages/page-131.png",
+    "rect": [
+      203,
+      121,
+      1751,
+      699
+    ],
+    "image": "images/02-dijatonika-b/realizacija-2-131-6.png",
+    "review_status": "independent_pass",
+    "review_note": "Full title Realizacija zadatka 6., both staves, long slur, ledger notes, lowest descending bass stems, complete left/right staff ends and final barline survive. Four genuine margins clean; next section heading excluded.",
+    "caption": "Realizacija zadatka 6. — tiskana str. 131."
+  },
+  {
+    "id": "primjer-2-288",
+    "example": "2.288",
+    "kind": "example",
+    "printed_page": 131,
+    "pdf_page": 66,
+    "source_image": "sources/pages/page-131.png",
+    "rect": [
+      203,
+      1437,
+      1746,
+      1924
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-288.png",
+    "review_status": "source_limited",
+    "review_note": "All a–d variants, staves, time signature, low stems, and stacked figures are complete. Coherent handwritten analysis remains above notes, between staves, and beneath printed figures, including foreign edge fragments; it cannot all be excluded by an outer rectangle.",
+    "caption": "Primjer 2.288. — tiskana str. 131."
+  },
+  {
+    "id": "primjer-2-289",
+    "example": "2.289",
+    "kind": "example",
+    "printed_page": 132,
+    "pdf_page": 67,
+    "source_image": "sources/pages/page-132.png",
+    "rect": [
+      170,
+      136,
+      1700,
+      562
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-289.png",
+    "review_status": "independent_pass",
+    "review_note": "Variants a–c, complete number/staff ends, ties, low bass stems, and every printed figure including the 9/7-to-8 sign are retained. Four clean genuine margins with no next-example labels or handwritten analysis.",
+    "caption": "Primjer 2.289. — tiskana str. 132.",
+    "original_pdf_page": 66
+  },
+  {
+    "id": "primjer-2-290",
+    "example": "2.290",
+    "kind": "example",
+    "printed_page": 132,
+    "pdf_page": 67,
+    "source_image": "sources/pages/page-132.png",
+    "rect": [
+      168,
+      564,
+      1702,
+      1001
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-290.png",
+    "review_status": "independent_pass",
+    "review_note": "Variants a/b, v.7 bracket annotation, complete staves and final barline, and all lowest stacked figures/horizontal lines survive. Four edges clean with original source whitespace; no prose or adjacent example.",
+    "caption": "Primjer 2.290. — tiskana str. 132.",
+    "original_pdf_page": 66
+  },
+  {
+    "id": "primjer-2-291",
+    "example": "2.291",
+    "kind": "example",
+    "printed_page": 132,
+    "pdf_page": 67,
+    "source_image": "sources/pages/page-132.png",
+    "rect": [
+      392,
+      1442,
+      1485,
+      1738
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-291.png",
+    "review_status": "source_limited",
+    "review_note": "Number, all seven printed chord columns, Roman-numeral labels and staff ends survive. Handwritten Dm9/F9-like tonal labels lie above the chords within the vertical range of the highest printed chords/clef; no clean complete rectangle can exclude them.",
+    "caption": "Primjer 2.291. — tiskana str. 132.",
+    "original_pdf_page": 66
+  },
+  {
+    "id": "primjer-2-292",
+    "example": "2.292",
+    "kind": "example",
+    "printed_page": 132,
+    "pdf_page": 67,
+    "source_image": "sources/pages/page-132.png",
+    "rect": [
+      173,
+      1898,
+      1704,
+      2394
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-292.png",
+    "review_status": "source_limited",
+    "review_note": "Both variants, sequence brackets/ties, complete staves, low stems, and all printed stacked figures survive. Faint but coherent pencil harmonic numerals/letters are retained beneath the bass, with additional foreign marks above; these are not merely isolated scan flecks.",
+    "caption": "Primjer 2.292. — tiskana str. 132.",
+    "original_pdf_page": 66
+  },
+  {
+    "id": "primjer-2-293",
+    "example": "2.293",
+    "kind": "example",
+    "printed_page": 133,
+    "pdf_page": 67,
+    "source_image": "sources/pages/page-133.png",
+    "rect": [
+      232,
+      353,
+      1760,
+      852
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-293.png",
+    "review_status": "source_limited",
+    "review_note": "Variants a–c, complete staves/ties and lowest stacked figures survive. Handwritten C/F9/G7 labels and analysis inside/below the staves remain. Required musical content surrounds this foreign writing, preventing clean rectangular isolation.",
+    "caption": "Primjer 2.293. — tiskana str. 133."
+  },
+  {
+    "id": "primjer-2-294",
+    "example": "2.294",
+    "kind": "example",
+    "printed_page": 133,
+    "pdf_page": 67,
+    "source_image": "sources/pages/page-133.png",
+    "rect": [
+      472,
+      856,
+      1516,
+      1326
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-294.png",
+    "review_status": "source_limited",
+    "review_note": "All a–c variants, full staves/barlines, accidentals, and lowest bass figures survive. Handwritten harmonic labels above variant a and pencil circles around notes/accidentals within variants b/c remain; top-edge pencil fragments also visible.",
+    "caption": "Primjer 2.294. — tiskana str. 133."
+  },
+  {
+    "id": "primjer-2-295",
+    "example": "2.295",
+    "kind": "example",
+    "printed_page": 133,
+    "pdf_page": 67,
+    "source_image": "sources/pages/page-133.png",
+    "rect": [
+      228,
+      1777,
+      1105,
+      2012
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-295.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, key signature, all seven chord columns with accidentals/ledger lines, complete staff ends, and Roman-numeral stacked labels survive. Four genuine clean margins exclude adjacent example 2.296; tiny disconnected scan flecks are not lettering.",
+    "caption": "Primjer 2.295. — tiskana str. 133."
+  },
+  {
+    "id": "primjer-2-296",
+    "example": "2.296",
+    "kind": "example",
+    "printed_page": 133,
+    "pdf_page": 67,
+    "source_image": "sources/pages/page-133.png",
+    "rect": [
+      1111,
+      1739,
+      1748,
+      2169
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-296.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, both full staves, upper/lower ties, ledger notes, accidentals, and complete 9/7/5 and 10/horizontal-line figures survive. Four edges clean with genuine whitespace; neighbouring 2.295 and prose excluded.",
+    "caption": "Primjer 2.296. — tiskana str. 133."
+  },
+  {
+    "id": "primjer-2-297",
+    "example": "2.297",
+    "kind": "example",
+    "printed_page": 134,
+    "pdf_page": 68,
+    "source_image": "sources/pages/page-134.png",
+    "rect": [
+      162,
+      458,
+      879,
+      693
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-297.png",
+    "review_status": "source_limited",
+    "review_note": "Printed number, all chord columns and Roman-numeral figures are complete. Enlarged source confirms a coherent pencil circle around/below the final VII figure, not dust. Its side strokes share the printed label's vertical range, so a bottom trim cannot remove the whole circle while preserving the label.",
+    "caption": "Primjer 2.297. — tiskana str. 134.",
+    "original_pdf_page": 67
+  },
+  {
+    "id": "primjer-2-298",
+    "example": "2.298",
+    "kind": "example",
+    "printed_page": 134,
+    "pdf_page": 68,
+    "source_image": "sources/pages/page-134.png",
+    "rect": [
+      885,
+      368,
+      1683,
+      804
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-298.png",
+    "review_status": "source_limited",
+    "review_note": "Both staves, ties, number, staff ends and all stacked figures survive. Pencil arrows from prose enter the top edge and continue onto the bass notes; handwritten figure/connector marks are also inside the upper staff area. No isolated complete rectangle.",
+    "caption": "Primjer 2.298. — tiskana str. 134.",
+    "original_pdf_page": 67
+  },
+  {
+    "id": "primjer-2-299",
+    "example": "2.299",
+    "kind": "example",
+    "printed_page": 134,
+    "pdf_page": 68,
+    "source_image": "sources/pages/page-134.png",
+    "rect": [
+      485,
+      841,
+      1362,
+      1339
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-299.png",
+    "review_status": "source_limited",
+    "review_note": "Printed staves, ties, accidentals and complete lowest figures survive. A pencil arrow/analysis overlaps the upper-staff notes, and faint coherent handwritten analysis remains below the figures. Trimming the lower writing alone cannot remove the internal arrow.",
+    "caption": "Primjer 2.299. — tiskana str. 134.",
+    "original_pdf_page": 67
+  },
+  {
+    "id": "primjer-2-300",
+    "example": "2.300",
+    "kind": "example",
+    "printed_page": 134,
+    "pdf_page": 68,
+    "source_image": "sources/pages/page-134.png",
+    "rect": [
+      357,
+      1626,
+      1454,
+      1886
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-300.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, all chord columns/ledger lines, full staff ends/final barline, and both complete c: and (Es:) analytical rows survive. Four edges clean with genuine whitespace, no prose or neighbouring example.",
+    "caption": "Primjer 2.300. — tiskana str. 134.",
+    "original_pdf_page": 67
+  },
+  {
+    "id": "primjer-2-301",
+    "example": "2.301",
+    "kind": "example",
+    "printed_page": 134,
+    "pdf_page": 68,
+    "source_image": "sources/pages/page-134.png",
+    "rect": [
+      257,
+      1904,
+      1542,
+      2359
+    ],
+    "image": "images/02-dijatonika-b/primjer-2-301.png",
+    "review_status": "source_limited",
+    "review_note": "Printed number, all sequence brackets, ties, staves/ends, and lowest figures survive. Handwritten added figures above brackets and pencil analysis between staves are coherent foreign marks inside the required music rectangle; lower edge also catches pencil remnants.",
+    "caption": "Primjer 2.301. — tiskana str. 134.",
+    "original_pdf_page": 67
+  },
+  {
+    "id": "zadatak-2-135-1",
+    "example": "Zadatak 1",
+    "kind": "exercise",
+    "printed_page": 135,
+    "pdf_page": 68,
+    "source_image": "sources/pages/page-135.png",
+    "rect": [
+      218,
+      276,
+      1739,
+      464
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-135-1.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, clef/time, notes/stems, complete staff ends/barline, and all figures including lowest 3/line survive. Four clean genuine margins; heading and next exercise excluded.",
+    "caption": "Zadatak 1. — tiskana str. 135."
+  },
+  {
+    "id": "zadatak-2-135-2",
+    "example": "Zadatak 2",
+    "kind": "exercise",
+    "printed_page": 135,
+    "pdf_page": 68,
+    "source_image": "sources/pages/page-135.png",
+    "rect": [
+      216,
+      468,
+      1741,
+      682
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-135-2.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, key/time, high ledger note, full staff ends/barline, all stacked figures and lowest natural signs survive. Four edges clean with source whitespace and no adjacent exercise.",
+    "caption": "Zadatak 2. — tiskana str. 135."
+  },
+  {
+    "id": "zadatak-2-135-3",
+    "example": "Zadatak 3",
+    "kind": "exercise",
+    "printed_page": 135,
+    "pdf_page": 68,
+    "source_image": "sources/pages/page-135.png",
+    "rect": [
+      216,
+      700,
+      1741,
+      896
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-135-3.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, key/time, beams/rests, staff ends/final barline, accidentals, all lowest figures and horizontal lines survive. Four genuine clean margins exclude exercise 4.",
+    "caption": "Zadatak 3. — tiskana str. 135."
+  },
+  {
+    "id": "zadatak-2-135-4",
+    "example": "Zadatak 4",
+    "kind": "exercise",
+    "printed_page": 135,
+    "pdf_page": 68,
+    "source_image": "sources/pages/page-135.png",
+    "rect": [
+      216,
+      900,
+      1741,
+      1298
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-135-4.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, both continuation systems, all clefs/key signatures, high ledger notes and lowest notes/stems, full staff ends/barline and all stacked figures survive. Four clean genuine margins and clean inter-system space.",
+    "caption": "Zadatak 4. — tiskana str. 135."
+  },
+  {
+    "id": "zadatak-2-135-5",
+    "example": "Zadatak 5",
+    "kind": "exercise",
+    "printed_page": 135,
+    "pdf_page": 68,
+    "source_image": "sources/pages/page-135.png",
+    "rect": [
+      216,
+      1309,
+      1739,
+      1484
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-135-5.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, key/time, both complete slurs, high dotted ledger note, lower stems and final dotted note, full staff ends/final barline survive. Four margins are genuine and clean; no exercise-4 figures.",
+    "caption": "Zadatak 5. — tiskana str. 135."
+  },
+  {
+    "id": "zadatak-2-135-6",
+    "example": "Zadatak 6",
+    "kind": "exercise",
+    "printed_page": 135,
+    "pdf_page": 68,
+    "source_image": "sources/pages/page-135.png",
+    "rect": [
+      218,
+      1540,
+      1737,
+      1707
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-135-6.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, key/time, full long slur and internal ties, all low stems, final high dotted note, staff ends and final barline survive. Four clean genuine margins, no neighbouring notation.",
+    "caption": "Zadatak 6. — tiskana str. 135."
+  },
+  {
+    "id": "zadatak-2-135-7",
+    "example": "Zadatak 7",
+    "kind": "exercise",
+    "printed_page": 135,
+    "pdf_page": 68,
+    "source_image": "sources/pages/page-135.png",
+    "rect": [
+      218,
+      1724,
+      1741,
+      1904
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-135-7.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, full key/time signatures, complete slur, accidentals, lowest beamed stems, staff ends and final barline survive. All four edges clean with genuine whitespace, no exercise-8 slur fragment.",
+    "caption": "Zadatak 7. — tiskana str. 135."
+  },
+  {
+    "id": "zadatak-2-135-8",
+    "example": "Zadatak 8",
+    "kind": "exercise",
+    "printed_page": 135,
+    "pdf_page": 68,
+    "source_image": "sources/pages/page-135.png",
+    "rect": [
+      216,
+      1914,
+      1737,
+      2079
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-135-8.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, clef/key/time, both full slurs, all notes and low stems, complete staff ends/barline survive. Four edges clean with original whitespace; exercises 7/9 excluded.",
+    "caption": "Zadatak 8. — tiskana str. 135."
+  },
+  {
+    "id": "zadatak-2-135-9",
+    "example": "Zadatak 9",
+    "kind": "exercise",
+    "printed_page": 135,
+    "pdf_page": 68,
+    "source_image": "sources/pages/page-135.png",
+    "rect": [
+      216,
+      2109,
+      1735,
+      2287
+    ],
+    "image": "images/02-dijatonika-b/zadatak-2-135-9.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, full key/time signatures, long slur and all internal ties, lowest beamed groups/final ledger note, staff ends and final barline survive. Four genuine clean margins; isolated upper fleck is not lettering and page number is excluded.",
+    "caption": "Zadatak 9. — tiskana str. 135."
+  },
+  {
+    "id": "realizacija-2-136-9",
+    "example": "Realizacija zadatka 9",
+    "kind": "realization",
+    "printed_page": 136,
+    "pdf_page": 69,
+    "source_image": "sources/pages/page-136.png",
+    "rect": [
+      149,
+      126,
+      1695,
+      645
+    ],
+    "image": "images/02-dijatonika-b/realizacija-2-136-9.png",
+    "review_status": "independent_pass",
+    "review_note": "Full title Realizacija zadatka 9., both staves, all brackets/slur/ties/ledger lines, footnote marker, lowest final bass beams, staff ends and barline survive. Four clean genuine margins exclude footnote prose and page number; isolated upper fleck is not lettering.",
+    "caption": "Realizacija zadatka 9. — tiskana str. 136.",
+    "original_pdf_page": 68
+  }
+]

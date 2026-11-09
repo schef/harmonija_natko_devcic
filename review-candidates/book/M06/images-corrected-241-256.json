@@ -1,0 +1,1044 @@
+[
+  {
+    "id": "M06-p241-slot-01",
+    "example": "3.140",
+    "kind": "musical_example",
+    "printed_page": 241,
+    "pdf_page": 121,
+    "source_image": "sources/pages/page-241.png",
+    "rect": [
+      221,
+      319,
+      1731,
+      874
+    ],
+    "image": "images/03-kromatika-b/primjer-3-140.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, variants a–e, both systems and all low figured-bass stacks are intact. All four edges clean with genuine whitespace; no prose or footer.",
+    "caption": "Primjer 3.140. Tiskana str. 241.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p241-slot-02",
+    "example": "3.141",
+    "kind": "musical_example",
+    "printed_page": 241,
+    "pdf_page": 121,
+    "source_image": "sources/pages/page-241.png",
+    "rect": [
+      220,
+      913,
+      1730,
+      1450
+    ],
+    "image": "images/03-kromatika-b/primjer-3-141.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, a–e, lower reduction and all figures retained. Left/right staff ends and top/bottom annotation extents intact; four clean margins.",
+    "caption": "Primjer 3.141. Tiskana str. 241.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p241-slot-03",
+    "example": "3.142",
+    "kind": "musical_example",
+    "printed_page": 241,
+    "pdf_page": 121,
+    "source_image": "sources/pages/page-241.png",
+    "rect": [
+      228,
+      2182,
+      1733,
+      2379
+    ],
+    "image": "images/03-kromatika-b/primjer-3-142.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, complete arrows, accidentals, itd. labels and final barline retained. Four edges clean; lower accidentals have genuine narrow whitespace; imprint/page number excluded.",
+    "caption": "Primjer 3.142. Tiskana str. 241.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p242-slot-04",
+    "example": "3.143",
+    "kind": "musical_example",
+    "printed_page": 242,
+    "pdf_page": 122,
+    "source_image": "sources/pages/page-242.png",
+    "rect": [
+      201,
+      1045,
+      1690,
+      1395
+    ],
+    "image": "images/03-kromatika-b/primjer-3-143.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, full staff and four explanatory table rows belong to this example and are retained. Four edges clean; surrounding body paragraphs excluded.",
+    "caption": "Primjer 3.143. Tiskana str. 242.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p242-slot-05",
+    "example": "3.144 a–b",
+    "kind": "musical_example",
+    "printed_page": 242,
+    "pdf_page": 122,
+    "source_image": "sources/pages/page-242.png",
+    "rect": [
+      172,
+      1951,
+      1691,
+      2406
+    ],
+    "image": "images/03-kromatika-b/primjer-3-144-ab.png",
+    "review_status": "independent_pass",
+    "review_note": "Printed number, a/b, tonal labels, both staves, low Es/e figures and final barline intact. Four genuine clean margins; page 242 excluded.",
+    "caption": "Primjer 3.144 a–b. Tiskana str. 242.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p243-slot-06",
+    "example": "3.144 c",
+    "kind": "musical_example",
+    "printed_page": 243,
+    "pdf_page": 122,
+    "source_image": "sources/pages/page-243.png",
+    "rect": [
+      550,
+      119,
+      1428,
+      559
+    ],
+    "image": "images/03-kromatika-b/primjer-3-144-c.png",
+    "review_status": "independent_pass",
+    "review_note": "Actual continuation label c) C–gis, complete grand staff and gis figures retained with clean four-edge margins. Printed 3.144 occurs only on preceding part; no repeated number required or synthesized.",
+    "caption": "Primjer 3.144 c. Tiskana str. 243.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p243-slot-07",
+    "example": "3.145",
+    "kind": "musical_example",
+    "printed_page": 243,
+    "pdf_page": 122,
+    "source_image": "sources/pages/page-243.png",
+    "rect": [
+      225,
+      597,
+      1741,
+      1078
+    ],
+    "image": "images/03-kromatika-b/primjer-3-145.png",
+    "review_status": "independent_pass",
+    "review_note": "Chopin/Mazurka attribution, number, full excerpt including open right staff ends, slurs and A/As analysis retained. Four edges clean; prose below excluded.",
+    "caption": "Primjer 3.145. Tiskana str. 243.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p243-slot-08",
+    "example": "3.146",
+    "kind": "musical_example",
+    "printed_page": 243,
+    "pdf_page": 122,
+    "source_image": "sources/pages/page-243.png",
+    "rect": [
+      424,
+      1261,
+      1528,
+      1678
+    ],
+    "image": "images/03-kromatika-b/primjer-3-146.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, c–E, both staves, low ledger note and E: VII2 V7 analysis intact. Four clean source margins, no neighboring attribution or prose.",
+    "caption": "Primjer 3.146. Tiskana str. 243.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p243-slot-09",
+    "example": "3.147",
+    "kind": "musical_example",
+    "printed_page": 243,
+    "pdf_page": 122,
+    "source_image": "sources/pages/page-243.png",
+    "rect": [
+      220,
+      1693,
+      1741,
+      2166
+    ],
+    "image": "images/03-kromatika-b/primjer-3-147.png",
+    "review_status": "source_limited",
+    "review_note": "Bottom edge contains a partial unrelated marginal/handwritten stroke near source x1479–1482. Lowest intended figure reaches y2152 inclusive, while the foreign stroke also begins at y2152 at light decoded-pixel levels. Tested bottom=2153 still retains foreign pixels; bottom=2152 loses figure pixels. Full staff ends prevent trimming the right edge enough to exclude the stroke. No safe complete rectangular source crop established.",
+    "caption": "Primjer 3.147. Tiskana str. 243.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p244-slot-10",
+    "example": "3.148",
+    "kind": "musical_example",
+    "printed_page": 244,
+    "pdf_page": 123,
+    "source_image": "sources/pages/page-244.png",
+    "rect": [
+      161,
+      1334,
+      1498,
+      1769
+    ],
+    "image": "images/03-kromatika-b/primjer-3-148.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, a/b and C–h/c–Fis, complete open staff ends, parentheses and lowest figures retained. Four clean genuine margins.",
+    "caption": "Primjer 3.148. Tiskana str. 244.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p244-slot-11",
+    "example": "3.149",
+    "kind": "musical_example",
+    "printed_page": 244,
+    "pdf_page": 123,
+    "source_image": "sources/pages/page-244.png",
+    "rect": [
+      165,
+      1803,
+      1689,
+      2212
+    ],
+    "image": "images/03-kromatika-b/primjer-3-149.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, full Beethoven attribution, excerpt and printed footnote cue retained. Four edges clean; prose footnote and page number are outside crop.",
+    "caption": "Primjer 3.149. Tiskana str. 244.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p245-slot-12",
+    "example": "3.150",
+    "kind": "musical_example",
+    "printed_page": 245,
+    "pdf_page": 123,
+    "source_image": "sources/pages/page-245.png",
+    "rect": [
+      227,
+      134,
+      1749,
+      519
+    ],
+    "image": "images/03-kromatika-b/primjer-3-150.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, a/b/c, NE, tonal labels, all staves, low sharp ledger note and barline retained. Four clean margins; heading below excluded.",
+    "caption": "Primjer 3.150. Tiskana str. 245.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p245-slot-13",
+    "example": "3.151",
+    "kind": "musical_example",
+    "printed_page": 245,
+    "pdf_page": 123,
+    "source_image": "sources/pages/page-245.png",
+    "rect": [
+      481,
+      767,
+      1456,
+      1226
+    ],
+    "image": "images/03-kromatika-b/primjer-3-151.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, C–b, full grand staff, all low figures including (D/IV) intact. Four edges clean with genuine whitespace.",
+    "caption": "Primjer 3.151. Tiskana str. 245.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p245-slot-14",
+    "example": "3.152",
+    "kind": "musical_example",
+    "printed_page": 245,
+    "pdf_page": 123,
+    "source_image": "sources/pages/page-245.png",
+    "rect": [
+      225,
+      1237,
+      1744,
+      2168
+    ],
+    "image": "images/03-kromatika-b/primjer-3-152.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, full Beethoven attribution, both systems, ornament, slurs, analysis and lowest II6 retained. Four clean margins; body text excluded.",
+    "caption": "Primjer 3.152. Tiskana str. 245.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p246-slot-15",
+    "example": "3.153",
+    "kind": "musical_example",
+    "printed_page": 246,
+    "pdf_page": 124,
+    "source_image": "sources/pages/page-246.png",
+    "rect": [
+      562,
+      118,
+      1304,
+      573
+    ],
+    "image": "images/03-kromatika-b/recrops/primjer-3-153.png",
+    "review_status": "pending_recrop_review",
+    "review_note": "Bottom margin under (DD) is only two native pixels despite feasible clean source space. Tested bottom=573 retains full (DD), provides seven pixels below its dark extent, and stops above the next paragraph. Other three edges and notation are intact.",
+    "caption": "Primjer 3.153. Tiskana str. 246.",
+    "cleanup_required": false,
+    "original_image": "images/03-kromatika-b/primjer-3-153.png",
+    "original_rect": [
+      562,
+      118,
+      1304,
+      568
+    ]
+  },
+  {
+    "id": "M06-p246-slot-16",
+    "example": "3.154",
+    "kind": "musical_example",
+    "printed_page": 246,
+    "pdf_page": 124,
+    "source_image": "sources/pages/page-246.png",
+    "rect": [
+      170,
+      1100,
+      1685,
+      1401
+    ],
+    "image": "images/03-kromatika-b/primjer-3-154.png",
+    "review_status": "source_limited",
+    "review_note": "Bottom edge includes the clipped top of 3.155's d) label. Intended low sharp-2 stack extends through source y1393; the next d) begins at y1394, leaving no clean horizontal whitespace. Bottom=1394 would leave intended ink touching the edge; any larger rectangle admits foreign label ink. All complete rectangular extents overlap for purposes of a clean margin. Cannot approve unavoidable foreign ink or clipping as cleanup.",
+    "caption": "Primjer 3.154. Tiskana str. 246.",
+    "cleanup_required": true
+  },
+  {
+    "id": "M06-p246-slot-17",
+    "example": "3.155",
+    "kind": "musical_example",
+    "printed_page": 246,
+    "pdf_page": 124,
+    "source_image": "sources/pages/page-246.png",
+    "rect": [
+      170,
+      1387,
+      1686,
+      1718
+    ],
+    "image": "images/03-kromatika-b/primjer-3-155.png",
+    "review_status": "source_limited",
+    "review_note": "Top edge includes clipped low figures from 3.154. The complete d) label begins at source y1394 immediately after 3.154's lowest stack ends at y1393. Raising top to1394 removes the preceding figures but leaves the label touching the edge; lowering it admits foreign figures. No clean-margin source rectangle preserves every printed label. Other notation is not a substitute for this failed top edge.",
+    "caption": "Primjer 3.155. Tiskana str. 246.",
+    "cleanup_required": true
+  },
+  {
+    "id": "M06-p246-slot-18",
+    "example": "3.156",
+    "kind": "musical_example",
+    "printed_page": 246,
+    "pdf_page": 124,
+    "source_image": "sources/pages/page-246.png",
+    "rect": [
+      158,
+      1995,
+      1686,
+      2409
+    ],
+    "image": "images/03-kromatika-b/primjer-3-156.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, a/b, c–e and NE, full grand staff, barline and lowest e: V figures retained. Four clean margins; page246 excluded.",
+    "caption": "Primjer 3.156. Tiskana str. 246.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p247-slot-19",
+    "example": "ZADACI 2",
+    "kind": "exercise",
+    "printed_page": 247,
+    "pdf_page": 124,
+    "source_image": "sources/pages/page-247.png",
+    "rect": [
+      234,
+      325,
+      1754,
+      541
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-7-2-2.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise2 identifier, complete bass staff, final barline and all figured-bass stacks intact. Four edges clean; exercise1 prose and exercise3 excluded.",
+    "caption": "ZADACI 2. Tiskana str. 247.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p247-slot-20",
+    "example": "ZADACI 3",
+    "kind": "exercise",
+    "printed_page": 247,
+    "pdf_page": 124,
+    "source_image": "sources/pages/page-247.png",
+    "rect": [
+      231,
+      562,
+      1754,
+      1018
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-7-2-3.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise3 identifier, both bass systems and lowest figures retained. Staff ends and all four clean source margins intact; no adjacent exercise.",
+    "caption": "ZADACI 3. Tiskana str. 247.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p247-slot-21",
+    "example": "ZADACI 4",
+    "kind": "exercise",
+    "printed_page": 247,
+    "pdf_page": 124,
+    "source_image": "sources/pages/page-247.png",
+    "rect": [
+      233,
+      1028,
+      1753,
+      1339
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-7-2-4.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise4 identifier, both systems, accidental tops and lowest stems intact. Four clean margins and complete final barline.",
+    "caption": "ZADACI 4. Tiskana str. 247.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p247-slot-22",
+    "example": "ZADACI 5",
+    "kind": "exercise",
+    "printed_page": 247,
+    "pdf_page": 124,
+    "source_image": "sources/pages/page-247.png",
+    "rect": [
+      238,
+      1373,
+      1752,
+      1695
+    ],
+    "image": "images/03-kromatika-b/recrops/zadatak-3-7-2-5.png",
+    "review_status": "pending_recrop_review",
+    "review_note": "Lowest sharp in second system touches bottom edge: zero dark-pixel margin. Tested bottom=1695 retains its full lower stroke and ten pixels of genuine whitespace without admitting exercise6's slur. Other three edges intact.",
+    "caption": "ZADACI 5. Tiskana str. 247.",
+    "cleanup_required": false,
+    "original_image": "images/03-kromatika-b/zadatak-3-7-2-5.png",
+    "original_rect": [
+      238,
+      1373,
+      1752,
+      1685
+    ]
+  },
+  {
+    "id": "M06-p247-slot-23",
+    "example": "ZADACI 6",
+    "kind": "exercise",
+    "printed_page": 247,
+    "pdf_page": 124,
+    "source_image": "sources/pages/page-247.png",
+    "rect": [
+      239,
+      1706,
+      1752,
+      2037
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-7-2-6.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise6 identifier, both systems, complete long slurs, final low note and staff ends intact. All four edges clean with source whitespace.",
+    "caption": "ZADACI 6. Tiskana str. 247.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p247-slot-24",
+    "example": "ZADACI 7",
+    "kind": "exercise",
+    "printed_page": 247,
+    "pdf_page": 124,
+    "source_image": "sources/pages/page-247.png",
+    "rect": [
+      239,
+      2053,
+      1753,
+      2413
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-7-2-7.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise7 identifier, both systems, slurs, chromatic notes and final low note retained. Four edges clean, with narrow genuine bottom space; page247 excluded.",
+    "caption": "ZADACI 7. Tiskana str. 247.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p248-slot-25",
+    "example": "ZADACI 8",
+    "kind": "exercise",
+    "printed_page": 248,
+    "pdf_page": 125,
+    "source_image": "sources/pages/page-248.png",
+    "rect": [
+      205,
+      127,
+      1706,
+      292
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-7-2-8.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise8 identifier, complete single treble system, upper slur and final barline intact. Four clean source margins.",
+    "caption": "ZADACI 8. Tiskana str. 248.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p248-slot-26",
+    "example": "ZADACI 9",
+    "kind": "exercise",
+    "printed_page": 248,
+    "pdf_page": 125,
+    "source_image": "sources/pages/page-248.png",
+    "rect": [
+      194,
+      306,
+      1706,
+      673
+    ],
+    "image": "images/03-kromatika-b/recrops/zadatak-3-7-2-9.png",
+    "review_status": "pending_recrop_review",
+    "review_note": "A small unrelated source mark intersects the top edge near source x1464. Tested top=306 removes it without clipping the highest slur. Both complete systems, number9, lower accidentals and all other edges remain intact.",
+    "caption": "ZADACI 9. Tiskana str. 248.",
+    "cleanup_required": false,
+    "original_image": "images/03-kromatika-b/zadatak-3-7-2-9.png",
+    "original_rect": [
+      194,
+      300,
+      1706,
+      673
+    ]
+  },
+  {
+    "id": "M06-p248-slot-27",
+    "example": "Realizacija zadatka 7.",
+    "kind": "realization",
+    "printed_page": 248,
+    "pdf_page": 125,
+    "source_image": "sources/pages/page-248.png",
+    "rect": [
+      148,
+      684,
+      1704,
+      2141
+    ],
+    "image": "images/03-kromatika-b/realizacija-3-7-2-7.png",
+    "review_status": "independent_pass",
+    "review_note": "Printed realization title, all three grand-staff systems, cue marks, parenthetical notes and lowest final note/stems retained. Four clean margins; footnote prose excluded.",
+    "caption": "Realizacija zadatka 7. Tiskana str. 248.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p249-slot-28",
+    "example": "3.157",
+    "kind": "musical_example",
+    "printed_page": 249,
+    "pdf_page": 125,
+    "source_image": "sources/pages/page-249.png",
+    "rect": [
+      229,
+      1127,
+      1744,
+      1418
+    ],
+    "image": "images/03-kromatika-b/primjer-3-157.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, a–d, parenthetical notes and every low figured-bass stack intact. All four staff/content extents have clean genuine margins.",
+    "caption": "Primjer 3.157. Tiskana str. 249.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p249-slot-29",
+    "example": "3.158",
+    "kind": "musical_example",
+    "printed_page": 249,
+    "pdf_page": 125,
+    "source_image": "sources/pages/page-249.png",
+    "rect": [
+      230,
+      1434,
+      1744,
+      1705
+    ],
+    "image": "images/03-kromatika-b/primjer-3-158.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, a–d, complete enharmonic notation and low figures retained. Four clean margins; neither neighboring example admitted.",
+    "caption": "Primjer 3.158. Tiskana str. 249.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p249-slot-30",
+    "example": "3.159",
+    "kind": "musical_example",
+    "printed_page": 249,
+    "pdf_page": 125,
+    "source_image": "sources/pages/page-249.png",
+    "rect": [
+      233,
+      1734,
+      1745,
+      1933
+    ],
+    "image": "images/03-kromatika-b/primjer-3-159.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, full arrows, itd. labels, accidentals and final barline retained. All four edges clean, lower sharp complete with genuine whitespace.",
+    "caption": "Primjer 3.159. Tiskana str. 249.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p250-slot-31",
+    "example": "3.160",
+    "kind": "musical_example",
+    "printed_page": 250,
+    "pdf_page": 126,
+    "source_image": "sources/pages/page-250.png",
+    "rect": [
+      488,
+      153,
+      1341,
+      366
+    ],
+    "image": "images/03-kromatika-b/primjer-3-160.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, a/b, full staff and all low V/III figures including natural retained. Four clean source margins; body text excluded.",
+    "caption": "Primjer 3.160. Tiskana str. 250.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p250-slot-32",
+    "example": "3.161",
+    "kind": "musical_example",
+    "printed_page": 250,
+    "pdf_page": 126,
+    "source_image": "sources/pages/page-250.png",
+    "rect": [
+      260,
+      845,
+      1594,
+      1137
+    ],
+    "image": "images/03-kromatika-b/primjer-3-161.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, full staff and three explanatory table rows retained. Four edges clean; no surrounding prose; actual staff and table extents intact.",
+    "caption": "Primjer 3.161. Tiskana str. 250.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p250-slot-33",
+    "example": "3.162",
+    "kind": "musical_example",
+    "printed_page": 250,
+    "pdf_page": 126,
+    "source_image": "sources/pages/page-250.png",
+    "rect": [
+      170,
+      1459,
+      861,
+      1909
+    ],
+    "image": "images/03-kromatika-b/primjer-3-162.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, E–A, full grand staff, right continuation mark and low analysis retained. Four clean source margins; adjacent 3.163 excluded.",
+    "caption": "Primjer 3.162. Tiskana str. 250.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p250-slot-34",
+    "example": "3.163",
+    "kind": "musical_example",
+    "printed_page": 250,
+    "pdf_page": 126,
+    "source_image": "sources/pages/page-250.png",
+    "rect": [
+      864,
+      1460,
+      1691,
+      1907
+    ],
+    "image": "images/03-kromatika-b/primjer-3-163.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, a–C, full grand staff and a/C analysis intact. All four margins clean; 3.162 and attribution below excluded.",
+    "caption": "Primjer 3.163. Tiskana str. 250.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p250-slot-35",
+    "example": "3.164",
+    "kind": "musical_example",
+    "printed_page": 250,
+    "pdf_page": 126,
+    "source_image": "sources/pages/page-250.png",
+    "rect": [
+      171,
+      1913,
+      1691,
+      2440
+    ],
+    "image": "images/03-kromatika-b/recrops/primjer-3-164.png",
+    "review_status": "pending_recrop_review",
+    "review_note": "Lowest natural in A: natural-VI reaches the bottom edge with zero whitespace. Tested bottom=2440 restores six pixels below that glyph and retains all staff ends/attribution without admitting printed page250 below.",
+    "caption": "Primjer 3.164. Tiskana str. 250.",
+    "cleanup_required": false,
+    "original_image": "images/03-kromatika-b/primjer-3-164.png",
+    "original_rect": [
+      171,
+      1913,
+      1691,
+      2434
+    ]
+  },
+  {
+    "id": "M06-p251-slot-36",
+    "example": "3.165",
+    "kind": "musical_example",
+    "printed_page": 251,
+    "pdf_page": 126,
+    "source_image": "sources/pages/page-251.png",
+    "rect": [
+      368,
+      265,
+      1588,
+      718
+    ],
+    "image": "images/03-kromatika-b/primjer-3-165.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, F–Cis, complete staves, low ledger stems and F/Cis figures intact. Four clean genuine margins; next attribution excluded.",
+    "caption": "Primjer 3.165. Tiskana str. 251.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p251-slot-37",
+    "example": "3.166",
+    "kind": "musical_example",
+    "printed_page": 251,
+    "pdf_page": 126,
+    "source_image": "sources/pages/page-251.png",
+    "rect": [
+      280,
+      721,
+      1669,
+      1245
+    ],
+    "image": "images/03-kromatika-b/primjer-3-166.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, Chopin Mazurka attribution, all staves, bass slurs and lowest f figures retained. Four clean source margins; prose excluded.",
+    "caption": "Primjer 3.166. Tiskana str. 251.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p251-slot-38",
+    "example": "3.167",
+    "kind": "musical_example",
+    "printed_page": 251,
+    "pdf_page": 126,
+    "source_image": "sources/pages/page-251.png",
+    "rect": [
+      441,
+      1494,
+      1491,
+      1946
+    ],
+    "image": "images/03-kromatika-b/primjer-3-167.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, C–Cis, full grand staff and both analysis lines retained. Four edges clean, no neighboring attribution or prose.",
+    "caption": "Primjer 3.167. Tiskana str. 251.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p251-slot-39",
+    "example": "3.168",
+    "kind": "musical_example",
+    "printed_page": 251,
+    "pdf_page": 126,
+    "source_image": "sources/pages/page-251.png",
+    "rect": [
+      211,
+      1957,
+      1755,
+      2427
+    ],
+    "image": "images/03-kromatika-b/primjer-3-168.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, complete Smetana attribution, staves, ties and lowest analysis accidental retained. Four edges clean. Bottom has only two dark-pixel rows of whitespace at the natural separation immediately above page251; expansion would admit page-number ink.",
+    "caption": "Primjer 3.168. Tiskana str. 251.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p252-slot-40",
+    "example": "3.169",
+    "kind": "musical_example",
+    "printed_page": 252,
+    "pdf_page": 127,
+    "source_image": "sources/pages/page-252.png",
+    "rect": [
+      136,
+      156,
+      1685,
+      1115
+    ],
+    "image": "images/03-kromatika-b/primjer-3-169.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, complete Chopin Preludij attribution, both systems, long analysis lines, slurs and lowest figures retained. Four clean source margins; prose below excluded.",
+    "caption": "Primjer 3.169. Tiskana str. 252.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p252-slot-41",
+    "example": "3.170 a–c",
+    "kind": "musical_example",
+    "printed_page": 252,
+    "pdf_page": 127,
+    "source_image": "sources/pages/page-252.png",
+    "rect": [
+      158,
+      1869,
+      1686,
+      2372
+    ],
+    "image": "images/03-kromatika-b/primjer-3-170-abc.png",
+    "review_status": "independent_pass",
+    "review_note": "Printed number, a/b/c, a–Des, full grand staff and all three analysis rows retained. Four clean margins; page252 excluded.",
+    "caption": "Primjer 3.170 a–c. Tiskana str. 252.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p253-slot-42",
+    "example": "3.170 d",
+    "kind": "musical_example",
+    "printed_page": 253,
+    "pdf_page": 127,
+    "source_image": "sources/pages/page-253.png",
+    "rect": [
+      583,
+      126,
+      1350,
+      583
+    ],
+    "image": "images/03-kromatika-b/primjer-3-170-d.png",
+    "review_status": "independent_pass",
+    "review_note": "Actual d) a–Des continuation label, full grand staff, continuation mark and lowest Des figures retained. Four clean margins. Number3.170 is printed on first part only; later-part number is neither expected nor fabricated.",
+    "caption": "Primjer 3.170 d. Tiskana str. 253.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p253-slot-43",
+    "example": "ZADACI 2",
+    "kind": "exercise",
+    "printed_page": 253,
+    "pdf_page": 127,
+    "source_image": "sources/pages/page-253.png",
+    "rect": [
+      218,
+      1343,
+      1738,
+      1813
+    ],
+    "image": "images/03-kromatika-b/recrops/zadatak-3-7-3-2.png",
+    "review_status": "pending_recrop_review",
+    "review_note": "Tiny foreign prose-tail/mark remains on the top boundary near source x947. Tested top=1343 excludes it and leaves genuine whitespace above the highest accidental, preserving identifier2, both systems, all figures and staff ends.",
+    "caption": "ZADACI 2. Tiskana str. 253.",
+    "cleanup_required": false,
+    "original_image": "images/03-kromatika-b/zadatak-3-7-3-2.png",
+    "original_rect": [
+      218,
+      1336,
+      1738,
+      1813
+    ]
+  },
+  {
+    "id": "M06-p253-slot-44",
+    "example": "ZADACI 3",
+    "kind": "exercise",
+    "printed_page": 253,
+    "pdf_page": 127,
+    "source_image": "sources/pages/page-253.png",
+    "rect": [
+      220,
+      1814,
+      1738,
+      2055
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-7-3-3.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise3 identifier, highest accidental/beam, complete staff and all low figures retained. Four clean margins; neighboring exercises excluded.",
+    "caption": "ZADACI 3. Tiskana str. 253.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p253-slot-45",
+    "example": "ZADACI 4",
+    "kind": "exercise",
+    "printed_page": 253,
+    "pdf_page": 127,
+    "source_image": "sources/pages/page-253.png",
+    "rect": [
+      221,
+      2066,
+      1738,
+      2194
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-7-3-4.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise4 identifier, complete bass staff, upper note extents, lower stems and final barline retained. Four clean genuine margins.",
+    "caption": "ZADACI 4. Tiskana str. 253.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p253-slot-46",
+    "example": "ZADACI 5",
+    "kind": "exercise",
+    "printed_page": 253,
+    "pdf_page": 127,
+    "source_image": "sources/pages/page-253.png",
+    "rect": [
+      220,
+      2222,
+      1739,
+      2399
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-7-3-5.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise5 identifier, full treble staff, slurs, accidentals and barline retained. Four clean source margins; page253 excluded.",
+    "caption": "ZADACI 5. Tiskana str. 253.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p254-slot-47",
+    "example": "ZADACI 6",
+    "kind": "exercise",
+    "printed_page": 254,
+    "pdf_page": 128,
+    "source_image": "sources/pages/page-254.png",
+    "rect": [
+      155,
+      110,
+      1671,
+      260
+    ],
+    "image": "images/03-kromatika-b/zadatak-3-7-3-6.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise6 identifier, full treble staff, complete upper slurs and final barline retained. Four clean margins, realization title excluded.",
+    "caption": "ZADACI 6. Tiskana str. 254.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p254-slot-48",
+    "example": "Realizacija zadatka 5.",
+    "kind": "realization",
+    "printed_page": 254,
+    "pdf_page": 128,
+    "source_image": "sources/pages/page-254.png",
+    "rect": [
+      134,
+      271,
+      1686,
+      1161
+    ],
+    "image": "images/03-kromatika-b/realizacija-3-7-3-5.png",
+    "review_status": "independent_pass",
+    "review_note": "Printed title, both grand-staff systems, slurs, parenthetical alterations and lowest bass stem retained. Four clean source margins; section heading below excluded.",
+    "caption": "Realizacija zadatka 5. Tiskana str. 254.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p255-slot-49",
+    "example": "3.171",
+    "kind": "musical_example",
+    "printed_page": 255,
+    "pdf_page": 128,
+    "source_image": "sources/pages/page-255.png",
+    "rect": [
+      203,
+      79,
+      1731,
+      453
+    ],
+    "image": "images/03-kromatika-b/primjer-3-171.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, complete grand staff, all upper arcs and low stems retained. Four clean genuine margins; next example excluded.",
+    "caption": "Primjer 3.171. Tiskana str. 255.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p255-slot-50",
+    "example": "3.172",
+    "kind": "musical_example",
+    "printed_page": 255,
+    "pdf_page": 128,
+    "source_image": "sources/pages/page-255.png",
+    "rect": [
+      189,
+      469,
+      1731,
+      1262
+    ],
+    "image": "images/03-kromatika-b/primjer-3-172.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, both complete systems, highest long slurs, low stems/ties and final barline retained. Four clean margins; 3.173 attribution excluded.",
+    "caption": "Primjer 3.172. Tiskana str. 255.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p255-slot-51",
+    "example": "3.173",
+    "kind": "musical_example",
+    "printed_page": 255,
+    "pdf_page": 128,
+    "source_image": "sources/pages/page-255.png",
+    "rect": [
+      204,
+      1270,
+      1731,
+      1789
+    ],
+    "image": "images/03-kromatika-b/primjer-3-173.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, complete Chopin h-mol/op58 attribution, ornaments, clef changes, all low ledger notes and lowest long slur retained. Four edges clean; two-pixel lower whitespace is the natural separation above 3.174, not a clipped slur.",
+    "caption": "Primjer 3.173. Tiskana str. 255.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p255-slot-52",
+    "example": "3.174",
+    "kind": "musical_example",
+    "printed_page": 255,
+    "pdf_page": 128,
+    "source_image": "sources/pages/page-255.png",
+    "rect": [
+      204,
+      1789,
+      1729,
+      2325
+    ],
+    "image": "images/03-kromatika-b/primjer-3-174.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, complete two-line Chopin b-mol/op35 attribution, high arc/note, triplets, footnote cue and every lowest bass note/slur retained. All four edges inspected: one-pixel top/bottom whitespace is tight natural separation from 3.173 and the prose footnote, with no neighboring notation/prose pixels. No artificial margin.",
+    "caption": "Primjer 3.174. Tiskana str. 255.",
+    "cleanup_required": false
+  },
+  {
+    "id": "M06-p256-slot-53",
+    "example": "3.175",
+    "kind": "musical_example",
+    "printed_page": 256,
+    "pdf_page": 129,
+    "source_image": "sources/pages/page-256.png",
+    "rect": [
+      148,
+      460,
+      1688,
+      1733
+    ],
+    "image": "images/03-kromatika-b/primjer-3-175.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, boxed C–Des–C title, all three systems, tonal labels, slurs, low stems and final barline retained. Four clean source margins; body paragraph, ZADACI and page256 excluded.",
+    "caption": "Primjer 3.175. Tiskana str. 256.",
+    "cleanup_required": false
+  }
+]

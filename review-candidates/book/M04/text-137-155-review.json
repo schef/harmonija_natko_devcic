@@ -1,0 +1,29 @@
+{
+  "scope": "Text-only; printed pages 137–155; PDF pages 69–78",
+  "mapping_source": "sources/index.json",
+  "source": "Visually opened every sources/pages/page-NNN.png; scan authoritative, no embedded PDF OCR used.",
+  "pages": [
+    {"printed_page":137,"pdf_page":69,"verified":true,"notes":"Heading and all three paragraphs verified; visual slots 2.302–2.303."},
+    {"printed_page":138,"pdf_page":70,"verified":true,"notes":"All paragraphs verified; visual 2.304 a–b; final paragraph continues on 139."},
+    {"printed_page":139,"pdf_page":70,"verified":true,"notes":"Continuation and all paragraphs verified; source spelling kvantakordi retained; visual 2.305 a–b continues as c on 140."},
+    {"printed_page":140,"pdf_page":71,"verified":true,"notes":"All prose verified; visuals 2.305 c, 2.306, 2.307 a–b."},
+    {"printed_page":141,"pdf_page":71,"verified":true,"notes":"All three paragraphs verified; visuals 2.308–2.310."},
+    {"printed_page":142,"pdf_page":72,"verified":true,"notes":"All prose and subsection heading verified; double dash across source line break retained; visuals 2.311–2.313."},
+    {"printed_page":143,"pdf_page":72,"verified":true,"notes":"All prose verified; predbježno retained as printed; visuals 2.314–2.316."},
+    {"printed_page":144,"pdf_page":73,"verified":true,"notes":"Full paragraph verified; visuals 2.317–2.320."},
+    {"printed_page":145,"pdf_page":73,"verified":true,"notes":"Full paragraph verified; visuals 2.321–2.325; printing signature excluded."},
+    {"printed_page":146,"pdf_page":74,"verified":true,"notes":"Paragraph and ZADACI instruction verified; visuals 2.326–2.328 a–b."},
+    {"printed_page":147,"pdf_page":74,"verified":true,"notes":"Subsection heading and all prose verified; printed kvintom retained; cross-page zajednički joined on 148 with explicit continuation; visuals 2.329 a–b, 2.330–2.331."},
+    {"printed_page":148,"pdf_page":75,"verified":true,"notes":"Continuation verified; visuals 2.332–2.338."},
+    {"printed_page":149,"pdf_page":75,"verified":true,"notes":"Both paragraphs verified; visuals 2.339–2.341."},
+    {"printed_page":150,"pdf_page":76,"verified":true,"notes":"ZADACI, heading and paragraph verified; visuals 2.342–2.346."},
+    {"printed_page":151,"pdf_page":76,"verified":true,"notes":"Full paragraph verified; visuals 2.347–2.351."},
+    {"printed_page":152,"pdf_page":77,"verified":true,"notes":"All prose, ZADACI and heading verified; visuals 2.352–2.354."},
+    {"printed_page":153,"pdf_page":77,"verified":true,"notes":"Final paragraph verified and continues on 154; visuals 2.355–2.363."},
+    {"printed_page":154,"pdf_page":78,"verified":true,"notes":"Continuation and ZADACI verified; visuals 2.364–2.367."},
+    {"printed_page":155,"pdf_page":78,"verified":true,"notes":"Heading and both paragraphs verified; visuals 2.368 a–b, 2.369–2.372."}
+  ],
+  "unreadable_text": [],
+  "image_review": "Not assigned; no images created, edited, extracted or approved. Parent handles extraction and independent image review.",
+  "ready_for_text_integration": true
+}

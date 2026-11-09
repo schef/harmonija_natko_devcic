@@ -1,0 +1,999 @@
+[
+  {
+    "id": "primjer-2-373",
+    "example": "2.373",
+    "kind": "musical_example",
+    "printed_page": 156,
+    "pdf_page": 79,
+    "source_image": "sources/pages/page-156.png",
+    "rect": [
+      344,
+      763,
+      1450,
+      1184
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-373.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, complete grand staff, upper and lower brackets and all fermatas intact; four edges clean with source whitespace.",
+    "caption": "Primjer 2.373. Tiskana str. 156; PDF str. 79."
+  },
+  {
+    "id": "primjer-2-374",
+    "example": "2.374",
+    "kind": "musical_example",
+    "printed_page": 157,
+    "pdf_page": 79,
+    "source_image": "sources/pages/page-157.png",
+    "rect": [
+      239,
+      97,
+      1773,
+      541
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-374.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, a/b titles and both analyses including lowest 6/4 retained; all staff ends and four margins clean.",
+    "caption": "Primjer 2.374 a–b. Tiskana str. 157; PDF str. 79."
+  },
+  {
+    "id": "primjer-2-375",
+    "example": "2.375",
+    "kind": "musical_example",
+    "printed_page": 157,
+    "pdf_page": 79,
+    "source_image": "sources/pages/page-157.png",
+    "rect": [
+      357,
+      557,
+      1639,
+      1011
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-375.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, C(c)-Es(es) title and full lower analysis retained; four edges clean and staff ends complete.",
+    "caption": "Primjer 2.375. Tiskana str. 157; PDF str. 79."
+  },
+  {
+    "id": "primjer-2-376",
+    "example": "2.376",
+    "kind": "musical_example",
+    "printed_page": 157,
+    "pdf_page": 79,
+    "source_image": "sources/pages/page-157.png",
+    "rect": [
+      223,
+      1380,
+      1756,
+      1841
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-376.png",
+    "review_status": "independent_pass",
+    "review_note": "Haydn attribution, number and C:VI/G:II analysis complete. Narrow lower source gap remains clean; no following attribution included.",
+    "caption": "Primjer 2.376 (Haydn: Simfonija br. 94, u G-duru). Tiskana str. 157; PDF str. 79."
+  },
+  {
+    "id": "primjer-2-377",
+    "example": "2.377",
+    "kind": "musical_example",
+    "printed_page": 157,
+    "pdf_page": 79,
+    "source_image": "sources/pages/page-157.png",
+    "rect": [
+      223,
+      1841,
+      1757,
+      2352
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-377.png",
+    "review_status": "independent_pass",
+    "review_note": "Complete Beethoven attribution, number, slurs and lower multi-line analysis retained. Tight top separation is clean; other edges have genuine margins.",
+    "caption": "Primjer 2.377 (Beethoven: Koncert za klavir i orkestar u G-duru, op. 58). Tiskana str. 157; PDF str. 79."
+  },
+  {
+    "id": "primjer-2-378",
+    "example": "2.378",
+    "kind": "musical_example",
+    "printed_page": 158,
+    "pdf_page": 80,
+    "source_image": "sources/pages/page-158.png",
+    "rect": [
+      129,
+      763,
+      1681,
+      1619
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-378.png",
+    "review_status": "source_limited",
+    "review_note": "Bottom edge includes upper border/letter fragments of following boxed C-fis-C title. Lowest bass stems of 378 extend into that same vertical band; a horizontal cut removing the title would clip intended notation. Not scan specks.",
+    "caption": "Primjer 2.378. Tiskana str. 158; PDF str. 80."
+  },
+  {
+    "id": "primjer-2-379",
+    "example": "2.379",
+    "kind": "musical_example",
+    "printed_page": 158,
+    "pdf_page": 80,
+    "source_image": "sources/pages/page-158.png",
+    "rect": [
+      142,
+      1604,
+      1680,
+      2407
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-379.png",
+    "review_status": "source_limited",
+    "review_note": "Top edge contains preceding 378 bass-stem tails to the right of the boxed C-fis-C title. Retaining the entire title and complete full-width notation precludes excluding those tails with one rectangle.",
+    "caption": "Primjer 2.379. Tiskana str. 158; PDF str. 80."
+  },
+  {
+    "id": "primjer-2-380",
+    "example": "2.380",
+    "kind": "musical_example",
+    "printed_page": 159,
+    "pdf_page": 80,
+    "source_image": "sources/pages/page-159.png",
+    "rect": [
+      175,
+      1267,
+      1722,
+      2362
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-380.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, a/b/c, all three systems, tonal labels and lowest analyses complete; all four edges clean.",
+    "caption": "Primjer 2.380 a–c. Tiskana str. 159; PDF str. 80."
+  },
+  {
+    "id": "zadatak-2-9-6-2",
+    "example": "zadatak 2",
+    "kind": "exercise",
+    "printed_page": 160,
+    "pdf_page": 81,
+    "source_image": "sources/pages/page-160.png",
+    "rect": [
+      166,
+      385,
+      1689,
+      582
+    ],
+    "image": "images/02-dijatonika-c/zadatak-2-9-6-2.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise ID 2, whole staff and lowest figured-bass 4/sharp retained; four edges clean.",
+    "caption": "Zadatak 2. Tiskana str. 160; PDF str. 81."
+  },
+  {
+    "id": "zadatak-2-9-6-3",
+    "example": "zadatak 3",
+    "kind": "exercise",
+    "printed_page": 160,
+    "pdf_page": 81,
+    "source_image": "sources/pages/page-160.png",
+    "rect": [
+      165,
+      612,
+      1687,
+      822
+    ],
+    "image": "images/02-dijatonika-c/zadatak-2-9-6-3.png",
+    "review_status": "independent_pass",
+    "review_note": "ID 3, complete staff, final note/dot and all stacked figures retained; four clean source margins.",
+    "caption": "Zadatak 3. Tiskana str. 160; PDF str. 81."
+  },
+  {
+    "id": "zadatak-2-9-6-4",
+    "example": "zadatak 4",
+    "kind": "exercise",
+    "printed_page": 160,
+    "pdf_page": 81,
+    "source_image": "sources/pages/page-160.png",
+    "rect": [
+      161,
+      834,
+      1687,
+      1248
+    ],
+    "image": "images/02-dijatonika-c/zadatak-2-9-6-4.png",
+    "review_status": "independent_pass",
+    "review_note": "ID 4, both staff rows and complete lower figures/accidentals retained; all four edges clean.",
+    "caption": "Zadatak 4. Tiskana str. 160; PDF str. 81."
+  },
+  {
+    "id": "zadatak-2-9-6-5",
+    "example": "zadatak 5",
+    "kind": "exercise",
+    "printed_page": 160,
+    "pdf_page": 81,
+    "source_image": "sources/pages/page-160.png",
+    "rect": [
+      164,
+      1276,
+      1687,
+      1699
+    ],
+    "image": "images/02-dijatonika-c/zadatak-2-9-6-5.png",
+    "review_status": "independent_pass",
+    "review_note": "ID 5, both rows, all figures and lowest accidentals retained with clean genuine margins.",
+    "caption": "Zadatak 5. Tiskana str. 160; PDF str. 81."
+  },
+  {
+    "id": "zadatak-2-9-6-6",
+    "example": "zadatak 6",
+    "kind": "exercise",
+    "printed_page": 160,
+    "pdf_page": 81,
+    "source_image": "sources/pages/page-160.png",
+    "rect": [
+      165,
+      1708,
+      1682,
+      1835
+    ],
+    "image": "images/02-dijatonika-c/zadatak-2-9-6-6.png",
+    "review_status": "independent_pass",
+    "review_note": "ID 6, complete staff/clef/signatures, low note and final barline intact; all edges clean.",
+    "caption": "Zadatak 6. Tiskana str. 160; PDF str. 81."
+  },
+  {
+    "id": "zadatak-2-9-6-7",
+    "example": "zadatak 7",
+    "kind": "exercise",
+    "printed_page": 160,
+    "pdf_page": 81,
+    "source_image": "sources/pages/page-160.png",
+    "rect": [
+      168,
+      1893,
+      1682,
+      2028
+    ],
+    "image": "images/02-dijatonika-c/zadatak-2-9-6-7.png",
+    "review_status": "independent_pass",
+    "review_note": "ID 7, all notation including final low whole note intact; clean four-edge source margins.",
+    "caption": "Zadatak 7. Tiskana str. 160; PDF str. 81."
+  },
+  {
+    "id": "zadatak-2-9-6-8",
+    "example": "zadatak 8",
+    "kind": "exercise",
+    "printed_page": 160,
+    "pdf_page": 81,
+    "source_image": "sources/pages/page-160.png",
+    "rect": [
+      166,
+      2042,
+      1682,
+      2221
+    ],
+    "image": "images/02-dijatonika-c/zadatak-2-9-6-8.png",
+    "review_status": "independent_pass",
+    "review_note": "ID 8, high slurs, signatures, lower clef and staff ends intact. Tiny isolated top speck is source noise, not a foreign character.",
+    "caption": "Zadatak 8. Tiskana str. 160; PDF str. 81."
+  },
+  {
+    "id": "zadatak-2-9-6-9",
+    "example": "zadatak 9",
+    "kind": "exercise",
+    "printed_page": 161,
+    "pdf_page": 81,
+    "source_image": "sources/pages/page-161.png",
+    "rect": [
+      230,
+      152,
+      1747,
+      317
+    ],
+    "image": "images/02-dijatonika-c/zadatak-2-9-6-9.png",
+    "review_status": "independent_pass",
+    "review_note": "ID 9, both long slurs, clef and final barline complete; four edges clean.",
+    "caption": "Zadatak 9. Tiskana str. 161; PDF str. 81."
+  },
+  {
+    "id": "zadatak-2-9-6-10",
+    "example": "zadatak 10",
+    "kind": "exercise",
+    "printed_page": 161,
+    "pdf_page": 81,
+    "source_image": "sources/pages/page-161.png",
+    "rect": [
+      226,
+      327,
+      1746,
+      508
+    ],
+    "image": "images/02-dijatonika-c/zadatak-2-9-6-10.png",
+    "review_status": "independent_pass",
+    "review_note": "ID 10, signatures, complete upper slur and full staff retained; clean source margins.",
+    "caption": "Zadatak 10. Tiskana str. 161; PDF str. 81."
+  },
+  {
+    "id": "zadatak-2-9-6-11",
+    "example": "zadatak 11",
+    "kind": "exercise",
+    "printed_page": 161,
+    "pdf_page": 81,
+    "source_image": "sources/pages/page-161.png",
+    "rect": [
+      227,
+      527,
+      1746,
+      698
+    ],
+    "image": "images/02-dijatonika-c/zadatak-2-9-6-11.png",
+    "review_status": "independent_pass",
+    "review_note": "ID 11, slurs, lower ties and final low whole note retained; all four edges clean.",
+    "caption": "Zadatak 11. Tiskana str. 161; PDF str. 81."
+  },
+  {
+    "id": "zadatak-2-9-6-12",
+    "example": "zadatak 12",
+    "kind": "exercise",
+    "printed_page": 161,
+    "pdf_page": 81,
+    "source_image": "sources/pages/page-161.png",
+    "rect": [
+      226,
+      709,
+      1745,
+      876
+    ],
+    "image": "images/02-dijatonika-c/zadatak-2-9-6-12.png",
+    "review_status": "independent_pass",
+    "review_note": "ID 12, parenthesized accidental, slurs and complete staff retained; following Allegretto excluded and four edges clean.",
+    "caption": "Zadatak 12. Tiskana str. 161; PDF str. 81."
+  },
+  {
+    "id": "zadatak-2-9-6-13",
+    "example": "zadatak 13",
+    "kind": "exercise",
+    "printed_page": 161,
+    "pdf_page": 81,
+    "source_image": "sources/pages/page-161.png",
+    "rect": [
+      222,
+      872,
+      1748,
+      1451
+    ],
+    "image": "images/02-dijatonika-c/recrops/zadatak-2-9-6-13.png",
+    "review_status": "pending_recrop_review",
+    "review_note": "Allegretto has only approximately one source pixel of top whitespace although a clean larger gap is available. Move top from 876 to 872; tested original-source replacement retains the whole title and three rows and excludes preceding clef. Other three edges pass.",
+    "caption": "Zadatak 13 (Allegretto). Tiskana str. 161; PDF str. 81.",
+    "original_image": "images/02-dijatonika-c/zadatak-2-9-6-13.png",
+    "original_rect": [
+      222,
+      876,
+      1748,
+      1451
+    ]
+  },
+  {
+    "id": "zadatak-2-9-6-14",
+    "example": "zadatak 14",
+    "kind": "exercise",
+    "printed_page": 161,
+    "pdf_page": 81,
+    "source_image": "sources/pages/page-161.png",
+    "rect": [
+      220,
+      1474,
+      1746,
+      2219
+    ],
+    "image": "images/02-dijatonika-c/zadatak-2-9-6-14.png",
+    "review_status": "independent_pass",
+    "review_note": "ID 14 and all four staff rows/slurs complete; lowest final note and four genuine margins intact.",
+    "caption": "Zadatak 14. Tiskana str. 161; PDF str. 81."
+  },
+  {
+    "id": "zadatak-2-9-6-15-pocetak",
+    "example": "zadatak 15",
+    "kind": "exercise",
+    "printed_page": 161,
+    "pdf_page": 81,
+    "source_image": "sources/pages/page-161.png",
+    "rect": [
+      214,
+      2225,
+      1746,
+      2398
+    ],
+    "image": "images/02-dijatonika-c/zadatak-2-9-6-15-pocetak.png",
+    "review_status": "independent_pass",
+    "review_note": "ID 15 and complete beginning row retained with slurs; footer and page number excluded. Correctly paired to continuation on 162.",
+    "caption": "Zadatak 15, početak, nastavak na stranici 162. Tiskana str. 161; PDF str. 81."
+  },
+  {
+    "id": "zadatak-2-9-6-15-nastavak",
+    "example": "zadatak 15",
+    "kind": "exercise",
+    "printed_page": 162,
+    "pdf_page": 82,
+    "source_image": "sources/pages/page-162.png",
+    "rect": [
+      172,
+      149,
+      1696,
+      510
+    ],
+    "image": "images/02-dijatonika-c/zadatak-2-9-6-15-nastavak.png",
+    "review_status": "independent_pass",
+    "review_note": "Both continuation rows through final barline intact; four margins clean. No repeated ID printed here; identification supplied by paired beginning on 161.",
+    "caption": "Zadatak 15, nastavak sa stranice 161. Tiskana str. 162; PDF str. 82."
+  },
+  {
+    "id": "zadatak-2-9-6-16",
+    "example": "zadatak 16",
+    "kind": "exercise",
+    "printed_page": 162,
+    "pdf_page": 82,
+    "source_image": "sources/pages/page-162.png",
+    "rect": [
+      172,
+      535,
+      1695,
+      707
+    ],
+    "image": "images/02-dijatonika-c/zadatak-2-9-6-16.png",
+    "review_status": "independent_pass",
+    "review_note": "ID 16, complete slurs, clef and staff ends retained; four edges clean.",
+    "caption": "Zadatak 16. Tiskana str. 162; PDF str. 82."
+  },
+  {
+    "id": "zadatak-2-9-6-17",
+    "example": "zadatak 17",
+    "kind": "exercise",
+    "printed_page": 162,
+    "pdf_page": 82,
+    "source_image": "sources/pages/page-162.png",
+    "rect": [
+      170,
+      709,
+      1696,
+      1087
+    ],
+    "image": "images/02-dijatonika-c/zadatak-2-9-6-17.png",
+    "review_status": "independent_pass",
+    "review_note": "ID 17, both rows, upper slurs and lowest beam retained; chapter heading excluded and four edges clean.",
+    "caption": "Zadatak 17. Tiskana str. 162; PDF str. 82."
+  },
+  {
+    "id": "primjer-2-381",
+    "example": "2.381",
+    "kind": "musical_example",
+    "printed_page": 162,
+    "pdf_page": 82,
+    "source_image": "sources/pages/page-162.png",
+    "rect": [
+      406,
+      2220,
+      1439,
+      2443
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-381.png",
+    "review_status": "source_limited",
+    "review_note": "Handwritten chord names above a/b and handwritten text below a are inside the required example bounds, with partial handwriting at top. Printed bottom 5 is complete, confirmed against doubled source detail. No complete clean rectangle can remove the interleaved handwriting.",
+    "caption": "Primjer 2.381 a–b. Tiskana str. 162; PDF str. 82."
+  },
+  {
+    "id": "primjer-2-382",
+    "example": "2.382",
+    "kind": "musical_example",
+    "printed_page": 163,
+    "pdf_page": 82,
+    "source_image": "sources/pages/page-163.png",
+    "rect": [
+      206,
+      563,
+      1740,
+      1798
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-382.png",
+    "review_status": "source_limited",
+    "review_note": "Extensive handwriting above/between both variants and around lower analyses, including circles/arrows and right-edge writing. These are identifiable pencil annotations, not specks; cannot exclude without losing printed content.",
+    "caption": "Primjer 2.382 a–b. Tiskana str. 163; PDF str. 82."
+  },
+  {
+    "id": "primjer-2-383",
+    "example": "2.383",
+    "kind": "musical_example",
+    "printed_page": 164,
+    "pdf_page": 83,
+    "source_image": "sources/pages/page-164.png",
+    "rect": [
+      169,
+      129,
+      1702,
+      1069
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-383.png",
+    "review_status": "source_limited",
+    "review_note": "Handwritten chord names and analyses interleave a/b and extend into left/top/bottom margins. Printed variants are present but a clean complete rectangle is impossible on this source.",
+    "caption": "Primjer 2.383 a–b. Tiskana str. 164; PDF str. 83."
+  },
+  {
+    "id": "primjer-2-384",
+    "example": "2.384",
+    "kind": "musical_example",
+    "printed_page": 164,
+    "pdf_page": 83,
+    "source_image": "sources/pages/page-164.png",
+    "rect": [
+      271,
+      1404,
+      1615,
+      1906
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-384.png",
+    "review_status": "source_limited",
+    "review_note": "Pencil chord labels above staff and handwritten analyses below overlap the required Es-Fes title and printed lower analysis band. Not removable by a complete rectangular source crop.",
+    "caption": "Primjer 2.384. Tiskana str. 164; PDF str. 83."
+  },
+  {
+    "id": "primjer-2-385",
+    "example": "2.385",
+    "kind": "diagram",
+    "printed_page": 165,
+    "pdf_page": 83,
+    "source_image": "sources/pages/page-165.png",
+    "rect": [
+      210,
+      1068,
+      1729,
+      1434
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-385.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, all six modal labels, every upper/lower bracket and full staff retained; four clean source margins.",
+    "caption": "Primjer 2.385. Tiskana str. 165; PDF str. 83."
+  },
+  {
+    "id": "primjer-2-386",
+    "example": "2.386",
+    "kind": "musical_example",
+    "printed_page": 166,
+    "pdf_page": 84,
+    "source_image": "sources/pages/page-166.png",
+    "rect": [
+      181,
+      336,
+      1706,
+      1611
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-386.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, variants a-f, all twelve modal titles and six complete rows retained, including lowest ledger notes; four clean margins.",
+    "caption": "Primjer 2.386 a–f. Tiskana str. 166; PDF str. 84."
+  },
+  {
+    "id": "primjer-2-387",
+    "example": "2.387",
+    "kind": "musical_example",
+    "printed_page": 167,
+    "pdf_page": 84,
+    "source_image": "sources/pages/page-167.png",
+    "rect": [
+      226,
+      128,
+      983,
+      489
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-387.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, Dorski/d-mol labels, circled note, both staves and brace intact; four clean margins, no neighbouring example.",
+    "caption": "Primjer 2.387. Tiskana str. 167; PDF str. 84."
+  },
+  {
+    "id": "primjer-2-388",
+    "example": "2.388",
+    "kind": "musical_example",
+    "printed_page": 167,
+    "pdf_page": 84,
+    "source_image": "sources/pages/page-167.png",
+    "rect": [
+      989,
+      129,
+      1749,
+      488
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-388.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, Frigijski/e-mol labels, circled note and both staves intact; all four edges clean.",
+    "caption": "Primjer 2.388. Tiskana str. 167; PDF str. 84."
+  },
+  {
+    "id": "primjer-2-389",
+    "example": "2.389",
+    "kind": "musical_example",
+    "printed_page": 167,
+    "pdf_page": 84,
+    "source_image": "sources/pages/page-167.png",
+    "rect": [
+      223,
+      617,
+      985,
+      979
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-389.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, Lidijski/F-dur labels, circled note and complete staves retained; four clean genuine margins.",
+    "caption": "Primjer 2.389. Tiskana str. 167; PDF str. 84."
+  },
+  {
+    "id": "primjer-2-390",
+    "example": "2.390",
+    "kind": "musical_example",
+    "printed_page": 167,
+    "pdf_page": 84,
+    "source_image": "sources/pages/page-167.png",
+    "rect": [
+      993,
+      619,
+      1747,
+      979
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-390.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, Miksolidijski/G-dur labels, circled note and complete staves retained; four edges clean.",
+    "caption": "Primjer 2.390. Tiskana str. 167; PDF str. 84."
+  },
+  {
+    "id": "primjer-2-391",
+    "example": "2.391",
+    "kind": "musical_example",
+    "printed_page": 168,
+    "pdf_page": 85,
+    "source_image": "sources/pages/page-168.png",
+    "rect": [
+      164,
+      403,
+      1696,
+      832
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-391.png",
+    "review_status": "source_limited",
+    "review_note": "Handwritten chord letters above and Roman numerals below the staff are interleaved with complete printed Dorski example; lower handwriting reaches bottom edge. These are annotations rather than scan specks. No clean complete rectangle.",
+    "caption": "Primjer 2.391 (Dorski). Tiskana str. 168; PDF str. 85."
+  },
+  {
+    "id": "primjer-2-392",
+    "example": "2.392",
+    "kind": "musical_example",
+    "printed_page": 168,
+    "pdf_page": 85,
+    "source_image": "sources/pages/page-168.png",
+    "rect": [
+      165,
+      832,
+      1696,
+      1189
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-392.png",
+    "review_status": "source_limited",
+    "review_note": "Top edge contains a definite handwritten numeral/tail from preceding analysis, right of Frigijski title. Doubled source detail confirms its vertical band overlaps the title, so moving top down would sacrifice the title. Not an isolated speck.",
+    "caption": "Primjer 2.392 (Frigijski). Tiskana str. 168; PDF str. 85."
+  },
+  {
+    "id": "primjer-2-393",
+    "example": "2.393",
+    "kind": "musical_example",
+    "printed_page": 168,
+    "pdf_page": 85,
+    "source_image": "sources/pages/page-168.png",
+    "rect": [
+      165,
+      1209,
+      1696,
+      1599
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-393.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, Lidijski title, all notation and lowest bass stems retained; four edges clean.",
+    "caption": "Primjer 2.393 (Lidijski). Tiskana str. 168; PDF str. 85."
+  },
+  {
+    "id": "primjer-2-394",
+    "example": "2.394",
+    "kind": "musical_example",
+    "printed_page": 168,
+    "pdf_page": 85,
+    "source_image": "sources/pages/page-168.png",
+    "rect": [
+      164,
+      1605,
+      1697,
+      1960
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-394.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, complete Miksolidijski title, upper stems and lowest bass stems retained; clean margins on all four edges.",
+    "caption": "Primjer 2.394 (Miksolidijski). Tiskana str. 168; PDF str. 85."
+  },
+  {
+    "id": "primjer-2-395",
+    "example": "2.395",
+    "kind": "musical_example",
+    "printed_page": 168,
+    "pdf_page": 85,
+    "source_image": "sources/pages/page-168.png",
+    "rect": [
+      165,
+      1985,
+      1698,
+      2372
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-395.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, Eolski title, all notation and lowest bass stem retained; page number excluded and four margins clean.",
+    "caption": "Primjer 2.395 (Eolski). Tiskana str. 168; PDF str. 85."
+  },
+  {
+    "id": "primjer-2-396",
+    "example": "2.396",
+    "kind": "musical_example",
+    "printed_page": 169,
+    "pdf_page": 85,
+    "source_image": "sources/pages/page-169.png",
+    "rect": [
+      199,
+      103,
+      1745,
+      1458
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-396.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, all three systems and Latin lyric lines, asterisk and printed Dorski ending note retained. This printed note belongs to the example, not foreign body prose. Four margins clean.",
+    "caption": "Primjer 2.396. Tiskana str. 169; PDF str. 85."
+  },
+  {
+    "id": "primjer-2-397",
+    "example": "2.397",
+    "kind": "musical_example",
+    "printed_page": 169,
+    "pdf_page": 85,
+    "source_image": "sources/pages/page-169.png",
+    "rect": [
+      198,
+      1465,
+      1744,
+      2393
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-397.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, both systems, all lyrics and printed Frigijski ending note complete; staff ends and four margins clean, no page number.",
+    "caption": "Primjer 2.397. Tiskana str. 169; PDF str. 85."
+  },
+  {
+    "id": "primjer-2-398",
+    "example": "2.398",
+    "kind": "musical_example",
+    "printed_page": 170,
+    "pdf_page": 86,
+    "source_image": "sources/pages/page-170.png",
+    "rect": [
+      156,
+      110,
+      1714,
+      1059
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-398.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, both systems, all Latin lyrics and printed Miksolidijski ending note retained; surrounding body paragraph excluded and four edges clean.",
+    "caption": "Primjer 2.398. Tiskana str. 170; PDF str. 86."
+  },
+  {
+    "id": "primjer-2-399",
+    "example": "2.399",
+    "kind": "musical_example",
+    "printed_page": 171,
+    "pdf_page": 86,
+    "source_image": "sources/pages/page-171.png",
+    "rect": [
+      218,
+      369,
+      1747,
+      852
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-399.png",
+    "review_status": "source_limited",
+    "review_note": "Bottom edge contains stem/beam fragments of following 400 at left while lowest inverted fermata of 399 lies in the same vertical band at right. A full-content rectangle cannot remove the foreign fragments.",
+    "caption": "Primjer 2.399 (Grieg: Lirski komadi VIII, 48). Tiskana str. 171; PDF str. 86."
+  },
+  {
+    "id": "primjer-2-400",
+    "example": "2.400",
+    "kind": "musical_example",
+    "printed_page": 171,
+    "pdf_page": 86,
+    "source_image": "sources/pages/page-171.png",
+    "rect": [
+      218,
+      828,
+      1747,
+      1320
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-400.png",
+    "review_status": "source_limited",
+    "review_note": "Top includes preceding 399 inverted fermata; bottom includes following Skrjabin attribution and slur. These overlap the vertical extent of 400 highest stems and lowest slur/fermata. No clean rectangle retains all intended notation.",
+    "caption": "Primjer 2.400 (Grieg: Lirski komadi IX, 57). Tiskana str. 171; PDF str. 86."
+  },
+  {
+    "id": "primjer-2-401",
+    "example": "2.401",
+    "kind": "musical_example",
+    "printed_page": 171,
+    "pdf_page": 86,
+    "source_image": "sources/pages/page-171.png",
+    "rect": [
+      218,
+      1263,
+      1749,
+      1707
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-401.png",
+    "review_status": "source_limited",
+    "review_note": "Top edge includes 400 slur, stem and inverted-fermata fragments. Complete Skrjabin attribution shares their vertical band; removing them with a horizontal cut loses identifying text.",
+    "caption": "Primjer 2.401 (Skrjabin: Sonata za klavir br. 3). Tiskana str. 171; PDF str. 86."
+  },
+  {
+    "id": "primjer-2-402",
+    "example": "2.402",
+    "kind": "musical_example",
+    "printed_page": 171,
+    "pdf_page": 86,
+    "source_image": "sources/pages/page-171.png",
+    "rect": [
+      222,
+      1991,
+      1749,
+      2398
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-402.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, full Chopin attribution, lower stems, slurs and final barline retained; four edges clean, prose/page number excluded.",
+    "caption": "Primjer 2.402 (Chopin: Mazurka op. 68 br. 3). Tiskana str. 171; PDF str. 86."
+  },
+  {
+    "id": "primjer-2-403",
+    "example": "2.403",
+    "kind": "musical_example",
+    "printed_page": 172,
+    "pdf_page": 87,
+    "source_image": "sources/pages/page-172.png",
+    "rect": [
+      373,
+      115,
+      1480,
+      531
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-403.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, R. Strauss attribution, full grand staff and lowest ties retained; all edges clean with genuine margins.",
+    "caption": "Primjer 2.403 (R. Strauss: Don Juan). Tiskana str. 172; PDF str. 87."
+  },
+  {
+    "id": "primjer-2-404",
+    "example": "2.404",
+    "kind": "musical_example",
+    "printed_page": 172,
+    "pdf_page": 87,
+    "source_image": "sources/pages/page-172.png",
+    "rect": [
+      157,
+      678,
+      1684,
+      1139
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-404.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, Chopin attribution, upper slurs/staccatos and lowest staccatos retained; all staff ends and four margins clean.",
+    "caption": "Primjer 2.404 (Chopin: Mazurka op. 24 br. 2). Tiskana str. 172; PDF str. 87."
+  },
+  {
+    "id": "primjer-2-405",
+    "example": "2.405",
+    "kind": "musical_example",
+    "printed_page": 172,
+    "pdf_page": 87,
+    "source_image": "sources/pages/page-172.png",
+    "rect": [
+      155,
+      1143,
+      1687,
+      1684
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-405.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, complete long Debussy attribution, grace note and both lowest 8va labels retained; all four edges clean.",
+    "caption": "Primjer 2.405 (Debussy: »Les sons et les parfums tournent dans l’air du soir«). Tiskana str. 172; PDF str. 87."
+  },
+  {
+    "id": "primjer-2-406",
+    "example": "2.406",
+    "kind": "musical_example",
+    "printed_page": 172,
+    "pdf_page": 87,
+    "source_image": "sources/pages/page-172.png",
+    "rect": [
+      157,
+      1928,
+      1684,
+      2427
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-406.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, full Grieg attribution, upper triplet brackets and lowest bass/grace/8va notation intact; right staff ends as printed, four genuine margins, no page number.",
+    "caption": "Primjer 2.406 (Grieg: Koncert za klavir i orkestar u a-molu). Tiskana str. 172; PDF str. 87."
+  },
+  {
+    "id": "primjer-2-407",
+    "example": "2.407",
+    "kind": "musical_example",
+    "printed_page": 173,
+    "pdf_page": 87,
+    "source_image": "sources/pages/page-173.png",
+    "rect": [
+      199,
+      45,
+      1749,
+      973
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-407.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, Debussy attribution, both systems, all low ledger notes, ties and 8va labels retained; four edges clean and following paragraph excluded.",
+    "caption": "Primjer 2.407 (Debussy: La Cathédrale engloutie). Tiskana str. 173; PDF str. 87."
+  },
+  {
+    "id": "primjer-2-408",
+    "example": "2.408",
+    "kind": "musical_example",
+    "printed_page": 173,
+    "pdf_page": 87,
+    "source_image": "sources/pages/page-173.png",
+    "rect": [
+      215,
+      1252,
+      1746,
+      1679
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-408.png",
+    "review_status": "source_limited",
+    "review_note": "Bottom edge includes multiple highest-stem tips of following 409a. Complete 408 lowest staccato marks reach the same vertical band, preventing a clean full-width rectangle. Foreign tips are notation, not specks.",
+    "caption": "Primjer 2.408 (Debussy: La sérénade interrompue). Tiskana str. 173; PDF str. 87."
+  },
+  {
+    "id": "primjer-2-409-a",
+    "example": "2.409",
+    "kind": "musical_example",
+    "printed_page": 173,
+    "pdf_page": 87,
+    "source_image": "sources/pages/page-173.png",
+    "rect": [
+      216,
+      1671,
+      1749,
+      2095
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-409-a.png",
+    "review_status": "source_limited",
+    "review_note": "Top edge retains preceding 408 lowest staccato fragment above the Dvorak attribution. Highest 409a stems overlap this band; moving top down clips them. Number, a, attribution and lower notation otherwise present; no safe complete rectangle.",
+    "caption": "Primjer 2.409, varijanta a. Dvořak: Simfonija br. 9 u e-molu. Tiskana str. 173; PDF str. 87."
+  },
+  {
+    "id": "primjer-2-409-b",
+    "example": "2.409",
+    "kind": "musical_example",
+    "printed_page": 173,
+    "pdf_page": 87,
+    "source_image": "sources/pages/page-173.png",
+    "rect": [
+      576,
+      2098,
+      1348,
+      2452
+    ],
+    "image": "images/02-dijatonika-c/primjer-2-409-b.png",
+    "review_status": "independent_pass",
+    "review_note": "Variant b and entire reduction, including complete lower enclosing bracket and real bottom margin, retained. Narrow sides exclude page number. No repeated number/attribution exists here; paired a supplies them. Four edges clean.",
+    "caption": "Primjer 2.409, varijanta b. Dvořak: Simfonija br. 9 u e-molu. Tiskana str. 173; PDF str. 87."
+  }
+]

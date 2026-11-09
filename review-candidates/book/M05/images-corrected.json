@@ -1,0 +1,1888 @@
+[
+  {
+    "id": "primjer-3-1",
+    "example": "3.1",
+    "kind": "example",
+    "printed_page": 175,
+    "pdf_page": 88,
+    "source_image": "sources/pages/page-175.png",
+    "rect": [
+      356,
+      841,
+      1605,
+      1010
+    ],
+    "image": "images/03-kromatika-a/primjer-3-1.png",
+    "review_status": "independent_pass",
+    "review_note": "Number 3.1, variants a-d, clef, notation and right staff end complete; all four edges clean with genuine margins.",
+    "caption": "Primjer 3.1. Tiskana str. 175."
+  },
+  {
+    "id": "primjer-3-2",
+    "example": "3.2",
+    "kind": "example",
+    "printed_page": 175,
+    "pdf_page": 88,
+    "source_image": "sources/pages/page-175.png",
+    "rect": [
+      215,
+      1958,
+      848,
+      2298
+    ],
+    "image": "images/03-kromatika-a/recrops/primjer-3-2.png",
+    "review_status": "pending_recrop_review",
+    "review_note": "Current left edge includes partial marginal handwriting and the top retains faint foreign source ink. Tested rectangle removes these while retaining 3.2, a/b, both staves, voice-leading lines and real margins on all four edges.",
+    "caption": "Primjer 3.2. Tiskana str. 175.",
+    "original_image": "images/03-kromatika-a/primjer-3-2.png",
+    "original_rect": [
+      207,
+      1957,
+      848,
+      2298
+    ]
+  },
+  {
+    "id": "primjer-3-3",
+    "example": "3.3",
+    "kind": "example",
+    "printed_page": 175,
+    "pdf_page": 88,
+    "source_image": "sources/pages/page-175.png",
+    "rect": [
+      893,
+      1871,
+      1735,
+      2330
+    ],
+    "image": "images/03-kromatika-a/primjer-3-3.png",
+    "review_status": "source_limited",
+    "review_note": "Pencil harmonic annotations remain between the Brahms attribution and score and within the example bounds; excluding them rectangularly would lose required attribution or notation.",
+    "caption": "Primjer 3.3. Tiskana str. 175."
+  },
+  {
+    "id": "primjer-3-4",
+    "example": "3.4",
+    "kind": "example",
+    "printed_page": 176,
+    "pdf_page": 89,
+    "source_image": "sources/pages/page-176.png",
+    "rect": [
+      277,
+      515,
+      1558,
+      843
+    ],
+    "image": "images/03-kromatika-a/primjer-3-4.png",
+    "review_status": "source_limited",
+    "review_note": "Faint pencil traces overlap and extend below the bass-staff area of the a-d example. A clean rectangle cannot exclude embedded writing while retaining the complete staves.",
+    "caption": "Primjer 3.4. Tiskana str. 176."
+  },
+  {
+    "id": "primjer-3-5",
+    "example": "3.5",
+    "kind": "example",
+    "printed_page": 176,
+    "pdf_page": 89,
+    "source_image": "sources/pages/page-176.png",
+    "rect": [
+      277,
+      908,
+      1558,
+      1233
+    ],
+    "image": "images/03-kromatika-a/primjer-3-5.png",
+    "review_status": "source_limited",
+    "review_note": "Faint source pencil marks occur inside and below the score, including bass-staff regions; complete a-d notation cannot be retained in a handwriting-free rectangle.",
+    "caption": "Primjer 3.5. Tiskana str. 176."
+  },
+  {
+    "id": "primjer-3-6",
+    "example": "3.6",
+    "kind": "example",
+    "printed_page": 177,
+    "pdf_page": 89,
+    "source_image": "sources/pages/page-177.png",
+    "rect": [
+      224,
+      1172,
+      1738,
+      1584
+    ],
+    "image": "images/03-kromatika-a/primjer-3-6.png",
+    "review_status": "source_limited",
+    "review_note": "Handwritten harmonic marks between the staves remain inside the a-g example. They cannot be removed by adjusting outer crop edges.",
+    "caption": "Primjer 3.6. Tiskana str. 177."
+  },
+  {
+    "id": "primjer-3-7",
+    "example": "3.7",
+    "kind": "example",
+    "printed_page": 178,
+    "pdf_page": 90,
+    "source_image": "sources/pages/page-178.png",
+    "rect": [
+      175,
+      607,
+      1442,
+      1026
+    ],
+    "image": "images/03-kromatika-a/primjer-3-7.png",
+    "review_status": "source_limited",
+    "review_note": "Partial handwritten marks at the left of the lower system remain inside the horizontal bounds needed for number 3.7. Moving left edge past the writing would clip the number; all a-h variants must remain.",
+    "caption": "Primjer 3.7. Tiskana str. 178."
+  },
+  {
+    "id": "primjer-3-8",
+    "example": "3.8",
+    "kind": "example",
+    "printed_page": 178,
+    "pdf_page": 90,
+    "source_image": "sources/pages/page-178.png",
+    "rect": [
+      175,
+      1047,
+      1442,
+      1507
+    ],
+    "image": "images/03-kromatika-a/primjer-3-8.png",
+    "review_status": "source_limited",
+    "review_note": "Source handwriting remains within and below the two systems. The very tight lower boundary also requires care against the following example's labels; no clean complete rectangular solution established.",
+    "caption": "Primjer 3.8. Tiskana str. 178."
+  },
+  {
+    "id": "primjer-3-9",
+    "example": "3.9",
+    "kind": "example",
+    "printed_page": 178,
+    "pdf_page": 90,
+    "source_image": "sources/pages/page-178.png",
+    "rect": [
+      175,
+      1507,
+      1676,
+      1725
+    ],
+    "image": "images/03-kromatika-a/primjer-3-9.png",
+    "review_status": "source_limited",
+    "review_note": "Handwritten analysis above/below the a-e score is retained; lower handwritten marks occupy the same vertical range needed by the lowest printed notes. No clean rectangular solution.",
+    "caption": "Primjer 3.9. Tiskana str. 178."
+  },
+  {
+    "id": "primjer-3-10",
+    "example": "3.10",
+    "kind": "example",
+    "printed_page": 178,
+    "pdf_page": 90,
+    "source_image": "sources/pages/page-178.png",
+    "rect": [
+      169,
+      1725,
+      1442,
+      1961
+    ],
+    "image": "images/03-kromatika-a/primjer-3-10.png",
+    "review_status": "source_limited",
+    "review_note": "Pencil analysis is visible above and beneath the a-d score, inside the necessary printed-content bounds. Removing it by crop would discard required labels/notation.",
+    "caption": "Primjer 3.10. Tiskana str. 178."
+  },
+  {
+    "id": "primjer-3-11",
+    "example": "3.11",
+    "kind": "example",
+    "printed_page": 179,
+    "pdf_page": 90,
+    "source_image": "sources/pages/page-179.png",
+    "rect": [
+      455,
+      404,
+      1435,
+      611
+    ],
+    "image": "images/03-kromatika-a/primjer-3-11.png",
+    "review_status": "source_limited",
+    "review_note": "Handwritten chord names sit alongside the a-c labels and additional pencil figures remain below the notes; required labels/lowest notation prevent a clean rectangular crop.",
+    "caption": "Primjer 3.11. Tiskana str. 179."
+  },
+  {
+    "id": "primjer-3-12",
+    "example": "3.12",
+    "kind": "example",
+    "printed_page": 179,
+    "pdf_page": 90,
+    "source_image": "sources/pages/page-179.png",
+    "rect": [
+      208,
+      685,
+      1715,
+      955
+    ],
+    "image": "images/03-kromatika-a/primjer-3-12.png",
+    "review_status": "source_limited",
+    "review_note": "Pencil chord names share the a-e label band and handwritten analysis remains below the score. Embedded foreign source ink cannot be removed by rectangular cropping.",
+    "caption": "Primjer 3.12. Tiskana str. 179."
+  },
+  {
+    "id": "primjer-3-13",
+    "example": "3.13",
+    "kind": "example",
+    "printed_page": 179,
+    "pdf_page": 90,
+    "source_image": "sources/pages/page-179.png",
+    "rect": [
+      322,
+      1230,
+      1611,
+      1429
+    ],
+    "image": "images/03-kromatika-a/primjer-3-13.png",
+    "review_status": "source_limited",
+    "review_note": "Top edge includes fragments of preceding prose as well as handwritten chord names at the variant-label height. Trimming prose alone does not remove the embedded handwriting without losing labels.",
+    "caption": "Primjer 3.13. Tiskana str. 179."
+  },
+  {
+    "id": "primjer-3-14",
+    "example": "3.14",
+    "kind": "example",
+    "printed_page": 179,
+    "pdf_page": 90,
+    "source_image": "sources/pages/page-179.png",
+    "rect": [
+      551,
+      1478,
+      1364,
+      1897
+    ],
+    "image": "images/03-kromatika-a/primjer-3-14.png",
+    "review_status": "source_limited",
+    "review_note": "Pencil C and other analysis occupy the upper band also required by the Wagner: Parsifal attribution. A trial lower top edge clipped the attribution and was rejected; no safe rectangle proposed.",
+    "caption": "Primjer 3.14. Tiskana str. 179."
+  },
+  {
+    "id": "primjer-3-15",
+    "example": "3.15",
+    "kind": "example",
+    "printed_page": 180,
+    "pdf_page": 91,
+    "source_image": "sources/pages/page-180.png",
+    "rect": [
+      532,
+      197,
+      1345,
+      594
+    ],
+    "image": "images/03-kromatika-a/primjer-3-15.png",
+    "review_status": "source_limited",
+    "review_note": "Pencil harmonic annotations remain within the two-variant example, including the lower printed-analysis band. A handwriting-free rectangle would lose required analysis/notation.",
+    "caption": "Primjer 3.15. Tiskana str. 180."
+  },
+  {
+    "id": "primjer-3-16",
+    "example": "3.16",
+    "kind": "example",
+    "printed_page": 180,
+    "pdf_page": 91,
+    "source_image": "sources/pages/page-180.png",
+    "rect": [
+      412,
+      939,
+      1457,
+      1347
+    ],
+    "image": "images/03-kromatika-a/primjer-3-16.png",
+    "review_status": "source_limited",
+    "review_note": "Handwritten chord names occur beside the a/b labels and pencil analysis remains in the lower score area. Required labels and notation enclose the writing.",
+    "caption": "Primjer 3.16. Tiskana str. 180."
+  },
+  {
+    "id": "primjer-3-17",
+    "example": "3.17",
+    "kind": "example",
+    "printed_page": 180,
+    "pdf_page": 91,
+    "source_image": "sources/pages/page-180.png",
+    "rect": [
+      170,
+      1873,
+      1700,
+      2341
+    ],
+    "image": "images/03-kromatika-a/primjer-3-17.png",
+    "review_status": "source_limited",
+    "review_note": "Handwritten analysis is retained at attribution height and between the Liszt attribution and staves; preserving the printed title and full score encloses the foreign ink.",
+    "caption": "Primjer 3.17. Tiskana str. 180."
+  },
+  {
+    "id": "primjer-3-18",
+    "example": "3.18",
+    "kind": "example",
+    "printed_page": 181,
+    "pdf_page": 91,
+    "source_image": "sources/pages/page-181.png",
+    "rect": [
+      205,
+      1177,
+      1736,
+      1599
+    ],
+    "image": "images/03-kromatika-a/primjer-3-18.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, a/b systems and complete lower functional analysis retained; all four edges clean with real source margins.",
+    "caption": "Primjer 3.18. Tiskana str. 181."
+  },
+  {
+    "id": "primjer-3-19",
+    "example": "3.19",
+    "kind": "example",
+    "printed_page": 182,
+    "pdf_page": 92,
+    "source_image": "sources/pages/page-182.png",
+    "rect": [
+      164,
+      151,
+      1706,
+      1297
+    ],
+    "image": "images/03-kromatika-a/primjer-3-19.png",
+    "review_status": "source_limited",
+    "review_note": "Pencil chord names/analysis occur above and between the three systems containing a-f; the intermediate writing cannot be excluded with an outer rectangle.",
+    "caption": "Primjer 3.19. Tiskana str. 182."
+  },
+  {
+    "id": "primjer-3-20",
+    "example": "3.20",
+    "kind": "example",
+    "printed_page": 183,
+    "pdf_page": 92,
+    "source_image": "sources/pages/page-183.png",
+    "rect": [
+      220,
+      142,
+      1748,
+      558
+    ],
+    "image": "images/03-kromatika-a/primjer-3-20.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, a/b, both staves and all lower analysis including D/VI retained; four edges clean and margins genuine.",
+    "caption": "Primjer 3.20. Tiskana str. 183."
+  },
+  {
+    "id": "primjer-3-21",
+    "example": "3.21",
+    "kind": "example",
+    "printed_page": 183,
+    "pdf_page": 92,
+    "source_image": "sources/pages/page-183.png",
+    "rect": [
+      227,
+      589,
+      1748,
+      1023
+    ],
+    "image": "images/03-kromatika-a/primjer-3-21.png",
+    "review_status": "source_limited",
+    "review_note": "Handwritten analysis is visible within the two-staff example and alongside the lower printed functions. It lies inside the bounds needed for complete a/b notation.",
+    "caption": "Primjer 3.21. Tiskana str. 183."
+  },
+  {
+    "id": "primjer-3-22",
+    "example": "3.22",
+    "kind": "example",
+    "printed_page": 183,
+    "pdf_page": 92,
+    "source_image": "sources/pages/page-183.png",
+    "rect": [
+      217,
+      1029,
+      1748,
+      1968
+    ],
+    "image": "images/03-kromatika-a/primjer-3-22.png",
+    "review_status": "source_limited",
+    "review_note": "Pencil chord names and harmonic figures occupy the upper and inter-system bands of the multi-system example. Rectangular cropping cannot separate them from the complete intended example.",
+    "caption": "Primjer 3.22. Tiskana str. 183."
+  },
+  {
+    "id": "primjer-3-23",
+    "example": "3.23",
+    "kind": "example",
+    "printed_page": 183,
+    "pdf_page": 92,
+    "source_image": "sources/pages/page-183.png",
+    "rect": [
+      221,
+      1972,
+      1748,
+      2421
+    ],
+    "image": "images/03-kromatika-a/primjer-3-23.png",
+    "review_status": "source_limited",
+    "review_note": "Handwritten chord names share the a/b label band; foreign marks are retained near the tightly adjacent preceding analysis. No complete handwriting-free rectangle established.",
+    "caption": "Primjer 3.23. Tiskana str. 183."
+  },
+  {
+    "id": "primjer-3-24",
+    "example": "3.24",
+    "kind": "example",
+    "printed_page": 184,
+    "pdf_page": 93,
+    "source_image": "sources/pages/page-184.png",
+    "rect": [
+      171,
+      606,
+      1698,
+      1094
+    ],
+    "image": "images/03-kromatika-a/primjer-3-24.png",
+    "review_status": "source_limited",
+    "review_note": "Pencil chord names and lower annotations remain inside the complete a/b score's bounds; adjusting outer edges cannot remove all writing while retaining labels and functions.",
+    "caption": "Primjer 3.24. Tiskana str. 184."
+  },
+  {
+    "id": "primjer-3-25",
+    "example": "3.25",
+    "kind": "example",
+    "printed_page": 184,
+    "pdf_page": 93,
+    "source_image": "sources/pages/page-184.png",
+    "rect": [
+      502,
+      1476,
+      1332,
+      1933
+    ],
+    "image": "images/03-kromatika-a/primjer-3-25.png",
+    "review_status": "source_limited",
+    "review_note": "Handwritten chord analysis appears at the a/b label height and beneath the staves, within the necessary printed-content rectangle.",
+    "caption": "Primjer 3.25. Tiskana str. 184."
+  },
+  {
+    "id": "primjer-3-26",
+    "example": "3.26",
+    "kind": "example",
+    "printed_page": 185,
+    "pdf_page": 93,
+    "source_image": "sources/pages/page-185.png",
+    "rect": [
+      206,
+      347,
+      1734,
+      797
+    ],
+    "image": "images/03-kromatika-a/primjer-3-26.png",
+    "review_status": "source_limited",
+    "review_note": "Pencil analysis occupies the a/b label band and the lower printed-function area. The close 3.26/3.27 boundary cannot solve embedded handwriting by trimming.",
+    "caption": "Primjer 3.26. Tiskana str. 185."
+  },
+  {
+    "id": "primjer-3-27",
+    "example": "3.27",
+    "kind": "example",
+    "printed_page": 185,
+    "pdf_page": 93,
+    "source_image": "sources/pages/page-185.png",
+    "rect": [
+      206,
+      799,
+      1734,
+      1245
+    ],
+    "image": "images/03-kromatika-a/primjer-3-27.png",
+    "review_status": "source_limited",
+    "review_note": "Top contains handwritten analysis and a fragment of the preceding example's lowest printed function. Embedded pencil marks remain even if that foreign printed fragment is trimmed.",
+    "caption": "Primjer 3.27. Tiskana str. 185."
+  },
+  {
+    "id": "primjer-3-28",
+    "example": "3.28",
+    "kind": "example",
+    "printed_page": 185,
+    "pdf_page": 93,
+    "source_image": "sources/pages/page-185.png",
+    "rect": [
+      195,
+      1548,
+      1734,
+      2412
+    ],
+    "image": "images/03-kromatika-a/primjer-3-28.png",
+    "review_status": "source_limited",
+    "review_note": "Pencil chord names and analysis remain in upper, inter-system and lower bands of variants a-d; a complete clean rectangle is impossible without losing printed material.",
+    "caption": "Primjer 3.28. Tiskana str. 185."
+  },
+  {
+    "id": "primjer-3-28-p186",
+    "example": "3.28",
+    "kind": "example",
+    "printed_page": 186,
+    "pdf_page": 94,
+    "source_image": "sources/pages/page-186.png",
+    "rect": [
+      184,
+      141,
+      1724,
+      617
+    ],
+    "image": "images/03-kromatika-a/primjer-3-28-p186.png",
+    "review_status": "source_limited",
+    "review_note": "Continuation e/f and Bach chorale attribution are present, but extensive pencil analysis occupies the label/title band and areas between/below the staves. No clean rectangle.",
+    "caption": "Primjer 3.28. Tiskana str. 186."
+  },
+  {
+    "id": "primjer-3-29",
+    "example": "3.29",
+    "kind": "example",
+    "printed_page": 186,
+    "pdf_page": 94,
+    "source_image": "sources/pages/page-186.png",
+    "rect": [
+      170,
+      1186,
+      1722,
+      2097
+    ],
+    "image": "images/03-kromatika-a/primjer-3-29.png",
+    "review_status": "source_limited",
+    "review_note": "Handwritten analysis remains above, between and below the two systems containing a-c; intermediate marks cannot be removed by changing outside bounds.",
+    "caption": "Primjer 3.29. Tiskana str. 186."
+  },
+  {
+    "id": "primjer-3-30",
+    "example": "3.30",
+    "kind": "example",
+    "printed_page": 187,
+    "pdf_page": 94,
+    "source_image": "sources/pages/page-187.png",
+    "rect": [
+      238,
+      550,
+      1780,
+      1414
+    ],
+    "image": "images/03-kromatika-a/primjer-3-30.png",
+    "review_status": "independent_pass",
+    "review_note": "Full Bach attribution, both systems, number and complete lower S/D/T functions retained; all four edges clean with genuine margins.",
+    "caption": "Primjer 3.30. Tiskana str. 187."
+  },
+  {
+    "id": "primjer-3-31",
+    "example": "3.31",
+    "kind": "example",
+    "printed_page": 187,
+    "pdf_page": 94,
+    "source_image": "sources/pages/page-187.png",
+    "rect": [
+      245,
+      1726,
+      1780,
+      2285
+    ],
+    "image": "images/03-kromatika-a/primjer-3-31.png",
+    "review_status": "independent_pass",
+    "review_note": "Chopin attribution, number, score and full lower analysis retained; four edges clean, including complete right title ending and staff ends.",
+    "caption": "Primjer 3.31. Tiskana str. 187."
+  },
+  {
+    "id": "primjer-3-32",
+    "example": "3.32",
+    "kind": "example",
+    "printed_page": 188,
+    "pdf_page": 95,
+    "source_image": "sources/pages/page-188.png",
+    "rect": [
+      157,
+      571,
+      1683,
+      1404
+    ],
+    "image": "images/03-kromatika-a/primjer-3-32.png",
+    "review_status": "source_limited",
+    "review_note": "Top includes preceding prose fragments; handwritten chord names/analysis also remain in the upper and inter-system bands. Removing prose alone cannot create a handwriting-free complete crop.",
+    "caption": "Primjer 3.32. Tiskana str. 188."
+  },
+  {
+    "id": "primjer-3-33",
+    "example": "3.33",
+    "kind": "example",
+    "printed_page": 188,
+    "pdf_page": 95,
+    "source_image": "sources/pages/page-188.png",
+    "rect": [
+      157,
+      1459,
+      1678,
+      1802
+    ],
+    "image": "images/03-kromatika-a/recrops/primjer-3-33.png",
+    "review_status": "pending_recrop_review",
+    "review_note": "Current crop retains pencil chord names above the first bracket. Tested lower top at 1459 removes all handwriting while preserving the complete highest bracket, stems, 3.33, both staves and clean margins on all four edges. A tighter 1475 trial clipped notation and was rejected.",
+    "caption": "Primjer 3.33. Tiskana str. 188.",
+    "original_image": "images/03-kromatika-a/primjer-3-33.png",
+    "original_rect": [
+      157,
+      1410,
+      1678,
+      1802
+    ]
+  },
+  {
+    "id": "primjer-3-34",
+    "example": "3.34",
+    "kind": "example",
+    "printed_page": 188,
+    "pdf_page": 95,
+    "source_image": "sources/pages/page-188.png",
+    "rect": [
+      154,
+      1841,
+      1677,
+      2286
+    ],
+    "image": "images/03-kromatika-a/primjer-3-34.png",
+    "review_status": "source_limited",
+    "review_note": "Pencil chord names and analysis remain above and within/below the score. Embedded marks in the staff region prevent a safe handwriting-free rectangle.",
+    "caption": "Primjer 3.34. Tiskana str. 188."
+  },
+  {
+    "id": "primjer-3-35",
+    "example": "3.35",
+    "kind": "example",
+    "printed_page": 189,
+    "pdf_page": 95,
+    "source_image": "sources/pages/page-189.png",
+    "rect": [
+      232,
+      133,
+      1753,
+      522
+    ],
+    "image": "images/03-kromatika-a/primjer-3-35.png",
+    "review_status": "source_limited",
+    "review_note": "Handwritten analysis below the bass shares the vertical band required by the lowest down-stems. Trimming that band to remove writing would truncate required notation.",
+    "caption": "Primjer 3.35. Tiskana str. 189."
+  },
+  {
+    "id": "primjer-3-36",
+    "example": "3.36",
+    "kind": "example",
+    "printed_page": 189,
+    "pdf_page": 95,
+    "source_image": "sources/pages/page-189.png",
+    "rect": [
+      215,
+      534,
+      1753,
+      1316
+    ],
+    "image": "images/03-kromatika-a/primjer-3-36.png",
+    "review_status": "source_limited",
+    "review_note": "Handwritten chord names share the a/b label/bracket band and further pencil analysis remains between and below systems; no clean complete rectangular crop.",
+    "caption": "Primjer 3.36. Tiskana str. 189."
+  },
+  {
+    "id": "zadatak-3-189-2",
+    "example": "Zadatak 2",
+    "kind": "exercise",
+    "printed_page": 189,
+    "pdf_page": 95,
+    "source_image": "sources/pages/page-189.png",
+    "rect": [
+      238,
+      1728,
+      1750,
+      1926
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-189-2.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 2, complete bass line, figures/accidentals and final barline retained; four edges clean with genuine margins.",
+    "caption": "Zadatak 2. Tiskana str. 189."
+  },
+  {
+    "id": "zadatak-3-189-3",
+    "example": "Zadatak 3",
+    "kind": "exercise",
+    "printed_page": 189,
+    "pdf_page": 95,
+    "source_image": "sources/pages/page-189.png",
+    "rect": [
+      235,
+      1949,
+      1750,
+      2142
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-189-3.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 3 and all figures including the lowest sharp are intact; native bottom-edge check confirms real whitespace below the sharp and no following exercise ink.",
+    "caption": "Zadatak 3. Tiskana str. 189."
+  },
+  {
+    "id": "zadatak-3-189-4",
+    "example": "Zadatak 4",
+    "kind": "exercise",
+    "printed_page": 189,
+    "pdf_page": 95,
+    "source_image": "sources/pages/page-189.png",
+    "rect": [
+      231,
+      2156,
+      1750,
+      2359
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-189-4.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 4, complete staff/figures and final barline retained; clean four-edge margins and no printed page number.",
+    "caption": "Zadatak 4. Tiskana str. 189."
+  },
+  {
+    "id": "zadatak-3-190-5",
+    "example": "Zadatak 5",
+    "kind": "exercise",
+    "printed_page": 190,
+    "pdf_page": 96,
+    "source_image": "sources/pages/page-190.png",
+    "rect": [
+      164,
+      111,
+      1680,
+      312
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-190-5.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 5, all figured bass and staff ends complete; all four edges clean with source whitespace.",
+    "caption": "Zadatak 5. Tiskana str. 190."
+  },
+  {
+    "id": "zadatak-3-190-6",
+    "example": "Zadatak 6",
+    "kind": "exercise",
+    "printed_page": 190,
+    "pdf_page": 96,
+    "source_image": "sources/pages/page-190.png",
+    "rect": [
+      163,
+      333,
+      1680,
+      517
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-190-6.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 6, all figures and final barline complete; four edges clean and genuinely separated from adjacent exercises.",
+    "caption": "Zadatak 6. Tiskana str. 190."
+  },
+  {
+    "id": "zadatak-3-190-7",
+    "example": "Zadatak 7",
+    "kind": "exercise",
+    "printed_page": 190,
+    "pdf_page": 96,
+    "source_image": "sources/pages/page-190.png",
+    "rect": [
+      168,
+      528,
+      1680,
+      718
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-190-7.png",
+    "review_status": "source_limited",
+    "review_note": "Bottom edge truncates the lowest figured-bass marks. Enlarged source strip y=680..755 shows the lowest figures interleaving vertically with the highest slur of exercise 8 around y=720; extending the rectangle includes the neighbouring slur. No safe complete single rectangle established.",
+    "caption": "Zadatak 7. Tiskana str. 190."
+  },
+  {
+    "id": "zadatak-3-190-8",
+    "example": "Zadatak 8",
+    "kind": "exercise",
+    "printed_page": 190,
+    "pdf_page": 96,
+    "source_image": "sources/pages/page-190.png",
+    "rect": [
+      168,
+      718,
+      1680,
+      880
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-190-8.png",
+    "review_status": "source_limited",
+    "review_note": "Top retains partial lowest figures from exercise 7. Those figures extend into the vertical band needed to retain exercise 8's complete highest slur; moving the top far enough down removes required slur ink. Source-tested conflict, not a retouch/clipping solution.",
+    "caption": "Zadatak 8. Tiskana str. 190."
+  },
+  {
+    "id": "zadatak-3-190-9",
+    "example": "Zadatak 9",
+    "kind": "exercise",
+    "printed_page": 190,
+    "pdf_page": 96,
+    "source_image": "sources/pages/page-190.png",
+    "rect": [
+      168,
+      904,
+      1676,
+      1067
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-190-9.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 9, highest slur, clef, all notes and final barline retained; clean four-edge source margins.",
+    "caption": "Zadatak 9. Tiskana str. 190."
+  },
+  {
+    "id": "zadatak-3-190-10",
+    "example": "Zadatak 10",
+    "kind": "exercise",
+    "printed_page": 190,
+    "pdf_page": 96,
+    "source_image": "sources/pages/page-190.png",
+    "rect": [
+      158,
+      1096,
+      1674,
+      1446
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-190-10.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 10 and both systems complete, including lower clef and slurs; four clean edges with genuine whitespace.",
+    "caption": "Zadatak 10. Tiskana str. 190."
+  },
+  {
+    "id": "zadatak-3-190-11",
+    "example": "Zadatak 11",
+    "kind": "exercise",
+    "printed_page": 190,
+    "pdf_page": 96,
+    "source_image": "sources/pages/page-190.png",
+    "rect": [
+      155,
+      1468,
+      1672,
+      1632
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-190-11.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 11, full slurs, notation and staff ends retained; four clean source margins.",
+    "caption": "Zadatak 11. Tiskana str. 190."
+  },
+  {
+    "id": "zadatak-3-190-12",
+    "example": "Zadatak 12",
+    "kind": "exercise",
+    "printed_page": 190,
+    "pdf_page": 96,
+    "source_image": "sources/pages/page-190.png",
+    "rect": [
+      155,
+      1653,
+      1672,
+      1828
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-190-12.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 12, key signature, both high slurs and full line intact; all four edges clean.",
+    "caption": "Zadatak 12. Tiskana str. 190."
+  },
+  {
+    "id": "zadatak-3-190-13",
+    "example": "Zadatak 13",
+    "kind": "exercise",
+    "printed_page": 190,
+    "pdf_page": 96,
+    "source_image": "sources/pages/page-190.png",
+    "rect": [
+      154,
+      1843,
+      1667,
+      2017
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-190-13.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 13 and all slurs, accidentals and final barline intact; no adjacent exercise fragments on four edges.",
+    "caption": "Zadatak 13. Tiskana str. 190."
+  },
+  {
+    "id": "zadatak-3-190-14",
+    "example": "Zadatak 14",
+    "kind": "exercise",
+    "printed_page": 190,
+    "pdf_page": 96,
+    "source_image": "sources/pages/page-190.png",
+    "rect": [
+      151,
+      2031,
+      1666,
+      2382
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-190-14.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 14 and complete second system retained; bottom excludes page number while preserving lowest clef/notes and real margin.",
+    "caption": "Zadatak 14. Tiskana str. 190."
+  },
+  {
+    "id": "zadatak-3-191-8-realizacija",
+    "example": "Zadatak 8-realizacija",
+    "kind": "exercise",
+    "printed_page": 191,
+    "pdf_page": 96,
+    "source_image": "sources/pages/page-191.png",
+    "rect": [
+      192,
+      114,
+      1728,
+      628
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-191-8-realizacija.png",
+    "review_status": "independent_pass",
+    "review_note": "Full Realizacija zadatka 8. title and complete grand staff retained, including lowest stems and final barline; all four edges clean.",
+    "caption": "Zadatak 8-realizacija. Tiskana str. 191."
+  },
+  {
+    "id": "primjer-3-37",
+    "example": "3.37",
+    "kind": "example",
+    "printed_page": 192,
+    "pdf_page": 97,
+    "source_image": "sources/pages/page-192.png",
+    "rect": [
+      175,
+      1676,
+      868,
+      2133
+    ],
+    "image": "images/03-kromatika-a/primjer-3-37.png",
+    "review_status": "source_limited",
+    "review_note": "Pencil chord names occupy the upper score band and handwritten figures remain beside the printed lower function; complete number/staves/function enclose the writing.",
+    "caption": "Primjer 3.37. Tiskana str. 192."
+  },
+  {
+    "id": "primjer-3-38",
+    "example": "3.38",
+    "kind": "example",
+    "printed_page": 192,
+    "pdf_page": 97,
+    "source_image": "sources/pages/page-192.png",
+    "rect": [
+      909,
+      1676,
+      1698,
+      2122
+    ],
+    "image": "images/03-kromatika-a/primjer-3-38.png",
+    "review_status": "source_limited",
+    "review_note": "Pencil chord names are retained above the staves and handwritten analysis shares the lower printed-function band. No clean complete rectangle.",
+    "caption": "Primjer 3.38. Tiskana str. 192."
+  },
+  {
+    "id": "primjer-3-39",
+    "example": "3.39",
+    "kind": "example",
+    "printed_page": 193,
+    "pdf_page": 97,
+    "source_image": "sources/pages/page-193.png",
+    "rect": [
+      566,
+      63,
+      1403,
+      474
+    ],
+    "image": "images/03-kromatika-a/primjer-3-39.png",
+    "review_status": "source_limited",
+    "review_note": "Handwritten chord names above the score and pencil marks beside the lower D/IV analysis remain within the required printed-content bounds.",
+    "caption": "Primjer 3.39. Tiskana str. 193."
+  },
+  {
+    "id": "primjer-3-40",
+    "example": "3.40",
+    "kind": "example",
+    "printed_page": 193,
+    "pdf_page": 97,
+    "source_image": "sources/pages/page-193.png",
+    "rect": [
+      216,
+      1165,
+      966,
+      1575
+    ],
+    "image": "images/03-kromatika-a/primjer-3-40.png",
+    "review_status": "source_limited",
+    "review_note": "Handwriting shares the printed E-c title band and remains near the lower analysis; removing it rectangularly would lose required printed content.",
+    "caption": "Primjer 3.40. Tiskana str. 193."
+  },
+  {
+    "id": "primjer-3-41",
+    "example": "3.41",
+    "kind": "example",
+    "printed_page": 193,
+    "pdf_page": 97,
+    "source_image": "sources/pages/page-193.png",
+    "rect": [
+      966,
+      1164,
+      1730,
+      1572
+    ],
+    "image": "images/03-kromatika-a/primjer-3-41.png",
+    "review_status": "source_limited",
+    "review_note": "Handwritten chord names share the H-es heading band, with further pencil marks in the analysis area; the complete intended score cannot fit a clean rectangle.",
+    "caption": "Primjer 3.41. Tiskana str. 193."
+  },
+  {
+    "id": "primjer-3-42",
+    "example": "3.42",
+    "kind": "example",
+    "printed_page": 193,
+    "pdf_page": 97,
+    "source_image": "sources/pages/page-193.png",
+    "rect": [
+      366,
+      1587,
+      1551,
+      2082
+    ],
+    "image": "images/03-kromatika-a/primjer-3-42.png",
+    "review_status": "source_limited",
+    "review_note": "Extensive handwritten chord names/figures remain above and beneath the staves, including the required heading/analysis bands. No safe rectangular removal.",
+    "caption": "Primjer 3.42. Tiskana str. 193."
+  },
+  {
+    "id": "primjer-3-43",
+    "example": "3.43",
+    "kind": "example",
+    "printed_page": 194,
+    "pdf_page": 98,
+    "source_image": "sources/pages/page-194.png",
+    "rect": [
+      175,
+      113,
+      796,
+      504
+    ],
+    "image": "images/03-kromatika-a/primjer-3-43.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, c-F heading, full grand staff and F:VII7 analysis intact; clean four-edge margins.",
+    "caption": "Primjer 3.43. Tiskana str. 194."
+  },
+  {
+    "id": "primjer-3-44",
+    "example": "3.44",
+    "kind": "example",
+    "printed_page": 194,
+    "pdf_page": 98,
+    "source_image": "sources/pages/page-194.png",
+    "rect": [
+      800,
+      104,
+      1695,
+      502
+    ],
+    "image": "images/03-kromatika-a/primjer-3-44.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, c-as heading, complete staff ends and lower analysis intact; four edges clean.",
+    "caption": "Primjer 3.44. Tiskana str. 194."
+  },
+  {
+    "id": "primjer-3-45",
+    "example": "3.45",
+    "kind": "example",
+    "printed_page": 194,
+    "pdf_page": 98,
+    "source_image": "sources/pages/page-194.png",
+    "rect": [
+      261,
+      731,
+      1572,
+      1093
+    ],
+    "image": "images/03-kromatika-a/primjer-3-45.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, D-Es heading and complete long score retained; all four edges clean, including lowest stems.",
+    "caption": "Primjer 3.45. Tiskana str. 194."
+  },
+  {
+    "id": "primjer-3-46",
+    "example": "3.46",
+    "kind": "example",
+    "printed_page": 194,
+    "pdf_page": 98,
+    "source_image": "sources/pages/page-194.png",
+    "rect": [
+      180,
+      1395,
+      995,
+      1812
+    ],
+    "image": "images/03-kromatika-a/primjer-3-46.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, C-g heading and complete lower IV figures retained; clean margins on all four edges.",
+    "caption": "Primjer 3.46. Tiskana str. 194."
+  },
+  {
+    "id": "primjer-3-47",
+    "example": "3.47",
+    "kind": "example",
+    "printed_page": 194,
+    "pdf_page": 98,
+    "source_image": "sources/pages/page-194.png",
+    "rect": [
+      1003,
+      1403,
+      1695,
+      1824
+    ],
+    "image": "images/03-kromatika-a/primjer-3-47.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, G-f heading, staff continuation ends and full lower analysis intact; all four edges clean.",
+    "caption": "Primjer 3.47. Tiskana str. 194."
+  },
+  {
+    "id": "primjer-3-48",
+    "example": "3.48",
+    "kind": "example",
+    "printed_page": 195,
+    "pdf_page": 98,
+    "source_image": "sources/pages/page-195.png",
+    "rect": [
+      227,
+      135,
+      951,
+      526
+    ],
+    "image": "images/03-kromatika-a/primjer-3-48.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, C-A heading, grand staff and A:V2 intact; four clean genuine margins.",
+    "caption": "Primjer 3.48. Tiskana str. 195."
+  },
+  {
+    "id": "primjer-3-49",
+    "example": "3.49",
+    "kind": "example",
+    "printed_page": 195,
+    "pdf_page": 98,
+    "source_image": "sources/pages/page-195.png",
+    "rect": [
+      959,
+      140,
+      1745,
+      542
+    ],
+    "image": "images/03-kromatika-a/primjer-3-49.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, c-Des heading, lowest stems and Des:V7 retained; clean four-edge source margins.",
+    "caption": "Primjer 3.49. Tiskana str. 195."
+  },
+  {
+    "id": "primjer-3-50",
+    "example": "3.50",
+    "kind": "example",
+    "printed_page": 195,
+    "pdf_page": 98,
+    "source_image": "sources/pages/page-195.png",
+    "rect": [
+      224,
+      990,
+      1027,
+      1386
+    ],
+    "image": "images/03-kromatika-a/primjer-3-50.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, C-D heading, both staves and D:V intact; no neighbouring example ink on four edges.",
+    "caption": "Primjer 3.50. Tiskana str. 195."
+  },
+  {
+    "id": "primjer-3-51",
+    "example": "3.51",
+    "kind": "example",
+    "printed_page": 195,
+    "pdf_page": 98,
+    "source_image": "sources/pages/page-195.png",
+    "rect": [
+      1037,
+      997,
+      1740,
+      1385
+    ],
+    "image": "images/03-kromatika-a/primjer-3-51.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, C-e heading, time signature and full lower function retained; all four edges clean.",
+    "caption": "Primjer 3.51. Tiskana str. 195."
+  },
+  {
+    "id": "primjer-3-52",
+    "example": "3.52",
+    "kind": "example",
+    "printed_page": 195,
+    "pdf_page": 98,
+    "source_image": "sources/pages/page-195.png",
+    "rect": [
+      214,
+      1761,
+      871,
+      2157
+    ],
+    "image": "images/03-kromatika-a/primjer-3-52.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, a-g heading, continuation sign, staff ends and g:IV intact; four clean margins.",
+    "caption": "Primjer 3.52. Tiskana str. 195."
+  },
+  {
+    "id": "primjer-3-53",
+    "example": "3.53",
+    "kind": "example",
+    "printed_page": 195,
+    "pdf_page": 98,
+    "source_image": "sources/pages/page-195.png",
+    "rect": [
+      902,
+      1751,
+      1735,
+      2170
+    ],
+    "image": "images/03-kromatika-a/primjer-3-53.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, c-b heading, complete score and lowest stacked IV figures retained; four edges clean.",
+    "caption": "Primjer 3.53. Tiskana str. 195."
+  },
+  {
+    "id": "primjer-3-54",
+    "example": "3.54",
+    "kind": "example",
+    "printed_page": 196,
+    "pdf_page": 99,
+    "source_image": "sources/pages/page-196.png",
+    "rect": [
+      157,
+      422,
+      921,
+      830
+    ],
+    "image": "images/03-kromatika-a/primjer-3-54.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, C-Es heading, complete staff ends and Es:I retained; all four edges clean.",
+    "caption": "Primjer 3.54. Tiskana str. 196."
+  },
+  {
+    "id": "primjer-3-55",
+    "example": "3.55",
+    "kind": "example",
+    "printed_page": 196,
+    "pdf_page": 99,
+    "source_image": "sources/pages/page-196.png",
+    "rect": [
+      936,
+      429,
+      1683,
+      825
+    ],
+    "image": "images/03-kromatika-a/primjer-3-55.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, C-H heading, ties and H:IV intact; genuine source margins on four clean edges.",
+    "caption": "Primjer 3.55. Tiskana str. 196."
+  },
+  {
+    "id": "primjer-3-56",
+    "example": "3.56",
+    "kind": "example",
+    "printed_page": 196,
+    "pdf_page": 99,
+    "source_image": "sources/pages/page-196.png",
+    "rect": [
+      167,
+      1455,
+      886,
+      1831
+    ],
+    "image": "images/03-kromatika-a/primjer-3-56.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, As-E heading, all accidentals and lowest stems intact; four edges clean and no prose included.",
+    "caption": "Primjer 3.56. Tiskana str. 196."
+  },
+  {
+    "id": "primjer-3-57",
+    "example": "3.57",
+    "kind": "example",
+    "printed_page": 196,
+    "pdf_page": 99,
+    "source_image": "sources/pages/page-196.png",
+    "rect": [
+      901,
+      1442,
+      1687,
+      1841
+    ],
+    "image": "images/03-kromatika-a/primjer-3-57.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, F-cis heading, enclosures and full cis:V7 intact; clean four-edge margins.",
+    "caption": "Primjer 3.57. Tiskana str. 196."
+  },
+  {
+    "id": "primjer-3-58",
+    "example": "3.58",
+    "kind": "example",
+    "printed_page": 196,
+    "pdf_page": 99,
+    "source_image": "sources/pages/page-196.png",
+    "rect": [
+      439,
+      1900,
+      1396,
+      2221
+    ],
+    "image": "images/03-kromatika-a/primjer-3-58.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, both time signatures, complete enclosure and final barline intact; all four edges clean.",
+    "caption": "Primjer 3.58. Tiskana str. 196."
+  },
+  {
+    "id": "primjer-3-59",
+    "example": "3.59",
+    "kind": "example",
+    "printed_page": 197,
+    "pdf_page": 99,
+    "source_image": "sources/pages/page-197.png",
+    "rect": [
+      198,
+      130,
+      1748,
+      985
+    ],
+    "image": "images/03-kromatika-a/primjer-3-59.png",
+    "review_status": "independent_pass",
+    "review_note": "Full Liszt attribution, Klavir/Orkestar labels, all four staves and lowest stems retained; clean four-edge source margins.",
+    "caption": "Primjer 3.59. Tiskana str. 197."
+  },
+  {
+    "id": "primjer-3-60",
+    "example": "3.60",
+    "kind": "example",
+    "printed_page": 197,
+    "pdf_page": 99,
+    "source_image": "sources/pages/page-197.png",
+    "rect": [
+      224,
+      1345,
+      1741,
+      1882
+    ],
+    "image": "images/03-kromatika-a/primjer-3-60.png",
+    "review_status": "independent_pass",
+    "review_note": "Chopin attribution and complete upper/lower slurs retained, including open right staff ends; all four edges clean.",
+    "caption": "Primjer 3.60. Tiskana str. 197."
+  },
+  {
+    "id": "primjer-3-61",
+    "example": "3.61",
+    "kind": "example",
+    "printed_page": 197,
+    "pdf_page": 99,
+    "source_image": "sources/pages/page-197.png",
+    "rect": [
+      224,
+      1898,
+      1743,
+      2316
+    ],
+    "image": "images/03-kromatika-a/primjer-3-61.png",
+    "review_status": "independent_pass",
+    "review_note": "Wagner: Parsifal attribution, number, slurs, final barline and lowest bass stems intact; clean genuine margins.",
+    "caption": "Primjer 3.61. Tiskana str. 197."
+  },
+  {
+    "id": "primjer-3-62",
+    "example": "3.62",
+    "kind": "example",
+    "printed_page": 198,
+    "pdf_page": 100,
+    "source_image": "sources/pages/page-198.png",
+    "rect": [
+      143,
+      136,
+      1688,
+      1455
+    ],
+    "image": "images/03-kromatika-a/primjer-3-62.png",
+    "review_status": "independent_pass",
+    "review_note": "Full Grieg attribution, both three-staff systems, grace notes and lowest ledger-note group intact; clean four edges excluding ZADACI prose.",
+    "caption": "Primjer 3.62. Tiskana str. 198."
+  },
+  {
+    "id": "primjer-3-63",
+    "example": "3.63",
+    "kind": "example",
+    "printed_page": 199,
+    "pdf_page": 100,
+    "source_image": "sources/pages/page-199.png",
+    "rect": [
+      203,
+      789,
+      1742,
+      1666
+    ],
+    "image": "images/03-kromatika-a/primjer-3-63.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, a-d, both systems and all lower functions including the lowest a:VI retained; four edges clean.",
+    "caption": "Primjer 3.63. Tiskana str. 199."
+  },
+  {
+    "id": "primjer-3-64",
+    "example": "3.64",
+    "kind": "example",
+    "printed_page": 199,
+    "pdf_page": 100,
+    "source_image": "sources/pages/page-199.png",
+    "rect": [
+      221,
+      1979,
+      1741,
+      2401
+    ],
+    "image": "images/03-kromatika-a/primjer-3-64.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, a-c and complete B(b), es and Des lower functions retained; four clean margins excluding page number.",
+    "caption": "Primjer 3.64. Tiskana str. 199."
+  },
+  {
+    "id": "primjer-3-65",
+    "example": "3.65",
+    "kind": "example",
+    "printed_page": 200,
+    "pdf_page": 101,
+    "source_image": "sources/pages/page-200.png",
+    "rect": [
+      173,
+      311,
+      1696,
+      726
+    ],
+    "image": "images/03-kromatika-a/primjer-3-65.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, a/b, continuation sign and all lower analysis including sharp-five retained; all four edges clean.",
+    "caption": "Primjer 3.65. Tiskana str. 200."
+  },
+  {
+    "id": "primjer-3-66",
+    "example": "3.66",
+    "kind": "example",
+    "printed_page": 200,
+    "pdf_page": 101,
+    "source_image": "sources/pages/page-200.png",
+    "rect": [
+      396,
+      1061,
+      1411,
+      1486
+    ],
+    "image": "images/03-kromatika-a/primjer-3-66.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, c-d heading and full d:VII7 retained; native bottom edge excludes following prose while preserving genuine whitespace.",
+    "caption": "Primjer 3.66. Tiskana str. 200."
+  },
+  {
+    "id": "primjer-3-67",
+    "example": "3.67",
+    "kind": "example",
+    "printed_page": 200,
+    "pdf_page": 101,
+    "source_image": "sources/pages/page-200.png",
+    "rect": [
+      151,
+      1597,
+      1689,
+      2423
+    ],
+    "image": "images/03-kromatika-a/primjer-3-67.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, a-d, both systems and all lower stacked functions retained; lowest Ges figures complete and page number excluded.",
+    "caption": "Primjer 3.67. Tiskana str. 200."
+  },
+  {
+    "id": "primjer-3-67-p201",
+    "example": "3.67",
+    "kind": "example",
+    "printed_page": 201,
+    "pdf_page": 101,
+    "source_image": "sources/pages/page-201.png",
+    "rect": [
+      219,
+      141,
+      1757,
+      545
+    ],
+    "image": "images/03-kromatika-a/primjer-3-67-p201.png",
+    "review_status": "independent_pass",
+    "review_note": "Continuation e/f and full g/f functions retained; lowest figure 3 has genuine margin. Number is not repeated in source. All four edges clean.",
+    "caption": "Primjer 3.67. Tiskana str. 201."
+  },
+  {
+    "id": "primjer-3-68",
+    "example": "3.68",
+    "kind": "example",
+    "printed_page": 201,
+    "pdf_page": 101,
+    "source_image": "sources/pages/page-201.png",
+    "rect": [
+      237,
+      1117,
+      1758,
+      1537
+    ],
+    "image": "images/03-kromatika-a/primjer-3-68.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, a-c, continuation signs, staff ends and all lower G(g) functions retained; four clean margins.",
+    "caption": "Primjer 3.68. Tiskana str. 201."
+  },
+  {
+    "id": "primjer-3-69",
+    "example": "3.69",
+    "kind": "example",
+    "printed_page": 201,
+    "pdf_page": 101,
+    "source_image": "sources/pages/page-201.png",
+    "rect": [
+      232,
+      1569,
+      1758,
+      1990
+    ],
+    "image": "images/03-kromatika-a/primjer-3-69.png",
+    "review_status": "independent_pass",
+    "review_note": "Full Beethoven attribution, number, key signature and lowest bass notes/stems retained; four edges clean excluding following prose.",
+    "caption": "Primjer 3.69. Tiskana str. 201."
+  },
+  {
+    "id": "primjer-3-70",
+    "example": "3.70",
+    "kind": "example",
+    "printed_page": 202,
+    "pdf_page": 102,
+    "source_image": "sources/pages/page-202.png",
+    "rect": [
+      475,
+      159,
+      1436,
+      553
+    ],
+    "image": "images/03-kromatika-a/primjer-3-70.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, C-D(d) heading, optional accidentals and full stacked VII figures retained; native four-edge check clean.",
+    "caption": "Primjer 3.70. Tiskana str. 202."
+  },
+  {
+    "id": "primjer-3-71",
+    "example": "3.71",
+    "kind": "example",
+    "printed_page": 202,
+    "pdf_page": 102,
+    "source_image": "sources/pages/page-202.png",
+    "rect": [
+      142,
+      688,
+      1680,
+      1528
+    ],
+    "image": "images/03-kromatika-a/primjer-3-71.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, all a-e variants, both systems, continuation signs and lowest functional figures retained; all four edges clean.",
+    "caption": "Primjer 3.71. Tiskana str. 202."
+  },
+  {
+    "id": "primjer-3-72",
+    "example": "3.72",
+    "kind": "example",
+    "printed_page": 202,
+    "pdf_page": 102,
+    "source_image": "sources/pages/page-202.png",
+    "rect": [
+      420,
+      1851,
+      1427,
+      2035
+    ],
+    "image": "images/03-kromatika-a/primjer-3-72.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, a/b, optional accidentals, full treble clef and final barline retained; clean four-edge margins.",
+    "caption": "Primjer 3.72. Tiskana str. 202."
+  },
+  {
+    "id": "primjer-3-73",
+    "example": "3.73",
+    "kind": "example",
+    "printed_page": 203,
+    "pdf_page": 102,
+    "source_image": "sources/pages/page-203.png",
+    "rect": [
+      226,
+      230,
+      1022,
+      651
+    ],
+    "image": "images/03-kromatika-a/primjer-3-73.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, C-e heading, complete staves and lower V2 retained; no neighbouring example ink on four edges.",
+    "caption": "Primjer 3.73. Tiskana str. 203."
+  },
+  {
+    "id": "primjer-3-74",
+    "example": "3.74",
+    "kind": "example",
+    "printed_page": 203,
+    "pdf_page": 102,
+    "source_image": "sources/pages/page-203.png",
+    "rect": [
+      1031,
+      234,
+      1741,
+      652
+    ],
+    "image": "images/03-kromatika-a/primjer-3-74.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, C(c)-es heading, continuation sign and lowest stacked VII figures retained; clean four-edge margins.",
+    "caption": "Primjer 3.74. Tiskana str. 203."
+  },
+  {
+    "id": "primjer-3-75",
+    "example": "3.75",
+    "kind": "example",
+    "printed_page": 203,
+    "pdf_page": 102,
+    "source_image": "sources/pages/page-203.png",
+    "rect": [
+      408,
+      951,
+      1546,
+      1346
+    ],
+    "image": "images/03-kromatika-a/primjer-3-75.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, c-f heading, full score and f:VII7 intact; all four edges clean, excluding the ZADACI paragraph.",
+    "caption": "Primjer 3.75. Tiskana str. 203."
+  },
+  {
+    "id": "primjer-3-76",
+    "example": "3.76",
+    "kind": "example",
+    "printed_page": 204,
+    "pdf_page": 103,
+    "source_image": "sources/pages/page-204.png",
+    "rect": [
+      159,
+      159,
+      1703,
+      1028
+    ],
+    "image": "images/03-kromatika-a/primjer-3-76.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, boxed c-a-c title, both complete systems, high slurs and lowest bass stems retained; clean four-edge source margins.",
+    "caption": "Primjer 3.76. Tiskana str. 204."
+  },
+  {
+    "id": "primjer-3-77",
+    "example": "3.77",
+    "kind": "example",
+    "printed_page": 204,
+    "pdf_page": 103,
+    "source_image": "sources/pages/page-204.png",
+    "rect": [
+      163,
+      1668,
+      1689,
+      2060
+    ],
+    "image": "images/03-kromatika-a/primjer-3-77.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, all a-f labels and all upper/lower brackets retained with complete staff ends; four edges clean.",
+    "caption": "Primjer 3.77. Tiskana str. 204."
+  },
+  {
+    "id": "primjer-3-78",
+    "example": "3.78",
+    "kind": "example",
+    "printed_page": 205,
+    "pdf_page": 103,
+    "source_image": "sources/pages/page-205.png",
+    "rect": [
+      219,
+      141,
+      1744,
+      522
+    ],
+    "image": "images/03-kromatika-a/primjer-3-78.png",
+    "review_status": "independent_pass",
+    "review_note": "Number, a-d, upper/lower brackets, optional accidentals and final barline retained; all four edges clean excluding prose below.",
+    "caption": "Primjer 3.78. Tiskana str. 205."
+  },
+  {
+    "id": "zadatak-3-205-2",
+    "example": "Zadatak 2",
+    "kind": "exercise",
+    "printed_page": 205,
+    "pdf_page": 103,
+    "source_image": "sources/pages/page-205.png",
+    "rect": [
+      227,
+      887,
+      1741,
+      1084
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-205-2.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 2, all figures including lowest 3, accidentals and final barline retained; four clean genuine margins.",
+    "caption": "Zadatak 2. Tiskana str. 205."
+  },
+  {
+    "id": "zadatak-3-205-3",
+    "example": "Zadatak 3",
+    "kind": "exercise",
+    "printed_page": 205,
+    "pdf_page": 103,
+    "source_image": "sources/pages/page-205.png",
+    "rect": [
+      221,
+      1102,
+      1741,
+      1516
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-205-3.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 3, both systems, lowest sharp/figures and final barline retained; bottom edge excludes exercise 4 ink.",
+    "caption": "Zadatak 3. Tiskana str. 205."
+  },
+  {
+    "id": "zadatak-3-205-4",
+    "example": "Zadatak 4",
+    "kind": "exercise",
+    "printed_page": 205,
+    "pdf_page": 103,
+    "source_image": "sources/pages/page-205.png",
+    "rect": [
+      222,
+      1521,
+      1741,
+      1839
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-205-4.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 4, both complete systems, key signatures and final barline retained; clean four-edge source margins.",
+    "caption": "Zadatak 4. Tiskana str. 205."
+  },
+  {
+    "id": "zadatak-3-205-5",
+    "example": "Zadatak 5",
+    "kind": "exercise",
+    "printed_page": 205,
+    "pdf_page": 103,
+    "source_image": "sources/pages/page-205.png",
+    "rect": [
+      221,
+      1898,
+      1741,
+      2027
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-205-5.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 5, all accidentals and lowest final note intact; all four edges clean with real source whitespace.",
+    "caption": "Zadatak 5. Tiskana str. 205."
+  },
+  {
+    "id": "zadatak-3-205-6",
+    "example": "Zadatak 6",
+    "kind": "exercise",
+    "printed_page": 205,
+    "pdf_page": 103,
+    "source_image": "sources/pages/page-205.png",
+    "rect": [
+      221,
+      2084,
+      1741,
+      2410
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-205-6.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 6 and both systems complete, including last lower staff end; clean four edges excluding page number.",
+    "caption": "Zadatak 6. Tiskana str. 205."
+  },
+  {
+    "id": "zadatak-3-206-7",
+    "example": "Zadatak 7",
+    "kind": "exercise",
+    "printed_page": 206,
+    "pdf_page": 104,
+    "source_image": "sources/pages/page-206.png",
+    "rect": [
+      161,
+      129,
+      1675,
+      303
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-206-7.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 7, both high slurs, complete clef/key/time signatures and final barline retained; four edges clean.",
+    "caption": "Zadatak 7. Tiskana str. 206."
+  },
+  {
+    "id": "zadatak-3-206-8",
+    "example": "Zadatak 8",
+    "kind": "exercise",
+    "printed_page": 206,
+    "pdf_page": 104,
+    "source_image": "sources/pages/page-206.png",
+    "rect": [
+      161,
+      331,
+      1675,
+      491
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-206-8.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 8, complete high slur and notation retained; native bottom edge excludes the detached mark below the crop. All four edges clean.",
+    "caption": "Zadatak 8. Tiskana str. 206."
+  },
+  {
+    "id": "zadatak-3-206-9",
+    "example": "Zadatak 9",
+    "kind": "exercise",
+    "printed_page": 206,
+    "pdf_page": 104,
+    "source_image": "sources/pages/page-206.png",
+    "rect": [
+      158,
+      514,
+      1674,
+      873
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-206-9.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 9, both systems, all high slurs, lower clef and final barline retained; four clean genuine margins.",
+    "caption": "Zadatak 9. Tiskana str. 206."
+  },
+  {
+    "id": "zadatak-3-206-10",
+    "example": "Zadatak 10",
+    "kind": "exercise",
+    "printed_page": 206,
+    "pdf_page": 104,
+    "source_image": "sources/pages/page-206.png",
+    "rect": [
+      148,
+      899,
+      1674,
+      1065
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-206-10.png",
+    "review_status": "independent_pass",
+    "review_note": "Exercise 10, full key/time signatures, ornaments, slurs and final barline retained; four clean source margins.",
+    "caption": "Zadatak 10. Tiskana str. 206."
+  },
+  {
+    "id": "zadatak-3-206-7-realizacija",
+    "example": "Zadatak 7-realizacija",
+    "kind": "exercise",
+    "printed_page": 206,
+    "pdf_page": 104,
+    "source_image": "sources/pages/page-206.png",
+    "rect": [
+      133,
+      1437,
+      1675,
+      2359
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-206-7-realizacija.png",
+    "review_status": "independent_pass",
+    "review_note": "Full Realizacija zadatka 7. title, tonal labels, both grand-staff systems, lowest stems and final barline retained; four edges clean and page number excluded.",
+    "caption": "Zadatak 7-realizacija. Tiskana str. 206."
+  }
+]

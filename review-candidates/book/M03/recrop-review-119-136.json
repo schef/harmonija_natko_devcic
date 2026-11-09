@@ -1,0 +1,47 @@
+{
+  "role": "independent_visual_recrop_review",
+  "manifest": "review-candidates/book/M03/images-corrected-119-136.json",
+  "authoritative_page_index": "sources/index.json",
+  "scope": "Visual re-review of corrected primjer-2-265 only; metadata mapping verification across the corrected manifest. Other images were not visually re-reviewed in this follow-up.",
+  "summary": {"visually_reviewed": 1, "PASS": 1, "RECROP_REQUIRED": 0, "exact_decoded_pixel_matches": 1, "metadata_records_checked": 67, "pdf_page_corrections_verified": 35},
+  "metadata_verification": {
+    "decision": "PASS",
+    "all_corrected_pdf_pages_match_source_index": true,
+    "all_source_image_paths_match_source_index": true,
+    "all_35_changed_records_preserve_original_pdf_page": true,
+    "printed_page_121_pdf_page": 61,
+    "printed_page_136_pdf_page": 69,
+    "corrected_manifest_pdf_range": [60, 69],
+    "note": "sources/index.json is authoritative. The raw manifest assigned even printed pages 120–136 to the preceding PDF page; all 35 affected records are corrected in the corrected manifest and retain original_pdf_page. My earlier visual-review-119-136 reports' claim that the records correctly covered PDF 60–68, including printed 136 on PDF 68, was wrong and is superseded by this verification. Printed 136 is on PDF 69. Earlier report files were not edited."
+  },
+  "records": [
+    {
+      "id": "primjer-2-265",
+      "image": "images/02-dijatonika-b/recrops/primjer-2-265.png",
+      "source_image": "sources/pages/page-121.png",
+      "printed_page": 121,
+      "pdf_page": 61,
+      "rect": [209, 2010, 1738, 2381],
+      "decision": "PASS",
+      "reason": "The corrected source-only rectangle removes the preceding example's partial handwritten 3. Number 2.265, both complete staves, braces/clefs/key/time signatures, all sequence brackets including the highest rightmost bracket, all notes/rests/stems/beams, and the complete printed open staff ends match the authoritative source. Native-resolution inspection of every edge confirms clean genuine source margins, without neighbouring notation, prose, page number, handwriting, or partial foreign lettering. The small disconnected cluster beneath the first bracket is scan flecking, not lettering. No attribution or lettered variants are printed for this example.",
+      "edges": {
+        "top": "PASS: preceding handwritten 3 fragment excluded; highest/rightmost bracket intact, beginning at source y=2014, with four original source rows above it.",
+        "bottom": "PASS: lowest bass beams and final flagged note intact; genuine white margin, no page number.",
+        "left": "PASS: full example number, braces, clefs and staff beginnings retained; genuine clean margin.",
+        "right": "PASS: complete printed open staff ends, final notes/flags and rightmost bracket retained; genuine clean margin. No final barline is printed at these open ends."
+      },
+      "pixel_verification": {
+        "source_mode": "RGB",
+        "candidate_mode": "RGB",
+        "size": [1529, 371],
+        "exact_decoded_pixels": true,
+        "comparison": "Same RGB mode, dimensions and raw decoded bytes as source_image.crop(rect).",
+        "decoded_rgb_sha256": "0c501f5ff463d62ae39129ca2f2fad2ae902239c563d291cce858a3922fa69e3"
+      },
+      "proposed_rect": null,
+      "source_limited": false,
+      "ready_for_image_integration": true
+    }
+  ],
+  "limitations": "This PASS applies only to the separate corrected 2.265 image. It does not approve other failed images, whole-milestone completion, text transcription, or retouching. No image, manifest, source index, chapter, tracker, or prior review report was edited."
+}

@@ -1,0 +1,1874 @@
+[
+  {
+    "id": "primjer-3-1",
+    "example": "3.1",
+    "kind": "example",
+    "printed_page": 175,
+    "pdf_page": 88,
+    "source_image": "sources/pages/page-175.png",
+    "rect": [
+      356,
+      841,
+      1605,
+      1010
+    ],
+    "image": "images/03-kromatika-a/primjer-3-1.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Primjer 3.1. Tiskana str. 175."
+  },
+  {
+    "id": "primjer-3-2",
+    "example": "3.2",
+    "kind": "example",
+    "printed_page": 175,
+    "pdf_page": 88,
+    "source_image": "sources/pages/page-175.png",
+    "rect": [
+      207,
+      1957,
+      848,
+      2298
+    ],
+    "image": "images/03-kromatika-a/primjer-3-2.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: faint source handwriting near notation; retained without retouch.",
+    "caption": "Primjer 3.2. Tiskana str. 175."
+  },
+  {
+    "id": "primjer-3-3",
+    "example": "3.3",
+    "kind": "example",
+    "printed_page": 175,
+    "pdf_page": 88,
+    "source_image": "sources/pages/page-175.png",
+    "rect": [
+      893,
+      1871,
+      1735,
+      2330
+    ],
+    "image": "images/03-kromatika-a/primjer-3-3.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: faint source handwriting within score area; retained without retouch.",
+    "caption": "Primjer 3.3. Tiskana str. 175."
+  },
+  {
+    "id": "primjer-3-4",
+    "example": "3.4",
+    "kind": "example",
+    "printed_page": 176,
+    "pdf_page": 89,
+    "source_image": "sources/pages/page-176.png",
+    "rect": [
+      277,
+      515,
+      1558,
+      843
+    ],
+    "image": "images/03-kromatika-a/primjer-3-4.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: source pencil traces inside score; retained.",
+    "caption": "Primjer 3.4. Tiskana str. 176."
+  },
+  {
+    "id": "primjer-3-5",
+    "example": "3.5",
+    "kind": "example",
+    "printed_page": 176,
+    "pdf_page": 89,
+    "source_image": "sources/pages/page-176.png",
+    "rect": [
+      277,
+      908,
+      1558,
+      1233
+    ],
+    "image": "images/03-kromatika-a/primjer-3-5.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: source pencil traces inside score; retained.",
+    "caption": "Primjer 3.5. Tiskana str. 176."
+  },
+  {
+    "id": "primjer-3-6",
+    "example": "3.6",
+    "kind": "example",
+    "printed_page": 177,
+    "pdf_page": 89,
+    "source_image": "sources/pages/page-177.png",
+    "rect": [
+      224,
+      1172,
+      1738,
+      1584
+    ],
+    "image": "images/03-kromatika-a/primjer-3-6.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: faint pencil inside score area.",
+    "caption": "Primjer 3.6. Tiskana str. 177."
+  },
+  {
+    "id": "primjer-3-7",
+    "example": "3.7",
+    "kind": "example",
+    "printed_page": 178,
+    "pdf_page": 90,
+    "source_image": "sources/pages/page-178.png",
+    "rect": [
+      175,
+      607,
+      1442,
+      1026
+    ],
+    "image": "images/03-kromatika-a/primjer-3-7.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: source handwriting beside second system.",
+    "caption": "Primjer 3.7. Tiskana str. 178."
+  },
+  {
+    "id": "primjer-3-8",
+    "example": "3.8",
+    "kind": "example",
+    "printed_page": 178,
+    "pdf_page": 90,
+    "source_image": "sources/pages/page-178.png",
+    "rect": [
+      175,
+      1047,
+      1442,
+      1507
+    ],
+    "image": "images/03-kromatika-a/primjer-3-8.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: pencil analysis interleaved with systems.",
+    "caption": "Primjer 3.8. Tiskana str. 178."
+  },
+  {
+    "id": "primjer-3-9",
+    "example": "3.9",
+    "kind": "example",
+    "printed_page": 178,
+    "pdf_page": 90,
+    "source_image": "sources/pages/page-178.png",
+    "rect": [
+      175,
+      1507,
+      1676,
+      1725
+    ],
+    "image": "images/03-kromatika-a/primjer-3-9.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: source pencil analysis below notes.",
+    "caption": "Primjer 3.9. Tiskana str. 178."
+  },
+  {
+    "id": "primjer-3-10",
+    "example": "3.10",
+    "kind": "example",
+    "printed_page": 178,
+    "pdf_page": 90,
+    "source_image": "sources/pages/page-178.png",
+    "rect": [
+      169,
+      1725,
+      1442,
+      1961
+    ],
+    "image": "images/03-kromatika-a/primjer-3-10.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: pencil analysis below and near upper edge; neighbouring handwritten analysis cannot all be excluded.",
+    "caption": "Primjer 3.10. Tiskana str. 178."
+  },
+  {
+    "id": "primjer-3-11",
+    "example": "3.11",
+    "kind": "example",
+    "printed_page": 179,
+    "pdf_page": 90,
+    "source_image": "sources/pages/page-179.png",
+    "rect": [
+      455,
+      404,
+      1435,
+      611
+    ],
+    "image": "images/03-kromatika-a/primjer-3-11.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: source handwriting interleaved with variants.",
+    "caption": "Primjer 3.11. Tiskana str. 179."
+  },
+  {
+    "id": "primjer-3-12",
+    "example": "3.12",
+    "kind": "example",
+    "printed_page": 179,
+    "pdf_page": 90,
+    "source_image": "sources/pages/page-179.png",
+    "rect": [
+      208,
+      685,
+      1715,
+      955
+    ],
+    "image": "images/03-kromatika-a/primjer-3-12.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: source handwriting above and below variants.",
+    "caption": "Primjer 3.12. Tiskana str. 179."
+  },
+  {
+    "id": "primjer-3-13",
+    "example": "3.13",
+    "kind": "example",
+    "printed_page": 179,
+    "pdf_page": 90,
+    "source_image": "sources/pages/page-179.png",
+    "rect": [
+      322,
+      1230,
+      1611,
+      1429
+    ],
+    "image": "images/03-kromatika-a/primjer-3-13.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: source handwriting alongside variant labels.",
+    "caption": "Primjer 3.13. Tiskana str. 179."
+  },
+  {
+    "id": "primjer-3-14",
+    "example": "3.14",
+    "kind": "example",
+    "printed_page": 179,
+    "pdf_page": 90,
+    "source_image": "sources/pages/page-179.png",
+    "rect": [
+      551,
+      1478,
+      1364,
+      1897
+    ],
+    "image": "images/03-kromatika-a/primjer-3-14.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: faint source pencil above attribution.",
+    "caption": "Primjer 3.14. Tiskana str. 179."
+  },
+  {
+    "id": "primjer-3-15",
+    "example": "3.15",
+    "kind": "example",
+    "printed_page": 180,
+    "pdf_page": 91,
+    "source_image": "sources/pages/page-180.png",
+    "rect": [
+      532,
+      197,
+      1345,
+      594
+    ],
+    "image": "images/03-kromatika-a/primjer-3-15.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: source pencil by Roman numerals.",
+    "caption": "Primjer 3.15. Tiskana str. 180."
+  },
+  {
+    "id": "primjer-3-16",
+    "example": "3.16",
+    "kind": "example",
+    "printed_page": 180,
+    "pdf_page": 91,
+    "source_image": "sources/pages/page-180.png",
+    "rect": [
+      412,
+      939,
+      1457,
+      1347
+    ],
+    "image": "images/03-kromatika-a/primjer-3-16.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: pencil analysis interleaved with notation.",
+    "caption": "Primjer 3.16. Tiskana str. 180."
+  },
+  {
+    "id": "primjer-3-17",
+    "example": "3.17",
+    "kind": "example",
+    "printed_page": 180,
+    "pdf_page": 91,
+    "source_image": "sources/pages/page-180.png",
+    "rect": [
+      170,
+      1873,
+      1700,
+      2341
+    ],
+    "image": "images/03-kromatika-a/primjer-3-17.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Footnote below example excluded for text transcription; asterisks retained.",
+    "caption": "Primjer 3.17. Tiskana str. 180."
+  },
+  {
+    "id": "primjer-3-18",
+    "example": "3.18",
+    "kind": "example",
+    "printed_page": 181,
+    "pdf_page": 91,
+    "source_image": "sources/pages/page-181.png",
+    "rect": [
+      205,
+      1177,
+      1736,
+      1599
+    ],
+    "image": "images/03-kromatika-a/primjer-3-18.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Primjer 3.18. Tiskana str. 181."
+  },
+  {
+    "id": "primjer-3-19",
+    "example": "3.19",
+    "kind": "example",
+    "printed_page": 182,
+    "pdf_page": 92,
+    "source_image": "sources/pages/page-182.png",
+    "rect": [
+      164,
+      151,
+      1706,
+      1297
+    ],
+    "image": "images/03-kromatika-a/primjer-3-19.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: source pencil analysis interleaved with all three systems.",
+    "caption": "Primjer 3.19. Tiskana str. 182."
+  },
+  {
+    "id": "primjer-3-20",
+    "example": "3.20",
+    "kind": "example",
+    "printed_page": 183,
+    "pdf_page": 92,
+    "source_image": "sources/pages/page-183.png",
+    "rect": [
+      220,
+      142,
+      1748,
+      558
+    ],
+    "image": "images/03-kromatika-a/primjer-3-20.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Primjer 3.20. Tiskana str. 183."
+  },
+  {
+    "id": "primjer-3-21",
+    "example": "3.21",
+    "kind": "example",
+    "printed_page": 183,
+    "pdf_page": 92,
+    "source_image": "sources/pages/page-183.png",
+    "rect": [
+      227,
+      589,
+      1748,
+      1023
+    ],
+    "image": "images/03-kromatika-a/primjer-3-21.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: pencil traces interleaved with notes and lower annotations.",
+    "caption": "Primjer 3.21. Tiskana str. 183."
+  },
+  {
+    "id": "primjer-3-22",
+    "example": "3.22",
+    "kind": "example",
+    "printed_page": 183,
+    "pdf_page": 92,
+    "source_image": "sources/pages/page-183.png",
+    "rect": [
+      217,
+      1029,
+      1748,
+      1968
+    ],
+    "image": "images/03-kromatika-a/primjer-3-22.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: pencil analysis interleaved with both systems.",
+    "caption": "Primjer 3.22. Tiskana str. 183."
+  },
+  {
+    "id": "primjer-3-23",
+    "example": "3.23",
+    "kind": "example",
+    "printed_page": 183,
+    "pdf_page": 92,
+    "source_image": "sources/pages/page-183.png",
+    "rect": [
+      221,
+      1972,
+      1748,
+      2421
+    ],
+    "image": "images/03-kromatika-a/primjer-3-23.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: pencil analysis among variant labels and lower figures.",
+    "caption": "Primjer 3.23. Tiskana str. 183."
+  },
+  {
+    "id": "primjer-3-24",
+    "example": "3.24",
+    "kind": "example",
+    "printed_page": 184,
+    "pdf_page": 93,
+    "source_image": "sources/pages/page-184.png",
+    "rect": [
+      171,
+      606,
+      1698,
+      1094
+    ],
+    "image": "images/03-kromatika-a/primjer-3-24.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: source handwritten analysis overlaps example.",
+    "caption": "Primjer 3.24. Tiskana str. 184."
+  },
+  {
+    "id": "primjer-3-25",
+    "example": "3.25",
+    "kind": "example",
+    "printed_page": 184,
+    "pdf_page": 93,
+    "source_image": "sources/pages/page-184.png",
+    "rect": [
+      502,
+      1476,
+      1332,
+      1933
+    ],
+    "image": "images/03-kromatika-a/primjer-3-25.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: source pencil within notation area.",
+    "caption": "Primjer 3.25. Tiskana str. 184."
+  },
+  {
+    "id": "primjer-3-26",
+    "example": "3.26",
+    "kind": "example",
+    "printed_page": 185,
+    "pdf_page": 93,
+    "source_image": "sources/pages/page-185.png",
+    "rect": [
+      206,
+      347,
+      1734,
+      797
+    ],
+    "image": "images/03-kromatika-a/primjer-3-26.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: pencil labels above printed score.",
+    "caption": "Primjer 3.26. Tiskana str. 185."
+  },
+  {
+    "id": "primjer-3-27",
+    "example": "3.27",
+    "kind": "example",
+    "printed_page": 185,
+    "pdf_page": 93,
+    "source_image": "sources/pages/page-185.png",
+    "rect": [
+      206,
+      799,
+      1734,
+      1245
+    ],
+    "image": "images/03-kromatika-a/primjer-3-27.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: pencil labels interleaved with variant labels.",
+    "caption": "Primjer 3.27. Tiskana str. 185."
+  },
+  {
+    "id": "primjer-3-28",
+    "example": "3.28",
+    "kind": "example",
+    "printed_page": 185,
+    "pdf_page": 93,
+    "source_image": "sources/pages/page-185.png",
+    "rect": [
+      195,
+      1548,
+      1734,
+      2412
+    ],
+    "image": "images/03-kromatika-a/primjer-3-28.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: source pencil analysis within both systems. Continues p186; separate crop.",
+    "caption": "Primjer 3.28. Tiskana str. 185."
+  },
+  {
+    "id": "primjer-3-28-p186",
+    "example": "3.28",
+    "kind": "example",
+    "printed_page": 186,
+    "pdf_page": 94,
+    "source_image": "sources/pages/page-186.png",
+    "rect": [
+      184,
+      141,
+      1724,
+      617
+    ],
+    "image": "images/03-kromatika-a/primjer-3-28-p186.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Continuation of 3.28, variants e-f; number not repeated in source. cleanup-required: extensive pencil interleaved with notation.",
+    "caption": "Primjer 3.28. Tiskana str. 186."
+  },
+  {
+    "id": "primjer-3-29",
+    "example": "3.29",
+    "kind": "example",
+    "printed_page": 186,
+    "pdf_page": 94,
+    "source_image": "sources/pages/page-186.png",
+    "rect": [
+      170,
+      1186,
+      1722,
+      2097
+    ],
+    "image": "images/03-kromatika-a/primjer-3-29.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: extensive source pencil among systems and lower annotations.",
+    "caption": "Primjer 3.29. Tiskana str. 186."
+  },
+  {
+    "id": "primjer-3-30",
+    "example": "3.30",
+    "kind": "example",
+    "printed_page": 187,
+    "pdf_page": 94,
+    "source_image": "sources/pages/page-187.png",
+    "rect": [
+      238,
+      550,
+      1780,
+      1414
+    ],
+    "image": "images/03-kromatika-a/primjer-3-30.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Primjer 3.30. Tiskana str. 187."
+  },
+  {
+    "id": "primjer-3-31",
+    "example": "3.31",
+    "kind": "example",
+    "printed_page": 187,
+    "pdf_page": 94,
+    "source_image": "sources/pages/page-187.png",
+    "rect": [
+      245,
+      1726,
+      1780,
+      2285
+    ],
+    "image": "images/03-kromatika-a/primjer-3-31.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Asterisk retained; associated prose footnote excluded for text transcription.",
+    "caption": "Primjer 3.31. Tiskana str. 187."
+  },
+  {
+    "id": "primjer-3-32",
+    "example": "3.32",
+    "kind": "example",
+    "printed_page": 188,
+    "pdf_page": 95,
+    "source_image": "sources/pages/page-188.png",
+    "rect": [
+      157,
+      571,
+      1683,
+      1404
+    ],
+    "image": "images/03-kromatika-a/primjer-3-32.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: pencil analysis within both variants.",
+    "caption": "Primjer 3.32. Tiskana str. 188."
+  },
+  {
+    "id": "primjer-3-33",
+    "example": "3.33",
+    "kind": "example",
+    "printed_page": 188,
+    "pdf_page": 95,
+    "source_image": "sources/pages/page-188.png",
+    "rect": [
+      157,
+      1410,
+      1678,
+      1802
+    ],
+    "image": "images/03-kromatika-a/primjer-3-33.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: source handwritten chord labels above score.",
+    "caption": "Primjer 3.33. Tiskana str. 188."
+  },
+  {
+    "id": "primjer-3-34",
+    "example": "3.34",
+    "kind": "example",
+    "printed_page": 188,
+    "pdf_page": 95,
+    "source_image": "sources/pages/page-188.png",
+    "rect": [
+      154,
+      1841,
+      1677,
+      2286
+    ],
+    "image": "images/03-kromatika-a/primjer-3-34.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: source handwritten analysis above and within score.",
+    "caption": "Primjer 3.34. Tiskana str. 188."
+  },
+  {
+    "id": "primjer-3-35",
+    "example": "3.35",
+    "kind": "example",
+    "printed_page": 189,
+    "pdf_page": 95,
+    "source_image": "sources/pages/page-189.png",
+    "rect": [
+      232,
+      133,
+      1753,
+      522
+    ],
+    "image": "images/03-kromatika-a/primjer-3-35.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: pencil analysis below score.",
+    "caption": "Primjer 3.35. Tiskana str. 189."
+  },
+  {
+    "id": "primjer-3-36",
+    "example": "3.36",
+    "kind": "example",
+    "printed_page": 189,
+    "pdf_page": 95,
+    "source_image": "sources/pages/page-189.png",
+    "rect": [
+      215,
+      534,
+      1753,
+      1316
+    ],
+    "image": "images/03-kromatika-a/primjer-3-36.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: pencil analysis inside both systems. Asterisk retained, footnote excluded for transcription.",
+    "caption": "Primjer 3.36. Tiskana str. 189."
+  },
+  {
+    "id": "zadatak-3-189-2",
+    "example": "Zadatak 2",
+    "kind": "exercise",
+    "printed_page": 189,
+    "pdf_page": 95,
+    "source_image": "sources/pages/page-189.png",
+    "rect": [
+      238,
+      1728,
+      1750,
+      1926
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-189-2.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Zadatak 2. Tiskana str. 189."
+  },
+  {
+    "id": "zadatak-3-189-3",
+    "example": "Zadatak 3",
+    "kind": "exercise",
+    "printed_page": 189,
+    "pdf_page": 95,
+    "source_image": "sources/pages/page-189.png",
+    "rect": [
+      235,
+      1949,
+      1750,
+      2142
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-189-3.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Zadatak 3. Tiskana str. 189."
+  },
+  {
+    "id": "zadatak-3-189-4",
+    "example": "Zadatak 4",
+    "kind": "exercise",
+    "printed_page": 189,
+    "pdf_page": 95,
+    "source_image": "sources/pages/page-189.png",
+    "rect": [
+      231,
+      2156,
+      1750,
+      2359
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-189-4.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Zadatak 4. Tiskana str. 189."
+  },
+  {
+    "id": "zadatak-3-190-5",
+    "example": "Zadatak 5",
+    "kind": "exercise",
+    "printed_page": 190,
+    "pdf_page": 96,
+    "source_image": "sources/pages/page-190.png",
+    "rect": [
+      164,
+      111,
+      1680,
+      312
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-190-5.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Zadatak 5. Tiskana str. 190."
+  },
+  {
+    "id": "zadatak-3-190-6",
+    "example": "Zadatak 6",
+    "kind": "exercise",
+    "printed_page": 190,
+    "pdf_page": 96,
+    "source_image": "sources/pages/page-190.png",
+    "rect": [
+      163,
+      333,
+      1680,
+      517
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-190-6.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Zadatak 6. Tiskana str. 190."
+  },
+  {
+    "id": "zadatak-3-190-7",
+    "example": "Zadatak 7",
+    "kind": "exercise",
+    "printed_page": 190,
+    "pdf_page": 96,
+    "source_image": "sources/pages/page-190.png",
+    "rect": [
+      168,
+      528,
+      1680,
+      718
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-190-7.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Lower figures and next exercise slur nearly touch; natural separation used.",
+    "caption": "Zadatak 7. Tiskana str. 190."
+  },
+  {
+    "id": "zadatak-3-190-8",
+    "example": "Zadatak 8",
+    "kind": "exercise",
+    "printed_page": 190,
+    "pdf_page": 96,
+    "source_image": "sources/pages/page-190.png",
+    "rect": [
+      168,
+      718,
+      1680,
+      880
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-190-8.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Upper slur close to previous exercise figures; natural separation used.",
+    "caption": "Zadatak 8. Tiskana str. 190."
+  },
+  {
+    "id": "zadatak-3-190-9",
+    "example": "Zadatak 9",
+    "kind": "exercise",
+    "printed_page": 190,
+    "pdf_page": 96,
+    "source_image": "sources/pages/page-190.png",
+    "rect": [
+      168,
+      904,
+      1676,
+      1067
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-190-9.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Zadatak 9. Tiskana str. 190."
+  },
+  {
+    "id": "zadatak-3-190-10",
+    "example": "Zadatak 10",
+    "kind": "exercise",
+    "printed_page": 190,
+    "pdf_page": 96,
+    "source_image": "sources/pages/page-190.png",
+    "rect": [
+      158,
+      1096,
+      1674,
+      1446
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-190-10.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Both systems retained.",
+    "caption": "Zadatak 10. Tiskana str. 190."
+  },
+  {
+    "id": "zadatak-3-190-11",
+    "example": "Zadatak 11",
+    "kind": "exercise",
+    "printed_page": 190,
+    "pdf_page": 96,
+    "source_image": "sources/pages/page-190.png",
+    "rect": [
+      155,
+      1468,
+      1672,
+      1632
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-190-11.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Zadatak 11. Tiskana str. 190."
+  },
+  {
+    "id": "zadatak-3-190-12",
+    "example": "Zadatak 12",
+    "kind": "exercise",
+    "printed_page": 190,
+    "pdf_page": 96,
+    "source_image": "sources/pages/page-190.png",
+    "rect": [
+      155,
+      1653,
+      1672,
+      1828
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-190-12.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Zadatak 12. Tiskana str. 190."
+  },
+  {
+    "id": "zadatak-3-190-13",
+    "example": "Zadatak 13",
+    "kind": "exercise",
+    "printed_page": 190,
+    "pdf_page": 96,
+    "source_image": "sources/pages/page-190.png",
+    "rect": [
+      154,
+      1843,
+      1667,
+      2017
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-190-13.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Zadatak 13. Tiskana str. 190."
+  },
+  {
+    "id": "zadatak-3-190-14",
+    "example": "Zadatak 14",
+    "kind": "exercise",
+    "printed_page": 190,
+    "pdf_page": 96,
+    "source_image": "sources/pages/page-190.png",
+    "rect": [
+      151,
+      2031,
+      1666,
+      2382
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-190-14.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Both systems retained.",
+    "caption": "Zadatak 14. Tiskana str. 190."
+  },
+  {
+    "id": "zadatak-3-191-8-realizacija",
+    "example": "Zadatak 8-realizacija",
+    "kind": "exercise",
+    "printed_page": 191,
+    "pdf_page": 96,
+    "source_image": "sources/pages/page-191.png",
+    "rect": [
+      192,
+      114,
+      1728,
+      628
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-191-8-realizacija.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Realizacija zadatka 8: printed identifying label retained; no separate example number in source.",
+    "caption": "Zadatak 8-realizacija. Tiskana str. 191."
+  },
+  {
+    "id": "primjer-3-37",
+    "example": "3.37",
+    "kind": "example",
+    "printed_page": 192,
+    "pdf_page": 97,
+    "source_image": "sources/pages/page-192.png",
+    "rect": [
+      175,
+      1676,
+      868,
+      2133
+    ],
+    "image": "images/03-kromatika-a/primjer-3-37.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: handwritten analysis interleaved with score.",
+    "caption": "Primjer 3.37. Tiskana str. 192."
+  },
+  {
+    "id": "primjer-3-38",
+    "example": "3.38",
+    "kind": "example",
+    "printed_page": 192,
+    "pdf_page": 97,
+    "source_image": "sources/pages/page-192.png",
+    "rect": [
+      909,
+      1676,
+      1698,
+      2122
+    ],
+    "image": "images/03-kromatika-a/primjer-3-38.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: handwritten analysis interleaved with score.",
+    "caption": "Primjer 3.38. Tiskana str. 192."
+  },
+  {
+    "id": "primjer-3-39",
+    "example": "3.39",
+    "kind": "example",
+    "printed_page": 193,
+    "pdf_page": 97,
+    "source_image": "sources/pages/page-193.png",
+    "rect": [
+      566,
+      63,
+      1403,
+      474
+    ],
+    "image": "images/03-kromatika-a/primjer-3-39.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: handwritten chord names and traces within score.",
+    "caption": "Primjer 3.39. Tiskana str. 193."
+  },
+  {
+    "id": "primjer-3-40",
+    "example": "3.40",
+    "kind": "example",
+    "printed_page": 193,
+    "pdf_page": 97,
+    "source_image": "sources/pages/page-193.png",
+    "rect": [
+      216,
+      1165,
+      966,
+      1575
+    ],
+    "image": "images/03-kromatika-a/primjer-3-40.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: handwritten chord names above score.",
+    "caption": "Primjer 3.40. Tiskana str. 193."
+  },
+  {
+    "id": "primjer-3-41",
+    "example": "3.41",
+    "kind": "example",
+    "printed_page": 193,
+    "pdf_page": 97,
+    "source_image": "sources/pages/page-193.png",
+    "rect": [
+      966,
+      1164,
+      1730,
+      1572
+    ],
+    "image": "images/03-kromatika-a/primjer-3-41.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: handwritten chord names above score.",
+    "caption": "Primjer 3.41. Tiskana str. 193."
+  },
+  {
+    "id": "primjer-3-42",
+    "example": "3.42",
+    "kind": "example",
+    "printed_page": 193,
+    "pdf_page": 97,
+    "source_image": "sources/pages/page-193.png",
+    "rect": [
+      366,
+      1587,
+      1551,
+      2082
+    ],
+    "image": "images/03-kromatika-a/primjer-3-42.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: handwritten analysis above and below score.",
+    "caption": "Primjer 3.42. Tiskana str. 193."
+  },
+  {
+    "id": "primjer-3-43",
+    "example": "3.43",
+    "kind": "example",
+    "printed_page": 194,
+    "pdf_page": 98,
+    "source_image": "sources/pages/page-194.png",
+    "rect": [
+      175,
+      113,
+      796,
+      504
+    ],
+    "image": "images/03-kromatika-a/primjer-3-43.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Primjer 3.43. Tiskana str. 194."
+  },
+  {
+    "id": "primjer-3-44",
+    "example": "3.44",
+    "kind": "example",
+    "printed_page": 194,
+    "pdf_page": 98,
+    "source_image": "sources/pages/page-194.png",
+    "rect": [
+      800,
+      104,
+      1695,
+      502
+    ],
+    "image": "images/03-kromatika-a/primjer-3-44.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Primjer 3.44. Tiskana str. 194."
+  },
+  {
+    "id": "primjer-3-45",
+    "example": "3.45",
+    "kind": "example",
+    "printed_page": 194,
+    "pdf_page": 98,
+    "source_image": "sources/pages/page-194.png",
+    "rect": [
+      261,
+      731,
+      1572,
+      1093
+    ],
+    "image": "images/03-kromatika-a/primjer-3-45.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Primjer 3.45. Tiskana str. 194."
+  },
+  {
+    "id": "primjer-3-46",
+    "example": "3.46",
+    "kind": "example",
+    "printed_page": 194,
+    "pdf_page": 98,
+    "source_image": "sources/pages/page-194.png",
+    "rect": [
+      180,
+      1395,
+      995,
+      1812
+    ],
+    "image": "images/03-kromatika-a/primjer-3-46.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Primjer 3.46. Tiskana str. 194."
+  },
+  {
+    "id": "primjer-3-47",
+    "example": "3.47",
+    "kind": "example",
+    "printed_page": 194,
+    "pdf_page": 98,
+    "source_image": "sources/pages/page-194.png",
+    "rect": [
+      1003,
+      1403,
+      1695,
+      1824
+    ],
+    "image": "images/03-kromatika-a/primjer-3-47.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Primjer 3.47. Tiskana str. 194."
+  },
+  {
+    "id": "primjer-3-48",
+    "example": "3.48",
+    "kind": "example",
+    "printed_page": 195,
+    "pdf_page": 98,
+    "source_image": "sources/pages/page-195.png",
+    "rect": [
+      227,
+      135,
+      951,
+      526
+    ],
+    "image": "images/03-kromatika-a/primjer-3-48.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Primjer 3.48. Tiskana str. 195."
+  },
+  {
+    "id": "primjer-3-49",
+    "example": "3.49",
+    "kind": "example",
+    "printed_page": 195,
+    "pdf_page": 98,
+    "source_image": "sources/pages/page-195.png",
+    "rect": [
+      959,
+      140,
+      1745,
+      542
+    ],
+    "image": "images/03-kromatika-a/primjer-3-49.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Primjer 3.49. Tiskana str. 195."
+  },
+  {
+    "id": "primjer-3-50",
+    "example": "3.50",
+    "kind": "example",
+    "printed_page": 195,
+    "pdf_page": 98,
+    "source_image": "sources/pages/page-195.png",
+    "rect": [
+      224,
+      990,
+      1027,
+      1386
+    ],
+    "image": "images/03-kromatika-a/primjer-3-50.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Primjer 3.50. Tiskana str. 195."
+  },
+  {
+    "id": "primjer-3-51",
+    "example": "3.51",
+    "kind": "example",
+    "printed_page": 195,
+    "pdf_page": 98,
+    "source_image": "sources/pages/page-195.png",
+    "rect": [
+      1037,
+      997,
+      1740,
+      1385
+    ],
+    "image": "images/03-kromatika-a/primjer-3-51.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Primjer 3.51. Tiskana str. 195."
+  },
+  {
+    "id": "primjer-3-52",
+    "example": "3.52",
+    "kind": "example",
+    "printed_page": 195,
+    "pdf_page": 98,
+    "source_image": "sources/pages/page-195.png",
+    "rect": [
+      214,
+      1761,
+      871,
+      2157
+    ],
+    "image": "images/03-kromatika-a/primjer-3-52.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Primjer 3.52. Tiskana str. 195."
+  },
+  {
+    "id": "primjer-3-53",
+    "example": "3.53",
+    "kind": "example",
+    "printed_page": 195,
+    "pdf_page": 98,
+    "source_image": "sources/pages/page-195.png",
+    "rect": [
+      902,
+      1751,
+      1735,
+      2170
+    ],
+    "image": "images/03-kromatika-a/primjer-3-53.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Primjer 3.53. Tiskana str. 195."
+  },
+  {
+    "id": "primjer-3-54",
+    "example": "3.54",
+    "kind": "example",
+    "printed_page": 196,
+    "pdf_page": 99,
+    "source_image": "sources/pages/page-196.png",
+    "rect": [
+      157,
+      422,
+      921,
+      830
+    ],
+    "image": "images/03-kromatika-a/primjer-3-54.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Primjer 3.54. Tiskana str. 196."
+  },
+  {
+    "id": "primjer-3-55",
+    "example": "3.55",
+    "kind": "example",
+    "printed_page": 196,
+    "pdf_page": 99,
+    "source_image": "sources/pages/page-196.png",
+    "rect": [
+      936,
+      429,
+      1683,
+      825
+    ],
+    "image": "images/03-kromatika-a/primjer-3-55.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Primjer 3.55. Tiskana str. 196."
+  },
+  {
+    "id": "primjer-3-56",
+    "example": "3.56",
+    "kind": "example",
+    "printed_page": 196,
+    "pdf_page": 99,
+    "source_image": "sources/pages/page-196.png",
+    "rect": [
+      167,
+      1455,
+      886,
+      1831
+    ],
+    "image": "images/03-kromatika-a/primjer-3-56.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Primjer 3.56. Tiskana str. 196."
+  },
+  {
+    "id": "primjer-3-57",
+    "example": "3.57",
+    "kind": "example",
+    "printed_page": 196,
+    "pdf_page": 99,
+    "source_image": "sources/pages/page-196.png",
+    "rect": [
+      901,
+      1442,
+      1687,
+      1841
+    ],
+    "image": "images/03-kromatika-a/primjer-3-57.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Primjer 3.57. Tiskana str. 196."
+  },
+  {
+    "id": "primjer-3-58",
+    "example": "3.58",
+    "kind": "example",
+    "printed_page": 196,
+    "pdf_page": 99,
+    "source_image": "sources/pages/page-196.png",
+    "rect": [
+      439,
+      1900,
+      1396,
+      2221
+    ],
+    "image": "images/03-kromatika-a/primjer-3-58.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Primjer 3.58. Tiskana str. 196."
+  },
+  {
+    "id": "primjer-3-59",
+    "example": "3.59",
+    "kind": "example",
+    "printed_page": 197,
+    "pdf_page": 99,
+    "source_image": "sources/pages/page-197.png",
+    "rect": [
+      198,
+      130,
+      1748,
+      985
+    ],
+    "image": "images/03-kromatika-a/primjer-3-59.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Primjer 3.59. Tiskana str. 197."
+  },
+  {
+    "id": "primjer-3-60",
+    "example": "3.60",
+    "kind": "example",
+    "printed_page": 197,
+    "pdf_page": 99,
+    "source_image": "sources/pages/page-197.png",
+    "rect": [
+      224,
+      1345,
+      1741,
+      1882
+    ],
+    "image": "images/03-kromatika-a/primjer-3-60.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Primjer 3.60. Tiskana str. 197."
+  },
+  {
+    "id": "primjer-3-61",
+    "example": "3.61",
+    "kind": "example",
+    "printed_page": 197,
+    "pdf_page": 99,
+    "source_image": "sources/pages/page-197.png",
+    "rect": [
+      224,
+      1898,
+      1743,
+      2316
+    ],
+    "image": "images/03-kromatika-a/primjer-3-61.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Primjer 3.61. Tiskana str. 197."
+  },
+  {
+    "id": "primjer-3-62",
+    "example": "3.62",
+    "kind": "example",
+    "printed_page": 198,
+    "pdf_page": 100,
+    "source_image": "sources/pages/page-198.png",
+    "rect": [
+      143,
+      136,
+      1688,
+      1455
+    ],
+    "image": "images/03-kromatika-a/primjer-3-62.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Primjer 3.62. Tiskana str. 198."
+  },
+  {
+    "id": "primjer-3-63",
+    "example": "3.63",
+    "kind": "example",
+    "printed_page": 199,
+    "pdf_page": 100,
+    "source_image": "sources/pages/page-199.png",
+    "rect": [
+      203,
+      789,
+      1742,
+      1666
+    ],
+    "image": "images/03-kromatika-a/primjer-3-63.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Primjer 3.63. Tiskana str. 199."
+  },
+  {
+    "id": "primjer-3-64",
+    "example": "3.64",
+    "kind": "example",
+    "printed_page": 199,
+    "pdf_page": 100,
+    "source_image": "sources/pages/page-199.png",
+    "rect": [
+      221,
+      1979,
+      1741,
+      2401
+    ],
+    "image": "images/03-kromatika-a/primjer-3-64.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Primjer 3.64. Tiskana str. 199."
+  },
+  {
+    "id": "primjer-3-65",
+    "example": "3.65",
+    "kind": "example",
+    "printed_page": 200,
+    "pdf_page": 101,
+    "source_image": "sources/pages/page-200.png",
+    "rect": [
+      173,
+      311,
+      1696,
+      726
+    ],
+    "image": "images/03-kromatika-a/primjer-3-65.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Primjer 3.65. Tiskana str. 200."
+  },
+  {
+    "id": "primjer-3-66",
+    "example": "3.66",
+    "kind": "example",
+    "printed_page": 200,
+    "pdf_page": 101,
+    "source_image": "sources/pages/page-200.png",
+    "rect": [
+      396,
+      1061,
+      1411,
+      1486
+    ],
+    "image": "images/03-kromatika-a/primjer-3-66.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Primjer 3.66. Tiskana str. 200."
+  },
+  {
+    "id": "primjer-3-67",
+    "example": "3.67",
+    "kind": "example",
+    "printed_page": 200,
+    "pdf_page": 101,
+    "source_image": "sources/pages/page-200.png",
+    "rect": [
+      151,
+      1597,
+      1689,
+      2423
+    ],
+    "image": "images/03-kromatika-a/primjer-3-67.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Continues on p201; separate original-pixel part.",
+    "caption": "Primjer 3.67. Tiskana str. 200."
+  },
+  {
+    "id": "primjer-3-67-p201",
+    "example": "3.67",
+    "kind": "example",
+    "printed_page": 201,
+    "pdf_page": 101,
+    "source_image": "sources/pages/page-201.png",
+    "rect": [
+      219,
+      141,
+      1757,
+      545
+    ],
+    "image": "images/03-kromatika-a/primjer-3-67-p201.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Continuation of 3.67 variants e-f; number not repeated in source.",
+    "caption": "Primjer 3.67. Tiskana str. 201."
+  },
+  {
+    "id": "primjer-3-68",
+    "example": "3.68",
+    "kind": "example",
+    "printed_page": 201,
+    "pdf_page": 101,
+    "source_image": "sources/pages/page-201.png",
+    "rect": [
+      237,
+      1117,
+      1758,
+      1537
+    ],
+    "image": "images/03-kromatika-a/primjer-3-68.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Primjer 3.68. Tiskana str. 201."
+  },
+  {
+    "id": "primjer-3-69",
+    "example": "3.69",
+    "kind": "example",
+    "printed_page": 201,
+    "pdf_page": 101,
+    "source_image": "sources/pages/page-201.png",
+    "rect": [
+      232,
+      1569,
+      1758,
+      1990
+    ],
+    "image": "images/03-kromatika-a/primjer-3-69.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Primjer 3.69. Tiskana str. 201."
+  },
+  {
+    "id": "primjer-3-70",
+    "example": "3.70",
+    "kind": "example",
+    "printed_page": 202,
+    "pdf_page": 102,
+    "source_image": "sources/pages/page-202.png",
+    "rect": [
+      475,
+      159,
+      1436,
+      553
+    ],
+    "image": "images/03-kromatika-a/primjer-3-70.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Primjer 3.70. Tiskana str. 202."
+  },
+  {
+    "id": "primjer-3-71",
+    "example": "3.71",
+    "kind": "example",
+    "printed_page": 202,
+    "pdf_page": 102,
+    "source_image": "sources/pages/page-202.png",
+    "rect": [
+      142,
+      688,
+      1680,
+      1528
+    ],
+    "image": "images/03-kromatika-a/primjer-3-71.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Primjer 3.71. Tiskana str. 202."
+  },
+  {
+    "id": "primjer-3-72",
+    "example": "3.72",
+    "kind": "example",
+    "printed_page": 202,
+    "pdf_page": 102,
+    "source_image": "sources/pages/page-202.png",
+    "rect": [
+      420,
+      1851,
+      1427,
+      2035
+    ],
+    "image": "images/03-kromatika-a/primjer-3-72.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Primjer 3.72. Tiskana str. 202."
+  },
+  {
+    "id": "primjer-3-73",
+    "example": "3.73",
+    "kind": "example",
+    "printed_page": 203,
+    "pdf_page": 102,
+    "source_image": "sources/pages/page-203.png",
+    "rect": [
+      226,
+      230,
+      1022,
+      651
+    ],
+    "image": "images/03-kromatika-a/primjer-3-73.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Primjer 3.73. Tiskana str. 203."
+  },
+  {
+    "id": "primjer-3-74",
+    "example": "3.74",
+    "kind": "example",
+    "printed_page": 203,
+    "pdf_page": 102,
+    "source_image": "sources/pages/page-203.png",
+    "rect": [
+      1031,
+      234,
+      1741,
+      652
+    ],
+    "image": "images/03-kromatika-a/primjer-3-74.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Primjer 3.74. Tiskana str. 203."
+  },
+  {
+    "id": "primjer-3-75",
+    "example": "3.75",
+    "kind": "example",
+    "printed_page": 203,
+    "pdf_page": 102,
+    "source_image": "sources/pages/page-203.png",
+    "rect": [
+      408,
+      951,
+      1546,
+      1346
+    ],
+    "image": "images/03-kromatika-a/primjer-3-75.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Primjer 3.75. Tiskana str. 203."
+  },
+  {
+    "id": "primjer-3-76",
+    "example": "3.76",
+    "kind": "example",
+    "printed_page": 204,
+    "pdf_page": 103,
+    "source_image": "sources/pages/page-204.png",
+    "rect": [
+      159,
+      159,
+      1703,
+      1028
+    ],
+    "image": "images/03-kromatika-a/primjer-3-76.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Primjer 3.76. Tiskana str. 204."
+  },
+  {
+    "id": "primjer-3-77",
+    "example": "3.77",
+    "kind": "example",
+    "printed_page": 204,
+    "pdf_page": 103,
+    "source_image": "sources/pages/page-204.png",
+    "rect": [
+      163,
+      1668,
+      1689,
+      2060
+    ],
+    "image": "images/03-kromatika-a/primjer-3-77.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Primjer 3.77. Tiskana str. 204."
+  },
+  {
+    "id": "primjer-3-78",
+    "example": "3.78",
+    "kind": "example",
+    "printed_page": 205,
+    "pdf_page": 103,
+    "source_image": "sources/pages/page-205.png",
+    "rect": [
+      219,
+      141,
+      1744,
+      522
+    ],
+    "image": "images/03-kromatika-a/primjer-3-78.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Primjer 3.78. Tiskana str. 205."
+  },
+  {
+    "id": "zadatak-3-205-2",
+    "example": "Zadatak 2",
+    "kind": "exercise",
+    "printed_page": 205,
+    "pdf_page": 103,
+    "source_image": "sources/pages/page-205.png",
+    "rect": [
+      227,
+      887,
+      1741,
+      1084
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-205-2.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Zadatak 2. Tiskana str. 205."
+  },
+  {
+    "id": "zadatak-3-205-3",
+    "example": "Zadatak 3",
+    "kind": "exercise",
+    "printed_page": 205,
+    "pdf_page": 103,
+    "source_image": "sources/pages/page-205.png",
+    "rect": [
+      221,
+      1102,
+      1741,
+      1516
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-205-3.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Both systems retained.",
+    "caption": "Zadatak 3. Tiskana str. 205."
+  },
+  {
+    "id": "zadatak-3-205-4",
+    "example": "Zadatak 4",
+    "kind": "exercise",
+    "printed_page": 205,
+    "pdf_page": 103,
+    "source_image": "sources/pages/page-205.png",
+    "rect": [
+      222,
+      1521,
+      1741,
+      1839
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-205-4.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Both systems retained.",
+    "caption": "Zadatak 4. Tiskana str. 205."
+  },
+  {
+    "id": "zadatak-3-205-5",
+    "example": "Zadatak 5",
+    "kind": "exercise",
+    "printed_page": 205,
+    "pdf_page": 103,
+    "source_image": "sources/pages/page-205.png",
+    "rect": [
+      221,
+      1898,
+      1741,
+      2027
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-205-5.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Zadatak 5. Tiskana str. 205."
+  },
+  {
+    "id": "zadatak-3-205-6",
+    "example": "Zadatak 6",
+    "kind": "exercise",
+    "printed_page": 205,
+    "pdf_page": 103,
+    "source_image": "sources/pages/page-205.png",
+    "rect": [
+      221,
+      2084,
+      1741,
+      2410
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-205-6.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Both systems retained.",
+    "caption": "Zadatak 6. Tiskana str. 205."
+  },
+  {
+    "id": "zadatak-3-206-7",
+    "example": "Zadatak 7",
+    "kind": "exercise",
+    "printed_page": 206,
+    "pdf_page": 104,
+    "source_image": "sources/pages/page-206.png",
+    "rect": [
+      161,
+      129,
+      1675,
+      303
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-206-7.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Zadatak 7. Tiskana str. 206."
+  },
+  {
+    "id": "zadatak-3-206-8",
+    "example": "Zadatak 8",
+    "kind": "exercise",
+    "printed_page": 206,
+    "pdf_page": 104,
+    "source_image": "sources/pages/page-206.png",
+    "rect": [
+      161,
+      331,
+      1675,
+      491
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-206-8.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Zadatak 8. Tiskana str. 206."
+  },
+  {
+    "id": "zadatak-3-206-9",
+    "example": "Zadatak 9",
+    "kind": "exercise",
+    "printed_page": 206,
+    "pdf_page": 104,
+    "source_image": "sources/pages/page-206.png",
+    "rect": [
+      158,
+      514,
+      1674,
+      873
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-206-9.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Both systems retained.",
+    "caption": "Zadatak 9. Tiskana str. 206."
+  },
+  {
+    "id": "zadatak-3-206-10",
+    "example": "Zadatak 10",
+    "kind": "exercise",
+    "printed_page": 206,
+    "pdf_page": 104,
+    "source_image": "sources/pages/page-206.png",
+    "rect": [
+      148,
+      899,
+      1674,
+      1065
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-206-10.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Original-pixel crop; independent four-edge review required.",
+    "caption": "Zadatak 10. Tiskana str. 206."
+  },
+  {
+    "id": "zadatak-3-206-7-realizacija",
+    "example": "Zadatak 7-realizacija",
+    "kind": "exercise",
+    "printed_page": 206,
+    "pdf_page": 104,
+    "source_image": "sources/pages/page-206.png",
+    "rect": [
+      133,
+      1437,
+      1675,
+      2359
+    ],
+    "image": "images/03-kromatika-a/zadatak-3-206-7-realizacija.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Realizacija zadatka 7: printed identifying label retained; both systems included.",
+    "caption": "Zadatak 7-realizacija. Tiskana str. 206."
+  }
+]

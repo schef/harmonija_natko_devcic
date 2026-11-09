@@ -1,0 +1,1550 @@
+[
+  {
+    "id": "primjer-4-143",
+    "example": "4.143",
+    "kind": "example",
+    "printed_page": 349,
+    "pdf_page": 175,
+    "source_image": "sources/pages/page-349.png",
+    "rect": [
+      317,
+      930,
+      1654,
+      1326
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-143.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.143. Izvor: str. 349."
+  },
+  {
+    "id": "primjer-4-144",
+    "example": "4.144",
+    "kind": "example",
+    "printed_page": 349,
+    "pdf_page": 175,
+    "source_image": "sources/pages/page-349.png",
+    "rect": [
+      465,
+      1334,
+      1512,
+      1692
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-144.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.144. Izvor: str. 349."
+  },
+  {
+    "id": "primjer-4-145",
+    "example": "4.145",
+    "kind": "example",
+    "printed_page": 349,
+    "pdf_page": 175,
+    "source_image": "sources/pages/page-349.png",
+    "rect": [
+      534,
+      2070,
+      1402,
+      2454
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-145.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.145. Izvor: str. 349."
+  },
+  {
+    "id": "primjer-4-146",
+    "example": "4.146",
+    "kind": "example",
+    "printed_page": 350,
+    "pdf_page": 176,
+    "source_image": "sources/pages/page-350.png",
+    "rect": [
+      494,
+      376,
+      1308,
+      747
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-146.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.146. Izvor: str. 350."
+  },
+  {
+    "id": "primjer-4-147",
+    "example": "4.147",
+    "kind": "example",
+    "printed_page": 350,
+    "pdf_page": 176,
+    "source_image": "sources/pages/page-350.png",
+    "rect": [
+      159,
+      1141,
+      863,
+      1513
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-147.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.147. Izvor: str. 350."
+  },
+  {
+    "id": "primjer-4-148",
+    "example": "4.148",
+    "kind": "example",
+    "printed_page": 350,
+    "pdf_page": 176,
+    "source_image": "sources/pages/page-350.png",
+    "rect": [
+      865,
+      1134,
+      1683,
+      1506
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-148.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.148. Izvor: str. 350."
+  },
+  {
+    "id": "primjer-4-149",
+    "example": "4.149",
+    "kind": "example",
+    "printed_page": 350,
+    "pdf_page": 176,
+    "source_image": "sources/pages/page-350.png",
+    "rect": [
+      155,
+      1577,
+      1496,
+      1974
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-149.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.149. Izvor: str. 350."
+  },
+  {
+    "id": "primjer-4-150",
+    "example": "4.150",
+    "kind": "example",
+    "printed_page": 351,
+    "pdf_page": 176,
+    "source_image": "sources/pages/page-351.png",
+    "rect": [
+      557,
+      353,
+      1367,
+      774
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-150.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.150. Izvor: str. 351."
+  },
+  {
+    "id": "primjer-4-151",
+    "example": "4.151",
+    "kind": "example",
+    "printed_page": 351,
+    "pdf_page": 176,
+    "source_image": "sources/pages/page-351.png",
+    "rect": [
+      671,
+      1184,
+      1298,
+      1548
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-151.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.151. Izvor: str. 351."
+  },
+  {
+    "id": "primjer-4-152-a",
+    "example": "4.152",
+    "kind": "example",
+    "printed_page": 351,
+    "pdf_page": 176,
+    "source_image": "sources/pages/page-351.png",
+    "rect": [
+      212,
+      1989,
+      1736,
+      2351
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-152-a.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.152. Izvor: str. 351. Dio: a."
+  },
+  {
+    "id": "primjer-4-152-b",
+    "example": "4.152",
+    "kind": "example",
+    "printed_page": 352,
+    "pdf_page": 177,
+    "source_image": "sources/pages/page-352.png",
+    "rect": [
+      158,
+      90,
+      1704,
+      458
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-152-b.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Continuation d–g; number occurs in preceding part on p.351.",
+    "caption": "Primjer 4.152. Izvor: str. 352. Dio: b."
+  },
+  {
+    "id": "primjer-4-153",
+    "example": "4.153",
+    "kind": "example",
+    "printed_page": 352,
+    "pdf_page": 177,
+    "source_image": "sources/pages/page-352.png",
+    "rect": [
+      181,
+      588,
+      1704,
+      943
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-153.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.153. Izvor: str. 352."
+  },
+  {
+    "id": "primjer-4-154",
+    "example": "4.154",
+    "kind": "example",
+    "printed_page": 352,
+    "pdf_page": 177,
+    "source_image": "sources/pages/page-352.png",
+    "rect": [
+      179,
+      997,
+      1702,
+      1356
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-154.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.154. Izvor: str. 352."
+  },
+  {
+    "id": "primjer-4-155",
+    "example": "4.155",
+    "kind": "example",
+    "printed_page": 352,
+    "pdf_page": 177,
+    "source_image": "sources/pages/page-352.png",
+    "rect": [
+      507,
+      1390,
+      1376,
+      1905
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-155.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.155. Izvor: str. 352."
+  },
+  {
+    "id": "primjer-4-156",
+    "example": "4.156",
+    "kind": "example",
+    "printed_page": 352,
+    "pdf_page": 177,
+    "source_image": "sources/pages/page-352.png",
+    "rect": [
+      241,
+      1924,
+      1642,
+      2379
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-156.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.156. Izvor: str. 352."
+  },
+  {
+    "id": "primjer-4-157",
+    "example": "4.157",
+    "kind": "example",
+    "printed_page": 353,
+    "pdf_page": 177,
+    "source_image": "sources/pages/page-353.png",
+    "rect": [
+      430,
+      103,
+      1557,
+      510
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-157.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.157. Izvor: str. 353."
+  },
+  {
+    "id": "primjer-4-158",
+    "example": "4.158",
+    "kind": "example",
+    "printed_page": 353,
+    "pdf_page": 177,
+    "source_image": "sources/pages/page-353.png",
+    "rect": [
+      221,
+      657,
+      1738,
+      1162
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-158.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.158. Izvor: str. 353."
+  },
+  {
+    "id": "primjer-4-159",
+    "example": "4.159",
+    "kind": "example",
+    "printed_page": 353,
+    "pdf_page": 177,
+    "source_image": "sources/pages/page-353.png",
+    "rect": [
+      426,
+      1346,
+      1536,
+      1802
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-159.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.159. Izvor: str. 353."
+  },
+  {
+    "id": "primjer-4-160",
+    "example": "4.160",
+    "kind": "example",
+    "printed_page": 354,
+    "pdf_page": 178,
+    "source_image": "sources/pages/page-354.png",
+    "rect": [
+      155,
+      98,
+      1703,
+      1027
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-160.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.160. Izvor: str. 354."
+  },
+  {
+    "id": "primjer-4-161",
+    "example": "4.161",
+    "kind": "example",
+    "printed_page": 354,
+    "pdf_page": 178,
+    "source_image": "sources/pages/page-354.png",
+    "rect": [
+      446,
+      1434,
+      1434,
+      1873
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-161.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.161. Izvor: str. 354."
+  },
+  {
+    "id": "primjer-4-162",
+    "example": "4.162",
+    "kind": "example",
+    "printed_page": 355,
+    "pdf_page": 178,
+    "source_image": "sources/pages/page-355.png",
+    "rect": [
+      484,
+      183,
+      1472,
+      576
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-162.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.162. Izvor: str. 355."
+  },
+  {
+    "id": "primjer-4-163",
+    "example": "4.163",
+    "kind": "example",
+    "printed_page": 355,
+    "pdf_page": 178,
+    "source_image": "sources/pages/page-355.png",
+    "rect": [
+      448,
+      833,
+      1557,
+      1196
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-163.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.163. Izvor: str. 355."
+  },
+  {
+    "id": "zadatak-4-355-1",
+    "example": "1",
+    "kind": "exercise",
+    "printed_page": 355,
+    "pdf_page": 178,
+    "source_image": "sources/pages/page-355.png",
+    "rect": [
+      231,
+      1802,
+      1744,
+      1976
+    ],
+    "image": "images/04-neakordicki-c/zadatak-4-355-1.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Zadatak 1. Izvor: str. 355."
+  },
+  {
+    "id": "zadatak-4-355-2",
+    "example": "2",
+    "kind": "exercise",
+    "printed_page": 355,
+    "pdf_page": 178,
+    "source_image": "sources/pages/page-355.png",
+    "rect": [
+      232,
+      2003,
+      1746,
+      2176
+    ],
+    "image": "images/04-neakordicki-c/zadatak-4-355-2.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Zadatak 2. Izvor: str. 355."
+  },
+  {
+    "id": "zadatak-4-355-3",
+    "example": "3",
+    "kind": "exercise",
+    "printed_page": 355,
+    "pdf_page": 178,
+    "source_image": "sources/pages/page-355.png",
+    "rect": [
+      228,
+      2211,
+      1748,
+      2375
+    ],
+    "image": "images/04-neakordicki-c/zadatak-4-355-3.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Zadatak 3. Izvor: str. 355."
+  },
+  {
+    "id": "zadatak-4-356-4",
+    "example": "4",
+    "kind": "exercise",
+    "printed_page": 356,
+    "pdf_page": 179,
+    "source_image": "sources/pages/page-356.png",
+    "rect": [
+      161,
+      187,
+      1687,
+      864
+    ],
+    "image": "images/04-neakordicki-c/zadatak-4-356-4.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Zadatak 4. Izvor: str. 356."
+  },
+  {
+    "id": "zadatak-4-356-5",
+    "example": "5",
+    "kind": "exercise",
+    "printed_page": 356,
+    "pdf_page": 179,
+    "source_image": "sources/pages/page-356.png",
+    "rect": [
+      163,
+      877,
+      1685,
+      1463
+    ],
+    "image": "images/04-neakordicki-c/zadatak-4-356-5.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Zadatak 5. Izvor: str. 356."
+  },
+  {
+    "id": "zadatak-4-356-6",
+    "example": "6",
+    "kind": "exercise",
+    "printed_page": 356,
+    "pdf_page": 179,
+    "source_image": "sources/pages/page-356.png",
+    "rect": [
+      165,
+      1736,
+      1682,
+      1924
+    ],
+    "image": "images/04-neakordicki-c/zadatak-4-356-6.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Zadatak 6. Izvor: str. 356."
+  },
+  {
+    "id": "zadatak-4-356-7",
+    "example": "7",
+    "kind": "exercise",
+    "printed_page": 356,
+    "pdf_page": 179,
+    "source_image": "sources/pages/page-356.png",
+    "rect": [
+      166,
+      1938,
+      1681,
+      2112
+    ],
+    "image": "images/04-neakordicki-c/zadatak-4-356-7.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Zadatak 7. Izvor: str. 356."
+  },
+  {
+    "id": "zadatak-4-356-8-a",
+    "example": "8",
+    "kind": "exercise",
+    "printed_page": 356,
+    "pdf_page": 179,
+    "source_image": "sources/pages/page-356.png",
+    "rect": [
+      164,
+      2151,
+      1685,
+      2311
+    ],
+    "image": "images/04-neakordicki-c/zadatak-4-356-8-a.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Zadatak 8. Izvor: str. 356. Dio: a."
+  },
+  {
+    "id": "zadatak-4-357-8-b",
+    "example": "8",
+    "kind": "exercise",
+    "printed_page": 357,
+    "pdf_page": 179,
+    "source_image": "sources/pages/page-357.png",
+    "rect": [
+      223,
+      140,
+      1746,
+      294
+    ],
+    "image": "images/04-neakordicki-c/zadatak-4-357-8-b.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Continuation of exercise 8 on p.356; no repeated number.",
+    "caption": "Zadatak 8. Izvor: str. 357. Dio: b."
+  },
+  {
+    "id": "zadatak-4-357-9",
+    "example": "9",
+    "kind": "exercise",
+    "printed_page": 357,
+    "pdf_page": 179,
+    "source_image": "sources/pages/page-357.png",
+    "rect": [
+      224,
+      417,
+      1746,
+      1347
+    ],
+    "image": "images/04-neakordicki-c/zadatak-4-357-9.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Zadatak 9. Izvor: str. 357."
+  },
+  {
+    "id": "zadatak-4-357-10",
+    "example": "10",
+    "kind": "exercise",
+    "printed_page": 357,
+    "pdf_page": 179,
+    "source_image": "sources/pages/page-357.png",
+    "rect": [
+      221,
+      1371,
+      1746,
+      2057
+    ],
+    "image": "images/04-neakordicki-c/zadatak-4-357-10.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Zadatak 10. Izvor: str. 357."
+  },
+  {
+    "id": "zadatak-4-357-11-a",
+    "example": "11",
+    "kind": "exercise",
+    "printed_page": 357,
+    "pdf_page": 179,
+    "source_image": "sources/pages/page-357.png",
+    "rect": [
+      223,
+      2082,
+      1745,
+      2292
+    ],
+    "image": "images/04-neakordicki-c/zadatak-4-357-11-a.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Zadatak 11. Izvor: str. 357. Dio: a."
+  },
+  {
+    "id": "zadatak-4-358-11-b",
+    "example": "11",
+    "kind": "exercise",
+    "printed_page": 358,
+    "pdf_page": 180,
+    "source_image": "sources/pages/page-358.png",
+    "rect": [
+      185,
+      183,
+      1703,
+      630
+    ],
+    "image": "images/04-neakordicki-c/zadatak-4-358-11-b.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Continuation of exercise 11 on p.357; no repeated number.",
+    "caption": "Zadatak 11. Izvor: str. 358. Dio: b."
+  },
+  {
+    "id": "zadatak-4-358-12",
+    "example": "12",
+    "kind": "exercise",
+    "printed_page": 358,
+    "pdf_page": 180,
+    "source_image": "sources/pages/page-358.png",
+    "rect": [
+      185,
+      642,
+      1715,
+      1206
+    ],
+    "image": "images/04-neakordicki-c/zadatak-4-358-12.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Zadatak 12. Izvor: str. 358."
+  },
+  {
+    "id": "zadatak-4-358-13",
+    "example": "13",
+    "kind": "exercise",
+    "printed_page": 358,
+    "pdf_page": 180,
+    "source_image": "sources/pages/page-358.png",
+    "rect": [
+      186,
+      1242,
+      1711,
+      1626
+    ],
+    "image": "images/04-neakordicki-c/zadatak-4-358-13.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Zadatak 13. Izvor: str. 358."
+  },
+  {
+    "id": "zadatak-4-358-14",
+    "example": "14",
+    "kind": "exercise",
+    "printed_page": 358,
+    "pdf_page": 180,
+    "source_image": "sources/pages/page-358.png",
+    "rect": [
+      186,
+      1640,
+      1711,
+      1997
+    ],
+    "image": "images/04-neakordicki-c/zadatak-4-358-14.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Zadatak 14. Izvor: str. 358."
+  },
+  {
+    "id": "zadatak-4-359-9-realizacija",
+    "example": "9",
+    "kind": "exercise",
+    "printed_page": 359,
+    "pdf_page": 180,
+    "source_image": "sources/pages/page-359.png",
+    "rect": [
+      199,
+      238,
+      1745,
+      1731
+    ],
+    "image": "images/04-neakordicki-c/zadatak-4-359-9-realizacija.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Zadatak 9. Izvor: str. 359. Dio: realizacija."
+  },
+  {
+    "id": "zadatak-4-360-12-realizacija",
+    "example": "12",
+    "kind": "exercise",
+    "printed_page": 360,
+    "pdf_page": 181,
+    "source_image": "sources/pages/page-360.png",
+    "rect": [
+      154,
+      251,
+      1703,
+      2062
+    ],
+    "image": "images/04-neakordicki-c/zadatak-4-360-12-realizacija.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Zadatak 12. Izvor: str. 360. Dio: realizacija."
+  },
+  {
+    "id": "primjer-4-164",
+    "example": "4.164",
+    "kind": "example",
+    "printed_page": 361,
+    "pdf_page": 181,
+    "source_image": "sources/pages/page-361.png",
+    "rect": [
+      228,
+      1209,
+      1747,
+      1618
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-164.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.164. Izvor: str. 361."
+  },
+  {
+    "id": "primjer-4-165",
+    "example": "4.165",
+    "kind": "example",
+    "printed_page": 361,
+    "pdf_page": 181,
+    "source_image": "sources/pages/page-361.png",
+    "rect": [
+      228,
+      1964,
+      1248,
+      2362
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-165.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.165. Izvor: str. 361."
+  },
+  {
+    "id": "primjer-4-166",
+    "example": "4.166",
+    "kind": "example",
+    "printed_page": 361,
+    "pdf_page": 181,
+    "source_image": "sources/pages/page-361.png",
+    "rect": [
+      1254,
+      1988,
+      1746,
+      2362
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-166.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.166. Izvor: str. 361."
+  },
+  {
+    "id": "primjer-4-167",
+    "example": "4.167",
+    "kind": "example",
+    "printed_page": 362,
+    "pdf_page": 182,
+    "source_image": "sources/pages/page-362.png",
+    "rect": [
+      173,
+      120,
+      1697,
+      603
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-167.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.167. Izvor: str. 362."
+  },
+  {
+    "id": "primjer-4-168",
+    "example": "4.168",
+    "kind": "example",
+    "printed_page": 362,
+    "pdf_page": 182,
+    "source_image": "sources/pages/page-362.png",
+    "rect": [
+      521,
+      666,
+      1332,
+      1035
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-168.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.168. Izvor: str. 362."
+  },
+  {
+    "id": "primjer-4-169",
+    "example": "4.169",
+    "kind": "example",
+    "printed_page": 362,
+    "pdf_page": 182,
+    "source_image": "sources/pages/page-362.png",
+    "rect": [
+      168,
+      1083,
+      1695,
+      1557
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-169.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.169. Izvor: str. 362."
+  },
+  {
+    "id": "primjer-4-170",
+    "example": "4.170",
+    "kind": "example",
+    "printed_page": 362,
+    "pdf_page": 182,
+    "source_image": "sources/pages/page-362.png",
+    "rect": [
+      319,
+      2002,
+      1517,
+      2384
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-170.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.170. Izvor: str. 362."
+  },
+  {
+    "id": "primjer-4-171",
+    "example": "4.171",
+    "kind": "example",
+    "printed_page": 363,
+    "pdf_page": 182,
+    "source_image": "sources/pages/page-363.png",
+    "rect": [
+      223,
+      127,
+      1082,
+      654
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-171.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.171. Izvor: str. 363."
+  },
+  {
+    "id": "primjer-4-172",
+    "example": "4.172",
+    "kind": "example",
+    "printed_page": 363,
+    "pdf_page": 182,
+    "source_image": "sources/pages/page-363.png",
+    "rect": [
+      1083,
+      127,
+      1744,
+      582
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-172.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.172. Izvor: str. 363."
+  },
+  {
+    "id": "primjer-4-173",
+    "example": "4.173",
+    "kind": "example",
+    "printed_page": 363,
+    "pdf_page": 182,
+    "source_image": "sources/pages/page-363.png",
+    "rect": [
+      215,
+      793,
+      1745,
+      1321
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-173.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.173. Izvor: str. 363."
+  },
+  {
+    "id": "primjer-4-174",
+    "example": "4.174",
+    "kind": "example",
+    "printed_page": 363,
+    "pdf_page": 182,
+    "source_image": "sources/pages/page-363.png",
+    "rect": [
+      210,
+      1666,
+      1737,
+      2163
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-174.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.174. Izvor: str. 363."
+  },
+  {
+    "id": "primjer-4-175",
+    "example": "4.175",
+    "kind": "example",
+    "printed_page": 364,
+    "pdf_page": 183,
+    "source_image": "sources/pages/page-364.png",
+    "rect": [
+      383,
+      120,
+      1493,
+      585
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-175.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.175. Izvor: str. 364."
+  },
+  {
+    "id": "primjer-4-176",
+    "example": "4.176",
+    "kind": "example",
+    "printed_page": 364,
+    "pdf_page": 183,
+    "source_image": "sources/pages/page-364.png",
+    "rect": [
+      164,
+      1126,
+      908,
+      1583
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-176.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.176. Izvor: str. 364."
+  },
+  {
+    "id": "primjer-4-177",
+    "example": "4.177",
+    "kind": "example",
+    "printed_page": 364,
+    "pdf_page": 183,
+    "source_image": "sources/pages/page-364.png",
+    "rect": [
+      908,
+      1177,
+      1690,
+      1523
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-177.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.177. Izvor: str. 364."
+  },
+  {
+    "id": "zadatak-4-364-1",
+    "example": "1",
+    "kind": "exercise",
+    "printed_page": 364,
+    "pdf_page": 183,
+    "source_image": "sources/pages/page-364.png",
+    "rect": [
+      165,
+      1860,
+      1691,
+      2184
+    ],
+    "image": "images/04-neakordicki-c/zadatak-4-364-1.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Zadatak 1. Izvor: str. 364."
+  },
+  {
+    "id": "zadatak-4-364-2-a",
+    "example": "2",
+    "kind": "exercise",
+    "printed_page": 364,
+    "pdf_page": 183,
+    "source_image": "sources/pages/page-364.png",
+    "rect": [
+      176,
+      2243,
+      1694,
+      2385
+    ],
+    "image": "images/04-neakordicki-c/zadatak-4-364-2-a.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Zadatak 2. Izvor: str. 364. Dio: a."
+  },
+  {
+    "id": "zadatak-4-365-2-b",
+    "example": "2",
+    "kind": "exercise",
+    "printed_page": 365,
+    "pdf_page": 183,
+    "source_image": "sources/pages/page-365.png",
+    "rect": [
+      214,
+      116,
+      1740,
+      269
+    ],
+    "image": "images/04-neakordicki-c/zadatak-4-365-2-b.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Continuation of exercise 2 on p.364; no repeated number.",
+    "caption": "Zadatak 2. Izvor: str. 365. Dio: b."
+  },
+  {
+    "id": "zadatak-4-365-3",
+    "example": "3",
+    "kind": "exercise",
+    "printed_page": 365,
+    "pdf_page": 183,
+    "source_image": "sources/pages/page-365.png",
+    "rect": [
+      214,
+      283,
+      1740,
+      635
+    ],
+    "image": "images/04-neakordicki-c/zadatak-4-365-3.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Zadatak 3. Izvor: str. 365."
+  },
+  {
+    "id": "zadatak-4-365-4",
+    "example": "4",
+    "kind": "exercise",
+    "printed_page": 365,
+    "pdf_page": 183,
+    "source_image": "sources/pages/page-365.png",
+    "rect": [
+      214,
+      666,
+      1735,
+      1034
+    ],
+    "image": "images/04-neakordicki-c/zadatak-4-365-4.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Zadatak 4. Izvor: str. 365."
+  },
+  {
+    "id": "primjer-4-178-a",
+    "example": "4.178",
+    "kind": "example",
+    "printed_page": 366,
+    "pdf_page": 184,
+    "source_image": "sources/pages/page-366.png",
+    "rect": [
+      166,
+      1827,
+      1688,
+      2330
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-178-a.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source contains circled bass notes (handwritten); cleanup-required, no retouch applied.",
+    "caption": "Primjer 4.178. Izvor: str. 366. Dio: a."
+  },
+  {
+    "id": "primjer-4-178-b",
+    "example": "4.178",
+    "kind": "example",
+    "printed_page": 367,
+    "pdf_page": 184,
+    "source_image": "sources/pages/page-367.png",
+    "rect": [
+      172,
+      107,
+      1719,
+      1060
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-178-b.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Continuation from p.366. Source contains handwritten circles; cleanup-required, no retouch applied.",
+    "caption": "Primjer 4.178. Izvor: str. 367. Dio: b."
+  },
+  {
+    "id": "primjer-4-179",
+    "example": "4.179",
+    "kind": "example",
+    "printed_page": 367,
+    "pdf_page": 184,
+    "source_image": "sources/pages/page-367.png",
+    "rect": [
+      195,
+      1074,
+      1728,
+      1533
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-179.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.179. Izvor: str. 367."
+  },
+  {
+    "id": "primjer-4-180",
+    "example": "4.180",
+    "kind": "example",
+    "printed_page": 367,
+    "pdf_page": 184,
+    "source_image": "sources/pages/page-367.png",
+    "rect": [
+      189,
+      1544,
+      1714,
+      1951
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-180.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.180. Izvor: str. 367."
+  },
+  {
+    "id": "primjer-4-181",
+    "example": "4.181",
+    "kind": "example",
+    "printed_page": 368,
+    "pdf_page": 185,
+    "source_image": "sources/pages/page-368.png",
+    "rect": [
+      154,
+      479,
+      1706,
+      1295
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-181.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.181. Izvor: str. 368."
+  },
+  {
+    "id": "primjer-4-182-a",
+    "example": "4.182",
+    "kind": "example",
+    "printed_page": 368,
+    "pdf_page": 185,
+    "source_image": "sources/pages/page-368.png",
+    "rect": [
+      187,
+      1833,
+      1712,
+      2313
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-182-a.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.182. Izvor: str. 368. Dio: a."
+  },
+  {
+    "id": "primjer-4-182-b",
+    "example": "4.182",
+    "kind": "example",
+    "printed_page": 369,
+    "pdf_page": 185,
+    "source_image": "sources/pages/page-369.png",
+    "rect": [
+      200,
+      187,
+      1740,
+      606
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-182-b.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Continuation of example 4.182 on p.368; no repeated number.",
+    "caption": "Primjer 4.182. Izvor: str. 369. Dio: b."
+  },
+  {
+    "id": "primjer-4-183",
+    "example": "4.183",
+    "kind": "example",
+    "printed_page": 369,
+    "pdf_page": 185,
+    "source_image": "sources/pages/page-369.png",
+    "rect": [
+      220,
+      617,
+      1745,
+      1087
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-183.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.183. Izvor: str. 369."
+  },
+  {
+    "id": "primjer-4-184",
+    "example": "4.184",
+    "kind": "example",
+    "printed_page": 369,
+    "pdf_page": 185,
+    "source_image": "sources/pages/page-369.png",
+    "rect": [
+      200,
+      1887,
+      1725,
+      2374
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-184.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.184. Izvor: str. 369."
+  },
+  {
+    "id": "primjer-4-185",
+    "example": "4.185",
+    "kind": "example",
+    "printed_page": 370,
+    "pdf_page": 186,
+    "source_image": "sources/pages/page-370.png",
+    "rect": [
+      294,
+      137,
+      1580,
+      616
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-185.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.185. Izvor: str. 370."
+  },
+  {
+    "id": "primjer-4-186",
+    "example": "4.186",
+    "kind": "example",
+    "printed_page": 370,
+    "pdf_page": 186,
+    "source_image": "sources/pages/page-370.png",
+    "rect": [
+      168,
+      690,
+      1707,
+      1959
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-186.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.186. Izvor: str. 370."
+  },
+  {
+    "id": "primjer-4-187",
+    "example": "4.187",
+    "kind": "example",
+    "printed_page": 370,
+    "pdf_page": 186,
+    "source_image": "sources/pages/page-370.png",
+    "rect": [
+      172,
+      1984,
+      1702,
+      2401
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-187.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.187. Izvor: str. 370."
+  },
+  {
+    "id": "zadatak-4-371-1",
+    "example": "1",
+    "kind": "exercise",
+    "printed_page": 371,
+    "pdf_page": 186,
+    "source_image": "sources/pages/page-371.png",
+    "rect": [
+      215,
+      267,
+      1755,
+      1366
+    ],
+    "image": "images/04-neakordicki-c/zadatak-4-371-1.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Zadatak 1. Izvor: str. 371."
+  },
+  {
+    "id": "zadatak-4-371-2-a",
+    "example": "2",
+    "kind": "exercise",
+    "printed_page": 371,
+    "pdf_page": 186,
+    "source_image": "sources/pages/page-371.png",
+    "rect": [
+      212,
+      1503,
+      1755,
+      2278
+    ],
+    "image": "images/04-neakordicki-c/zadatak-4-371-2-a.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Zadatak 2. Izvor: str. 371. Dio: a."
+  },
+  {
+    "id": "zadatak-4-372-2-b",
+    "example": "2",
+    "kind": "exercise",
+    "printed_page": 372,
+    "pdf_page": 187,
+    "source_image": "sources/pages/page-372.png",
+    "rect": [
+      158,
+      115,
+      1710,
+      938
+    ],
+    "image": "images/04-neakordicki-c/zadatak-4-372-2-b.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Continuation of exercise 2 on p.371; no repeated number.",
+    "caption": "Zadatak 2. Izvor: str. 372. Dio: b."
+  },
+  {
+    "id": "zadatak-4-372-3",
+    "example": "3",
+    "kind": "exercise",
+    "printed_page": 372,
+    "pdf_page": 187,
+    "source_image": "sources/pages/page-372.png",
+    "rect": [
+      179,
+      1189,
+      1725,
+      2331
+    ],
+    "image": "images/04-neakordicki-c/zadatak-4-372-3.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Zadatak 3. Izvor: str. 372."
+  },
+  {
+    "id": "zadatak-4-373-4",
+    "example": "4",
+    "kind": "exercise",
+    "printed_page": 373,
+    "pdf_page": 187,
+    "source_image": "sources/pages/page-373.png",
+    "rect": [
+      200,
+      130,
+      1753,
+      1744
+    ],
+    "image": "images/04-neakordicki-c/zadatak-4-373-4.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Zadatak 4. Izvor: str. 373."
+  },
+  {
+    "id": "zadatak-4-373-5-a",
+    "example": "5",
+    "kind": "exercise",
+    "printed_page": 373,
+    "pdf_page": 187,
+    "source_image": "sources/pages/page-373.png",
+    "rect": [
+      212,
+      1874,
+      1752,
+      2205
+    ],
+    "image": "images/04-neakordicki-c/zadatak-4-373-5-a.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Zadatak 5. Izvor: str. 373. Dio: a."
+  },
+  {
+    "id": "zadatak-4-374-5-b",
+    "example": "5",
+    "kind": "exercise",
+    "printed_page": 374,
+    "pdf_page": 188,
+    "source_image": "sources/pages/page-374.png",
+    "rect": [
+      165,
+      135,
+      1722,
+      1687
+    ],
+    "image": "images/04-neakordicki-c/zadatak-4-374-5-b.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Continuation of exercise 5 on p.373; no repeated number.",
+    "caption": "Zadatak 5. Izvor: str. 374. Dio: b."
+  },
+  {
+    "id": "zadatak-4-374-1-realizacija-a",
+    "example": "1",
+    "kind": "exercise",
+    "printed_page": 374,
+    "pdf_page": 188,
+    "source_image": "sources/pages/page-374.png",
+    "rect": [
+      165,
+      1953,
+      1719,
+      2354
+    ],
+    "image": "images/04-neakordicki-c/zadatak-4-374-1-realizacija-a.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Zadatak 1. Izvor: str. 374. Dio: realizacija-a."
+  },
+  {
+    "id": "zadatak-4-375-1-realizacija-b",
+    "example": "1",
+    "kind": "exercise",
+    "printed_page": 375,
+    "pdf_page": 188,
+    "source_image": "sources/pages/page-375.png",
+    "rect": [
+      201,
+      124,
+      1753,
+      1420
+    ],
+    "image": "images/04-neakordicki-c/zadatak-4-375-1-realizacija-b.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Continuation of realization of exercise 1 from p.374; no repeated number.",
+    "caption": "Zadatak 1. Izvor: str. 375. Dio: realizacija-b."
+  },
+  {
+    "id": "primjer-4-188",
+    "example": "4.188",
+    "kind": "example",
+    "printed_page": 376,
+    "pdf_page": 189,
+    "source_image": "sources/pages/page-376.png",
+    "rect": [
+      164,
+      864,
+      1693,
+      1373
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-188.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.188. Izvor: str. 376."
+  },
+  {
+    "id": "primjer-4-189",
+    "example": "4.189",
+    "kind": "example",
+    "printed_page": 377,
+    "pdf_page": 189,
+    "source_image": "sources/pages/page-377.png",
+    "rect": [
+      211,
+      129,
+      1749,
+      969
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-189.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.189. Izvor: str. 377."
+  },
+  {
+    "id": "primjer-4-190",
+    "example": "4.190",
+    "kind": "example",
+    "printed_page": 377,
+    "pdf_page": 189,
+    "source_image": "sources/pages/page-377.png",
+    "rect": [
+      207,
+      1235,
+      1747,
+      2140
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-190.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.190. Izvor: str. 377."
+  },
+  {
+    "id": "primjer-4-191",
+    "example": "4.191",
+    "kind": "example",
+    "printed_page": 378,
+    "pdf_page": 190,
+    "source_image": "sources/pages/page-378.png",
+    "rect": [
+      158,
+      131,
+      1681,
+      599
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-191.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent visual review required.",
+    "caption": "Primjer 4.191. Izvor: str. 378."
+  },
+  {
+    "id": "primjer-4-192",
+    "example": "4.192",
+    "kind": "example",
+    "printed_page": 378,
+    "pdf_page": 190,
+    "source_image": "sources/pages/page-378.png",
+    "rect": [
+      158,
+      1300,
+      1686,
+      1948
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-192.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: preceding example bottom slur overlaps following Ravel attribution in source layout; foreign attribution fragments cannot be excluded without clipping the slur. No retouch applied.",
+    "caption": "Primjer 4.192. Izvor: str. 378."
+  },
+  {
+    "id": "primjer-4-193",
+    "example": "4.193",
+    "kind": "example",
+    "printed_page": 378,
+    "pdf_page": 190,
+    "source_image": "sources/pages/page-378.png",
+    "rect": [
+      160,
+      1938,
+      1684,
+      2440
+    ],
+    "image": "images/04-neakordicki-c/primjer-4-193.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: Ravel attribution overlaps preceding example bottom slur; preserve attribution with unavoidable foreign slur ink. No retouch applied.",
+    "caption": "Primjer 4.193. Izvor: str. 378."
+  }
+]

@@ -847,3 +847,682 @@ MuseScore prijepis: *bit će dodan.*
 MuseScore prijepis: *bit će dodan.*
 
 U sopranu u pr. 2.98. prva fraza može završiti s varavom ili (nesavršenom) autentičnom kadencom, a u oba slučaja predzadnji akord može biti kvintakord III stupnja. Progresija IV—VI u 2. taktu posve je u redu (kretanje soprana uz dobar ritmički odnos), a eventualno zadržavanje harmonije IV stupnja kroz cijeli takt prouzročilo bi teškoće u nastavku harmonizacije: ako bi se zadržao tijesni slog, nastale bi pogrešne akcentne oktave i kvinte (pr. 2.99.a), a prijelaz u široki slog rezultirao bi u slijedećem taktu paralelnim velikim skokovima u svim gornjim glasovima (pr. 2.99.b).
+
+<!-- source-page: 047; pdf-page: 24 -->
+
+> **Napomena integracije, tiskane stranice 47–63:** slike označene **PROVISIONAL — needs handwriting cleanup / potrebno uklanjanje rukopisnih dodataka** prikazuju izvorne izreze samo radi pregleda; nisu odobrene. Neovisni pregled prošlo je 49 od 69 ovdje dodanih slika; preostalih 20 zahtijeva čišćenje i ponovni neovisni pregled. [Detaljni statusi i izvori](../review-candidates/book/M02/INTEGRATION.md).
+
+<!-- integrated-visual: primjer-2-98; page 047 -->
+![Primjer 2.98 — PROVISIONAL, potrebno uklanjanje rukopisnih dodataka](../images/02-dijatonika-a/primjer-2-98.png)
+
+*Primjer 2.98. Izvor: tiskana stranica 47.*
+
+> **PROVISIONAL — needs handwriting cleanup / potrebno uklanjanje rukopisnih dodataka.** Nije odobreno; prikaz samo za pregled.
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- integrated-visual: primjer-2-99; page 047 -->
+![Primjer 2.99](../images/02-dijatonika-a/primjer-2-99.png)
+
+*Primjer 2.99. Izvor: tiskana stranica 47.*
+
+MuseScore prijepis: *bit će dodan.*
+
+Povećani kvintakord označuje se brojkom 5, ispred koje se stavlja predznak.
+
+#### Zadaci
+
+<!-- integrated-visual: zadatak-2-47-1; page 047 -->
+![Zadatak 1 — tiskana stranica 47](../images/02-dijatonika-a/zadatak-2-47-1.png)
+
+*Zadatak 1. Izvor: tiskana stranica 47.*
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- integrated-visual: zadatak-2-47-2; page 047 -->
+![Zadatak 2 — tiskana stranica 47](../images/02-dijatonika-a/zadatak-2-47-2.png)
+
+*Zadatak 2. Izvor: tiskana stranica 47.*
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- integrated-visual: zadatak-2-47-3; page 047 -->
+![Zadatak 3 — tiskana stranica 47](../images/02-dijatonika-a/zadatak-2-47-3.png)
+
+*Zadatak 3. Izvor: tiskana stranica 47.*
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- integrated-visual: zadatak-2-47-4; page 047 -->
+![Zadatak 4 — tiskana stranica 47](../images/02-dijatonika-a/zadatak-2-47-4.png)
+
+*Zadatak 4. Izvor: tiskana stranica 47.*
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- integrated-visual: zadatak-2-47-5; page 047 -->
+![Zadatak 5 — tiskana stranica 47](../images/02-dijatonika-a/zadatak-2-47-5.png)
+
+*Zadatak 5. Izvor: tiskana stranica 47.*
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- integrated-visual: zadatak-2-47-6; page 047 -->
+![Zadatak 6 — tiskana stranica 47](../images/02-dijatonika-a/recrops/zadatak-2-47-6.png)
+
+*Zadatak 6. Izvor: tiskana stranica 47.*
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- source-page: 048; pdf-page: 25 -->
+
+## 2.2. Sekstakordi
+
+Sekstakord je prvi obrat kvintakorda; sastoji se od terce i sekste, a označuje brojkom 6. Kod sekstakorda terca kvintakorda postaje basovim tonom, temeljni ton sekstom (otuda i naziv akorda), a kvinta tercom (pr. 2.100).
+
+<!-- integrated-visual: primjer-2-100; page 048 -->
+![Primjer 2.100 — PROVISIONAL, potrebno uklanjanje rukopisnih dodataka](../images/02-dijatonika-a/primjer-2-100.png)
+
+*Primjer 2.100. Izvor: tiskana stranica 48.*
+
+> **PROVISIONAL — needs handwriting cleanup / potrebno uklanjanje rukopisnih dodataka.** Nije odobreno; prikaz samo za pregled.
+
+MuseScore prijepis: *bit će dodan.*
+
+Dur-sekstakordi, izvedeni iz dur-kvintakorda, sadrže malu tercu i malu sekstu; to su sekstakordi I, IV i V stupnja u duru i sekstakordi V i VI stupnja u molu. Mol-sekstakordi, izvedeni iz mol-kvintakorda, sadrže veliku tercu i veliku sekstu (sekstakordi II, III i VI stupnja u duru i sekstakordi I i IV stupnja u molu). Sekstakordi, izvedeni iz smanjenog kvintakorda, imaju malu tercu i veliku sekstu (sekstakordi VII stupnja u duru i sekstakordi II i VII stupnja u molu), a sekstakord III stupnja u molu, koji je izveden iz povećanog kvintakorda, ima veliku tercu i malu sekstu (pr. 2.101).
+
+<!-- integrated-visual: primjer-2-101; page 048 -->
+![Primjer 2.101 — PROVISIONAL, potrebno uklanjanje rukopisnih dodataka](../images/02-dijatonika-a/primjer-2-101.png)
+
+*Primjer 2.101. Izvor: tiskana stranica 48.*
+
+> **PROVISIONAL — needs handwriting cleanup / potrebno uklanjanje rukopisnih dodataka.** Nije odobreno; prikaz samo za pregled.
+
+MuseScore prijepis: *bit će dodan.*
+
+### 2.2.1. Postavljanje konsonantnih sekstakorda
+
+U konsonantnim sekstakordima, tj. u dur-sekstakordu i mol-sekstakordu redovito se udvaja seksta (temeljni ton) ili terca (kvinta kvintakorda iz koga je sekstakord izveden) (pr. 2.102).
+
+<!-- integrated-visual: primjer-2-102; page 048 -->
+![Primjer 2.102 — PROVISIONAL, potrebno uklanjanje rukopisnih dodataka](../images/02-dijatonika-a/primjer-2-102.png)
+
+*Primjer 2.102. Izvor: tiskana stranica 48.*
+
+> **PROVISIONAL — needs handwriting cleanup / potrebno uklanjanje rukopisnih dodataka.** Nije odobreno; prikaz samo za pregled.
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- source-page: 049; pdf-page: 25 -->
+
+Basov ton dur-sekstakorda i mol-sekstakorda karakterističan je ton akorda — jednako kao i terca kod kvintakorda — koji se još više ističe, jer je to sada basov ton. Zbog toga se udvajanje basova tona dur-sekstakorda i mol-sekstakorda tolerira samo kada ne prouzrokuje zvukovnu prezasićenost, zvukovnu oštrinu, a to je: a) kada iza kvintakorda slijedi sekstakord istoga stupnja, a pri tome terca kvintakorda leži, jer tada udvajanje ne nastupa istodobno (pr. 2.103), b) kada se basov ton i njegovo udvajanje uvodi i napušta postepenim pomakom, jer je tada ono opravdano vođenjem glasova — — dvjema linijama u protupomaku i bez skokova (pr. 2.104), c) kada je basov ton sekstakorda neki glavni stupanj (dakle u sekstakordima II, III i VI stupnja), pa je tada to udvajanje zapravo udvajanje temeljnoga tona glavne harmonije koju dotični sekstakord zamjenjuje.
+
+<!-- integrated-visual: primjer-2-103; page 049 -->
+![Primjer 2.103 — PROVISIONAL, potrebno uklanjanje rukopisnih dodataka](../images/02-dijatonika-a/primjer-2-103.png)
+
+*Primjer 2.103. Izvor: tiskana stranica 49. Zvjezdasta bilješka prenesena je niže.*
+
+> **PROVISIONAL — needs handwriting cleanup / potrebno uklanjanje rukopisnih dodataka.** Nije odobreno; prikaz samo za pregled.
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- integrated-visual: primjer-2-104; page 049 -->
+![Primjer 2.104 — PROVISIONAL, potrebno uklanjanje rukopisnih dodataka](../images/02-dijatonika-a/primjer-2-104.png)
+
+*Primjer 2.104. Izvor: tiskana stranica 49.*
+
+> **PROVISIONAL — needs handwriting cleanup / potrebno uklanjanje rukopisnih dodataka.** Nije odobreno; prikaz samo za pregled.
+
+MuseScore prijepis: *bit će dodan.*
+
+> **Bilješka uz primjer 2.103 (tiskana stranica 49):**
+>
+> \* Šifraža »5 ———« označuje situaciju u kojoj tonovi kvintakorda (bez obzira na položaj) u gornjim glasovima leže dok se bas kreće.
+
+Međutim, kada je riječ o toničkoj harmoniji — o centralnoj među glavnima — ipak je često uvjerljivije da je predstavimo toničkim kvintakordom s udvojenim temeljnim tonom nego sekstakordom VI stupnja s udvojenim basovim tonom.
+
+Ako je basov ton sekstakorda vođica, onda se izuzima od udvajanja, dakle uvijek u sekstakordu V stupnja u duru i molu i redovito u sekstakordu IV stupnja u molu gdje je on silazna vođica.
+
+### 2.2.2. Sekstakord VII stupnja; postavljanje i rješenja
+
+Sekstakord VII stupnja (u duru i molu) je disonantan akord, jer njegova terca i seksta čine između sebe disonantan interval povećane kvarte (tritonus), odnosno njegov obrat, interval smanjene kvinte (pr. 2.105.). Njegov basov ton zapravo je kvinta nekompletnoga dominantnog septakorda (v. odsjek 2. 1. 3) i prema tome nije karakterističan ton akorda, pa se stoga
+
+<!-- integrated-visual: primjer-2-105; page 049 -->
+![Primjer 2.105](../images/02-dijatonika-a/primjer-2-105.png)
+
+*Primjer 2.105. Izvor: tiskana stranica 49.*
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- continuation: prose continues on page 050 -->
+<!-- source-page: 050; pdf-page: 26 -->
+
+može udvojiti (premda se i to katkada izbjegava — po analogiji na dur-sekstakorde i mol-sekstakorde). Naprotiv, seksta je vođica, i zato se ona ne udvaja. Terca, iako čini sa sekstom disonantan interval, može se također udvojiti, ali ne tako da se obje terce nađu iznad sekste jer to rezultira dvjema smanjenim kvintama, a to ne zvuči dobro i onemogućuje korektno rješenje akorda (pr. 2.106). U svakom pojedinom slučaju posebnu pažnju treba obratiti vođenju onih glasova koji će tvoriti između sebe interval povećane kvarte ili smanjene kvinte, dakle onih u kojima će se pojaviti terca i seksta sekstakorda. Seksta teži za polustepenim pomakom naviše, a terca, koju treba shvatiti kao septimu dominantnog septakorda, za postepenim pomakom naniže, tako da će povećana kvarta težiti za rješenjem u sekstu, a smanjena kvinta za rješenjem u tercu (pr. 2.107). Ali toj težnji dovoljno je i djelomično udovoljiti, pa onda može samo jedan od kritičnih tonova slijediti svoj prirodni pomak, dok se drugi može s njime kretati paralelno postepeno ili za interval terce, a iznimno kvarte, ili može ležati (v. razna rješenja u pr. 2.108). Sekstakord VII stupnja, kao akord dominantne funkcije, prvenstveno tendira ka toničkom kvintakordu ili sekstakordu (pr. 2.108.a i b), što, međutim, ne isključuje i rješenja u druge harmonije (pr. 2.108.c i d).
+
+<!-- integrated-visual: primjer-2-106; page 050 -->
+![Primjer 2.106 — PROVISIONAL, potrebno uklanjanje rukopisnih dodataka](../images/02-dijatonika-a/primjer-2-106.png)
+
+*Primjer 2.106. Izvor: tiskana stranica 50.*
+
+> **PROVISIONAL — needs handwriting cleanup / potrebno uklanjanje rukopisnih dodataka.** Nije odobreno; prikaz samo za pregled.
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- integrated-visual: primjer-2-107; page 050 -->
+![Primjer 2.107 — PROVISIONAL, potrebno uklanjanje rukopisnih dodataka](../images/02-dijatonika-a/primjer-2-107.png)
+
+*Primjer 2.107. Izvor: tiskana stranica 50.*
+
+> **PROVISIONAL — needs handwriting cleanup / potrebno uklanjanje rukopisnih dodataka.** Nije odobreno; prikaz samo za pregled.
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- integrated-visual: primjer-2-108; page 050 -->
+![Primjer 2.108 — PROVISIONAL, potrebno uklanjanje rukopisnih dodataka](../images/02-dijatonika-a/primjer-2-108.png)
+
+*Primjer 2.108. Izvor: tiskana stranica 50. Zvjezdaste bilješke prenesene su niže.*
+
+> **PROVISIONAL — needs handwriting cleanup / potrebno uklanjanje rukopisnih dodataka.** Nije odobreno; prikaz samo za pregled.
+
+MuseScore prijepis: *bit će dodan.*
+
+> **Bilješke uz primjer 2.108 (tiskana stranica 50):**
+>
+> \* Ti spojevi dolaze u obzir samo u duru; u molu bi bas činio skok za smanjenu kvintu, odnosno za povećanu kvartu, koji ne bi davao dojam rješenja.
+>
+> \*\* Također samo u duru; u molu bi sopran činio pomak za povećanu sekundu, a tenor za povećanu kvartu; preskok u altu (sa »f« na »c«) opravdan je naknadnim vraćanjem na »d«.
+
+<!-- source-page: 051; pdf-page: 26 -->
+
+Kada se kritični tonovi kreću paralelno i postepeno, seksta mora biti iznad terce, u intervalu kvarte, pa se postepeni paralelni pomak onda odvija u kvartama; u obratnom slučaju ispale bi pogrešne paralelne kvinte — iz smanjene u čistu. Jedino kada sekstakord VII stupnja ima ulogu prohodnog akorda između dvije harmonije I stupnja, pri čemu se svi glasovi kreću postepeno, te paralelne kvinte neće smetati. Njih će opravdavati linije vanjskih glasova: kretanje u paralelnim decimama (pr. 2.109.a) ili u protupomaku (pr. 2.109.b).
+
+<!-- integrated-visual: primjer-2-109; page 051 -->
+![Primjer 2.109 — PROVISIONAL, potrebno uklanjanje rukopisnih dodataka](../images/02-dijatonika-a/primjer-2-109.png)
+
+*Primjer 2.109. Izvor: tiskana stranica 51.*
+
+> **PROVISIONAL — needs handwriting cleanup / potrebno uklanjanje rukopisnih dodataka.** Nije odobreno; prikaz samo za pregled.
+
+MuseScore prijepis: *bit će dodan.*
+
+### 2.2.3. Sekstakord II stupnja u molu; postavljanje i rješenja
+
+Sekstakord II stupnja u molu također je disonantan jer i u njemu terca čini sa sekstom povećanu kvartu ili smanjenu kvintu (pr. 2.110). Funkcija mu je — kao i sekstakordu II stupnja u duru — subdominantna, a njegova
+
+<!-- integrated-visual: primjer-2-110; page 051 -->
+![Primjer 2.110](../images/02-dijatonika-a/primjer-2-110.png)
+
+*Primjer 2.110. Izvor: tiskana stranica 51.*
+
+MuseScore prijepis: *bit će dodan.*
+
+terca, kao silazna vođica, teži za silaznim polustepenim pomakom u dominantu. Zbog toga i sekstakord kao cjelina teži prvenstveno za rješenjem u dominantni kvintakord, ali se dobro spaja i s drugim harmonijama, pri čemu se kritični tonovi tretiraju analogno kao i kritični tonovi u sekstakordu VII stupnja (pr. 2.111).
+
+<!-- integrated-visual: primjer-2-111; page 051 -->
+![Primjer 2.111 a](../images/02-dijatonika-a/recrops/primjer-2-111.png)
+
+*Primjer 2.111 a. Izvor: tiskana stranica 51. Nastavak b–d slijedi na tiskanoj stranici 52.*
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- source-page: 052; pdf-page: 27 -->
+
+<!-- integrated-visual: primjer-2-111-nastavak; page 052 -->
+![Primjer 2.111 b–d (nastavak) — PROVISIONAL, potrebno uklanjanje rukopisnih dodataka](../images/02-dijatonika-a/primjer-2-111-nastavak.png)
+
+*Primjer 2.111 b–d (nastavak). Izvor: tiskana stranica 52. Zvjezdasta bilješka prenesena je niže.*
+
+> **PROVISIONAL — needs handwriting cleanup / potrebno uklanjanje rukopisnih dodataka.** Nije odobreno; prikaz samo za pregled.
+
+MuseScore prijepis: *bit će dodan.*
+
+> **Bilješka uz primjer 2.111 (tiskana stranica 52):**
+>
+> \* Preskok u altu (sa »as« na »es«) opravdan je naknadnim vraćanjem na »f«.
+
+### 2.2.4. Sekstakord III stupnja u molu; postavljanje i rješenja
+
+I sekstakord III stupnja u molu, koji je izveden iz povećanog kvintakorda, sadrži disonantni interval: smanjenu kvartu, odnosno povećanu kvintu (pr. 2.112). Njegova terca je vođica i prema tome se ne udvaja ona, nego
+
+<!-- integrated-visual: primjer-2-112; page 052 -->
+![Primjer 2.112](../images/02-dijatonika-a/primjer-2-112.png)
+
+*Primjer 2.112. Izvor: tiskana stranica 52.*
+
+MuseScore prijepis: *bit će dodan.*
+
+basov ton (koji je glavni stupanj, tj. dominanta) ili seksta. Taj sekstakord ima dominantnu funkciju, pa se najprije rješava u harmonije I i VI stupnja, ali se također dobro spaja i sa sekstakordom IV stupnja. U svim rješenjima vođica zadržava uzlazno polustepeno kretanje (v. odsjek 2. 1. 9) (pr. 2.113).
+
+<!-- integrated-visual: primjer-2-113; page 052 -->
+![Primjer 2.113 — PROVISIONAL, potrebno uklanjanje rukopisnih dodataka](../images/02-dijatonika-a/primjer-2-113.png)
+
+*Primjer 2.113. Izvor: tiskana stranica 52.*
+
+> **PROVISIONAL — needs handwriting cleanup / potrebno uklanjanje rukopisnih dodataka.** Nije odobreno; prikaz samo za pregled.
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- source-page: 053; pdf-page: 27 -->
+
+### 2.2.5. Sekstakord II stupnja u kadenci
+
+Značajno mjesto u klasičnom harmonijskom sistemu ima sekstakord II stupnja (II₆) zbog svoje uloge u najčešćoj od svih kadenca — u mješovitoj — gdje se, kao zamjenik subdominantnog kvintakorda, pojavljuje ispred dominantnog kvintakorda ili septakorda (pr. 2.114.a). Kad usporedimo tu kadencu s kadencom IV—V—I (pr. 2.114.b), vidimo da u prvom slučaju imamo bolju liniju soprana, a osim toga, sada su prva dva akorda srodna (jer imaju jedan zajednički ton) i zato je njihov međusobni spoj čvršći od spoja IV—V.
+
+<!-- integrated-visual: primjer-2-114; page 053 -->
+![Primjer 2.114 — PROVISIONAL, potrebno uklanjanje rukopisnih dodataka](../images/02-dijatonika-a/primjer-2-114.png)
+
+*Primjer 2.114. Izvor: tiskana stranica 53.*
+
+> **PROVISIONAL — needs handwriting cleanup / potrebno uklanjanje rukopisnih dodataka.** Nije odobreno; prikaz samo za pregled.
+
+MuseScore prijepis: *bit će dodan.*
+
+Ako sekstakord II stupnja uvedemo u progresiju I—IV—V—I (v. pr. 2.24), koja se od mješovite kadence razlikuje samo po tome što ima tonički kvintakord i na početku, onda ćemo u spoju I—II₆ imati paralelno kretanje u svim glasovima (pr. 2.115.a). Ono se može izbjeći udvajanjem sekste u tenoru u sekstakordu II stupnja ili tako da bas na početku pođe u protupomaku spram gornjih glasova, ali sve to nije potrebno, jer ovdje seksta zapravo samo zamjenjuje kvintu, a da se pritom u odnosu dviju harmonija (I—II₆) ništa ne mijenja. Supstitucija kvinte sekstom nije moguća u svim varijantama progresije jer bi npr. u varijanti b) primjera 2.24. tada došlo do paralelnih kvinta (pr. 2.115.b), a isto bi se dogodilo i u varijantama e) i f) premda bi paralelne kvinte bile pogrešne samo u duru, a u molu ne (s čiste na smanjenu).
+
+<!-- integrated-visual: primjer-2-115; page 053 -->
+![Primjer 2.115](../images/02-dijatonika-a/primjer-2-115.png)
+
+*Primjer 2.115. Izvor: tiskana stranica 53.*
+
+MuseScore prijepis: *bit će dodan.*
+
+ZADACI: Izradba progresije I—II₆—V—I u raznim tonalitetima u svim mogućim varijantama.
+
+<!-- source-page: 054; pdf-page: 28 -->
+
+### 2.2.6. Spajanje sekstakorda i kvintakorda; spajanje sekstakorda međusobno
+
+Pri spajanju sekstakorda s kvintakordima i obratno, kao i pri spajanju sekstakorda međusobno, primjenjuju se isti principi kao i pri spajanju kvintakorda tj. princip zadržavanja zajedničkog tona u istom glasu (što bi odgovaralo principu strogoga spoja kvintakorda) i princip obaveznog protupomaka barem u jednom glasu kada nema zajedničkih tonova ili kada se oni u istom glasu ne zadržavaju (što bi odgovaralo principu slobodnoga spoja kvintakorda). Iako se, dakle, radi i tu i tamo o istim principima, spojevi u kojima se pojavljuju sekstakordi donose neke nove mogućnosti vođenja glasova koje pri spajanju kvintakorda nisu mogle doći u obzir.
+
+U spoju kvintno-srodnih kvintakorda bas se kreće samo u skokovima: za kvintu, odnosno kvartu, prema gore ili prema dolje. To će se doduše događati i kada obje takve harmonije nastupe u obliku sekstakorda (pr. 2.116), ali čim se jedna od njih pojavi kao sekstakord, a druga kao kvintakord, bas se kreće postepeno ili čini manji skok, tj. za tercu (pr. 2.117). Nadalje, kod spoja kvintakorda, bez obzira jesu li srodni ili nesrodni, nijedan od gornjih
+
+<!-- integrated-visual: primjer-2-116; page 054 -->
+![Primjer 2.116](../images/02-dijatonika-a/recrops/primjer-2-116.png)
+
+*Primjer 2.116. Izvor: tiskana stranica 54.*
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- integrated-visual: primjer-2-117; page 054 -->
+![Primjer 2.117 — PROVISIONAL, potrebno uklanjanje rukopisnih dodataka](../images/02-dijatonika-a/primjer-2-117.png)
+
+*Primjer 2.117. Izvor: tiskana stranica 54.*
+
+> **PROVISIONAL — needs handwriting cleanup / potrebno uklanjanje rukopisnih dodataka.** Nije odobreno; prikaz samo za pregled.
+
+MuseScore prijepis: *bit će dodan.*
+
+glasova nije mogao izvoditi pomak s prime na primu ili s kvinte na kvintu jer bi tada nastale paralelne oktave ili kvinte s basom, odnosno oktave ili kvinte u protupomaku koje su dopuštene samo u malom broju posebno uvjetovanih slučajeva (v. odsjek 2. 1. 5). Ali čim barem jedna od dviju harmonija nastupi u obliku sekstakorda, takvi su pomaci u gornjim glasovima izvedivi, a to donosi i nove mogućnosti vođenja sopranske dionice (pr. 2.118). I, konačno, sekstakord, postavljen u mješovitom slogu, vrlo dobro služi za izvedbu glatkog prijelaza iz sloga u slog (pr. 2.119).
+
+<!-- integrated-visual: primjer-2-118; page 054 -->
+![Primjer 2.118 (početak) — PROVISIONAL, potrebno uklanjanje rukopisnih dodataka](../images/02-dijatonika-a/primjer-2-118.png)
+
+*Primjer 2.118 (početak). Izvor: tiskana stranica 54. Nastavak slijedi na tiskanoj stranici 55.*
+
+> **PROVISIONAL — needs handwriting cleanup / potrebno uklanjanje rukopisnih dodataka.** Nije odobreno; prikaz samo za pregled.
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- source-page: 055; pdf-page: 28 -->
+
+<!-- integrated-visual: primjer-2-118-nastavak; page 055 -->
+![Primjer 2.118 (nastavak)](../images/02-dijatonika-a/primjer-2-118-nastavak.png)
+
+*Primjer 2.118 (nastavak). Izvor: tiskana stranica 55.*
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- integrated-visual: primjer-2-119; page 055 -->
+![Primjer 2.119 — PROVISIONAL, potrebno uklanjanje rukopisnih dodataka](../images/02-dijatonika-a/primjer-2-119.png)
+
+*Primjer 2.119. Izvor: tiskana stranica 55.*
+
+> **PROVISIONAL — needs handwriting cleanup / potrebno uklanjanje rukopisnih dodataka.** Nije odobreno; prikaz samo za pregled.
+
+MuseScore prijepis: *bit će dodan.*
+
+Kvintakord i sekstakord mogu se izmijeniti i na zajedničkom basovu tonu. U slijedu sekstakord-kvintakord seksta se redovito doima kao zaostajalica (ako je pripravljena, kao u pr. 2.120.a) ili kao appoggiatura (kada nije pripravljena, kao u pr. 2.120.b), ali to mogu biti i dva samostalna akorda (kada seksta ne ide u istom glasu na kvintu, kao u pr. 2.120.c). No u sva tri slučaja šifraža će biti ista, tj. »6—5«. U slijedu kvintakord-sekstakord
+
+<!-- integrated-visual: primjer-2-120; page 055 -->
+![Primjer 2.120](../images/02-dijatonika-a/primjer-2-120.png)
+
+*Primjer 2.120. Izvor: tiskana stranica 55.*
+
+MuseScore prijepis: *bit će dodan.*
+
+seksta je redovito prohod s kvinte na neki novi akordički ton (pr. 2.121.a), no ona može biti i slobodna u svom kretanju (pr. 2.121.b), a mogu to biti i opet dva samostalna akorda u slučaju kada seksta ne dolazi u istom glasu poslije kvinte (pr. 2.121.c). A šifraža je ponovno za sve slučajeve jednaka: »5—6«. Kada se seksta vraća na kvintu (5—6—5), dobiva ulogu izmjeničnog tona (pr. 2.121.d).
+
+<!-- integrated-visual: primjer-2-121; page 055 -->
+![Primjer 2.121](../images/02-dijatonika-a/recrops/primjer-2-121.png)
+
+*Primjer 2.121. Izvor: tiskana stranica 55.*
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- source-page: 056; pdf-page: 29 -->
+
+Niz od više nesrodnih sekstakorda, odnosno slijed sekstakorda koji se kreću »po sekundama«, zahtijeva obzirno vođenje glasova tako da ni na jednom mjestu ne dođe do paralelnog kretanja u svim glasovima. To, konkretno, znači da kod niza gdje bas uzlazi treba na početku gornje glasove postaviti dovoljno visoko (ali u granicama opsega), kako bi do kraja niza bilo »manevarskog prostora« da uvijek barem jedan glas može silaziti (pr. 2.122.a). U obratnom slučaju gornji glasovi moraju biti na početku dovoljno duboko da bi do kraja niza mogao uvijek barem jedan glas uzlaziti, a da se pritom ponovno ne prijeđe granica opsega (gornjih) glasova (pr. 2.122.b).
+
+<!-- integrated-visual: primjer-2-122; page 056 -->
+![Primjer 2.122](../images/02-dijatonika-a/primjer-2-122.png)
+
+*Primjer 2.122. Izvor: tiskana stranica 56.*
+
+MuseScore prijepis: *bit će dodan.*
+
+Uzastopna pojava unisona u dva susjedna akorda, koja se naročito lako može dogoditi u spoju nesrodnih sekstakorda (pr. 2.123), uvijek se izbjegava jer se tada stvara dojam troglasnoga stavka.
+
+<!-- integrated-visual: primjer-2-123; page 056 -->
+![Primjer 2.123](../images/02-dijatonika-a/primjer-2-123.png)
+
+*Primjer 2.123. Izvor: tiskana stranica 56.*
+
+MuseScore prijepis: *bit će dodan.*
+
+### 2.2.7. Primjena sekstakorda u harmonizaciji
+
+U stavku, rađenom isključivo kvintakordima, basova je dionica ograničena u kretanju. Bas se može kretati postepeno samo kod slijeda nesrodnih kvintakorda — a takve su progresije redovito kratkoga daha — dok inače mora činiti skokove: kod slijeda kvintno-srodnih kvintakorda skokove za kvintu ili kvartu, a kod slijeda tercno-srodnih kvintakorda za tercu ili eventualno za sekstu. Zbog toga je na »kvintakordskom nivou« harmonizacije vrlo teško dobiti basovu dionicu koja bi osigurala dobru harmonijsku progresiju i u isti mah zadovoljila zahtjeve dobre linije, nego se često jedno od toga žrtvuje u korist drugoga, kao u pr. 2.124.a, gdje imamo dobar izbor harmonija,
+
+<!-- continuation: prose continues on page 057 -->
+<!-- source-page: 057; pdf-page: 29 -->
+
+a nikakvu liniju basa, ili u pr. 2.124.b, gdje je dobivena bolja linija basove dionice, ali uz cijenu slabije harmonijske progresije. Uključivanjem sekstakorda »u igru«, situacija se bitno mijenja, jer oni omogućuju i dobar izbor harmonija i logičnu liniju basa (pr. 2.124.c).
+
+<!-- integrated-visual: primjer-2-124; page 057 -->
+![Primjer 2.124 — PROVISIONAL, potrebno uklanjanje rukopisnih dodataka](../images/02-dijatonika-a/primjer-2-124.png)
+
+*Primjer 2.124. Izvor: tiskana stranica 57.*
+
+> **PROVISIONAL — needs handwriting cleanup / potrebno uklanjanje rukopisnih dodataka.** Nije odobreno; prikaz samo za pregled.
+
+MuseScore prijepis: *bit će dodan.*
+
+Ima i takvih melodijskih progresija koje se samo kvintakordima ne daju uopće realizirati, npr. tipični uzlazni završni pomak po tonovima gornjeg tetrakorda ljestvice kada se on nalazi u basu (pr. 2.125.a i b). A i kada se taj pomak nalazi u sopranu, najuvjerljivije opet djeluje harmonizacija u kojoj sekstakord (VII stupnja) nastupa kao predzadnji akord (2.125.c i d).
+
+<!-- integrated-visual: primjer-2-125; page 057 -->
+![Primjer 2.125 — PROVISIONAL, potrebno uklanjanje rukopisnih dodataka](../images/02-dijatonika-a/primjer-2-125.png)
+
+*Primjer 2.125. Izvor: tiskana stranica 57.*
+
+> **PROVISIONAL — needs handwriting cleanup / potrebno uklanjanje rukopisnih dodataka.** Nije odobreno; prikaz samo za pregled.
+
+MuseScore prijepis: *bit će dodan.*
+
+Terca konsonantnog kvintakorda je dinamičan element — nasuprot statičnome temeljnom tonu i kvinti — a kada ona postane basovim tonom sekstakorda istoga stupnja, njena se dinamičnost prenosi na sekstakord u cjelini. Tako i slijed kvintakord-sekstakord (kada se radi o istome stupnju i o konsonantnim kvintakordima) znači povišenje, a slijed sekstakord-kvintakord opadanje intenziteta harmonijskoga zbivanja. Stoga je npr. moguće slijedom kvintakord-sekstakord, pogotovo ako je on kombiniran s pomakom soprana, potpuno anulirati slab učinak sinkopirane harmonije (v. odsjek 2. 1. 8) (pr. 2.126).
+
+<!-- source-page: 058; pdf-page: 30 -->
+
+<!-- integrated-visual: primjer-2-126; page 058 -->
+![Primjer 2.126](../images/02-dijatonika-a/primjer-2-126.png)
+
+*Primjer 2.126. Izvor: tiskana stranica 58.*
+
+MuseScore prijepis: *bit će dodan.*
+
+Ovo je bilo nekoliko tipičnih primjera primjene sekstakorda u harmonizaciji zadanoga glasa koji treba da budu samo podstrekom za otkrivanje i pronalaženje mnogih drugih mogućnosti iskorištavanja toga vrlo osjetljivog i vrlo fleksibilnog akorda.
+
+### 2.2.8. Smanjeni kvintakordi u vezi sa sekstakordima; smanjeni kvintakordi kao samostalni akordi
+
+Smanjeni kvintakord nalazi se na VII stupnju u duru i molu i na II stupnju u molu (v. odsjek 2. 1. 1). Za razliku od sekstakorda istih stupnjeva, smanjeni kvintakord zvuči slabo, i to zato što disonantni interval smanjene kvinte (koji se kod sekstakorda pojavljuje samo među gornjim glasovima) kod njega nastupa uvijek između jednog od gornjih glasova i basa, pa je stoga smanjena kvinta ovdje suviše eksponirana. Zato treba svaki nastup smanjenog kvintakorda tako pripraviti da se neugodan dojam smanjene kvinte izgubi, što se postiže na dva načina: a) smanjeni kvintakord VII stupnja nastupa u progresiji 6—5 kao rezultat pomake sekste na kvintu; u sektakordu V stupnja, koji će prethoditi smanjenom kvintakordu, udvaja se u tom slučaju terca (pr. 2.127); (kvintakord II stupnja u harmonijskom molu ne može se na takav način uvesti zbog intervala povećane sekunde koji bi se pojavio u pomaku sekste na kvintu); b) smanjeni kvintakord može nastupiti i kao samostalan akord, ali mu tada treba u prethodnom akordu i u istom glasu pripraviti kvintu i opet udvojiti tercu (pr. 2.128). Na taj način može se upotrebljavati i kvintakord II stupnja u molu, a taj ima i više mogućnosti rješenja od kvintakorda VII stupnja jer mu temeljni ton nije vođica (pr. 2.129).
+
+<!-- integrated-visual: primjer-2-127; page 058 -->
+![Primjer 2.127](../images/02-dijatonika-a/primjer-2-127.png)
+
+*Primjer 2.127. Izvor: tiskana stranica 58.*
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- integrated-visual: primjer-2-128; page 058 -->
+![Primjer 2.128 — PROVISIONAL, potrebno uklanjanje rukopisnih dodataka](../images/02-dijatonika-a/primjer-2-128.png)
+
+*Primjer 2.128. Izvor: tiskana stranica 58.*
+
+> **PROVISIONAL — needs handwriting cleanup / potrebno uklanjanje rukopisnih dodataka.** Nije odobreno; prikaz samo za pregled.
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- source-page: 059; pdf-page: 30 -->
+
+<!-- integrated-visual: primjer-2-129; page 059 -->
+![Primjer 2.129 — PROVISIONAL, potrebno uklanjanje rukopisnih dodataka](../images/02-dijatonika-a/primjer-2-129.png)
+
+*Primjer 2.129. Izvor: tiskana stranica 59.*
+
+> **PROVISIONAL — needs handwriting cleanup / potrebno uklanjanje rukopisnih dodataka.** Nije odobreno; prikaz samo za pregled.
+
+MuseScore prijepis: *bit će dodan.*
+
+Interval smanjene kvinte, kada ona nastupa s primom u basu (a to znači u smanjenom kvintakordu), ne udvaja se zbog lošeg zvuka nikada, a pridržavanjem gornjih uputa to će se automatski izbjeći.
+
+### 2.2.9. Obilježavanje basa
+
+Zadani bas može biti dvojak: a) **obilježeni ili šifrirani bas**, gdje se osim nota basove dionice daju i akordi koje treba upotrijebiti, a oni se označuju brojkama i b) **neobilježeni bas**, gdje se daju samo note basove dionice, a izbor harmonija prepušta se izvođiocu zadatka.
+
+Dok se basovi izrađuju samo kvintakordima, razlika između obilježenog i neobilježenog basa ne postoji, jer svaki ton zadanoga basa predstavlja i temeljni ton nekog kvintakorda, jedino što se kod primjera u molu predznakom označuje povišenje terce kvintakorda V stupnja, a brojkom 5 s odgovarajućim predznakom povećani kvintakord na III stupnju. Ali čim se uz kvintakorde pojavljuju i sekstakordi, treba u obilježeni bas uvesti i odgovarajuće brojčane oznake:
+
+**Kvintakord** se označuje samo u specijalnim slučajevima (progresijama), kao što su 6—5 (pomak sekstakord-kvintakord, odnosno pomak sekste na kvintu iznad istoga basova tona), zatim 5—6 (pomak kvintakord-sekstakord, odnosno pomak kvinte na sekstu iznad istoga basova tona), te 5 — (slučaj kada iza kvintakorda slijedi bilo koji obrat harmonije istoga stupnja kao rezultat kretanja basa s temeljnoga tona na neki drugi akordički ton iste harmonije) (pr. 2.130); inače se kvintakord u pravilu ne označuje.
+
+**Predznak**, kada stoji u šifraži sam za sebe, odnosi se na tercu, računajući od basova tona pod kojim se nalazi. Budući da odsustvo svake brojke pretpostavlja kvintakord, onda sam predznak znači da se na odnosnom mjestu podrazumijeva kvintakord s tercom, promijenjenom u smislu navedenog predznaka (pr. 2.131.a), ali kromatska promjena svakog drugog intervala zahtijeva predznak i iza njega brojku (pr. 2.131.b).
+
+<!-- source-page: 060; pdf-page: 31 -->
+
+**Sekstakord** se označuje brojkom 6. Ako se želi označiti sekstakord s kromatski promijenjenom tercom, onda se ispod brojke 6 stavlja odgovarajući predznak. Sekstakord s kromatski promijenjenom sekstom označuje se tako da se odgovarajući predznak stavi ispred brojke 6, a sekstakord koji bi imao kromatski promijenjenu i tercu i sekstu dobio bi obje oznake, postavljene jednu iznad druge — gore za sekstu, a dolje za tercu. (Princip ranga intervala, od najvećeg-najgornjeg, pa redom do najmanjeg-najdonjeg, provodi se u šifraži svih akorda.) (pr. 2.132)
+
+**Položaj akorda** ne propisuje se niti označuje; ako se ipak na nekom mjestu želi sugerirati određeni položaj, to se čini odgovarajućom brojkom u zagradama (pr. 2.133).
+
+<!-- integrated-visual: primjer-2-130; page 060 -->
+![Primjer 2.130](../images/02-dijatonika-a/primjer-2-130.png)
+
+*Primjer 2.130. Izvor: tiskana stranica 60.*
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- integrated-visual: primjer-2-131; page 060 -->
+![Primjer 2.131](../images/02-dijatonika-a/primjer-2-131.png)
+
+*Primjer 2.131. Izvor: tiskana stranica 60.*
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- integrated-visual: primjer-2-132; page 060 -->
+![Primjer 2.132](../images/02-dijatonika-a/primjer-2-132.png)
+
+*Primjer 2.132. Izvor: tiskana stranica 60.*
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- integrated-visual: primjer-2-133; page 060 -->
+![Primjer 2.133](../images/02-dijatonika-a/primjer-2-133.png)
+
+*Primjer 2.133. Izvor: tiskana stranica 60.*
+
+MuseScore prijepis: *bit će dodan.*
+
+NAPOMENA: U svim zadacima koji slijede zadani basovi bez šifraže mišljeni su kao neobilježeni, što znači da je izbor harmonija u njima slobodan, a ne kao basovi koji se harmoniziraju samo kvintakordima.
+
+#### Zadaci
+
+<!-- integrated-visual: zadatak-2-60-1; page 060 -->
+![Zadatak 1 — tiskana stranica 60](../images/02-dijatonika-a/zadatak-2-60-1.png)
+
+*Zadatak 1. Izvor: tiskana stranica 60.*
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- integrated-visual: zadatak-2-60-2; page 060 -->
+![Zadatak 2 — tiskana stranica 60](../images/02-dijatonika-a/zadatak-2-60-2.png)
+
+*Zadatak 2. Izvor: tiskana stranica 60.*
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- integrated-visual: zadatak-2-60-3; page 060 -->
+![Zadatak 3 — tiskana stranica 60](../images/02-dijatonika-a/zadatak-2-60-3.png)
+
+*Zadatak 3. Izvor: tiskana stranica 60.*
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- source-page: 061; pdf-page: 31 -->
+
+<!-- integrated-visual: zadatak-2-61-4; page 061 -->
+![Zadatak 4 — tiskana stranica 61](../images/02-dijatonika-a/zadatak-2-61-4.png)
+
+*Zadatak 4. Izvor: tiskana stranica 61.*
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- integrated-visual: zadatak-2-61-5; page 061 -->
+![Zadatak 5 — tiskana stranica 61](../images/02-dijatonika-a/zadatak-2-61-5.png)
+
+*Zadatak 5. Izvor: tiskana stranica 61.*
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- integrated-visual: zadatak-2-61-6; page 061 -->
+![Zadatak 6 — tiskana stranica 61](../images/02-dijatonika-a/zadatak-2-61-6.png)
+
+*Zadatak 6. Izvor: tiskana stranica 61.*
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- integrated-visual: zadatak-2-61-7; page 061 -->
+![Zadatak 7 — tiskana stranica 61](../images/02-dijatonika-a/zadatak-2-61-7.png)
+
+*Zadatak 7. Izvor: tiskana stranica 61.*
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- integrated-visual: zadatak-2-61-8; page 061 -->
+![Zadatak 8 — tiskana stranica 61](../images/02-dijatonika-a/zadatak-2-61-8.png)
+
+*Zadatak 8. Izvor: tiskana stranica 61.*
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- integrated-visual: zadatak-2-61-9; page 061 -->
+![Zadatak 9 — tiskana stranica 61](../images/02-dijatonika-a/zadatak-2-61-9.png)
+
+*Zadatak 9. Izvor: tiskana stranica 61.*
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- integrated-visual: zadatak-2-61-10; page 061 -->
+![Zadatak 10 — tiskana stranica 61](../images/02-dijatonika-a/zadatak-2-61-10.png)
+
+*Zadatak 10. Izvor: tiskana stranica 61.*
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- integrated-visual: zadatak-2-61-11; page 061 -->
+![Zadatak 11 — tiskana stranica 61](../images/02-dijatonika-a/zadatak-2-61-11.png)
+
+*Zadatak 11. Izvor: tiskana stranica 61.*
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- integrated-visual: zadatak-2-61-12; page 061 -->
+![Zadatak 12 — tiskana stranica 61](../images/02-dijatonika-a/zadatak-2-61-12.png)
+
+*Zadatak 12. Izvor: tiskana stranica 61.*
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- integrated-visual: zadatak-2-61-13; page 061 -->
+![Zadatak 13 — tiskana stranica 61](../images/02-dijatonika-a/zadatak-2-61-13.png)
+
+*Zadatak 13. Izvor: tiskana stranica 61.*
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- integrated-visual: zadatak-2-61-14; page 061 -->
+![Zadatak 14 — tiskana stranica 61](../images/02-dijatonika-a/zadatak-2-61-14.png)
+
+*Zadatak 14. Izvor: tiskana stranica 61.*
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- integrated-visual: zadatak-2-61-15; page 061 -->
+![Zadatak 15 — tiskana stranica 61](../images/02-dijatonika-a/zadatak-2-61-15.png)
+
+*Zadatak 15. Izvor: tiskana stranica 61.*
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- source-page: 062; pdf-page: 32 -->
+
+<!-- integrated-visual: zadatak-2-62-16; page 062 -->
+![Zadatak 16 — tiskana stranica 62](../images/02-dijatonika-a/recrops/zadatak-2-62-16.png)
+
+*Zadatak 16. Izvor: tiskana stranica 62.*
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- integrated-visual: zadatak-2-62-17; page 062 -->
+![Zadatak 17 — tiskana stranica 62](../images/02-dijatonika-a/recrops/zadatak-2-62-17.png)
+
+*Zadatak 17. Izvor: tiskana stranica 62.*
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- integrated-visual: zadatak-2-62-18; page 062 -->
+![Zadatak 18 — tiskana stranica 62](../images/02-dijatonika-a/zadatak-2-62-18.png)
+
+*Zadatak 18. Izvor: tiskana stranica 62.*
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- integrated-visual: zadatak-2-62-19; page 062 -->
+![Zadatak 19 — tiskana stranica 62](../images/02-dijatonika-a/zadatak-2-62-19.png)
+
+*Zadatak 19. Izvor: tiskana stranica 62.*
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- integrated-visual: zadatak-2-62-20; page 062 -->
+![Zadatak 20 — tiskana stranica 62](../images/02-dijatonika-a/recrops/zadatak-2-62-20.png)
+
+*Zadatak 20. Izvor: tiskana stranica 62.*
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- integrated-visual: zadatak-2-62-21; page 062 -->
+![Zadatak 21 — tiskana stranica 62](../images/02-dijatonika-a/zadatak-2-62-21.png)
+
+*Zadatak 21. Izvor: tiskana stranica 62.*
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- integrated-visual: zadatak-2-62-22; page 062 -->
+![Zadatak 22 — tiskana stranica 62](../images/02-dijatonika-a/recrops/zadatak-2-62-22.png)
+
+*Zadatak 22. Izvor: tiskana stranica 62.*
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- integrated-visual: zadatak-2-62-23; page 062 -->
+![Zadatak 23 — tiskana stranica 62](../images/02-dijatonika-a/zadatak-2-62-23.png)
+
+*Zadatak 23. Izvor: tiskana stranica 62.*
+
+MuseScore prijepis: *bit će dodan.*
+
+Realizacija zadatka 12.
+
+<!-- integrated-visual: zadatak-2-62-12-realizacija; page 062 -->
+![Realizacija zadatka 12](../images/02-dijatonika-a/recrops/zadatak-2-62-12-realizacija.png)
+
+*Realizacija zadatka 12. Izvor: tiskana stranica 62.*
+
+MuseScore prijepis: *bit će dodan.*
+
+<!-- source-page: 063; pdf-page: 32 -->
+
+Realizacija zadatka 13.
+
+<!-- integrated-visual: zadatak-2-63-13-realizacija; page 063 -->
+![Realizacija zadatka 13](../images/02-dijatonika-a/recrops/zadatak-2-63-13-realizacija.png)
+
+*Realizacija zadatka 13. Izvor: tiskana stranica 63.*
+
+MuseScore prijepis: *bit će dodan.*

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "zadatak-2-47-6",
+    "image": "images/02-dijatonika-a/recrops/zadatak-2-47-6.png",
+    "printed_page": 47,
+    "decision": "PASS",
+    "reason": "Exact source pixels for [202,2247,1712,2427]. Full exercise number 6, treble-clef curl, signature, both slurs, every note and final barline retained. Top, bottom, left and right inspected at native resolution: genuine blank margins; no exercise 5 or page number 47. The previous lower-clef clipping is resolved.",
+    "proposed_rect": null,
+    "source_limited": false
+  },
+  {
+    "id": "primjer-2-111",
+    "image": "images/02-dijatonika-a/recrops/primjer-2-111.png",
+    "printed_page": 51,
+    "decision": "PASS",
+    "reason": "Exact source pixels for [191,2017,1708,2394]. Printed 2.111, variant a, complete clefs/signatures, both staves, all notes/connections/accidentals and all six lower 6 figures retained. All four edges inspected at native resolution: source whitespace retained, pencil-only lower analysis band excluded without erasure, no prose or page number. Tiny isolated scan specks are not meaningful foreign characters. This is part a only; b–d remain the separate page-52 continuation.",
+    "proposed_rect": null,
+    "source_limited": false
+  },
+  {
+    "id": "primjer-2-116",
+    "image": "images/02-dijatonika-a/recrops/primjer-2-116.png",
+    "printed_page": 54,
+    "decision": "PASS",
+    "reason": "Exact source pixels for [193,1077,978,1456]. Printed 2.116, a/b labels, both complete staves/clefs, accidentals, notes, connections, four lower 6 figures and final barline retained. Four edges inspected at native resolution: small clean source margins; handwritten T and lower stroke excluded by the boundary rather than erased; no prose or adjacent 2.117 ink.",
+    "proposed_rect": null,
+    "source_limited": false
+  },
+  {
+    "id": "primjer-2-121",
+    "image": "images/02-dijatonika-a/recrops/primjer-2-121.png",
+    "printed_page": 55,
+    "decision": "PASS",
+    "reason": "Exact source pixels for [219,2000,1745,2392]. Printed 2.121, all four a–d labels, complete clefs/staves, notes, accidentals and every lower 5/6 figure retained. Four edges inspected at native resolution. The prose descender formerly at the top is completely excluded. Variant d remains whole with four source rows above its first dark pixel; this narrow genuine margin is appropriate to the small natural gap below the prose. Other margins are clean; page number 55 excluded.",
+    "proposed_rect": null,
+    "source_limited": false
+  },
+  {
+    "id": "zadatak-2-62-16",
+    "image": "images/02-dijatonika-a/recrops/zadatak-2-62-16.png",
+    "printed_page": 62,
+    "decision": "PASS",
+    "reason": "Exact source pixels for [146,132,1667,303]. Exercise 16, entire treble-clef curl, 3/4 signature, both slurs, opening tie, all notes and final barline retained. All four edges inspected at native resolution: clean source whitespace, including restored lower margin; no neighbouring exercise. Previous clef clipping resolved.",
+    "proposed_rect": null,
+    "source_limited": false
+  },
+  {
+    "id": "zadatak-2-62-17",
+    "image": "images/02-dijatonika-a/recrops/zadatak-2-62-17.png",
+    "printed_page": 62,
+    "decision": "PASS",
+    "reason": "Exact source pixels for [146,341,1667,501]. Exercise 17, full treble clef and flat/4-4 signatures, both slurs, chromatic sharp, all notes and final barline complete. Four edges inspected at native resolution: genuine blank margins, complete lower curl and no exercise 18. Previous lower clipping resolved.",
+    "proposed_rect": null,
+    "source_limited": false
+  },
+  {
+    "id": "zadatak-2-62-20",
+    "image": "images/02-dijatonika-a/recrops/zadatak-2-62-20.png",
+    "printed_page": 62,
+    "decision": "PASS",
+    "reason": "Exact source pixels for [143,923,1663,1094]. Exercise 20, full treble clef, flat/2-2 signatures, both slurs, complete notes and final barline retained. All four edges inspected at native resolution: the previously almost absent lower margin is now a small clean band of original source whitespace; no adjacent exercise admitted.",
+    "proposed_rect": null,
+    "source_limited": false
+  },
+  {
+    "id": "zadatak-2-62-22",
+    "image": "images/02-dijatonika-a/recrops/zadatak-2-62-22.png",
+    "printed_page": 62,
+    "decision": "PASS",
+    "reason": "Exact source pixels for [137,1331,1664,1504]. Exercise 22, whole treble-clef curl, extended flat signature, 4/4, long slur, all beamed and other notes and final barline retained. Four edges inspected at native resolution: clean source whitespace including lower margin; exercise 23 excluded. Previous clipping resolved.",
+    "proposed_rect": null,
+    "source_limited": false
+  },
+  {
+    "id": "zadatak-2-62-12-realizacija",
+    "image": "images/02-dijatonika-a/recrops/zadatak-2-62-12-realizacija.png",
+    "printed_page": 62,
+    "decision": "PASS",
+    "reason": "Exact source pixels for [115,1885,1660,2396]. Full identifying title 'Realizacija zadatka 12.' is now included. Complete brace, clefs, signatures, both staves, all voices, long slur, inner tie, lower connecting brackets/lines and final barline retained. All four edges inspected at native resolution: genuine blank margins, no exercise 23, printed page number 62 or foreign partial character. Title omission resolved.",
+    "proposed_rect": null,
+    "source_limited": false
+  },
+  {
+    "id": "zadatak-2-63-13-realizacija",
+    "image": "images/02-dijatonika-a/recrops/zadatak-2-63-13-realizacija.png",
+    "printed_page": 63,
+    "decision": "PASS",
+    "reason": "Exact source pixels for [168,125,1715,1094]. Full identifying title 'Realizacija zadatka 13.' and both complete score systems retained, including braces, clefs, signatures, chromatic signs, voice-leading brackets/connections, slurs, low ledger note and final barline. Top, bottom, left and right inspected at native resolution: genuine white margins, no marginal mark or page number 63. Title omission resolved.",
+    "proposed_rect": null,
+    "source_limited": false
+  }
+]

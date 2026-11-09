@@ -172,3 +172,63 @@ Every example in each listed range has the stated final result.
 No unresolved unreadable or incomplete musical content was reported in these
 approved images. MuseScore transcription remains pending. Full-section prose
 verification and local rendered-preview review are not certified by this report.
+
+## M02 remaining review checkpoint: printed pages 47–63 / PDF pages 24–32
+
+**This appended checkpoint supersedes the earlier “resume on page 47” instruction
+and the earlier no-pending-images statement for the newly integrated range only.**
+All previous review history and approved images remain unchanged.
+
+The remaining 17 verified text pages have been appended to the chapter, together
+with **69 individually mapped visual slots**: 38 parts covering examples
+2.98–2.133 (including the 2.111 and 2.118 continuations), 29 exercises and two
+realizations. Every image has a printed-page caption and a MuseScore placeholder.
+
+- **49 independently approved source-only images:** 39 initial PASS decisions
+  plus 10 replacement-crop PASS decisions. All ten replacement paths beneath
+  `recrops/` are used; superseded originals are preserved.
+- **20 source-limited images remain `cleanup_required`, NOT approved.** They are
+  displayed only for review and each is visibly labeled **PROVISIONAL — needs
+  handwriting cleanup / potrebno uklanjanje rukopisnih dodataka** in the chapter.
+  Handwriting inside required notation/figure bounds cannot be safely removed
+  by a rectangular crop. This integration performed no retouching or new crops.
+- No human acceptance is asserted; these decisions are inherited from the
+  independent visual-review and replacement-review handoffs.
+
+| Printed page | Independently passed image identities | Provisional / cleanup-required image identities |
+| ---: | --- | --- |
+| 47 | 2.99; exercises 1–6 (6 uses recrop) | 2.98 |
+| 48 | — | 2.100–2.102 |
+| 49 | 2.105 | 2.103–2.104 |
+| 50 | — | 2.106–2.108 |
+| 51 | 2.110; 2.111 a (recrop) | 2.109 |
+| 52 | 2.112 | 2.111 b–d continuation; 2.113 |
+| 53 | 2.115 | 2.114 |
+| 54 | 2.116 (recrop) | 2.117; 2.118 beginning |
+| 55 | 2.118 continuation; 2.120; 2.121 (recrop) | 2.119 |
+| 56 | 2.122–2.123 | — |
+| 57 | — | 2.124–2.125 |
+| 58 | 2.126–2.127 | 2.128 |
+| 59 | — | 2.129 |
+| 60 | 2.130–2.133; exercises 1–3 | — |
+| 61 | exercises 4–15 | — |
+| 62 | exercises 16–23 (16, 17, 20, 22 use recrops); realization 12 (recrop) | — |
+| 63 | realization 13 (recrop, both systems) | — |
+
+See the [complete per-image integration map, unresolved reasons and validation
+report](../../review-candidates/book/M02/INTEGRATION.md) and the
+[69-record final-status manifest](../../review-candidates/book/M02/images-integrated.json).
+The manifest retains exact source scans/rectangles, final review reasons and
+independent evidence files, and explicitly records `human_acceptance: false`.
+
+The 69 integrated crops and ten superseded originals were checked against their
+recorded source rectangles for pixel identity. All source-page/slot identities,
+captions, image paths and MuseScore placeholders were checked one-to-one. The
+verified prose and four starred notes were retained; the prior chapter prefix
+was not edited. No unreadable prose was reported by the text handoff.
+
+**M02 is not complete:** the 20 provisional images require explicitly authorized
+handwriting cleanup and fresh independent review, and full-section rendered
+preview/final acceptance remain pending. MuseScore transcription is also pending.
+This checkpoint is ready as a bounded provisional integration handoff, not as a
+milestone-completion or human-acceptance claim.

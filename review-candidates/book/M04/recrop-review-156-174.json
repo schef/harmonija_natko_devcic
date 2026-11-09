@@ -1,0 +1,34 @@
+{
+  "role": "independent_visual_recrop_review",
+  "manifest": "review-candidates/book/M04/images-corrected-156-174.json",
+  "scope": "Only the single pending_recrop_review record; no other candidate re-reviewed or status changed.",
+  "counts": {"assigned": 1, "reviewed": 1, "PASS": 1, "RECROP_REQUIRED": 0, "unreviewed": 0},
+  "reviews": [
+    {
+      "id": "zadatak-2-9-6-13",
+      "image": "images/02-dijatonika-c/recrops/zadatak-2-9-6-13.png",
+      "source_image": "sources/pages/page-161.png",
+      "source_index": "sources/index.json",
+      "printed_page": 161,
+      "pdf_page": 81,
+      "rect": [222, 872, 1748, 1451],
+      "size": [1526, 579],
+      "decision": "PASS",
+      "reason": "Corrected crop retains the complete Allegretto title with genuine top whitespace, exercise ID 13, all three staff rows, clefs/signatures, notes/rests, slurs/ties, lower stems/beams and final barline. Independently inspected the actual replacement at native resolution against the authoritative source page. All four edges are clean; no preceding clef fragment, neighbouring exercise, prose, page number or handwriting is included. The declared source-only rectangle is reproduced exactly without resampling, retouching or an artificial border.",
+      "edge_checks": {
+        "top": "PASS: Complete Allegretto and upper slurs; small genuine white margin, no preceding exercise fragment.",
+        "bottom": "PASS: Lowest notation, stems and clef complete; genuine white margin, no following exercise.",
+        "left": "PASS: Full ID 13, clefs and staff starts retained with clean source whitespace.",
+        "right": "PASS: All three staff ends, slur ends and final barline intact with clean source whitespace."
+      },
+      "source_pixel_check": {
+        "result": "PASS",
+        "method": "Pillow comparison of decoded RGB mode, dimensions and complete pixel byte arrays against source_image.crop(rect).",
+        "exact_match": true
+      },
+      "metadata_check": "PASS: source path, printed page 161 and PDF page 81 agree with sources/index.json; image ID and caption identify exercise 13 (Allegretto).",
+      "proposed_rect": null,
+      "source_limited": false
+    }
+  ]
+}

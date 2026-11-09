@@ -1,5 +1,24 @@
 # Crop-review tool
 
+## Whole-book confirmation queue
+
+Preparation status and exact resume instructions are in
+[`review-candidates/book/STATUS.md`](../review-candidates/book/STATUS.md).
+
+Run `python tools/review_book.py` to confirm prepared images locally, beside
+their source scans. The default view shows independently passed crops; separate
+views retain cleanup-required and pending-independent-review images without
+calling them approved. Decisions are saved separately in
+`review-candidates/book/human-review-state.json`. This tool never changes images.
+
+`tools/build_book_review_queue.py` consolidates milestone hand-offs and validates
+image paths, dimensions and source bounds. `tools/apply_review_recrops.py` creates
+separate replacements for reviewer-proposed source-only rectangles; replacements
+still require independent re-review. `tools/prepare_book_ocr.py` creates explicitly
+unverified OCR drafts from source-page PNGs only, never from embedded PDF text.
+
+## Single-crop editor
+
 Use the interactive reviewer to create a missing musical-example crop or refine
 an existing one:
 

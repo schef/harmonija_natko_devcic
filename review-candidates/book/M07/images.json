@@ -1,0 +1,1085 @@
+[
+  {
+    "id": "M07-01",
+    "example": "3.176",
+    "kind": "example",
+    "printed_page": 257,
+    "pdf_page": 129,
+    "source_image": "sources/pages/page-257.png",
+    "rect": [
+      232,
+      1042,
+      1744,
+      1377
+    ],
+    "image": "images/03-kromatika-c/primjer-3-176.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": true,
+    "review_note": "cleanup_required: Handwritten marks near variant c and below figures. Direct source-pixel crop; independent visual review required.",
+    "caption": "Primjer 3.176. Izvor: tiskana str. 257."
+  },
+  {
+    "id": "M07-02",
+    "example": "3.177",
+    "kind": "example",
+    "printed_page": 257,
+    "pdf_page": 129,
+    "source_image": "sources/pages/page-257.png",
+    "rect": [
+      217,
+      1895,
+      1736,
+      2422
+    ],
+    "image": "images/03-kromatika-c/primjer-3-177.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": true,
+    "review_note": "cleanup_required: Handwritten harmonic labels above and below systems. Direct source-pixel crop; independent visual review required.",
+    "caption": "Primjer 3.177. Izvor: tiskana str. 257."
+  },
+  {
+    "id": "M07-03",
+    "example": "3.178",
+    "kind": "example",
+    "printed_page": 258,
+    "pdf_page": 130,
+    "source_image": "sources/pages/page-258.png",
+    "rect": [
+      238,
+      111,
+      1579,
+      597
+    ],
+    "image": "images/03-kromatika-c/primjer-3-178.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": true,
+    "review_note": "cleanup_required: Handwriting immediately below composer attribution. Direct source-pixel crop; independent visual review required.",
+    "caption": "Primjer 3.178. Izvor: tiskana str. 258."
+  },
+  {
+    "id": "M07-04",
+    "example": "3.179",
+    "kind": "example",
+    "printed_page": 258,
+    "pdf_page": 130,
+    "source_image": "sources/pages/page-258.png",
+    "rect": [
+      267,
+      795,
+      1595,
+      1063
+    ],
+    "image": "images/03-kromatika-c/primjer-3-179.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": true,
+    "review_note": "cleanup_required: Handwritten labels among variant letters. Direct source-pixel crop; independent visual review required.",
+    "caption": "Primjer 3.179. Izvor: tiskana str. 258."
+  },
+  {
+    "id": "M07-05",
+    "example": "3.180",
+    "kind": "example",
+    "printed_page": 258,
+    "pdf_page": 130,
+    "source_image": "sources/pages/page-258.png",
+    "rect": [
+      145,
+      1076,
+      1683,
+      2418
+    ],
+    "image": "images/03-kromatika-c/primjer-3-180.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": false,
+    "review_note": "Direct source-pixel crop; independent visual review required.",
+    "caption": "Primjer 3.180. Izvor: tiskana str. 258."
+  },
+  {
+    "id": "M07-06",
+    "example": "3.181",
+    "kind": "example",
+    "printed_page": 259,
+    "pdf_page": 130,
+    "source_image": "sources/pages/page-259.png",
+    "rect": [
+      237,
+      373,
+      1773,
+      1285
+    ],
+    "image": "images/03-kromatika-c/primjer-3-181.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": false,
+    "review_note": "Direct source-pixel crop; independent visual review required.",
+    "caption": "Primjer 3.181. Izvor: tiskana str. 259."
+  },
+  {
+    "id": "M07-07",
+    "example": "3.182",
+    "kind": "example",
+    "printed_page": 259,
+    "pdf_page": 130,
+    "source_image": "sources/pages/page-259.png",
+    "rect": [
+      254,
+      1386,
+      1776,
+      2328
+    ],
+    "image": "images/03-kromatika-c/primjer-3-182.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": false,
+    "review_note": "Direct source-pixel crop; independent visual review required.",
+    "caption": "Primjer 3.182. Izvor: tiskana str. 259."
+  },
+  {
+    "id": "M07-08",
+    "example": "3.183",
+    "kind": "example",
+    "printed_page": 260,
+    "pdf_page": 131,
+    "source_image": "sources/pages/page-260.png",
+    "rect": [
+      139,
+      130,
+      1662,
+      656
+    ],
+    "image": "images/03-kromatika-c/primjer-3-183.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": false,
+    "review_note": "Direct source-pixel crop; independent visual review required.",
+    "caption": "Primjer 3.183. Izvor: tiskana str. 260."
+  },
+  {
+    "id": "M07-09",
+    "example": "3.184",
+    "kind": "example",
+    "printed_page": 260,
+    "pdf_page": 131,
+    "source_image": "sources/pages/page-260.png",
+    "rect": [
+      141,
+      659,
+      1665,
+      1259
+    ],
+    "image": "images/03-kromatika-c/primjer-3-184.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": false,
+    "review_note": "Direct source-pixel crop; independent visual review required.",
+    "caption": "Primjer 3.184. Izvor: tiskana str. 260."
+  },
+  {
+    "id": "M07-10",
+    "example": "3.185",
+    "kind": "example",
+    "printed_page": 260,
+    "pdf_page": 131,
+    "source_image": "sources/pages/page-260.png",
+    "rect": [
+      142,
+      1654,
+      1665,
+      2115
+    ],
+    "image": "images/03-kromatika-c/primjer-3-185.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": false,
+    "review_note": "Direct source-pixel crop; independent visual review required.",
+    "caption": "Primjer 3.185. Izvor: tiskana str. 260."
+  },
+  {
+    "id": "M07-11",
+    "example": "3.186",
+    "kind": "example",
+    "printed_page": 261,
+    "pdf_page": 131,
+    "source_image": "sources/pages/page-261.png",
+    "rect": [
+      477,
+      287,
+      1508,
+      576
+    ],
+    "image": "images/03-kromatika-c/primjer-3-186.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": false,
+    "review_note": "Direct source-pixel crop; independent visual review required.",
+    "caption": "Primjer 3.186. Izvor: tiskana str. 261."
+  },
+  {
+    "id": "M07-12",
+    "example": "3.187",
+    "kind": "example",
+    "printed_page": 261,
+    "pdf_page": 131,
+    "source_image": "sources/pages/page-261.png",
+    "rect": [
+      248,
+      613,
+      1771,
+      1060
+    ],
+    "image": "images/03-kromatika-c/primjer-3-187.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": false,
+    "review_note": "Direct source-pixel crop; independent visual review required.",
+    "caption": "Primjer 3.187. Izvor: tiskana str. 261."
+  },
+  {
+    "id": "M07-13",
+    "example": "3.188",
+    "kind": "example",
+    "printed_page": 261,
+    "pdf_page": 131,
+    "source_image": "sources/pages/page-261.png",
+    "rect": [
+      230,
+      1591,
+      1772,
+      2366
+    ],
+    "image": "images/03-kromatika-c/primjer-3-188.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": false,
+    "review_note": "Direct source-pixel crop; independent visual review required.",
+    "caption": "Primjer 3.188. Izvor: tiskana str. 261."
+  },
+  {
+    "id": "M07-14",
+    "example": "3.189",
+    "kind": "example",
+    "printed_page": 262,
+    "pdf_page": 132,
+    "source_image": "sources/pages/page-262.png",
+    "rect": [
+      297,
+      724,
+      1510,
+      984
+    ],
+    "image": "images/03-kromatika-c/primjer-3-189.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": false,
+    "review_note": "Direct source-pixel crop; independent visual review required.",
+    "caption": "Primjer 3.189. Izvor: tiskana str. 262."
+  },
+  {
+    "id": "M07-15",
+    "example": "3.190",
+    "kind": "example",
+    "printed_page": 262,
+    "pdf_page": 132,
+    "source_image": "sources/pages/page-262.png",
+    "rect": [
+      126,
+      1022,
+      1675,
+      2419
+    ],
+    "image": "images/03-kromatika-c/primjer-3-190.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": true,
+    "review_note": "cleanup_required: Handwritten labels above variant a; preserved intact. Direct source-pixel crop; independent visual review required.",
+    "caption": "Primjer 3.190. Izvor: tiskana str. 262."
+  },
+  {
+    "id": "M07-16",
+    "example": "3.191",
+    "kind": "example",
+    "printed_page": 263,
+    "pdf_page": 132,
+    "source_image": "sources/pages/page-263.png",
+    "rect": [
+      212,
+      140,
+      1761,
+      915
+    ],
+    "image": "images/03-kromatika-c/primjer-3-191.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": false,
+    "review_note": "Direct source-pixel crop; independent visual review required.",
+    "caption": "Primjer 3.191. Izvor: tiskana str. 263."
+  },
+  {
+    "id": "M07-17",
+    "example": "3.192",
+    "kind": "example",
+    "printed_page": 263,
+    "pdf_page": 132,
+    "source_image": "sources/pages/page-263.png",
+    "rect": [
+      232,
+      1523,
+      1755,
+      2135
+    ],
+    "image": "images/03-kromatika-c/primjer-3-192.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": false,
+    "review_note": "Direct source-pixel crop; independent visual review required.",
+    "caption": "Primjer 3.192. Izvor: tiskana str. 263."
+  },
+  {
+    "id": "M07-18",
+    "example": "3.193",
+    "kind": "example",
+    "printed_page": 264,
+    "pdf_page": 133,
+    "source_image": "sources/pages/page-264.png",
+    "rect": [
+      434,
+      428,
+      1401,
+      597
+    ],
+    "image": "images/03-kromatika-c/primjer-3-193.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": false,
+    "review_note": "Direct source-pixel crop; independent visual review required.",
+    "caption": "Primjer 3.193. Izvor: tiskana str. 264."
+  },
+  {
+    "id": "M07-19",
+    "example": "ZADACI 1",
+    "kind": "exercise",
+    "printed_page": 264,
+    "pdf_page": 133,
+    "source_image": "sources/pages/page-264.png",
+    "rect": [
+      161,
+      788,
+      1680,
+      1258
+    ],
+    "image": "images/03-kromatika-c/zadatak-3-8-1.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": false,
+    "review_note": "Direct source-pixel crop; independent visual review required. Extractor edge refinement: separated adjacent exercise figures at genuine source whitespace.",
+    "caption": "Zadatak 1 (poglavlje 3.8). Izvor: tiskana str. 264."
+  },
+  {
+    "id": "M07-20",
+    "example": "ZADACI 2",
+    "kind": "exercise",
+    "printed_page": 264,
+    "pdf_page": 133,
+    "source_image": "sources/pages/page-264.png",
+    "rect": [
+      161,
+      1260,
+      1680,
+      1978
+    ],
+    "image": "images/03-kromatika-c/zadatak-3-8-2.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": false,
+    "review_note": "Direct source-pixel crop; independent visual review required. Extractor edge refinement: separated adjacent exercise figures at genuine source whitespace.",
+    "caption": "Zadatak 2 (poglavlje 3.8). Izvor: tiskana str. 264."
+  },
+  {
+    "id": "M07-21",
+    "example": "ZADACI 3",
+    "kind": "exercise",
+    "printed_page": 264,
+    "pdf_page": 133,
+    "source_image": "sources/pages/page-264.png",
+    "rect": [
+      163,
+      1987,
+      1683,
+      2307
+    ],
+    "image": "images/03-kromatika-c/zadatak-3-8-3.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": false,
+    "review_note": "Direct source-pixel crop; independent visual review required.",
+    "caption": "Zadatak 3 (poglavlje 3.8). Izvor: tiskana str. 264."
+  },
+  {
+    "id": "M07-22",
+    "example": "ZADACI 4",
+    "kind": "exercise",
+    "printed_page": 265,
+    "pdf_page": 133,
+    "source_image": "sources/pages/page-265.png",
+    "rect": [
+      207,
+      139,
+      1733,
+      444
+    ],
+    "image": "images/03-kromatika-c/zadatak-3-8-4.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": false,
+    "review_note": "Direct source-pixel crop; independent visual review required.",
+    "caption": "Zadatak 4 (poglavlje 3.8). Izvor: tiskana str. 265."
+  },
+  {
+    "id": "M07-23",
+    "example": "ZADACI 5",
+    "kind": "exercise",
+    "printed_page": 265,
+    "pdf_page": 133,
+    "source_image": "sources/pages/page-265.png",
+    "rect": [
+      205,
+      497,
+      1731,
+      836
+    ],
+    "image": "images/03-kromatika-c/zadatak-3-8-5.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": false,
+    "review_note": "Direct source-pixel crop; independent visual review required.",
+    "caption": "Zadatak 5 (poglavlje 3.8). Izvor: tiskana str. 265."
+  },
+  {
+    "id": "M07-24",
+    "example": "ZADACI 6",
+    "kind": "exercise",
+    "printed_page": 265,
+    "pdf_page": 133,
+    "source_image": "sources/pages/page-265.png",
+    "rect": [
+      211,
+      863,
+      1731,
+      1014
+    ],
+    "image": "images/03-kromatika-c/zadatak-3-8-6.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": false,
+    "review_note": "Direct source-pixel crop; independent visual review required.",
+    "caption": "Zadatak 6 (poglavlje 3.8). Izvor: tiskana str. 265."
+  },
+  {
+    "id": "M07-25",
+    "example": "ZADACI 7",
+    "kind": "exercise",
+    "printed_page": 265,
+    "pdf_page": 133,
+    "source_image": "sources/pages/page-265.png",
+    "rect": [
+      214,
+      1043,
+      1731,
+      1201
+    ],
+    "image": "images/03-kromatika-c/zadatak-3-8-7.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": false,
+    "review_note": "Direct source-pixel crop; independent visual review required.",
+    "caption": "Zadatak 7 (poglavlje 3.8). Izvor: tiskana str. 265."
+  },
+  {
+    "id": "M07-26",
+    "example": "ZADACI 8",
+    "kind": "exercise",
+    "printed_page": 265,
+    "pdf_page": 133,
+    "source_image": "sources/pages/page-265.png",
+    "rect": [
+      211,
+      1234,
+      1732,
+      1414
+    ],
+    "image": "images/03-kromatika-c/zadatak-3-8-8.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": false,
+    "review_note": "Direct source-pixel crop; independent visual review required.",
+    "caption": "Zadatak 8 (poglavlje 3.8). Izvor: tiskana str. 265."
+  },
+  {
+    "id": "M07-27",
+    "example": "ZADACI 9",
+    "kind": "exercise",
+    "printed_page": 265,
+    "pdf_page": 133,
+    "source_image": "sources/pages/page-265.png",
+    "rect": [
+      210,
+      1421,
+      1732,
+      1754
+    ],
+    "image": "images/03-kromatika-c/zadatak-3-8-9.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": false,
+    "review_note": "Direct source-pixel crop; independent visual review required.",
+    "caption": "Zadatak 9 (poglavlje 3.8). Izvor: tiskana str. 265."
+  },
+  {
+    "id": "M07-28",
+    "example": "ZADACI 10",
+    "kind": "exercise",
+    "printed_page": 265,
+    "pdf_page": 133,
+    "source_image": "sources/pages/page-265.png",
+    "rect": [
+      198,
+      1788,
+      1733,
+      2162
+    ],
+    "image": "images/03-kromatika-c/zadatak-3-8-10.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": false,
+    "review_note": "Direct source-pixel crop; independent visual review required.",
+    "caption": "Zadatak 10 (poglavlje 3.8). Izvor: tiskana str. 265."
+  },
+  {
+    "id": "M07-29",
+    "example": "Realizacija zadatka 6.",
+    "kind": "realization",
+    "printed_page": 266,
+    "pdf_page": 134,
+    "source_image": "sources/pages/page-266.png",
+    "rect": [
+      161,
+      107,
+      1701,
+      1054
+    ],
+    "image": "images/03-kromatika-c/realizacija-3-8-zadatak-6.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": false,
+    "review_note": "Direct source-pixel crop; independent visual review required.",
+    "caption": "Realizacija zadatka 6. Izvor: tiskana str. 266."
+  },
+  {
+    "id": "M07-30",
+    "example": "3.194",
+    "kind": "example",
+    "printed_page": 267,
+    "pdf_page": 134,
+    "source_image": "sources/pages/page-267.png",
+    "rect": [
+      194,
+      1172,
+      1803,
+      1546
+    ],
+    "image": "images/03-kromatika-c/primjer-3-194.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": true,
+    "review_note": "cleanup_required: Pencil annotations touch/encircle printed figures and variant labels. Direct source-pixel crop; independent visual review required.",
+    "caption": "Primjer 3.194. Izvor: tiskana str. 267."
+  },
+  {
+    "id": "M07-31",
+    "example": "3.195",
+    "kind": "example",
+    "printed_page": 267,
+    "pdf_page": 134,
+    "source_image": "sources/pages/page-267.png",
+    "rect": [
+      350,
+      1993,
+      1554,
+      2341
+    ],
+    "image": "images/03-kromatika-c/primjer-3-195.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": true,
+    "review_note": "cleanup_required: Pencil annotations overlap notation and extend above variants. Direct source-pixel crop; independent visual review required.",
+    "caption": "Primjer 3.195. Izvor: tiskana str. 267."
+  },
+  {
+    "id": "M07-32",
+    "example": "3.196",
+    "kind": "example",
+    "printed_page": 268,
+    "pdf_page": 135,
+    "source_image": "sources/pages/page-268.png",
+    "rect": [
+      421,
+      546,
+      1532,
+      964
+    ],
+    "image": "images/03-kromatika-c/primjer-3-196.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": true,
+    "review_note": "cleanup_required: Small pencil marks inside the musical example. Direct source-pixel crop; independent visual review required.",
+    "caption": "Primjer 3.196. Izvor: tiskana str. 268."
+  },
+  {
+    "id": "M07-33",
+    "example": "3.197",
+    "kind": "example",
+    "printed_page": 268,
+    "pdf_page": 135,
+    "source_image": "sources/pages/page-268.png",
+    "rect": [
+      186,
+      1308,
+      1709,
+      1720
+    ],
+    "image": "images/03-kromatika-c/primjer-3-197.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": false,
+    "review_note": "Direct source-pixel crop; independent visual review required.",
+    "caption": "Primjer 3.197. Izvor: tiskana str. 268."
+  },
+  {
+    "id": "M07-34",
+    "example": "3.198",
+    "kind": "example",
+    "printed_page": 268,
+    "pdf_page": 135,
+    "source_image": "sources/pages/page-268.png",
+    "rect": [
+      184,
+      1739,
+      1707,
+      2121
+    ],
+    "image": "images/03-kromatika-c/primjer-3-198.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": false,
+    "review_note": "Direct source-pixel crop; independent visual review required.",
+    "caption": "Primjer 3.198. Izvor: tiskana str. 268."
+  },
+  {
+    "id": "M07-35",
+    "example": "3.199",
+    "kind": "example",
+    "printed_page": 269,
+    "pdf_page": 135,
+    "source_image": "sources/pages/page-269.png",
+    "rect": [
+      179,
+      269,
+      1708,
+      646
+    ],
+    "image": "images/03-kromatika-c/primjer-3-199.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": false,
+    "review_note": "Direct source-pixel crop; independent visual review required.",
+    "caption": "Primjer 3.199. Izvor: tiskana str. 269."
+  },
+  {
+    "id": "M07-36",
+    "example": "3.200",
+    "kind": "example",
+    "printed_page": 269,
+    "pdf_page": 135,
+    "source_image": "sources/pages/page-269.png",
+    "rect": [
+      165,
+      711,
+      1708,
+      1537
+    ],
+    "image": "images/03-kromatika-c/primjer-3-200.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": false,
+    "review_note": "Direct source-pixel crop; independent visual review required.",
+    "caption": "Primjer 3.200. Izvor: tiskana str. 269."
+  },
+  {
+    "id": "M07-37",
+    "example": "3.201",
+    "kind": "example",
+    "printed_page": 269,
+    "pdf_page": 135,
+    "source_image": "sources/pages/page-269.png",
+    "rect": [
+      379,
+      1545,
+      1478,
+      2024
+    ],
+    "image": "images/03-kromatika-c/primjer-3-201.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": true,
+    "review_note": "cleanup_required: Handwritten labels above, inside, and below the example. Direct source-pixel crop; independent visual review required.",
+    "caption": "Primjer 3.201. Izvor: tiskana str. 269."
+  },
+  {
+    "id": "M07-38",
+    "example": "3.202",
+    "kind": "example",
+    "printed_page": 270,
+    "pdf_page": 136,
+    "source_image": "sources/pages/page-270.png",
+    "rect": [
+      187,
+      567,
+      885,
+      984
+    ],
+    "image": "images/03-kromatika-c/primjer-3-202.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": true,
+    "review_note": "cleanup_required: Pencil labels within and below notation; narrow right separation from 3.203. Direct source-pixel crop; independent visual review required.",
+    "caption": "Primjer 3.202. Izvor: tiskana str. 270."
+  },
+  {
+    "id": "M07-39",
+    "example": "3.203",
+    "kind": "example",
+    "printed_page": 270,
+    "pdf_page": 136,
+    "source_image": "sources/pages/page-270.png",
+    "rect": [
+      886,
+      530,
+      1710,
+      1036
+    ],
+    "image": "images/03-kromatika-c/primjer-3-203.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": true,
+    "review_note": "cleanup_required: Handwriting above and below notation; narrow left separation from 3.202. Direct source-pixel crop; independent visual review required.",
+    "caption": "Primjer 3.203. Izvor: tiskana str. 270."
+  },
+  {
+    "id": "M07-40",
+    "example": "3.204",
+    "kind": "example",
+    "printed_page": 270,
+    "pdf_page": 136,
+    "source_image": "sources/pages/page-270.png",
+    "rect": [
+      508,
+      989,
+      1373,
+      1339
+    ],
+    "image": "images/03-kromatika-c/primjer-3-204.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": true,
+    "review_note": "cleanup_required: Handwriting inside notation and beside the example. Direct source-pixel crop; independent visual review required.",
+    "caption": "Primjer 3.204. Izvor: tiskana str. 270."
+  },
+  {
+    "id": "M07-41",
+    "example": "3.205",
+    "kind": "example",
+    "printed_page": 270,
+    "pdf_page": 136,
+    "source_image": "sources/pages/page-270.png",
+    "rect": [
+      420,
+      1930,
+      1459,
+      2286
+    ],
+    "image": "images/03-kromatika-c/primjer-3-205.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": true,
+    "review_note": "cleanup_required: Handwritten marks above and within the example. Direct source-pixel crop; independent visual review required.",
+    "caption": "Primjer 3.205. Izvor: tiskana str. 270."
+  },
+  {
+    "id": "M07-42",
+    "example": "ZADACI 1",
+    "kind": "exercise",
+    "printed_page": 271,
+    "pdf_page": 136,
+    "source_image": "sources/pages/page-271.png",
+    "rect": [
+      200,
+      285,
+      1719,
+      730
+    ],
+    "image": "images/03-kromatika-c/zadatak-3-9-1.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": false,
+    "review_note": "Direct source-pixel crop; independent visual review required.",
+    "caption": "Zadatak 1 (poglavlje 3.9). Izvor: tiskana str. 271."
+  },
+  {
+    "id": "M07-43",
+    "example": "ZADACI 2",
+    "kind": "exercise",
+    "printed_page": 271,
+    "pdf_page": 136,
+    "source_image": "sources/pages/page-271.png",
+    "rect": [
+      200,
+      756,
+      1718,
+      1441
+    ],
+    "image": "images/03-kromatika-c/zadatak-3-9-2.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": false,
+    "review_note": "Direct source-pixel crop; independent visual review required.",
+    "caption": "Zadatak 2 (poglavlje 3.9). Izvor: tiskana str. 271."
+  },
+  {
+    "id": "M07-44",
+    "example": "ZADACI 3",
+    "kind": "exercise",
+    "printed_page": 271,
+    "pdf_page": 136,
+    "source_image": "sources/pages/page-271.png",
+    "rect": [
+      199,
+      1443,
+      1719,
+      1581
+    ],
+    "image": "images/03-kromatika-c/zadatak-3-9-3.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": false,
+    "review_note": "Direct source-pixel crop; independent visual review required.",
+    "caption": "Zadatak 3 (poglavlje 3.9). Izvor: tiskana str. 271."
+  },
+  {
+    "id": "M07-45",
+    "example": "ZADACI 4",
+    "kind": "exercise",
+    "printed_page": 271,
+    "pdf_page": 136,
+    "source_image": "sources/pages/page-271.png",
+    "rect": [
+      196,
+      1620,
+      1719,
+      1963
+    ],
+    "image": "images/03-kromatika-c/zadatak-3-9-4.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": false,
+    "review_note": "Direct source-pixel crop; independent visual review required.",
+    "caption": "Zadatak 4 (poglavlje 3.9). Izvor: tiskana str. 271."
+  },
+  {
+    "id": "M07-46",
+    "example": "ZADACI 5",
+    "kind": "exercise",
+    "printed_page": 271,
+    "pdf_page": 136,
+    "source_image": "sources/pages/page-271.png",
+    "rect": [
+      195,
+      1994,
+      1719,
+      2356
+    ],
+    "image": "images/03-kromatika-c/zadatak-3-9-5.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": false,
+    "review_note": "Direct source-pixel crop; independent visual review required.",
+    "caption": "Zadatak 5 (poglavlje 3.9). Izvor: tiskana str. 271."
+  },
+  {
+    "id": "M07-47",
+    "example": "Realizacija zadatka 3.",
+    "kind": "realization",
+    "printed_page": 272,
+    "pdf_page": 137,
+    "source_image": "sources/pages/page-272.png",
+    "rect": [
+      170,
+      106,
+      1707,
+      1034
+    ],
+    "image": "images/03-kromatika-c/realizacija-3-9-zadatak-3.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": false,
+    "review_note": "Direct source-pixel crop; independent visual review required.",
+    "caption": "Realizacija zadatka 3. Izvor: tiskana str. 272."
+  },
+  {
+    "id": "M07-48",
+    "example": "3.206",
+    "kind": "example",
+    "printed_page": 273,
+    "pdf_page": 137,
+    "source_image": "sources/pages/page-273.png",
+    "rect": [
+      367,
+      944,
+      1819,
+      1390
+    ],
+    "image": "images/03-kromatika-c/primjer-3-206.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": true,
+    "review_note": "cleanup_required: Handwritten labels and lines overlap slurs and notes; source marks extend right. Direct source-pixel crop; independent visual review required.",
+    "caption": "Primjer 3.206. Izvor: tiskana str. 273."
+  },
+  {
+    "id": "M07-49",
+    "example": "3.207",
+    "kind": "example",
+    "printed_page": 273,
+    "pdf_page": 137,
+    "source_image": "sources/pages/page-273.png",
+    "rect": [
+      668,
+      2056,
+      1352,
+      2329
+    ],
+    "image": "images/03-kromatika-c/primjer-3-207.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": true,
+    "review_note": "cleanup_required: Handwritten harmonic label immediately above printed notation. Direct source-pixel crop; independent visual review required. Extractor edge refinement: retained complete adjacent handwritten source label.",
+    "caption": "Primjer 3.207. Izvor: tiskana str. 273."
+  },
+  {
+    "id": "M07-50",
+    "example": "3.208",
+    "kind": "example",
+    "printed_page": 274,
+    "pdf_page": 138,
+    "source_image": "sources/pages/page-274.png",
+    "rect": [
+      170,
+      309,
+      1695,
+      1050
+    ],
+    "image": "images/03-kromatika-c/primjer-3-208.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": true,
+    "review_note": "cleanup_required: Pencil harmonic labels inside and below the three-staff example. Direct source-pixel crop; independent visual review required.",
+    "caption": "Primjer 3.208. Izvor: tiskana str. 274."
+  },
+  {
+    "id": "M07-51",
+    "example": "3.209",
+    "kind": "example",
+    "printed_page": 274,
+    "pdf_page": 138,
+    "source_image": "sources/pages/page-274.png",
+    "rect": [
+      173,
+      1261,
+      1695,
+      1749
+    ],
+    "image": "images/03-kromatika-c/primjer-3-209.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": false,
+    "review_note": "Direct source-pixel crop; independent visual review required.",
+    "caption": "Primjer 3.209. Izvor: tiskana str. 274."
+  },
+  {
+    "id": "M07-52",
+    "example": "3.210",
+    "kind": "example",
+    "printed_page": 274,
+    "pdf_page": 138,
+    "source_image": "sources/pages/page-274.png",
+    "rect": [
+      239,
+      1964,
+      1634,
+      2390
+    ],
+    "image": "images/03-kromatika-c/primjer-3-210.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": false,
+    "review_note": "Direct source-pixel crop; independent visual review required.",
+    "caption": "Primjer 3.210. Izvor: tiskana str. 274."
+  },
+  {
+    "id": "M07-53",
+    "example": "3.211",
+    "kind": "example",
+    "printed_page": 275,
+    "pdf_page": 138,
+    "source_image": "sources/pages/page-275.png",
+    "rect": [
+      326,
+      246,
+      1614,
+      704
+    ],
+    "image": "images/03-kromatika-c/primjer-3-211.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": false,
+    "review_note": "Direct source-pixel crop; independent visual review required.",
+    "caption": "Primjer 3.211. Izvor: tiskana str. 275."
+  },
+  {
+    "id": "M07-54",
+    "example": "3.212",
+    "kind": "example",
+    "printed_page": 275,
+    "pdf_page": 138,
+    "source_image": "sources/pages/page-275.png",
+    "rect": [
+      214,
+      887,
+      1604,
+      1329
+    ],
+    "image": "images/03-kromatika-c/primjer-3-212.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": false,
+    "review_note": "Direct source-pixel crop; independent visual review required.",
+    "caption": "Primjer 3.212. Izvor: tiskana str. 275."
+  },
+  {
+    "id": "M07-55",
+    "example": "3.213",
+    "kind": "example",
+    "printed_page": 275,
+    "pdf_page": 138,
+    "source_image": "sources/pages/page-275.png",
+    "rect": [
+      210,
+      1371,
+      1733,
+      2034
+    ],
+    "image": "images/03-kromatika-c/primjer-3-213.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": false,
+    "review_note": "Direct source-pixel crop; independent visual review required.",
+    "caption": "Primjer 3.213. Izvor: tiskana str. 275."
+  },
+  {
+    "id": "M07-56",
+    "example": "3.214",
+    "kind": "example",
+    "printed_page": 276,
+    "pdf_page": 139,
+    "source_image": "sources/pages/page-276.png",
+    "rect": [
+      335,
+      64,
+      1533,
+      359
+    ],
+    "image": "images/03-kromatika-c/primjer-3-214.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": true,
+    "review_note": "cleanup_required: Handwritten harmonic labels directly above variant letters; unrelated marks at page top excluded. Direct source-pixel crop; independent visual review required.",
+    "caption": "Primjer 3.214. Izvor: tiskana str. 276."
+  },
+  {
+    "id": "M07-57",
+    "example": "3.215",
+    "kind": "example",
+    "printed_page": 276,
+    "pdf_page": 139,
+    "source_image": "sources/pages/page-276.png",
+    "rect": [
+      164,
+      703,
+      1689,
+      1697
+    ],
+    "image": "images/03-kromatika-c/primjer-3-215.png",
+    "review_status": "pending_independent_review",
+    "cleanup_required": true,
+    "review_note": "cleanup_required: Handwritten analysis around variants b/c overlaps notation; retained without cleaning. Direct source-pixel crop; independent visual review required.",
+    "caption": "Primjer 3.215. Izvor: tiskana str. 276."
+  }
+]

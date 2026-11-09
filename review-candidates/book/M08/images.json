@@ -1,0 +1,1856 @@
+[
+  {
+    "id": "4.1",
+    "example": "Primjer 4.1",
+    "kind": "example",
+    "printed_page": 277,
+    "pdf_page": 139,
+    "source_image": "sources/pages/page-277.png",
+    "rect": [
+      212,
+      1944,
+      1725,
+      2413
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-1.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: source handwriting within or touching example; source pixels preserved.",
+    "caption": "Primjer 4.1. Tiskana str. 277."
+  },
+  {
+    "id": "4.1-c",
+    "example": "Primjer 4.1 (nastavak)",
+    "kind": "example",
+    "printed_page": 278,
+    "pdf_page": 140,
+    "source_image": "sources/pages/page-278.png",
+    "rect": [
+      440,
+      274,
+      1411,
+      724
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-1-c.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: source handwriting within or touching example; source pixels preserved. Continuation: the source does not repeat the example/exercise number; pair with preceding-page part.",
+    "caption": "Primjer 4.1 (nastavak). Tiskana str. 278."
+  },
+  {
+    "id": "4.2",
+    "example": "Primjer 4.2",
+    "kind": "example",
+    "printed_page": 278,
+    "pdf_page": 140,
+    "source_image": "sources/pages/page-278.png",
+    "rect": [
+      201,
+      1724,
+      1709,
+      2221
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-2.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: source handwriting within or touching example; source pixels preserved.",
+    "caption": "Primjer 4.2. Tiskana str. 278."
+  },
+  {
+    "id": "4.3",
+    "example": "Primjer 4.3",
+    "kind": "example",
+    "printed_page": 280,
+    "pdf_page": 141,
+    "source_image": "sources/pages/page-280.png",
+    "rect": [
+      342,
+      1793,
+      1518,
+      2206
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-3.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: source handwriting within or touching example; source pixels preserved.",
+    "caption": "Primjer 4.3. Tiskana str. 280."
+  },
+  {
+    "id": "4.4",
+    "example": "Primjer 4.4",
+    "kind": "example",
+    "printed_page": 281,
+    "pdf_page": 141,
+    "source_image": "sources/pages/page-281.png",
+    "rect": [
+      588,
+      713,
+      1408,
+      1152
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-4.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: source handwriting within or touching example; source pixels preserved.",
+    "caption": "Primjer 4.4. Tiskana str. 281."
+  },
+  {
+    "id": "4.5",
+    "example": "Primjer 4.5",
+    "kind": "example",
+    "printed_page": 281,
+    "pdf_page": 141,
+    "source_image": "sources/pages/page-281.png",
+    "rect": [
+      387,
+      1448,
+      1565,
+      1960
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-5.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: source handwriting within or touching example; source pixels preserved.",
+    "caption": "Primjer 4.5. Tiskana str. 281."
+  },
+  {
+    "id": "4.6",
+    "example": "Primjer 4.6",
+    "kind": "example",
+    "printed_page": 282,
+    "pdf_page": 142,
+    "source_image": "sources/pages/page-282.png",
+    "rect": [
+      183,
+      116,
+      1700,
+      524
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-6.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Primjer 4.6. Tiskana str. 282."
+  },
+  {
+    "id": "4.7",
+    "example": "Primjer 4.7",
+    "kind": "example",
+    "printed_page": 282,
+    "pdf_page": 142,
+    "source_image": "sources/pages/page-282.png",
+    "rect": [
+      496,
+      869,
+      1410,
+      1103
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-7.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: source handwriting within or touching example; source pixels preserved.",
+    "caption": "Primjer 4.7. Tiskana str. 282."
+  },
+  {
+    "id": "4.8",
+    "example": "Primjer 4.8",
+    "kind": "example",
+    "printed_page": 282,
+    "pdf_page": 142,
+    "source_image": "sources/pages/page-282.png",
+    "rect": [
+      422,
+      1631,
+      1481,
+      1996
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-8.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Primjer 4.8. Tiskana str. 282."
+  },
+  {
+    "id": "4.9",
+    "example": "Primjer 4.9",
+    "kind": "example",
+    "printed_page": 282,
+    "pdf_page": 142,
+    "source_image": "sources/pages/page-282.png",
+    "rect": [
+      294,
+      2009,
+      1590,
+      2382
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-9.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: source handwriting within or touching example; source pixels preserved.",
+    "caption": "Primjer 4.9. Tiskana str. 282."
+  },
+  {
+    "id": "4.10",
+    "example": "Primjer 4.10",
+    "kind": "example",
+    "printed_page": 283,
+    "pdf_page": 142,
+    "source_image": "sources/pages/page-283.png",
+    "rect": [
+      348,
+      121,
+      1584,
+      491
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-10.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: source handwriting within or touching example; source pixels preserved.",
+    "caption": "Primjer 4.10. Tiskana str. 283."
+  },
+  {
+    "id": "4.11",
+    "example": "Primjer 4.11",
+    "kind": "example",
+    "printed_page": 283,
+    "pdf_page": 142,
+    "source_image": "sources/pages/page-283.png",
+    "rect": [
+      518,
+      632,
+      1461,
+      1017
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-11.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: source handwriting within or touching example; source pixels preserved.",
+    "caption": "Primjer 4.11. Tiskana str. 283."
+  },
+  {
+    "id": "4.12",
+    "example": "Primjer 4.12",
+    "kind": "example",
+    "printed_page": 283,
+    "pdf_page": 142,
+    "source_image": "sources/pages/page-283.png",
+    "rect": [
+      236,
+      1397,
+      1745,
+      1781
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-12.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: source handwriting within or touching example; source pixels preserved.",
+    "caption": "Primjer 4.12. Tiskana str. 283."
+  },
+  {
+    "id": "4.13",
+    "example": "Primjer 4.13",
+    "kind": "example",
+    "printed_page": 283,
+    "pdf_page": 142,
+    "source_image": "sources/pages/page-283.png",
+    "rect": [
+      512,
+      2021,
+      1461,
+      2382
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-13.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Primjer 4.13. Tiskana str. 283."
+  },
+  {
+    "id": "4.14",
+    "example": "Primjer 4.14",
+    "kind": "example",
+    "printed_page": 284,
+    "pdf_page": 143,
+    "source_image": "sources/pages/page-284.png",
+    "rect": [
+      309,
+      390,
+      1155,
+      847
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-14.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: source handwriting within or touching example; source pixels preserved.",
+    "caption": "Primjer 4.14. Tiskana str. 284."
+  },
+  {
+    "id": "4.15",
+    "example": "Primjer 4.15",
+    "kind": "example",
+    "printed_page": 284,
+    "pdf_page": 143,
+    "source_image": "sources/pages/page-284.png",
+    "rect": [
+      315,
+      846,
+      1506,
+      1320
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-15.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: source handwriting within or touching example; source pixels preserved.",
+    "caption": "Primjer 4.15. Tiskana str. 284."
+  },
+  {
+    "id": "4.16",
+    "example": "Primjer 4.16",
+    "kind": "example",
+    "printed_page": 284,
+    "pdf_page": 143,
+    "source_image": "sources/pages/page-284.png",
+    "rect": [
+      315,
+      1321,
+      1509,
+      1818
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-16.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: source handwriting within or touching example; source pixels preserved.",
+    "caption": "Primjer 4.16. Tiskana str. 284."
+  },
+  {
+    "id": "4.17",
+    "example": "Primjer 4.17",
+    "kind": "example",
+    "printed_page": 285,
+    "pdf_page": 143,
+    "source_image": "sources/pages/page-285.png",
+    "rect": [
+      211,
+      461,
+      1760,
+      1367
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-17.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: source handwriting within or touching example; source pixels preserved.",
+    "caption": "Primjer 4.17. Tiskana str. 285."
+  },
+  {
+    "id": "4.18",
+    "example": "Primjer 4.18",
+    "kind": "example",
+    "printed_page": 285,
+    "pdf_page": 143,
+    "source_image": "sources/pages/page-285.png",
+    "rect": [
+      234,
+      1499,
+      1754,
+      2354
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-18.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Primjer 4.18. Tiskana str. 285."
+  },
+  {
+    "id": "4.19",
+    "example": "Primjer 4.19",
+    "kind": "example",
+    "printed_page": 286,
+    "pdf_page": 144,
+    "source_image": "sources/pages/page-286.png",
+    "rect": [
+      150,
+      94,
+      1672,
+      522
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-19.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required. The explanatory asterisk footnote beneath the score is prose, not included in crop.",
+    "caption": "Primjer 4.19. Tiskana str. 286."
+  },
+  {
+    "id": "4.20",
+    "example": "Primjer 4.20",
+    "kind": "example",
+    "printed_page": 286,
+    "pdf_page": 144,
+    "source_image": "sources/pages/page-286.png",
+    "rect": [
+      161,
+      943,
+      1676,
+      1802
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-20.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Primjer 4.20. Tiskana str. 286."
+  },
+  {
+    "id": "4.21",
+    "example": "Primjer 4.21",
+    "kind": "example",
+    "printed_page": 286,
+    "pdf_page": 144,
+    "source_image": "sources/pages/page-286.png",
+    "rect": [
+      154,
+      1899,
+      1671,
+      2304
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-21.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Primjer 4.21. Tiskana str. 286."
+  },
+  {
+    "id": "4.21-cont",
+    "example": "Primjer 4.21 (nastavak)",
+    "kind": "example",
+    "printed_page": 287,
+    "pdf_page": 144,
+    "source_image": "sources/pages/page-287.png",
+    "rect": [
+      200,
+      108,
+      1738,
+      526
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-21-cont.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required. Continuation: the source does not repeat the example/exercise number; pair with preceding-page part.",
+    "caption": "Primjer 4.21 (nastavak). Tiskana str. 287."
+  },
+  {
+    "id": "4.z287-1",
+    "example": "Zadatak 1",
+    "kind": "exercise",
+    "printed_page": 287,
+    "pdf_page": 144,
+    "source_image": "sources/pages/page-287.png",
+    "rect": [
+      213,
+      832,
+      1737,
+      1709
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-287-1.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Zadatak 1. Tiskana str. 287."
+  },
+  {
+    "id": "4.z287-2",
+    "example": "Zadatak 2",
+    "kind": "exercise",
+    "printed_page": 287,
+    "pdf_page": 144,
+    "source_image": "sources/pages/page-287.png",
+    "rect": [
+      218,
+      1719,
+      1738,
+      2158
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-287-2.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Zadatak 2. Tiskana str. 287."
+  },
+  {
+    "id": "4.z287-3",
+    "example": "Zadatak 3",
+    "kind": "exercise",
+    "printed_page": 287,
+    "pdf_page": 144,
+    "source_image": "sources/pages/page-287.png",
+    "rect": [
+      220,
+      2170,
+      1737,
+      2349
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-287-3.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Zadatak 3. Tiskana str. 287."
+  },
+  {
+    "id": "4.z288-3-cont",
+    "example": "Zadatak 3 (nastavak)",
+    "kind": "exercise",
+    "printed_page": 288,
+    "pdf_page": 145,
+    "source_image": "sources/pages/page-288.png",
+    "rect": [
+      187,
+      112,
+      1712,
+      531
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-288-3-cont.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required. Continuation: the source does not repeat the example/exercise number; pair with preceding-page part.",
+    "caption": "Zadatak 3 (nastavak). Tiskana str. 288."
+  },
+  {
+    "id": "4.z288-4",
+    "example": "Zadatak 4",
+    "kind": "exercise",
+    "printed_page": 288,
+    "pdf_page": 145,
+    "source_image": "sources/pages/page-288.png",
+    "rect": [
+      197,
+      564,
+      1715,
+      1421
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-288-4.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Zadatak 4. Tiskana str. 288."
+  },
+  {
+    "id": "4.z288-5",
+    "example": "Zadatak 5",
+    "kind": "exercise",
+    "printed_page": 288,
+    "pdf_page": 145,
+    "source_image": "sources/pages/page-288.png",
+    "rect": [
+      207,
+      1429,
+      1716,
+      1638
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-288-5.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Zadatak 5. Tiskana str. 288."
+  },
+  {
+    "id": "4.z288-6",
+    "example": "Zadatak 6",
+    "kind": "exercise",
+    "printed_page": 288,
+    "pdf_page": 145,
+    "source_image": "sources/pages/page-288.png",
+    "rect": [
+      207,
+      1667,
+      1720,
+      1819
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-288-6.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Zadatak 6. Tiskana str. 288."
+  },
+  {
+    "id": "4.z288-7",
+    "example": "Zadatak 7",
+    "kind": "exercise",
+    "printed_page": 288,
+    "pdf_page": 145,
+    "source_image": "sources/pages/page-288.png",
+    "rect": [
+      207,
+      1871,
+      1722,
+      2184
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-288-7.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Zadatak 7. Tiskana str. 288."
+  },
+  {
+    "id": "4.z288-8",
+    "example": "Zadatak 8",
+    "kind": "exercise",
+    "printed_page": 288,
+    "pdf_page": 145,
+    "source_image": "sources/pages/page-288.png",
+    "rect": [
+      210,
+      2206,
+      1724,
+      2388
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-288-8.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Zadatak 8. Tiskana str. 288."
+  },
+  {
+    "id": "4.z289-9",
+    "example": "Zadatak 9",
+    "kind": "exercise",
+    "printed_page": 289,
+    "pdf_page": 145,
+    "source_image": "sources/pages/page-289.png",
+    "rect": [
+      226,
+      169,
+      1747,
+      572
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-289-9.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Zadatak 9. Tiskana str. 289."
+  },
+  {
+    "id": "4.z289-10",
+    "example": "Zadatak 10",
+    "kind": "exercise",
+    "printed_page": 289,
+    "pdf_page": 145,
+    "source_image": "sources/pages/page-289.png",
+    "rect": [
+      225,
+      573,
+      1746,
+      738
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-289-10.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Zadatak 10. Tiskana str. 289."
+  },
+  {
+    "id": "4.z289-11",
+    "example": "Zadatak 11",
+    "kind": "exercise",
+    "printed_page": 289,
+    "pdf_page": 145,
+    "source_image": "sources/pages/page-289.png",
+    "rect": [
+      223,
+      756,
+      1747,
+      1142
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-289-11.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Zadatak 11. Tiskana str. 289."
+  },
+  {
+    "id": "4.z289-12",
+    "example": "Zadatak 12",
+    "kind": "exercise",
+    "printed_page": 289,
+    "pdf_page": 145,
+    "source_image": "sources/pages/page-289.png",
+    "rect": [
+      225,
+      1142,
+      1750,
+      1485
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-289-12.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Zadatak 12. Tiskana str. 289."
+  },
+  {
+    "id": "4.z289-13",
+    "example": "Zadatak 13",
+    "kind": "exercise",
+    "printed_page": 289,
+    "pdf_page": 145,
+    "source_image": "sources/pages/page-289.png",
+    "rect": [
+      225,
+      1522,
+      1748,
+      1874
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-289-13.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Zadatak 13. Tiskana str. 289."
+  },
+  {
+    "id": "4.z289-9-realizacija",
+    "example": "Realizacija zadatka 9",
+    "kind": "realization",
+    "printed_page": 289,
+    "pdf_page": 145,
+    "source_image": "sources/pages/page-289.png",
+    "rect": [
+      197,
+      1989,
+      1748,
+      2381
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-289-9-realizacija.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Realizacija zadatka 9. Tiskana str. 289."
+  },
+  {
+    "id": "4.z290-9-realizacija-cont",
+    "example": "Realizacija zadatka 9 (nastavak)",
+    "kind": "realization",
+    "printed_page": 290,
+    "pdf_page": 146,
+    "source_image": "sources/pages/page-290.png",
+    "rect": [
+      140,
+      148,
+      1691,
+      1051
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-290-9-realizacija-cont.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required. Continuation: the source does not repeat the example/exercise number; pair with preceding-page part.",
+    "caption": "Realizacija zadatka 9 (nastavak). Tiskana str. 290."
+  },
+  {
+    "id": "4.22",
+    "example": "Primjer 4.22",
+    "kind": "example",
+    "printed_page": 290,
+    "pdf_page": 146,
+    "source_image": "sources/pages/page-290.png",
+    "rect": [
+      186,
+      1750,
+      1706,
+      2246
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-22.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: source handwriting within or touching example; source pixels preserved.",
+    "caption": "Primjer 4.22. Tiskana str. 290."
+  },
+  {
+    "id": "4.23",
+    "example": "Primjer 4.23",
+    "kind": "example",
+    "printed_page": 291,
+    "pdf_page": 146,
+    "source_image": "sources/pages/page-291.png",
+    "rect": [
+      224,
+      129,
+      1748,
+      602
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-23.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: source handwriting within or touching example; source pixels preserved.",
+    "caption": "Primjer 4.23. Tiskana str. 291."
+  },
+  {
+    "id": "4.24",
+    "example": "Primjer 4.24",
+    "kind": "example",
+    "printed_page": 291,
+    "pdf_page": 146,
+    "source_image": "sources/pages/page-291.png",
+    "rect": [
+      225,
+      610,
+      1748,
+      1051
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-24.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: source handwriting within or touching example; source pixels preserved.",
+    "caption": "Primjer 4.24. Tiskana str. 291."
+  },
+  {
+    "id": "4.25",
+    "example": "Primjer 4.25",
+    "kind": "example",
+    "printed_page": 291,
+    "pdf_page": 146,
+    "source_image": "sources/pages/page-291.png",
+    "rect": [
+      223,
+      1078,
+      1750,
+      1547
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-25.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: source handwriting within or touching example; source pixels preserved.",
+    "caption": "Primjer 4.25. Tiskana str. 291."
+  },
+  {
+    "id": "4.26",
+    "example": "Primjer 4.26",
+    "kind": "example",
+    "printed_page": 291,
+    "pdf_page": 146,
+    "source_image": "sources/pages/page-291.png",
+    "rect": [
+      227,
+      1877,
+      1753,
+      2382
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-26.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup-required: source handwriting within or touching example; source pixels preserved.",
+    "caption": "Primjer 4.26. Tiskana str. 291."
+  },
+  {
+    "id": "4.27",
+    "example": "Primjer 4.27",
+    "kind": "example",
+    "printed_page": 292,
+    "pdf_page": 147,
+    "source_image": "sources/pages/page-292.png",
+    "rect": [
+      183,
+      392,
+      1704,
+      843
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-27.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Primjer 4.27. Tiskana str. 292."
+  },
+  {
+    "id": "4.28",
+    "example": "Primjer 4.28",
+    "kind": "example",
+    "printed_page": 292,
+    "pdf_page": 147,
+    "source_image": "sources/pages/page-292.png",
+    "rect": [
+      184,
+      878,
+      1715,
+      1338
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-28.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Primjer 4.28. Tiskana str. 292."
+  },
+  {
+    "id": "4.29",
+    "example": "Primjer 4.29",
+    "kind": "example",
+    "printed_page": 292,
+    "pdf_page": 147,
+    "source_image": "sources/pages/page-292.png",
+    "rect": [
+      191,
+      1396,
+      1715,
+      1873
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-29.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Primjer 4.29. Tiskana str. 292."
+  },
+  {
+    "id": "4.30",
+    "example": "Primjer 4.30",
+    "kind": "example",
+    "printed_page": 292,
+    "pdf_page": 147,
+    "source_image": "sources/pages/page-292.png",
+    "rect": [
+      195,
+      1902,
+      1721,
+      2356
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-30.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Primjer 4.30. Tiskana str. 292."
+  },
+  {
+    "id": "4.z293-1",
+    "example": "Zadatak 1",
+    "kind": "exercise",
+    "printed_page": 293,
+    "pdf_page": 147,
+    "source_image": "sources/pages/page-293.png",
+    "rect": [
+      218,
+      196,
+      1738,
+      635
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-293-1.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Zadatak 1. Tiskana str. 293."
+  },
+  {
+    "id": "4.z293-2",
+    "example": "Zadatak 2",
+    "kind": "exercise",
+    "printed_page": 293,
+    "pdf_page": 147,
+    "source_image": "sources/pages/page-293.png",
+    "rect": [
+      218,
+      648,
+      1738,
+      1317
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-293-2.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Zadatak 2. Tiskana str. 293."
+  },
+  {
+    "id": "4.z293-3",
+    "example": "Zadatak 3",
+    "kind": "exercise",
+    "printed_page": 293,
+    "pdf_page": 147,
+    "source_image": "sources/pages/page-293.png",
+    "rect": [
+      218,
+      1322,
+      1739,
+      1659
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-293-3.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Zadatak 3. Tiskana str. 293."
+  },
+  {
+    "id": "4.z293-4",
+    "example": "Zadatak 4",
+    "kind": "exercise",
+    "printed_page": 293,
+    "pdf_page": 147,
+    "source_image": "sources/pages/page-293.png",
+    "rect": [
+      220,
+      1665,
+      1738,
+      1833
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-293-4.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Zadatak 4. Tiskana str. 293."
+  },
+  {
+    "id": "4.z293-5",
+    "example": "Zadatak 5",
+    "kind": "exercise",
+    "printed_page": 293,
+    "pdf_page": 147,
+    "source_image": "sources/pages/page-293.png",
+    "rect": [
+      220,
+      1845,
+      1739,
+      2215
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-293-5.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Zadatak 5. Tiskana str. 293."
+  },
+  {
+    "id": "4.z293-6",
+    "example": "Zadatak 6",
+    "kind": "exercise",
+    "printed_page": 293,
+    "pdf_page": 147,
+    "source_image": "sources/pages/page-293.png",
+    "rect": [
+      220,
+      2229,
+      1739,
+      2399
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-293-6.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Zadatak 6. Tiskana str. 293."
+  },
+  {
+    "id": "4.z294-6-cont",
+    "example": "Zadatak 6 (nastavak)",
+    "kind": "exercise",
+    "printed_page": 294,
+    "pdf_page": 148,
+    "source_image": "sources/pages/page-294.png",
+    "rect": [
+      178,
+      142,
+      1705,
+      313
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-294-6-cont.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required. Continuation: the source does not repeat the example/exercise number; pair with preceding-page part.",
+    "caption": "Zadatak 6 (nastavak). Tiskana str. 294."
+  },
+  {
+    "id": "4.z294-7",
+    "example": "Zadatak 7",
+    "kind": "exercise",
+    "printed_page": 294,
+    "pdf_page": 148,
+    "source_image": "sources/pages/page-294.png",
+    "rect": [
+      180,
+      324,
+      1705,
+      690
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-294-7.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Zadatak 7. Tiskana str. 294."
+  },
+  {
+    "id": "4.z294-5-realizacija",
+    "example": "Realizacija zadatka 5",
+    "kind": "realization",
+    "printed_page": 294,
+    "pdf_page": 148,
+    "source_image": "sources/pages/page-294.png",
+    "rect": [
+      150,
+      942,
+      1705,
+      1799
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-294-5-realizacija.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Realizacija zadatka 5. Tiskana str. 294."
+  },
+  {
+    "id": "4.31",
+    "example": "Primjer 4.31",
+    "kind": "example",
+    "printed_page": 295,
+    "pdf_page": 148,
+    "source_image": "sources/pages/page-295.png",
+    "rect": [
+      223,
+      114,
+      1746,
+      567
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-31.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Primjer 4.31. Tiskana str. 295."
+  },
+  {
+    "id": "4.32",
+    "example": "Primjer 4.32",
+    "kind": "example",
+    "printed_page": 295,
+    "pdf_page": 148,
+    "source_image": "sources/pages/page-295.png",
+    "rect": [
+      223,
+      593,
+      1744,
+      1016
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-32.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Primjer 4.32. Tiskana str. 295."
+  },
+  {
+    "id": "4.33",
+    "example": "Primjer 4.33",
+    "kind": "example",
+    "printed_page": 295,
+    "pdf_page": 148,
+    "source_image": "sources/pages/page-295.png",
+    "rect": [
+      217,
+      1068,
+      1744,
+      1511
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-33.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Primjer 4.33. Tiskana str. 295."
+  },
+  {
+    "id": "4.34",
+    "example": "Primjer 4.34",
+    "kind": "example",
+    "printed_page": 295,
+    "pdf_page": 148,
+    "source_image": "sources/pages/page-295.png",
+    "rect": [
+      217,
+      1550,
+      1744,
+      2004
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-34.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Primjer 4.34. Tiskana str. 295."
+  },
+  {
+    "id": "4.35",
+    "example": "Primjer 4.35",
+    "kind": "example",
+    "printed_page": 296,
+    "pdf_page": 149,
+    "source_image": "sources/pages/page-296.png",
+    "rect": [
+      168,
+      178,
+      1700,
+      659
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-35.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Primjer 4.35. Tiskana str. 296."
+  },
+  {
+    "id": "4.z296-1",
+    "example": "Zadatak 1",
+    "kind": "exercise",
+    "printed_page": 296,
+    "pdf_page": 149,
+    "source_image": "sources/pages/page-296.png",
+    "rect": [
+      180,
+      855,
+      1705,
+      1982
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-296-1.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Zadatak 1. Tiskana str. 296."
+  },
+  {
+    "id": "4.z296-2",
+    "example": "Zadatak 2",
+    "kind": "exercise",
+    "printed_page": 296,
+    "pdf_page": 149,
+    "source_image": "sources/pages/page-296.png",
+    "rect": [
+      180,
+      1991,
+      1705,
+      2301
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-296-2.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Zadatak 2. Tiskana str. 296."
+  },
+  {
+    "id": "4.z297-3",
+    "example": "Zadatak 3",
+    "kind": "exercise",
+    "printed_page": 297,
+    "pdf_page": 149,
+    "source_image": "sources/pages/page-297.png",
+    "rect": [
+      221,
+      134,
+      1744,
+      519
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-297-3.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Zadatak 3. Tiskana str. 297."
+  },
+  {
+    "id": "4.z297-4",
+    "example": "Zadatak 4",
+    "kind": "exercise",
+    "printed_page": 297,
+    "pdf_page": 149,
+    "source_image": "sources/pages/page-297.png",
+    "rect": [
+      218,
+      524,
+      1744,
+      894
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-297-4.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Zadatak 4. Tiskana str. 297."
+  },
+  {
+    "id": "4.z297-3-realizacija",
+    "example": "Realizacija zadatka 3",
+    "kind": "realization",
+    "printed_page": 297,
+    "pdf_page": 149,
+    "source_image": "sources/pages/page-297.png",
+    "rect": [
+      195,
+      1069,
+      1745,
+      2354
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-297-3-realizacija.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Realizacija zadatka 3. Tiskana str. 297."
+  },
+  {
+    "id": "4.36",
+    "example": "Primjer 4.36",
+    "kind": "example",
+    "printed_page": 298,
+    "pdf_page": 150,
+    "source_image": "sources/pages/page-298.png",
+    "rect": [
+      165,
+      617,
+      1688,
+      1039
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-36.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Primjer 4.36. Tiskana str. 298."
+  },
+  {
+    "id": "4.37",
+    "example": "Primjer 4.37",
+    "kind": "example",
+    "printed_page": 298,
+    "pdf_page": 150,
+    "source_image": "sources/pages/page-298.png",
+    "rect": [
+      453,
+      1241,
+      1416,
+      1698
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-37.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Primjer 4.37. Tiskana str. 298."
+  },
+  {
+    "id": "4.z298-1",
+    "example": "Zadatak 1",
+    "kind": "exercise",
+    "printed_page": 298,
+    "pdf_page": 150,
+    "source_image": "sources/pages/page-298.png",
+    "rect": [
+      170,
+      1863,
+      1698,
+      2316
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-298-1.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Zadatak 1. Tiskana str. 298."
+  },
+  {
+    "id": "4.z299-1-cont",
+    "example": "Zadatak 1 (nastavak)",
+    "kind": "exercise",
+    "printed_page": 299,
+    "pdf_page": 150,
+    "source_image": "sources/pages/page-299.png",
+    "rect": [
+      219,
+      127,
+      1743,
+      539
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-299-1-cont.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required. Continuation: the source does not repeat the example/exercise number; pair with preceding-page part.",
+    "caption": "Zadatak 1 (nastavak). Tiskana str. 299."
+  },
+  {
+    "id": "4.z299-2",
+    "example": "Zadatak 2",
+    "kind": "exercise",
+    "printed_page": 299,
+    "pdf_page": 150,
+    "source_image": "sources/pages/page-299.png",
+    "rect": [
+      219,
+      563,
+      1745,
+      901
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-299-2.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Zadatak 2. Tiskana str. 299."
+  },
+  {
+    "id": "4.38",
+    "example": "Primjer 4.38",
+    "kind": "example",
+    "printed_page": 299,
+    "pdf_page": 150,
+    "source_image": "sources/pages/page-299.png",
+    "rect": [
+      200,
+      1420,
+      1745,
+      2360
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-38.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Primjer 4.38. Tiskana str. 299."
+  },
+  {
+    "id": "4.39",
+    "example": "Primjer 4.39",
+    "kind": "example",
+    "printed_page": 300,
+    "pdf_page": 151,
+    "source_image": "sources/pages/page-300.png",
+    "rect": [
+      161,
+      355,
+      1684,
+      768
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-39.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Primjer 4.39. Tiskana str. 300."
+  },
+  {
+    "id": "4.40",
+    "example": "Primjer 4.40",
+    "kind": "example",
+    "printed_page": 300,
+    "pdf_page": 151,
+    "source_image": "sources/pages/page-300.png",
+    "rect": [
+      387,
+      780,
+      1463,
+      1213
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-40.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Primjer 4.40. Tiskana str. 300."
+  },
+  {
+    "id": "4.41",
+    "example": "Primjer 4.41",
+    "kind": "example",
+    "printed_page": 300,
+    "pdf_page": 151,
+    "source_image": "sources/pages/page-300.png",
+    "rect": [
+      139,
+      1538,
+      1670,
+      2406
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-41.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Primjer 4.41. Tiskana str. 300."
+  },
+  {
+    "id": "4.42",
+    "example": "Primjer 4.42",
+    "kind": "example",
+    "printed_page": 301,
+    "pdf_page": 151,
+    "source_image": "sources/pages/page-301.png",
+    "rect": [
+      216,
+      151,
+      1744,
+      602
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-42.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Primjer 4.42. Tiskana str. 301."
+  },
+  {
+    "id": "4.43",
+    "example": "Primjer 4.43",
+    "kind": "example",
+    "printed_page": 301,
+    "pdf_page": 151,
+    "source_image": "sources/pages/page-301.png",
+    "rect": [
+      217,
+      1053,
+      1745,
+      1519
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-43.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Primjer 4.43. Tiskana str. 301."
+  },
+  {
+    "id": "4.44",
+    "example": "Primjer 4.44",
+    "kind": "example",
+    "printed_page": 301,
+    "pdf_page": 151,
+    "source_image": "sources/pages/page-301.png",
+    "rect": [
+      230,
+      1760,
+      1750,
+      2220
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-44.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Primjer 4.44. Tiskana str. 301."
+  },
+  {
+    "id": "4.45",
+    "example": "Primjer 4.45",
+    "kind": "example",
+    "printed_page": 302,
+    "pdf_page": 152,
+    "source_image": "sources/pages/page-302.png",
+    "rect": [
+      160,
+      102,
+      1689,
+      1072
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-45.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Primjer 4.45. Tiskana str. 302."
+  },
+  {
+    "id": "4.z302-1",
+    "example": "Zadatak 1",
+    "kind": "exercise",
+    "printed_page": 302,
+    "pdf_page": 152,
+    "source_image": "sources/pages/page-302.png",
+    "rect": [
+      164,
+      1187,
+      1688,
+      2069
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-302-1.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Zadatak 1. Tiskana str. 302."
+  },
+  {
+    "id": "4.z302-2",
+    "example": "Zadatak 2",
+    "kind": "exercise",
+    "printed_page": 302,
+    "pdf_page": 152,
+    "source_image": "sources/pages/page-302.png",
+    "rect": [
+      165,
+      2083,
+      1683,
+      2300
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-302-2.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Zadatak 2. Tiskana str. 302."
+  },
+  {
+    "id": "4.z303-2-cont",
+    "example": "Zadatak 2 (nastavak)",
+    "kind": "exercise",
+    "printed_page": 303,
+    "pdf_page": 152,
+    "source_image": "sources/pages/page-303.png",
+    "rect": [
+      217,
+      121,
+      1740,
+      550
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-303-2-cont.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required. Continuation: the source does not repeat the example/exercise number; pair with preceding-page part.",
+    "caption": "Zadatak 2 (nastavak). Tiskana str. 303."
+  },
+  {
+    "id": "4.z303-3",
+    "example": "Zadatak 3",
+    "kind": "exercise",
+    "printed_page": 303,
+    "pdf_page": 152,
+    "source_image": "sources/pages/page-303.png",
+    "rect": [
+      217,
+      550,
+      1738,
+      699
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-303-3.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Zadatak 3. Tiskana str. 303."
+  },
+  {
+    "id": "4.z303-4",
+    "example": "Zadatak 4",
+    "kind": "exercise",
+    "printed_page": 303,
+    "pdf_page": 152,
+    "source_image": "sources/pages/page-303.png",
+    "rect": [
+      217,
+      710,
+      1738,
+      1084
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-303-4.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Zadatak 4. Tiskana str. 303."
+  },
+  {
+    "id": "4.z303-5",
+    "example": "Zadatak 5",
+    "kind": "exercise",
+    "printed_page": 303,
+    "pdf_page": 152,
+    "source_image": "sources/pages/page-303.png",
+    "rect": [
+      218,
+      1094,
+      1738,
+      1262
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-303-5.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Zadatak 5. Tiskana str. 303."
+  },
+  {
+    "id": "4.z303-6",
+    "example": "Zadatak 6",
+    "kind": "exercise",
+    "printed_page": 303,
+    "pdf_page": 152,
+    "source_image": "sources/pages/page-303.png",
+    "rect": [
+      218,
+      1275,
+      1740,
+      1829
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-303-6.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Zadatak 6. Tiskana str. 303."
+  },
+  {
+    "id": "4.z303-3-realizacija",
+    "example": "Realizacija zadatka 3",
+    "kind": "realization",
+    "printed_page": 303,
+    "pdf_page": 152,
+    "source_image": "sources/pages/page-303.png",
+    "rect": [
+      190,
+      1944,
+      1740,
+      2341
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-303-3-realizacija.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Realizacija zadatka 3. Tiskana str. 303."
+  },
+  {
+    "id": "4.z304-3-realizacija-cont",
+    "example": "Realizacija zadatka 3 (nastavak)",
+    "kind": "realization",
+    "printed_page": 304,
+    "pdf_page": 153,
+    "source_image": "sources/pages/page-304.png",
+    "rect": [
+      165,
+      106,
+      1712,
+      542
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-304-3-realizacija-cont.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required. Continuation: the source does not repeat the example/exercise number; pair with preceding-page part.",
+    "caption": "Realizacija zadatka 3 (nastavak). Tiskana str. 304."
+  },
+  {
+    "id": "4.46",
+    "example": "Primjer 4.46",
+    "kind": "example",
+    "printed_page": 304,
+    "pdf_page": 153,
+    "source_image": "sources/pages/page-304.png",
+    "rect": [
+      176,
+      1524,
+      1723,
+      2324
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-46.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Primjer 4.46. Tiskana str. 304."
+  },
+  {
+    "id": "4.47",
+    "example": "Primjer 4.47",
+    "kind": "example",
+    "printed_page": 305,
+    "pdf_page": 153,
+    "source_image": "sources/pages/page-305.png",
+    "rect": [
+      430,
+      391,
+      1512,
+      731
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-47.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Primjer 4.47. Tiskana str. 305."
+  },
+  {
+    "id": "4.48",
+    "example": "Primjer 4.48",
+    "kind": "example",
+    "printed_page": 305,
+    "pdf_page": 153,
+    "source_image": "sources/pages/page-305.png",
+    "rect": [
+      269,
+      794,
+      1675,
+      1152
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-48.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Primjer 4.48. Tiskana str. 305."
+  },
+  {
+    "id": "4.49",
+    "example": "Primjer 4.49",
+    "kind": "example",
+    "printed_page": 305,
+    "pdf_page": 153,
+    "source_image": "sources/pages/page-305.png",
+    "rect": [
+      451,
+      1535,
+      1475,
+      1907
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-49.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Primjer 4.49. Tiskana str. 305."
+  },
+  {
+    "id": "4.50",
+    "example": "Primjer 4.50",
+    "kind": "example",
+    "printed_page": 305,
+    "pdf_page": 153,
+    "source_image": "sources/pages/page-305.png",
+    "rect": [
+      362,
+      1948,
+      1580,
+      2318
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-50.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Primjer 4.50. Tiskana str. 305."
+  },
+  {
+    "id": "4.51",
+    "example": "Primjer 4.51",
+    "kind": "example",
+    "printed_page": 306,
+    "pdf_page": 154,
+    "source_image": "sources/pages/page-306.png",
+    "rect": [
+      343,
+      128,
+      1538,
+      493
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-51.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Primjer 4.51. Tiskana str. 306."
+  },
+  {
+    "id": "4.52",
+    "example": "Primjer 4.52",
+    "kind": "example",
+    "printed_page": 306,
+    "pdf_page": 154,
+    "source_image": "sources/pages/page-306.png",
+    "rect": [
+      408,
+      854,
+      1486,
+      1326
+    ],
+    "image": "images/04-neakordicki-a/primjer-4-52.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Primjer 4.52. Tiskana str. 306."
+  },
+  {
+    "id": "4.z306-1",
+    "example": "Zadatak 1",
+    "kind": "exercise",
+    "printed_page": 306,
+    "pdf_page": 154,
+    "source_image": "sources/pages/page-306.png",
+    "rect": [
+      192,
+      1473,
+      1718,
+      1918
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-306-1.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Zadatak 1. Tiskana str. 306."
+  },
+  {
+    "id": "4.z306-2",
+    "example": "Zadatak 2",
+    "kind": "exercise",
+    "printed_page": 306,
+    "pdf_page": 154,
+    "source_image": "sources/pages/page-306.png",
+    "rect": [
+      192,
+      1917,
+      1719,
+      2366
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-306-2.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Zadatak 2. Tiskana str. 306."
+  },
+  {
+    "id": "4.z307-2-cont",
+    "example": "Zadatak 2 (nastavak)",
+    "kind": "exercise",
+    "printed_page": 307,
+    "pdf_page": 154,
+    "source_image": "sources/pages/page-307.png",
+    "rect": [
+      217,
+      132,
+      1742,
+      337
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-307-2-cont.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required. Continuation: the source does not repeat the example/exercise number; pair with preceding-page part.",
+    "caption": "Zadatak 2 (nastavak). Tiskana str. 307."
+  },
+  {
+    "id": "4.z307-3",
+    "example": "Zadatak 3",
+    "kind": "exercise",
+    "printed_page": 307,
+    "pdf_page": 154,
+    "source_image": "sources/pages/page-307.png",
+    "rect": [
+      220,
+      355,
+      1742,
+      1071
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-307-3.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Zadatak 3. Tiskana str. 307."
+  },
+  {
+    "id": "4.z307-4",
+    "example": "Zadatak 4",
+    "kind": "exercise",
+    "printed_page": 307,
+    "pdf_page": 154,
+    "source_image": "sources/pages/page-307.png",
+    "rect": [
+      221,
+      1073,
+      1744,
+      1639
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-307-4.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Zadatak 4. Tiskana str. 307."
+  },
+  {
+    "id": "4.z307-5",
+    "example": "Zadatak 5",
+    "kind": "exercise",
+    "printed_page": 307,
+    "pdf_page": 154,
+    "source_image": "sources/pages/page-307.png",
+    "rect": [
+      220,
+      1645,
+      1745,
+      1991
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-307-5.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Zadatak 5. Tiskana str. 307."
+  },
+  {
+    "id": "4.z308-3-realizacija",
+    "example": "Realizacija zadatka 3",
+    "kind": "realization",
+    "printed_page": 308,
+    "pdf_page": 155,
+    "source_image": "sources/pages/page-308.png",
+    "rect": [
+      145,
+      188,
+      1709,
+      2355
+    ],
+    "image": "images/04-neakordicki-a/zadatak-4-308-3-realizacija.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Source-only crop; independent four-edge review required.",
+    "caption": "Realizacija zadatka 3. Tiskana str. 308."
+  }
+]
