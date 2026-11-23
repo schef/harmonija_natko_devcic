@@ -1,0 +1,1294 @@
+[
+  {
+    "id": "primjer-4-53",
+    "example": "4.53",
+    "kind": "example",
+    "slot_label": "53",
+    "printed_page": 309,
+    "pdf_page": 155,
+    "source_image": "sources/pages/page-309.png",
+    "rect": [
+      217,
+      963,
+      1737,
+      1499
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-53.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup: pencil labels and analysis.",
+    "caption": "Primjer 4.53. Izvor: tiskana str. 309."
+  },
+  {
+    "id": "primjer-4-54",
+    "example": "4.54",
+    "kind": "example",
+    "slot_label": "54",
+    "printed_page": 309,
+    "pdf_page": 155,
+    "source_image": "sources/pages/page-309.png",
+    "rect": [
+      217,
+      1890,
+      1735,
+      2343
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-54.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup: pencil labels above variants.",
+    "caption": "Primjer 4.54. Izvor: tiskana str. 309."
+  },
+  {
+    "id": "primjer-4-55",
+    "example": "4.55",
+    "kind": "example",
+    "slot_label": "55",
+    "printed_page": 310,
+    "pdf_page": 156,
+    "source_image": "sources/pages/page-310.png",
+    "rect": [
+      175,
+      1224,
+      931,
+      1633
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-55.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup: pencil circles and annotations.",
+    "caption": "Primjer 4.55. Izvor: tiskana str. 310."
+  },
+  {
+    "id": "primjer-4-56",
+    "example": "4.56",
+    "kind": "example",
+    "slot_label": "56",
+    "printed_page": 310,
+    "pdf_page": 156,
+    "source_image": "sources/pages/page-310.png",
+    "rect": [
+      944,
+      1222,
+      1696,
+      1626
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-56.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup: pencil circles.",
+    "caption": "Primjer 4.56. Izvor: tiskana str. 310."
+  },
+  {
+    "id": "primjer-4-57",
+    "example": "4.57",
+    "kind": "example",
+    "slot_label": "57",
+    "printed_page": 310,
+    "pdf_page": 156,
+    "source_image": "sources/pages/page-310.png",
+    "rect": [
+      175,
+      1635,
+      931,
+      2034
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-57.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup: pencil circles.",
+    "caption": "Primjer 4.57. Izvor: tiskana str. 310."
+  },
+  {
+    "id": "primjer-4-58",
+    "example": "4.58",
+    "kind": "example",
+    "slot_label": "58",
+    "printed_page": 310,
+    "pdf_page": 156,
+    "source_image": "sources/pages/page-310.png",
+    "rect": [
+      942,
+      1633,
+      1696,
+      2034
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-58.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup: pencil circles.",
+    "caption": "Primjer 4.58. Izvor: tiskana str. 310."
+  },
+  {
+    "id": "primjer-4-59",
+    "example": "4.59",
+    "kind": "example",
+    "slot_label": "59",
+    "printed_page": 311,
+    "pdf_page": 156,
+    "source_image": "sources/pages/page-311.png",
+    "rect": [
+      297,
+      107,
+      1661,
+      489
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-59.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Primjer 4.59. Izvor: tiskana str. 311."
+  },
+  {
+    "id": "primjer-4-60",
+    "example": "4.60",
+    "kind": "example",
+    "slot_label": "60",
+    "printed_page": 311,
+    "pdf_page": 156,
+    "source_image": "sources/pages/page-311.png",
+    "rect": [
+      214,
+      1291,
+      1733,
+      2145
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-60.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup: handwriting throughout; right marginal handwriting touches staff ending and cannot be wholly excluded by rectangle without losing notation.",
+    "caption": "Primjer 4.60. Izvor: tiskana str. 311."
+  },
+  {
+    "id": "primjer-4-61",
+    "example": "4.61",
+    "kind": "example",
+    "slot_label": "61",
+    "printed_page": 312,
+    "pdf_page": 157,
+    "source_image": "sources/pages/page-312.png",
+    "rect": [
+      184,
+      167,
+      1684,
+      381
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-61.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup: faint pencil marks near DA.",
+    "caption": "Primjer 4.61. Izvor: tiskana str. 312."
+  },
+  {
+    "id": "primjer-4-62",
+    "example": "4.62",
+    "kind": "example",
+    "slot_label": "62",
+    "printed_page": 312,
+    "pdf_page": 157,
+    "source_image": "sources/pages/page-312.png",
+    "rect": [
+      287,
+      613,
+      1571,
+      958
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-62.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Primjer 4.62. Izvor: tiskana str. 312."
+  },
+  {
+    "id": "primjer-4-63",
+    "example": "4.63",
+    "kind": "example",
+    "slot_label": "63",
+    "printed_page": 312,
+    "pdf_page": 157,
+    "source_image": "sources/pages/page-312.png",
+    "rect": [
+      267,
+      1166,
+      1575,
+      1633
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-63.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup: pencil circle and marks.",
+    "caption": "Primjer 4.63. Izvor: tiskana str. 312."
+  },
+  {
+    "id": "primjer-4-64",
+    "example": "4.64",
+    "kind": "example",
+    "slot_label": "64",
+    "printed_page": 312,
+    "pdf_page": 157,
+    "source_image": "sources/pages/page-312.png",
+    "rect": [
+      453,
+      2046,
+      1412,
+      2431
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-64.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup: pencil marks at b and bass note.",
+    "caption": "Primjer 4.64. Izvor: tiskana str. 312."
+  },
+  {
+    "id": "primjer-4-65",
+    "example": "4.65",
+    "kind": "example",
+    "slot_label": "65",
+    "printed_page": 313,
+    "pdf_page": 157,
+    "source_image": "sources/pages/page-313.png",
+    "rect": [
+      511,
+      431,
+      1469,
+      855
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-65.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup: handwritten harmonic analysis below bass retained.",
+    "caption": "Primjer 4.65. Izvor: tiskana str. 313."
+  },
+  {
+    "id": "primjer-4-66",
+    "example": "4.66",
+    "kind": "example",
+    "slot_label": "66",
+    "printed_page": 313,
+    "pdf_page": 157,
+    "source_image": "sources/pages/page-313.png",
+    "rect": [
+      234,
+      854,
+      1759,
+      1308
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-66.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup: pencil marks within and below notation; attribution retained.",
+    "caption": "Primjer 4.66. Izvor: tiskana str. 313."
+  },
+  {
+    "id": "primjer-4-67",
+    "example": "4.67",
+    "kind": "example",
+    "slot_label": "67",
+    "printed_page": 313,
+    "pdf_page": 157,
+    "source_image": "sources/pages/page-313.png",
+    "rect": [
+      318,
+      1300,
+      1587,
+      1766
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-67.png",
+    "review_status": "pending_independent_review",
+    "review_note": "footnote_overlap: lowest printed fermata and first footnote ink overlap vertically in this skewed scan, so a rectangular score-only crop cannot retain the complete fermata while excluding the footnote. Full footnote retained rather than partial prose or clipped notation. Printed score asterisk retained. cleanup: handwritten analysis below bass.",
+    "caption": "Primjer 4.67. Izvor: tiskana str. 313."
+  },
+  {
+    "id": "primjer-4-68",
+    "example": "4.68",
+    "kind": "example",
+    "slot_label": "68",
+    "printed_page": 313,
+    "pdf_page": 157,
+    "source_image": "sources/pages/page-313.png",
+    "rect": [
+      533,
+      1983,
+      1442,
+      2417
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-68.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup: pencil mark adjacent to upper notation. Tight upper source separation from preceding paragraph underline; no notation removed.",
+    "caption": "Primjer 4.68. Izvor: tiskana str. 313."
+  },
+  {
+    "id": "primjer-4-69",
+    "example": "4.69",
+    "kind": "example",
+    "slot_label": "69",
+    "printed_page": 314,
+    "pdf_page": 158,
+    "source_image": "sources/pages/page-314.png",
+    "rect": [
+      167,
+      346,
+      1692,
+      750
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-69.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Primjer 4.69. Izvor: tiskana str. 314."
+  },
+  {
+    "id": "primjer-4-70",
+    "example": "4.70",
+    "kind": "example",
+    "slot_label": "70",
+    "printed_page": 314,
+    "pdf_page": 158,
+    "source_image": "sources/pages/page-314.png",
+    "rect": [
+      313,
+      1013,
+      1508,
+      1498
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-70.png",
+    "review_status": "pending_independent_review",
+    "review_note": "source_layout: open staff ends preserved as printed.",
+    "caption": "Primjer 4.70. Izvor: tiskana str. 314."
+  },
+  {
+    "id": "primjer-4-71",
+    "example": "4.71",
+    "kind": "example",
+    "slot_label": "71",
+    "printed_page": 314,
+    "pdf_page": 158,
+    "source_image": "sources/pages/page-314.png",
+    "rect": [
+      306,
+      1549,
+      1388,
+      2084
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-71.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup: handwritten analysis below bass; lower fermata retained.",
+    "caption": "Primjer 4.71. Izvor: tiskana str. 314."
+  },
+  {
+    "id": "zadatak-4-315-1",
+    "example": "1",
+    "kind": "exercise",
+    "slot_label": "1",
+    "printed_page": 315,
+    "pdf_page": 158,
+    "source_image": "sources/pages/page-315.png",
+    "rect": [
+      225,
+      824,
+      1741,
+      1006
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-315-1.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Zadatak 1. Izvor: tiskana str. 315."
+  },
+  {
+    "id": "zadatak-4-315-2",
+    "example": "2",
+    "kind": "exercise",
+    "slot_label": "2",
+    "printed_page": 315,
+    "pdf_page": 158,
+    "source_image": "sources/pages/page-315.png",
+    "rect": [
+      225,
+      1049,
+      1741,
+      1479
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-315-2.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Zadatak 2. Izvor: tiskana str. 315."
+  },
+  {
+    "id": "zadatak-4-315-3",
+    "example": "3",
+    "kind": "exercise",
+    "slot_label": "3",
+    "printed_page": 315,
+    "pdf_page": 158,
+    "source_image": "sources/pages/page-315.png",
+    "rect": [
+      223,
+      1653,
+      1738,
+      2024
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-315-3.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Zadatak 3. Izvor: tiskana str. 315."
+  },
+  {
+    "id": "zadatak-4-315-4",
+    "example": "4",
+    "kind": "exercise",
+    "slot_label": "4",
+    "printed_page": 315,
+    "pdf_page": 158,
+    "source_image": "sources/pages/page-315.png",
+    "rect": [
+      221,
+      2043,
+      1738,
+      2203
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-315-4.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Zadatak 4. Izvor: tiskana str. 315."
+  },
+  {
+    "id": "zadatak-4-315-5",
+    "example": "5",
+    "kind": "exercise",
+    "slot_label": "5",
+    "printed_page": 315,
+    "pdf_page": 158,
+    "source_image": "sources/pages/page-315.png",
+    "rect": [
+      223,
+      2225,
+      1740,
+      2400
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-315-5.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Zadatak 5. Izvor: tiskana str. 315."
+  },
+  {
+    "id": "zadatak-4-316-6",
+    "example": "6",
+    "kind": "exercise",
+    "slot_label": "6",
+    "printed_page": 316,
+    "pdf_page": 159,
+    "source_image": "sources/pages/page-316.png",
+    "rect": [
+      187,
+      119,
+      1709,
+      471
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-316-6.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Zadatak 6. Izvor: tiskana str. 316."
+  },
+  {
+    "id": "zadatak-4-316-7",
+    "example": "7",
+    "kind": "exercise",
+    "slot_label": "7",
+    "printed_page": 316,
+    "pdf_page": 159,
+    "source_image": "sources/pages/page-316.png",
+    "rect": [
+      159,
+      923,
+      1705,
+      1667
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-316-7.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Zadatak 7. Izvor: tiskana str. 316."
+  },
+  {
+    "id": "zadatak-4-316-8",
+    "example": "8",
+    "kind": "exercise",
+    "slot_label": "8",
+    "printed_page": 316,
+    "pdf_page": 159,
+    "source_image": "sources/pages/page-316.png",
+    "rect": [
+      174,
+      1738,
+      1702,
+      2305
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-316-8.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Zadatak 8. Izvor: tiskana str. 316."
+  },
+  {
+    "id": "zadatak-4-317-9",
+    "example": "9",
+    "kind": "exercise",
+    "slot_label": "9",
+    "printed_page": 317,
+    "pdf_page": 159,
+    "source_image": "sources/pages/page-317.png",
+    "rect": [
+      195,
+      129,
+      1744,
+      886
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-317-9.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Zadatak 9. Izvor: tiskana str. 317."
+  },
+  {
+    "id": "zadatak-4-317-3-realizacija",
+    "example": "3",
+    "kind": "realization",
+    "slot_label": "3-realizacija",
+    "printed_page": 317,
+    "pdf_page": 159,
+    "source_image": "sources/pages/page-317.png",
+    "rect": [
+      204,
+      1050,
+      1745,
+      2029
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-317-3-realizacija.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Printed realization title included.",
+    "caption": "Realizacija zadatka 3. Izvor: tiskana str. 317."
+  },
+  {
+    "id": "primjer-4-72",
+    "example": "4.72",
+    "kind": "example",
+    "slot_label": "72",
+    "printed_page": 318,
+    "pdf_page": 160,
+    "source_image": "sources/pages/page-318.png",
+    "rect": [
+      165,
+      314,
+      1692,
+      670
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-72.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Primjer 4.72. Izvor: tiskana str. 318."
+  },
+  {
+    "id": "primjer-4-73",
+    "example": "4.73",
+    "kind": "example",
+    "slot_label": "73",
+    "printed_page": 318,
+    "pdf_page": 160,
+    "source_image": "sources/pages/page-318.png",
+    "rect": [
+      164,
+      740,
+      1693,
+      1098
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-73.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Primjer 4.73. Izvor: tiskana str. 318."
+  },
+  {
+    "id": "primjer-4-74",
+    "example": "4.74",
+    "kind": "example",
+    "slot_label": "74",
+    "printed_page": 318,
+    "pdf_page": 160,
+    "source_image": "sources/pages/page-318.png",
+    "rect": [
+      167,
+      1169,
+      1692,
+      1538
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-74.png",
+    "review_status": "pending_independent_review",
+    "review_note": "source_layout/source_damage: irregular open staff endpoints of variant c retained without repair.",
+    "caption": "Primjer 4.74. Izvor: tiskana str. 318."
+  },
+  {
+    "id": "primjer-4-75",
+    "example": "4.75",
+    "kind": "example",
+    "slot_label": "75",
+    "printed_page": 318,
+    "pdf_page": 160,
+    "source_image": "sources/pages/page-318.png",
+    "rect": [
+      167,
+      1589,
+      1693,
+      1946
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-75.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Primjer 4.75. Izvor: tiskana str. 318."
+  },
+  {
+    "id": "primjer-4-76",
+    "example": "4.76",
+    "kind": "example",
+    "slot_label": "76",
+    "printed_page": 319,
+    "pdf_page": 160,
+    "source_image": "sources/pages/page-319.png",
+    "rect": [
+      592,
+      102,
+      1378,
+      440
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-76.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Primjer 4.76. Izvor: tiskana str. 319."
+  },
+  {
+    "id": "primjer-4-77",
+    "example": "4.77",
+    "kind": "example",
+    "slot_label": "77",
+    "printed_page": 319,
+    "pdf_page": 160,
+    "source_image": "sources/pages/page-319.png",
+    "rect": [
+      217,
+      712,
+      1744,
+      1081
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-77.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Primjer 4.77. Izvor: tiskana str. 319."
+  },
+  {
+    "id": "primjer-4-78",
+    "example": "4.78",
+    "kind": "example",
+    "slot_label": "78",
+    "printed_page": 319,
+    "pdf_page": 160,
+    "source_image": "sources/pages/page-319.png",
+    "rect": [
+      220,
+      1142,
+      885,
+      1518
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-78.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Primjer 4.78. Izvor: tiskana str. 319."
+  },
+  {
+    "id": "primjer-4-79",
+    "example": "4.79",
+    "kind": "example",
+    "slot_label": "79",
+    "printed_page": 319,
+    "pdf_page": 160,
+    "source_image": "sources/pages/page-319.png",
+    "rect": [
+      887,
+      1143,
+      1746,
+      1497
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-79.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Primjer 4.79. Izvor: tiskana str. 319."
+  },
+  {
+    "id": "primjer-4-80",
+    "example": "4.80",
+    "kind": "example",
+    "slot_label": "80",
+    "printed_page": 319,
+    "pdf_page": 160,
+    "source_image": "sources/pages/page-319.png",
+    "rect": [
+      332,
+      1550,
+      1653,
+      1923
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-80.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Primjer 4.80. Izvor: tiskana str. 319."
+  },
+  {
+    "id": "primjer-4-81",
+    "example": "4.81",
+    "kind": "example",
+    "slot_label": "81",
+    "printed_page": 320,
+    "pdf_page": 161,
+    "source_image": "sources/pages/page-320.png",
+    "rect": [
+      164,
+      270,
+      1693,
+      646
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-81.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Primjer 4.81. Izvor: tiskana str. 320."
+  },
+  {
+    "id": "primjer-4-82",
+    "example": "4.82",
+    "kind": "example",
+    "slot_label": "82",
+    "printed_page": 320,
+    "pdf_page": 161,
+    "source_image": "sources/pages/page-320.png",
+    "rect": [
+      138,
+      1073,
+      1687,
+      2320
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-82.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Primjer 4.82. Izvor: tiskana str. 320."
+  },
+  {
+    "id": "zadatak-4-321-1",
+    "example": "1",
+    "kind": "exercise",
+    "slot_label": "1",
+    "printed_page": 321,
+    "pdf_page": 161,
+    "source_image": "sources/pages/page-321.png",
+    "rect": [
+      218,
+      267,
+      1736,
+      580
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-321-1.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Zadatak 1. Izvor: tiskana str. 321."
+  },
+  {
+    "id": "zadatak-4-321-2",
+    "example": "2",
+    "kind": "exercise",
+    "slot_label": "2",
+    "printed_page": 321,
+    "pdf_page": 161,
+    "source_image": "sources/pages/page-321.png",
+    "rect": [
+      216,
+      635,
+      1734,
+      1139
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-321-2.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Zadatak 2. Izvor: tiskana str. 321."
+  },
+  {
+    "id": "zadatak-4-321-3",
+    "example": "3",
+    "kind": "exercise",
+    "slot_label": "3",
+    "printed_page": 321,
+    "pdf_page": 161,
+    "source_image": "sources/pages/page-321.png",
+    "rect": [
+      217,
+      1169,
+      1734,
+      1525
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-321-3.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Zadatak 3. Izvor: tiskana str. 321."
+  },
+  {
+    "id": "zadatak-4-321-4",
+    "example": "4",
+    "kind": "exercise",
+    "slot_label": "4",
+    "printed_page": 321,
+    "pdf_page": 161,
+    "source_image": "sources/pages/page-321.png",
+    "rect": [
+      217,
+      1549,
+      1733,
+      1897
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-321-4.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Zadatak 4. Izvor: tiskana str. 321."
+  },
+  {
+    "id": "zadatak-4-321-5",
+    "example": "5",
+    "kind": "exercise",
+    "slot_label": "5",
+    "printed_page": 321,
+    "pdf_page": 161,
+    "source_image": "sources/pages/page-321.png",
+    "rect": [
+      218,
+      1913,
+      1734,
+      2276
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-321-5.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Zadatak 5. Izvor: tiskana str. 321."
+  },
+  {
+    "id": "zadatak-4-322-4-realizacija",
+    "example": "4",
+    "kind": "realization",
+    "slot_label": "4-realizacija",
+    "printed_page": 322,
+    "pdf_page": 162,
+    "source_image": "sources/pages/page-322.png",
+    "rect": [
+      144,
+      126,
+      1686,
+      1092
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-322-4-realizacija.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Printed realization title included.",
+    "caption": "Realizacija zadatka 4. Izvor: tiskana str. 322."
+  },
+  {
+    "id": "primjer-4-83",
+    "example": "4.83",
+    "kind": "example",
+    "slot_label": "83",
+    "printed_page": 322,
+    "pdf_page": 162,
+    "source_image": "sources/pages/page-322.png",
+    "rect": [
+      183,
+      1703,
+      1690,
+      1921
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-83.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Primjer 4.83. Izvor: tiskana str. 322."
+  },
+  {
+    "id": "primjer-4-84",
+    "example": "4.84",
+    "kind": "example",
+    "slot_label": "84",
+    "printed_page": 322,
+    "pdf_page": 162,
+    "source_image": "sources/pages/page-322.png",
+    "rect": [
+      181,
+      1969,
+      1689,
+      2394
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-84.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Primjer 4.84. Izvor: tiskana str. 322."
+  },
+  {
+    "id": "primjer-4-85",
+    "example": "4.85",
+    "kind": "example",
+    "slot_label": "85",
+    "printed_page": 323,
+    "pdf_page": 162,
+    "source_image": "sources/pages/page-323.png",
+    "rect": [
+      394,
+      361,
+      1515,
+      596
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-85.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Primjer 4.85. Izvor: tiskana str. 323."
+  },
+  {
+    "id": "primjer-4-86",
+    "example": "4.86",
+    "kind": "example",
+    "slot_label": "86",
+    "printed_page": 323,
+    "pdf_page": 162,
+    "source_image": "sources/pages/page-323.png",
+    "rect": [
+      405,
+      622,
+      1519,
+      865
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-86.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Primjer 4.86. Izvor: tiskana str. 323."
+  },
+  {
+    "id": "primjer-4-87",
+    "example": "4.87",
+    "kind": "example",
+    "slot_label": "87",
+    "printed_page": 323,
+    "pdf_page": 162,
+    "source_image": "sources/pages/page-323.png",
+    "rect": [
+      208,
+      1218,
+      1725,
+      1581
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-87.png",
+    "review_status": "pending_independent_review",
+    "review_note": "source_layout: open staff endpoints at right are present in source.",
+    "caption": "Primjer 4.87. Izvor: tiskana str. 323."
+  },
+  {
+    "id": "primjer-4-88",
+    "example": "4.88",
+    "kind": "example",
+    "slot_label": "88",
+    "printed_page": 323,
+    "pdf_page": 162,
+    "source_image": "sources/pages/page-323.png",
+    "rect": [
+      604,
+      2026,
+      1326,
+      2382
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-88.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Primjer 4.88. Izvor: tiskana str. 323."
+  },
+  {
+    "id": "primjer-4-89",
+    "example": "4.89",
+    "kind": "example",
+    "slot_label": "89",
+    "printed_page": 324,
+    "pdf_page": 163,
+    "source_image": "sources/pages/page-324.png",
+    "rect": [
+      179,
+      623,
+      1693,
+      859
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-89.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Primjer 4.89. Izvor: tiskana str. 324."
+  },
+  {
+    "id": "primjer-4-90",
+    "example": "4.90",
+    "kind": "example",
+    "slot_label": "90",
+    "printed_page": 324,
+    "pdf_page": 163,
+    "source_image": "sources/pages/page-324.png",
+    "rect": [
+      315,
+      1335,
+      1569,
+      1701
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-90.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Primjer 4.90. Izvor: tiskana str. 324."
+  },
+  {
+    "id": "primjer-4-91",
+    "example": "4.91",
+    "kind": "example",
+    "slot_label": "91",
+    "printed_page": 324,
+    "pdf_page": 163,
+    "source_image": "sources/pages/page-324.png",
+    "rect": [
+      312,
+      1760,
+      1569,
+      2131
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-91.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Primjer 4.91. Izvor: tiskana str. 324."
+  },
+  {
+    "id": "primjer-4-92",
+    "example": "4.92",
+    "kind": "example",
+    "slot_label": "92",
+    "printed_page": 325,
+    "pdf_page": 163,
+    "source_image": "sources/pages/page-325.png",
+    "rect": [
+      211,
+      95,
+      1737,
+      462
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-92.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Primjer 4.92. Izvor: tiskana str. 325."
+  },
+  {
+    "id": "primjer-4-93",
+    "example": "4.93",
+    "kind": "example",
+    "slot_label": "93",
+    "printed_page": 325,
+    "pdf_page": 163,
+    "source_image": "sources/pages/page-325.png",
+    "rect": [
+      703,
+      865,
+      1250,
+      1200
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-93.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Primjer 4.93. Izvor: tiskana str. 325."
+  },
+  {
+    "id": "primjer-4-94",
+    "example": "4.94",
+    "kind": "example",
+    "slot_label": "94",
+    "printed_page": 325,
+    "pdf_page": 163,
+    "source_image": "sources/pages/page-325.png",
+    "rect": [
+      440,
+      1671,
+      1515,
+      2088
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-94.png",
+    "review_status": "pending_independent_review",
+    "review_note": "source_layout: open staff endpoints retained as printed.",
+    "caption": "Primjer 4.94. Izvor: tiskana str. 325."
+  },
+  {
+    "id": "primjer-4-95",
+    "example": "4.95",
+    "kind": "example",
+    "slot_label": "95",
+    "printed_page": 326,
+    "pdf_page": 164,
+    "source_image": "sources/pages/page-326.png",
+    "rect": [
+      179,
+      424,
+      894,
+      779
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-95.png",
+    "review_status": "pending_independent_review",
+    "review_note": "source_layout: open staff endpoints retained as printed.",
+    "caption": "Primjer 4.95. Izvor: tiskana str. 326."
+  },
+  {
+    "id": "primjer-4-96",
+    "example": "4.96",
+    "kind": "example",
+    "slot_label": "96",
+    "printed_page": 326,
+    "pdf_page": 164,
+    "source_image": "sources/pages/page-326.png",
+    "rect": [
+      900,
+      386,
+      1702,
+      767
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-96.png",
+    "review_status": "pending_independent_review",
+    "review_note": "source_layout: open staff endpoints retained as printed.",
+    "caption": "Primjer 4.96. Izvor: tiskana str. 326."
+  },
+  {
+    "id": "primjer-4-97",
+    "example": "4.97",
+    "kind": "example",
+    "slot_label": "97",
+    "printed_page": 326,
+    "pdf_page": 164,
+    "source_image": "sources/pages/page-326.png",
+    "rect": [
+      161,
+      1091,
+      1701,
+      1902
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-97.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Primjer 4.97. Izvor: tiskana str. 326."
+  },
+  {
+    "id": "primjer-4-98-a",
+    "example": "4.98",
+    "kind": "example",
+    "slot_label": "98-a",
+    "printed_page": 326,
+    "pdf_page": 164,
+    "source_image": "sources/pages/page-326.png",
+    "rect": [
+      173,
+      1980,
+      1701,
+      2372
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-98-a.png",
+    "review_status": "pending_independent_review",
+    "review_note": "First part, variants a–c; printed number present. Continues on printed 327.",
+    "caption": "Primjer 4.98. Izvor: tiskana str. 326."
+  },
+  {
+    "id": "primjer-4-98-b",
+    "example": "4.98",
+    "kind": "example",
+    "slot_label": "98-b",
+    "printed_page": 327,
+    "pdf_page": 164,
+    "source_image": "sources/pages/page-327.png",
+    "rect": [
+      215,
+      131,
+      1757,
+      503
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-98-b.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Continuation, variants d–e; no printed example number on this part. No number added.",
+    "caption": "Primjer 4.98. Izvor: tiskana str. 327."
+  },
+  {
+    "id": "primjer-4-99",
+    "example": "4.99",
+    "kind": "example",
+    "slot_label": "99",
+    "printed_page": 327,
+    "pdf_page": 164,
+    "source_image": "sources/pages/page-327.png",
+    "rect": [
+      224,
+      1003,
+      1747,
+      1401
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-99.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Primjer 4.99. Izvor: tiskana str. 327."
+  },
+  {
+    "id": "primjer-4-100",
+    "example": "4.100",
+    "kind": "example",
+    "slot_label": "100",
+    "printed_page": 327,
+    "pdf_page": 164,
+    "source_image": "sources/pages/page-327.png",
+    "rect": [
+      436,
+      1886,
+      1557,
+      2238
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-100.png",
+    "review_status": "pending_independent_review",
+    "review_note": "source_layout: open staff endpoints retained as printed.",
+    "caption": "Primjer 4.100. Izvor: tiskana str. 327."
+  },
+  {
+    "id": "primjer-4-101",
+    "example": "4.101",
+    "kind": "example",
+    "slot_label": "101",
+    "printed_page": 328,
+    "pdf_page": 165,
+    "source_image": "sources/pages/page-328.png",
+    "rect": [
+      311,
+      821,
+      1528,
+      1316
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-101.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Bach attribution and lower fermata included.",
+    "caption": "Primjer 4.101. Izvor: tiskana str. 328."
+  },
+  {
+    "id": "primjer-4-102",
+    "example": "4.102",
+    "kind": "example",
+    "slot_label": "102",
+    "printed_page": 328,
+    "pdf_page": 165,
+    "source_image": "sources/pages/page-328.png",
+    "rect": [
+      301,
+      1422,
+      1523,
+      1896
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-102.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Bach attribution and lower fermata included.",
+    "caption": "Primjer 4.102. Izvor: tiskana str. 328."
+  },
+  {
+    "id": "primjer-4-103",
+    "example": "4.103",
+    "kind": "example",
+    "slot_label": "103",
+    "printed_page": 328,
+    "pdf_page": 165,
+    "source_image": "sources/pages/page-328.png",
+    "rect": [
+      307,
+      2046,
+      1409,
+      2548
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-103.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Left edge excludes printed page number; complete lower fermata retained with genuine source margin.",
+    "caption": "Primjer 4.103. Izvor: tiskana str. 328."
+  }
+]

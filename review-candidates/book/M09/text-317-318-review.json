@@ -1,0 +1,18 @@
+[
+  {
+    "printed_page": 317,
+    "pdf_page": 159,
+    "verified": true,
+    "review_role": "parent_text_agent",
+    "visuals": ["zadatak 9", "Realizacija zadatka 3"],
+    "notes": "Opened authoritative page-317.png and visually verified realization title, new section 4.2.3 heading and the opening paragraph. Exercise 9 has two systems and realization 3 has two systems. The last printed word proho- continues as dni on page 318; the complete word and paragraph are joined losslessly with an inline source-page comment marking that boundary. No unreadable prose or image approval."
+  },
+  {
+    "printed_page": 318,
+    "pdf_page": 160,
+    "verified": true,
+    "review_role": "parent_text_agent",
+    "visuals": ["4.72", "4.73", "4.74", "4.75"],
+    "notes": "Opened authoritative page-318.png and verified both the page-opening continuation and complete final prose paragraph. Restored the line/page-broken prohodni and retained all references and punctuation, including printed final reference pr. 4.67. Visual slots preserve source order; open right-hand staff endpoints in 4.74 must not be mistaken for clipped final barlines. No unreadable prose and no crop approvals."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "printed_page": 395,
+    "pdf_page": 198,
+    "verified": true,
+    "review_role": "parent_text_agent",
+    "visuals": [],
+    "table_entries": 39,
+    "notes": "Opened authoritative page-395.png and visually transcribed all 39 main/subentry/cross-reference rows, preserving every numerical reference, range, abbreviation, blank parent-entry cell and hierarchy dash. Dehyphenated wrapped labels such as harmonizacija modulirajućega zadanog glasa and impresionističke harmonijske pojave without dropping pages. The izmjenični ton subentries continue onto396; explicitly marked. No unreadable print or image approval."
+  },
+  {
+    "printed_page": 396,
+    "pdf_page": 199,
+    "verified": true,
+    "review_role": "parent_text_agent",
+    "visuals": [],
+    "table_entries": 41,
+    "notes": "Opened authoritative page-396.png and visually transcribed all 41 main/subentry/cross-reference rows. Preserved the first three continuation subentries under izmjenični ton from395, the complete long plagalna kadenca page list, and every kvartsekstakord subentry and printed range. References remain original printed pages, never shifted to PDF numbering. No unreadable text or image approval."
+  }
+]

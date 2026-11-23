@@ -1,0 +1,16 @@
+[
+  {
+    "id": "4.z307-3",
+    "image": "images/04-neakordicki-a/recrops/zadatak-4-307-3.png",
+    "printed_page": 307,
+    "pdf_page": 154,
+    "source_image": "sources/pages/page-307.png",
+    "rect": [232, 355, 1742, 1071],
+    "decision": "PASS",
+    "reason": "Independently re-opened the authoritative source page and current recrop. Printed exercise number 3 and all four complete staff rows are retained, including every staff start/end, signatures, accidentals, slurs, low stems/ledger notes and final double barline. All four edges inspected at native resolution using edge strips whose target was verified pixel-identical to the current recrop. The former foreign diagonal stroke at source x224–230, y692–694 is entirely excluded; genuine feasible source whitespace remains on every edge, with a narrow but clean left margin. No neighbouring exercise fragments, prose, page number, scan-border line or handwriting retained. Caption and slot identity agree with printed page 307, 1-based PDF index 154. All decoded RGB pixels exactly match the specified source rectangle; no border generation or retouching detected.",
+    "source_limited": false,
+    "decoded_source_pixels_exact": true,
+    "crop_size": [1510, 716],
+    "notes": "Bounded review of the sole pending_recrop_review entry in the 105-record images-corrected.json inventory. This approves the applied recrop, not the old original image. Other records were not re-reviewed; source_damage holds for 4.z290-9-realizacija-cont and 4.31 are unchanged."
+  }
+]

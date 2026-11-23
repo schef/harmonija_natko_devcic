@@ -1,0 +1,546 @@
+[
+  {
+    "id": "primjer-4-53",
+    "image": "images/04-neakordicki-b/primjer-4-53.png",
+    "printed_page": 309,
+    "decision": "RECROP_REQUIRED",
+    "reason": "Number, variants a–f, staff ends and printed figures are retained, but handwritten letters above the variants and harmonic analysis below/within the score remain. These are meaningful pencil marks, not dust. No safe score-complete rectangular replacement can exclude all handwriting.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-54",
+    "image": "images/04-neakordicki-b/primjer-4-54.png",
+    "printed_page": 309,
+    "decision": "RECROP_REQUIRED",
+    "reason": "Number, variants a–e, complete staves and bottom figures survive, but pencil chord letters above the variants remain, with foreign ink near the top edge. The handwriting overlaps the vertical range of required variant labels; no safe rectangular replacement established.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-55",
+    "image": "images/04-neakordicki-b/primjer-4-55.png",
+    "printed_page": 310,
+    "decision": "RECROP_REQUIRED",
+    "reason": "Printed number, a–b, notes, staff ends and bass figure are complete, but pencil circles around upper a and lower b notation remain. The bottom edge also intersects pencil ink above the following example. Internal circles cannot be removed by a score-complete rectangle.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-56",
+    "image": "images/04-neakordicki-b/primjer-4-56.png",
+    "printed_page": 310,
+    "decision": "RECROP_REQUIRED",
+    "reason": "Printed contents including a–b and the lowest figure are retained, but the clearly drawn pencil circle around b's upper notes/asterisk remains. It lies inside the required score bounds; no safe rectangular replacement.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-57",
+    "image": "images/04-neakordicki-b/primjer-4-57.png",
+    "printed_page": 310,
+    "decision": "RECROP_REQUIRED",
+    "reason": "Number, a–b, printed NE labels, time signature and full notation survive, but handwritten circles around the NE labels remain and meet the top edge. These are not printed notation or dust; internal contamination prevents a safe rectangular solution.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-58",
+    "image": "images/04-neakordicki-b/primjer-4-58.png",
+    "printed_page": 310,
+    "decision": "RECROP_REQUIRED",
+    "reason": "Printed number, both variants, NE labels, ties and lowest stems are retained, but pencil circles around NE remain, including truncated foreign pencil ink at the top. No safe rectangle can exclude the internal circles while preserving the printed labels.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-59",
+    "image": "images/04-neakordicki-b/primjer-4-59.png",
+    "printed_page": 311,
+    "decision": "PASS",
+    "reason": "Number 4.59, a–d, all connecting arcs and interval figures, lowest stems and both staff ends match the source. All four edges have genuine clean source separation; no prose, handwriting or page number.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-60",
+    "image": "images/04-neakordicki-b/primjer-4-60.png",
+    "printed_page": 311,
+    "decision": "RECROP_REQUIRED",
+    "reason": "Both systems, number, a–g, printed assessment labels and Roman-numeral figures are retained. Numerous pencil circles, arrows and analysis remain inside the score; the right/top edges also intersect foreign handwriting. A clean complete rectangular source crop is not available.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-61",
+    "image": "images/04-neakordicki-b/primjer-4-61.png",
+    "printed_page": 312,
+    "decision": "RECROP_REQUIRED",
+    "reason": "Number, a–d, NE/DA labels, slurs and lowest stems survive. A faint but meaningful pencil outline around c's DA and an ascending pencil stroke remain, intersecting the top edge. Internal outline cannot be excluded with a complete-score rectangle.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-62",
+    "image": "images/04-neakordicki-b/primjer-4-62.png",
+    "printed_page": 312,
+    "decision": "RECROP_REQUIRED",
+    "reason": "Printed number, a–c, DA/NE labels and staves are complete, but a faint hand-drawn circular arc beneath b's upper starting chord remains. Enlarged inspection confirms a structured pencil circle rather than isolated dust. It is internal to required notation bounds; no safe rectangular replacement.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-63",
+    "image": "images/04-neakordicki-b/primjer-4-63.png",
+    "printed_page": 312,
+    "decision": "RECROP_REQUIRED",
+    "reason": "Number, a–b, NE/DA, arcs, lowest stems and figured bass are complete. Pencil circles around NE/notes and a large curved pencil mark above b remain; foreign pencil ink reaches the top edge. No safe rectangular replacement can remove internal marks.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-64",
+    "image": "images/04-neakordicki-b/primjer-4-64.png",
+    "printed_page": 312,
+    "decision": "RECROP_REQUIRED",
+    "reason": "Number, both variants, printed DA/NE, asterisks, ties and staff ends survive. Handwritten figures near b's upper notes and circles around bass notes remain inside the score. No safe score-complete rectangular replacement.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-65",
+    "image": "images/04-neakordicki-b/primjer-4-65.png",
+    "printed_page": 313,
+    "decision": "RECROP_REQUIRED",
+    "reason": "Number, a–b, printed arrows, notation and lowest beams survive. Handwritten harmonic analysis and pencil circles remain below/inside the bass; the bottom edge cuts handwritten T. Internal contamination prevents a clean rectangular source replacement.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-66",
+    "image": "images/04-neakordicki-b/primjer-4-66.png",
+    "printed_page": 313,
+    "decision": "RECROP_REQUIRED",
+    "reason": "Number, Bach/Koral br. 203 attribution, full staves, dynamic and all fermatas survive. Pencil analysis/circles remain within and below the bass; the top edge also retains foreign pencil ink from the preceding example. No safe complete-score rectangle removes the internal marks.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-67",
+    "image": "images/04-neakordicki-b/primjer-4-67.png",
+    "printed_page": 313,
+    "decision": "RECROP_REQUIRED",
+    "reason": "SOURCE-LAYOUT BLOCKER: the complete lower printed fermata and printed score asterisk are correctly retained, as are number and Bach/Koral br. 162 attribution, but the crop also retains the footnote sentence '* Ton »d« je anticipacija.' (separately transcribed in text-313-316.md). Its ink overlaps the fermata's vertical range: trimming the bottom to remove prose would clip required notation. Handwritten analysis also remains. Do not approve retained prose or clip the fermata/asterisk; no safe rectangular source-only replacement established.",
+    "source_limited": true
+  },
+  {
+    "id": "primjer-4-68",
+    "image": "images/04-neakordicki-b/primjer-4-68.png",
+    "printed_page": 313,
+    "decision": "RECROP_REQUIRED",
+    "reason": "Number, clefs, full notation, staff ends and lowest figured-bass line survive, but a meaningful pencil loop above the second bar remains at the top edge; a small foreign underline fragment is also visible near the upper-left edge. The upper score separation is very tight. No clean complete-score rectangular replacement established.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-69",
+    "image": "images/04-neakordicki-b/primjer-4-69.png",
+    "printed_page": 314,
+    "decision": "PASS",
+    "reason": "Number, a–e, printed brackets, notes, lowest stems and full staff ends match the source. All four edges are separated by genuine clean source whitespace; no neighbouring prose or marks retained.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-70",
+    "image": "images/04-neakordicki-b/primjer-4-70.png",
+    "printed_page": 314,
+    "decision": "PASS",
+    "reason": "Number, Bach/Koral br. 9 attribution, all notes, connecting arcs and both fermatas are complete. Open right staff ends match the source rather than crop clipping. All four edges are clean with genuine feasible source margins.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-71",
+    "image": "images/04-neakordicki-b/primjer-4-71.png",
+    "printed_page": 314,
+    "decision": "RECROP_REQUIRED",
+    "reason": "Number, Bach/Koral br. 23 attribution, printed asterisk, all staves and complete lower fermata are retained. Extensive handwritten harmonic analysis below the bass remains, cut at the bottom edge. Some handwriting occupies the lower fermata's vertical range; no safe score-complete rectangular replacement.",
+    "source_limited": false
+  },
+  {
+    "id": "zadatak-4-315-1",
+    "image": "images/04-neakordicki-b/zadatak-4-315-1.png",
+    "printed_page": 315,
+    "decision": "PASS",
+    "reason": "Exercise number 1, key/time signatures, complete single staff, slur, final barline and all lowest figured-bass marks survive. The upper sharp has a narrow genuine margin; all four edges exclude the heading, neighbouring exercise and foreign ink.",
+    "source_limited": false
+  },
+  {
+    "id": "zadatak-4-315-2",
+    "image": "images/04-neakordicki-b/zadatak-4-315-2.png",
+    "printed_page": 315,
+    "decision": "PASS",
+    "reason": "Exercise number 2, both systems, all figures including the lowest sharps, complete staff ends and final barline are retained. All four edges have clean original-source separation; no subsection title or unrelated exercise.",
+    "source_limited": false
+  },
+  {
+    "id": "zadatak-4-315-3",
+    "image": "images/04-neakordicki-b/zadatak-4-315-3.png",
+    "printed_page": 315,
+    "decision": "PASS",
+    "reason": "Exercise number 3, both systems, long phrase arcs, all notes and final barline match the source. Four edges retain clean feasible original margins and exclude the prose heading and neighbouring exercises; isolated specks are scan dust, not foreign characters.",
+    "source_limited": false
+  },
+  {
+    "id": "zadatak-4-315-4",
+    "image": "images/04-neakordicki-b/zadatak-4-315-4.png",
+    "printed_page": 315,
+    "decision": "PASS",
+    "reason": "Exercise number 4, all signatures/accidentals, complete phrase arcs, clef tail and final barline survive. All four edges are clean with source whitespace and no fragments from exercises 3 or 5.",
+    "source_limited": false
+  },
+  {
+    "id": "zadatak-4-315-5",
+    "image": "images/04-neakordicki-b/zadatak-4-315-5.png",
+    "printed_page": 315,
+    "decision": "PASS",
+    "reason": "Exercise number 5, full staff, phrase arcs, lowest beams and final barline survive. All four edges have genuine clean margins and exclude exercise 4 and the printed page number.",
+    "source_limited": false
+  },
+  {
+    "id": "zadatak-4-316-6",
+    "image": "images/04-neakordicki-b/zadatak-4-316-6.png",
+    "printed_page": 316,
+    "decision": "PASS",
+    "reason": "Exercise number 6, both systems, all five-flat signatures, phrase arcs, notes and final barline survive. All four edges are clean with original margins; the later subsection heading is excluded.",
+    "source_limited": false
+  },
+  {
+    "id": "zadatak-4-316-7",
+    "image": "images/04-neakordicki-b/zadatak-4-316-7.png",
+    "printed_page": 316,
+    "decision": "PASS",
+    "reason": "Exercise number 7, both grand-staff systems, all accidentals/ties, low bass notes and final barline survive. Four edges are clean with genuine margins; no heading or exercise 8 fragments.",
+    "source_limited": false
+  },
+  {
+    "id": "zadatak-4-316-8",
+    "image": "images/04-neakordicki-b/zadatak-4-316-8.png",
+    "printed_page": 316,
+    "decision": "PASS",
+    "reason": "Exercise number 8, all three systems, phrase arcs, lowest sharp/beam and final barline are complete. Four edges are clean with genuine source margins; exercise 7 and page number are excluded.",
+    "source_limited": false
+  },
+  {
+    "id": "zadatak-4-317-9",
+    "image": "images/04-neakordicki-b/zadatak-4-317-9.png",
+    "printed_page": 317,
+    "decision": "PASS",
+    "reason": "Exercise number 9, both grand-staff systems including deliberately empty staves, complete lower phrase arc, lowest notes and final barline survive. All four edges are clean with feasible original-source margins.",
+    "source_limited": false
+  },
+  {
+    "id": "zadatak-4-317-3-realizacija",
+    "image": "images/04-neakordicki-b/zadatak-4-317-3-realizacija.png",
+    "printed_page": 317,
+    "decision": "PASS",
+    "reason": "Full printed title 'Realizacija zadatka 3.', both systems, all slurs/ties, lowest stems and final barline are complete. Four clean original-source edges exclude exercise 9 and the following section heading.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-72",
+    "image": "images/04-neakordicki-b/primjer-4-72.png",
+    "printed_page": 318,
+    "decision": "PASS",
+    "reason": "Number, a–d, complete chord notation, all ties and staff ends survive. All four edges have genuine clean source margins and exclude surrounding text and example 4.73.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-73",
+    "image": "images/04-neakordicki-b/primjer-4-73.png",
+    "printed_page": 318,
+    "decision": "PASS",
+    "reason": "Number, a–d, both flats in b, full ties, lowest stems and final barline survive. Four edges retain clean genuine source whitespace without adjacent-example fragments.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-74",
+    "image": "images/04-neakordicki-b/primjer-4-74.png",
+    "printed_page": 318,
+    "decision": "PASS",
+    "reason": "Number, a–c, all available notation, lowest stems and ties survive with four clean source margins. Variant c's open/irregular right staff endpoints and small endpoint abrasion are already present in the authoritative PNG; the crop does not cut them. Source completeness/notation limitation flagged; no missing notation reconstructed or inferred.",
+    "source_limited": true
+  },
+  {
+    "id": "primjer-4-75",
+    "image": "images/04-neakordicki-b/primjer-4-75.png",
+    "printed_page": 318,
+    "decision": "PASS",
+    "reason": "Number, a–c, all chord notes, lower ties and final barline survive. All four edges are clean with genuine source margins; no 4.74 or following prose fragments.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-76",
+    "image": "images/04-neakordicki-b/primjer-4-76.png",
+    "printed_page": 319,
+    "decision": "PASS",
+    "reason": "Number, complete two-staff example, upper tie, lowest stems and final barline survive. Four edges retain clean original-source whitespace and exclude the following paragraph.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-77",
+    "image": "images/04-neakordicki-b/primjer-4-77.png",
+    "printed_page": 319,
+    "decision": "PASS",
+    "reason": "Number, a–d, upper and lower ties, ledger lines, lowest stems and final barline survive. All four edges are clean with genuine source separation; no paragraph or neighbouring examples.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-78",
+    "image": "images/04-neakordicki-b/primjer-4-78.png",
+    "printed_page": 319,
+    "decision": "PASS",
+    "reason": "Number, a–b, complete notes, staff ends, lowest stems and final barline survive. Four clean original-source margins separate this crop from adjacent example 4.79.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-79",
+    "image": "images/04-neakordicki-b/primjer-4-79.png",
+    "printed_page": 319,
+    "decision": "PASS",
+    "reason": "Number, a–c, all dotted notes and ledger lines, lowest stems and final barline survive. All four edges are clean with genuine margins and no 4.78 fragments.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-80",
+    "image": "images/04-neakordicki-b/primjer-4-80.png",
+    "printed_page": 319,
+    "decision": "PASS",
+    "reason": "Number, a–d, full chord notation, dotted bass values, lowest stems and final barline survive. Four edges retain clean source margins without surrounding prose or neighbouring notation.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-81",
+    "image": "images/04-neakordicki-b/primjer-4-81.png",
+    "printed_page": 320,
+    "decision": "PASS",
+    "reason": "Number, all seven source variant labels, all accidentals/chords, lowest stems and final barline survive. Four clean original-source edges exclude the paragraphs above and below.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-82",
+    "image": "images/04-neakordicki-b/primjer-4-82.png",
+    "printed_page": 320,
+    "decision": "PASS",
+    "reason": "Number, all three systems and source labels a–k, including c's continuation on system two, time changes, ties and lowest stems survive. All four edges are clean with genuine source margins; no paragraph or page number.",
+    "source_limited": false
+  },
+  {
+    "id": "zadatak-4-321-1",
+    "image": "images/04-neakordicki-b/zadatak-4-321-1.png",
+    "printed_page": 321,
+    "decision": "PASS",
+    "reason": "Exercise number 1, both systems, all accidentals, lower whole note and final barline survive. Four edges have clean genuine source margins; ZADACI and exercise 2 are excluded.",
+    "source_limited": false
+  },
+  {
+    "id": "zadatak-4-321-2",
+    "image": "images/04-neakordicki-b/zadatak-4-321-2.png",
+    "printed_page": 321,
+    "decision": "PASS",
+    "reason": "Exercise number 2, all three systems, both parenthesized flat labels, highest ledger notes, lower ties and final barline survive. Four clean original-source margins exclude exercises 1 and 3.",
+    "source_limited": false
+  },
+  {
+    "id": "zadatak-4-321-3",
+    "image": "images/04-neakordicki-b/zadatak-4-321-3.png",
+    "printed_page": 321,
+    "decision": "PASS",
+    "reason": "Exercise number 3, both systems, rest, signatures, complete phrase arcs and lower tie/final barline survive. Four edges are clean with genuine margins and no neighbouring exercise fragments.",
+    "source_limited": false
+  },
+  {
+    "id": "zadatak-4-321-4",
+    "image": "images/04-neakordicki-b/zadatak-4-321-4.png",
+    "printed_page": 321,
+    "decision": "PASS",
+    "reason": "Exercise number 4, both systems, six-four signature, complete phrase arcs, low sharps and final barline survive. All four edges are clean with feasible source whitespace; no exercises 3/5 fragments.",
+    "source_limited": false
+  },
+  {
+    "id": "zadatak-4-321-5",
+    "image": "images/04-neakordicki-b/zadatak-4-321-5.png",
+    "printed_page": 321,
+    "decision": "PASS",
+    "reason": "Exercise number 5, both systems, full long phrase arcs and ties, all notes and final barline survive. Four clean original-source margins exclude exercise 4, printer's footer and page number.",
+    "source_limited": false
+  },
+  {
+    "id": "zadatak-4-322-4-realizacija",
+    "image": "images/04-neakordicki-b/zadatak-4-322-4-realizacija.png",
+    "printed_page": 322,
+    "decision": "PASS",
+    "reason": "Full title 'Realizacija zadatka 4.', both systems, triplet 3, all phrase arcs/ties, lowest stems/dots and final barline survive. All four edges are clean with genuine source margins and exclude the following subsection heading.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-83",
+    "image": "images/04-neakordicki-b/primjer-4-83.png",
+    "printed_page": 322,
+    "decision": "PASS",
+    "reason": "Number, a–h, all upper/lower voices including lowest stems and final barline survive. Four edges retain clean genuine source whitespace; no preceding prose or example 4.84.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-84",
+    "image": "images/04-neakordicki-b/primjer-4-84.png",
+    "printed_page": 322,
+    "decision": "PASS",
+    "reason": "Number, both systems, a–i, all ledger lines/lowest stems and final barline survive. All four edges are clean with genuine source margins and exclude 4.83 and the page number.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-85",
+    "image": "images/04-neakordicki-b/primjer-4-85.png",
+    "printed_page": 323,
+    "decision": "PASS",
+    "reason": "Number, a–d, all voices/ledger lines, lowest stems and final barline survive. Four clean original-source edges exclude surrounding prose and example 4.86.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-86",
+    "image": "images/04-neakordicki-b/primjer-4-86.png",
+    "printed_page": 323,
+    "decision": "PASS",
+    "reason": "Number, a–d, all notes including lowest stems and final barline survive. Four clean source margins separate the image from 4.85 and the following paragraph.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-87",
+    "image": "images/04-neakordicki-b/primjer-4-87.png",
+    "printed_page": 323,
+    "decision": "PASS",
+    "reason": "Number, a–f, all chord notes, ledger lines and lowest stems survive. Open right staff ends are present in the source and remain intact inside the crop, not cut by its edge. Four edges are clean with genuine source whitespace.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-88",
+    "image": "images/04-neakordicki-b/primjer-4-88.png",
+    "printed_page": 323,
+    "decision": "PASS",
+    "reason": "Number, a–b, complete dotted chords, lowest stems and final barline survive. All four edges have clean genuine source margins, with no preceding prose or printed page number.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-89",
+    "image": "images/04-neakordicki-b/primjer-4-89.png",
+    "printed_page": 324,
+    "decision": "PASS",
+    "reason": "Number, a–h, both NE labels, all notes/ledger lines, lowest stems and final barline survive. All four edges are clean with original-source margins; no surrounding paragraphs.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-90",
+    "image": "images/04-neakordicki-b/primjer-4-90.png",
+    "printed_page": 324,
+    "decision": "PASS",
+    "reason": "Number, a–d, complete grand staff, all dotted notes, lowest stems and final barline survive. Four clean original-source margins exclude prose and neighbouring example 4.91.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-91",
+    "image": "images/04-neakordicki-b/primjer-4-91.png",
+    "printed_page": 324,
+    "decision": "PASS",
+    "reason": "Number, a–d, all chords and lowest stems, full staff ends and final barline survive. Four edges retain clean genuine source whitespace and no surrounding paragraph fragments.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-92",
+    "image": "images/04-neakordicki-b/primjer-4-92.png",
+    "printed_page": 325,
+    "decision": "PASS",
+    "reason": "Number, a–e, all flats, dotted chords, lowest stems and final barline survive. Four edges have clean original-source margins and exclude the following paragraph.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-93",
+    "image": "images/04-neakordicki-b/primjer-4-93.png",
+    "printed_page": 325,
+    "decision": "PASS",
+    "reason": "Number, both staves, all notes including lowest stems and final barline survive. All four edges have clean genuine source margins without either surrounding paragraph.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-94",
+    "image": "images/04-neakordicki-b/primjer-4-94.png",
+    "printed_page": 325,
+    "decision": "PASS",
+    "reason": "Number, signatures, complete notes/ties, open right staff endpoints and every figured-bass mark including the lowest natural survive. Source has no separate printed attribution attached to this score. All four crop edges are clean with genuine margins and exclude prose.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-95",
+    "image": "images/04-neakordicki-b/primjer-4-95.png",
+    "printed_page": 326,
+    "decision": "PASS",
+    "reason": "Number, complete notes, connecting arcs, lowest beams/stems and original open right staff ends survive. Four edges retain clean genuine source margins and exclude adjacent example 4.96 and prose.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-96",
+    "image": "images/04-neakordicki-b/primjer-4-96.png",
+    "printed_page": 326,
+    "decision": "PASS",
+    "reason": "Number, a–b, NE/DA labels, all dotted notes and lowest stems, and original open right staff ends survive. Four clean original-source edges exclude 4.95 and surrounding paragraphs.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-97",
+    "image": "images/04-neakordicki-b/primjer-4-97.png",
+    "printed_page": 326,
+    "decision": "PASS",
+    "reason": "Number, both systems, a–g, all ties/accidentals, lowest stems and final barlines survive. Four edges are clean with genuine margins and no prose or example 4.98 fragments.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-98-a",
+    "image": "images/04-neakordicki-b/primjer-4-98-a.png",
+    "printed_page": 326,
+    "decision": "PASS",
+    "reason": "First part correctly contains printed 4.98 and actual variants a–c, all ties, lowest stems and complete staff ends. Four edges are clean with genuine margins, excluding page number. Paired with primjer-4-98-b (actual d–e, p.327); manifest captions identify 4.98 on the two source pages and text-319-333.md explicitly pairs the a–c/d–e visual slots.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-98-b",
+    "image": "images/04-neakordicki-b/primjer-4-98-b.png",
+    "printed_page": 327,
+    "decision": "PASS",
+    "reason": "Continuation correctly contains actual variants d–e and no repeated number, exactly as printed; printed 4.98 is present on the paired first part at p.326. All notes, ties, lowest stems and final barline survive with four clean source margins. Manifest captions and explicit a–c/d–e visual slots in text-319-333.md establish the cross-page pairing; no fake number needed.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-99",
+    "image": "images/04-neakordicki-b/primjer-4-99.png",
+    "printed_page": 327,
+    "decision": "PASS",
+    "reason": "Number, a–b, NE/DA labels, brackets, complete notes/ties, lowest stems and final barline survive. Four edges are clean with genuine source margins; isolated scan specks are not meaningful foreign marks.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-100",
+    "image": "images/04-neakordicki-b/primjer-4-100.png",
+    "printed_page": 327,
+    "decision": "PASS",
+    "reason": "Number, a–b, bracket, all notes and lowest stems, and open right staff endpoints match the source. All four edges are clean with genuine source margins; surrounding prose is excluded.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-101",
+    "image": "images/04-neakordicki-b/primjer-4-101.png",
+    "printed_page": 328,
+    "decision": "PASS",
+    "reason": "Number, full Bach/Koral br. 33 attribution, all accidentals and ledger lines, lowest beam and complete lower fermata survive. Four edges retain clean genuine source margins with no paragraph or other example fragments.",
+    "source_limited": false
+  },
+  {
+    "id": "primjer-4-102",
+    "image": "images/04-neakordicki-b/primjer-4-102.png",
+    "printed_page": 328,
+    "decision": "PASS",
+    "reason": "Number, full Bach/Koral br. 52 attribution, all available notation, lowest stems and complete lower fermata survive with four clean genuine source margins. Source grain/abrasion makes small glyph contours, especially in the right upper-staff cluster, less certain; the same pixels occur in the authoritative PNG. This is a source-reading caveat, not crop loss or reconstructed notation.",
+    "source_limited": true
+  },
+  {
+    "id": "primjer-4-103",
+    "image": "images/04-neakordicki-b/primjer-4-103.png",
+    "printed_page": 328,
+    "decision": "PASS",
+    "reason": "Number, full Bach/Koral br. 26 attribution, all available notation, final barline and complete lowest fermata survive with genuine clean margins on all four edges. Left edge excludes page number 328 without clipping the example. Source abrasion/grain at the bass opening/signatures and staff contours is retained unchanged; fine glyph reading remains source-limited, not repaired or reconstructed.",
+    "source_limited": true
+  }
+]

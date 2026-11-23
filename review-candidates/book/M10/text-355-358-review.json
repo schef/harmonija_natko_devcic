@@ -1,0 +1,34 @@
+[
+  {
+    "printed_page": 355,
+    "pdf_page": 178,
+    "verified": true,
+    "review_role": "parent_text_agent",
+    "visuals": ["4.162", "4.163", "zadatak 1", "zadatak 2", "zadatak 3"],
+    "notes": "Opened authoritative page-355.png and visually checked both body paragraphs, ZADACI heading and Appoggiature u sopranu instruction. Preserved printed genitive appoggiaturâ and every reference. The 4.162 visual follows the paragraph on354; 4.163 score asterisks are retained as image content, not invented explanatory footnotes. Exercises1–3 are complete here. No unreadable prose or crop approvals."
+  },
+  {
+    "printed_page": 356,
+    "pdf_page": 179,
+    "verified": true,
+    "review_role": "parent_text_agent",
+    "visuals": ["zadatak 4", "zadatak 5", "zadatak 6", "zadatak 7", "zadatak 8 (početak)"],
+    "notes": "Opened authoritative page-356.png and verified both instruction labels and entire exercise layout. Exercises4/5 each have three bass rows with all figures or star markers;6/7 are complete soprano lines, while8 continues on357. No additional printed explanatory footnote occurs here. No images self-approved."
+  },
+  {
+    "printed_page": 357,
+    "pdf_page": 179,
+    "verified": true,
+    "review_role": "parent_text_agent",
+    "visuals": ["zadatak 8 (nastavak)", "zadatak 9", "zadatak 10", "zadatak 11 (početak)"],
+    "notes": "Opened authoritative page-357.png and verified the continuation row of8, the exact Kombinacije raznih vrsta appoggiatura instruction, and exercise identities9–11. Exercise9 uses four figured-bass rows,10 three rows, and11 starts at the bottom and continues358. All notation remains visual, with no synthesized figuring. No unreadable prose or crop approval."
+  },
+  {
+    "printed_page": 358,
+    "pdf_page": 180,
+    "verified": true,
+    "review_role": "parent_text_agent",
+    "visuals": ["zadatak 11 (nastavak)", "zadatak 12", "zadatak 13", "zadatak 14"],
+    "notes": "Opened authoritative page-358.png and inspected the complete score-only page. The top two bass rows finish11;12 has three soprano rows,13 two and14 two. No printed body prose or footnote. Existing source-indexed record for359 identifies the following realization9, not continuation14. No crop approval."
+  }
+]

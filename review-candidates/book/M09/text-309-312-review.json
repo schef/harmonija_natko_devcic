@@ -1,0 +1,34 @@
+[
+  {
+    "printed_page": 309,
+    "pdf_page": 155,
+    "verified": true,
+    "review_role": "parent_text_agent",
+    "visuals": ["4.53", "4.54"],
+    "notes": "Opened authoritative page-309.png and compared the complete transcription against both printed prose paragraphs and heading. Preserved the printed reference 4.54.e i d, although the neighbouring general explanation might suggest another variant. Dehyphenated line-break words; excluded handwriting and score notation from prose. No unreadable printed text."
+  },
+  {
+    "printed_page": 310,
+    "pdf_page": 156,
+    "verified": true,
+    "review_role": "parent_text_agent",
+    "visuals": ["4.55", "4.56", "4.57", "4.58"],
+    "notes": "Opened authoritative page-310.png and verified all four prose paragraphs, the numbered heading, bold topic labels and references. Preserved the printed reference 4.54 a i c without adding a missing dot, and the punctuation in kontinuiranoga, postepenog, kretanja. The final paragraph is complete here; its visual 4.59 begins the following page. No unreadable prose."
+  },
+  {
+    "printed_page": 311,
+    "pdf_page": 156,
+    "verified": true,
+    "review_role": "parent_text_agent",
+    "visuals": ["4.59", "4.60"],
+    "notes": "Opened authoritative page-311.png and verified the entire long paragraph and the final paragraph following the examples. Both systems of 4.60 belong to one visual slot. Preserved podvostručenje and uklanjanjem as printed. The final paragraph refers forward to 4.61 on the next page. No unreadable printed prose; no image approval performed."
+  },
+  {
+    "printed_page": 312,
+    "pdf_page": 157,
+    "verified": true,
+    "review_role": "parent_text_agent",
+    "visuals": ["4.61", "4.62", "4.63", "4.64"],
+    "notes": "Opened authoritative page-312.png and verified all three prose paragraphs and the bold topic label, with each intervening visual slot retained in source order. Preserved printed wording akordičnih tonova in the final paragraph. Page ends a complete paragraph and example 4.64; no unreadable prose, no crop extraction or self-approval."
+  }
+]

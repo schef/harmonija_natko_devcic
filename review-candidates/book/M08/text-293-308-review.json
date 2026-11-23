@@ -1,0 +1,173 @@
+{
+  "milestone": "M08",
+  "role": "text-only",
+  "printed_pages": [293, 308],
+  "pdf_pages": [147, 155],
+  "pdf_page_numbering": "1-based; all 16 entries checked against sources/index.json",
+  "output": "review-candidates/book/M08/text-293-308.md",
+  "authority": "sources/pages/page-NNN.png",
+  "method": "Opened every assigned authoritative PNG visually. Directly transcribed and verified every prose paragraph, heading, realization label and both explanatory notes against the scan pixels. No embedded PDF OCR or external model used; no OCR draft needed. Removed printed line-end hyphenation. Musical notation remains in source-position visual slots, including the inline figured symbol in note ** on page 304.",
+  "text_status": "verified against source images by text worker",
+  "independent_review": "not performed by this worker",
+  "image_extraction": "not assigned; no images created or changed",
+  "image_review": "not assigned; no crop approvals issued",
+  "unreadable_prose": [],
+  "boundaries": {
+    "292/293": "Continues section 4.1.3 from text-277-292.md without duplicate chapter root. Previous candidate reports page 292 ends with example 4.30 and no broken prose sentence. Visually verified that page 293 opens ZADACI; page 292 itself was not opened by this worker.",
+    "293/294": "Exercise 6 continues at the top of 294; exercise 7 and realization 5 follow.",
+    "298/299": "Exercise 1 of 4.1.5 continues in the first two systems of 299.",
+    "302/303": "Exercise 2 of 4.1.6 continues in the first two systems of 303.",
+    "303/304": "Realization 3 of 4.1.6 continues at the top of 304 and is followed by notes * and **.",
+    "306/307": "Exercise 2 of 4.1.7 continues in the first system of 307.",
+    "308/309": "Page 308 contains the complete realization 3 of 4.1.7 and ends with its final double barline. No broken prose sentence or unfinished system at the end of 308. Page 309 is outside assignment and was not opened; no claim about its contents."
+  },
+  "pages": [
+    {
+      "printed_page": 293,
+      "pdf_page": 147,
+      "source": "sources/pages/page-293.png",
+      "visually_opened": true,
+      "status": "text verified",
+      "visual_slots": ["4.1.3 — zadatak 1", "4.1.3 — zadatak 2", "4.1.3 — zadatak 3", "4.1.3 — zadatak 4", "4.1.3 — zadatak 5", "4.1.3 — zadatak 6 (početak)"],
+      "notes": ["ZADACI heading verified; score-only remainder with six numbered exercises, not prose.", "Exercises 1, 3 and 5 occupy multiple systems; exercise 6 continues onto 294."]
+    },
+    {
+      "printed_page": 294,
+      "pdf_page": 148,
+      "source": "sources/pages/page-294.png",
+      "visually_opened": true,
+      "status": "text verified",
+      "visual_slots": ["4.1.3 — zadatak 6 (nastavak)", "4.1.3 — zadatak 7", "4.1.3 — Realizacija zadatka 5"],
+      "notes": ["Verified realization label, section 4.1.4 heading and its complete paragraph.", "Preserved diminished-octave/augmented-prime distinction, chromatic introduction of root and references 4.31.a/b/c/d and 4.32–4.34.", "Pencil marks around heading excluded."]
+    },
+    {
+      "printed_page": 295,
+      "pdf_page": 148,
+      "source": "sources/pages/page-295.png",
+      "visually_opened": true,
+      "status": "text verified",
+      "visual_slots": ["4.31 a–d", "4.32 a–c", "4.33 a–c", "4.34 a–c"],
+      "notes": ["All four numbered score blocks identified, retaining their variants as visuals.", "Verified complete bottom paragraph, including reference to odsjek 2.5.3, ninth of dominant ninth chord with minor ninth, and 4.35."]
+    },
+    {
+      "printed_page": 296,
+      "pdf_page": 149,
+      "source": "sources/pages/page-296.png",
+      "visually_opened": true,
+      "status": "text verified",
+      "visual_slots": ["4.35 a–e", "4.1.4 — zadatak 1", "4.1.4 — zadatak 2"],
+      "notes": ["ZADACI heading verified; no body prose.", "Example 4.35 contains five variants; exercise 1 spans five bass systems and exercise 2 two."]
+    },
+    {
+      "printed_page": 297,
+      "pdf_page": 149,
+      "source": "sources/pages/page-297.png",
+      "visually_opened": true,
+      "status": "text verified",
+      "visual_slots": ["4.1.4 — zadatak 3", "4.1.4 — zadatak 4", "4.1.4 — Realizacija zadatka 3"],
+      "notes": ["Verified Realizacija zadatka 3. label.", "Exercises 3 and 4 each span two melody systems; realization spans three piano systems and ends on this page."]
+    },
+    {
+      "printed_page": 298,
+      "pdf_page": 150,
+      "source": "sources/pages/page-298.png",
+      "visually_opened": true,
+      "status": "text verified",
+      "visual_slots": ["4.36 a–d", "4.37 a–b", "4.1.5 — zadatak 1 (početak)"],
+      "notes": ["Verified section 4.1.5 heading and both paragraphs, including preparation of two versus three tones and strict four-part qualification.", "ZADACI heading retained; bottom exercise continues onto 299."]
+    },
+    {
+      "printed_page": 299,
+      "pdf_page": 150,
+      "source": "sources/pages/page-299.png",
+      "visually_opened": true,
+      "status": "text verified",
+      "visual_slots": ["4.1.5 — zadatak 1 (nastavak)", "4.1.5 — zadatak 2", "4.38 a–f"],
+      "notes": ["Verified heading 4.1.6 and full paragraph beginning Uzlazne zaostajalice.", "Preserved restriction that doubling is below suspension, and every 4.38 variant reference; example spans two piano systems."]
+    },
+    {
+      "printed_page": 300,
+      "pdf_page": 151,
+      "source": "sources/pages/page-300.png",
+      "visually_opened": true,
+      "status": "text verified",
+      "visual_slots": ["4.39 a–c", "4.40 a–b", "4.41 a–e"],
+      "notes": ["Verified both complete paragraphs on ascending suspensions and multiple descending suspensions.", "Preserved references 4.39–4.42 and distinction between parallel sixth chords and parallel six-four chords.", "4.41 spans two systems, variants a–c then d–e."]
+    },
+    {
+      "printed_page": 301,
+      "pdf_page": 151,
+      "source": "sources/pages/page-301.png",
+      "visually_opened": true,
+      "status": "text verified",
+      "visual_slots": ["4.42 a–d", "4.43 a–d", "4.44 a–d"],
+      "notes": ["Verified all three prose paragraphs, including quoted »u društvu«, combined suspensions and successive resolution in phases.", "Retained 4.43.a–c/d, 4.44 and 4.45 references; combined-suspension term emphasized as printed."]
+    },
+    {
+      "printed_page": 302,
+      "pdf_page": 152,
+      "source": "sources/pages/page-302.png",
+      "visually_opened": true,
+      "status": "text verified",
+      "visual_slots": ["4.45 a–d", "4.1.6 — zadatak 1", "4.1.6 — zadatak 2 (početak)"],
+      "notes": ["ZADACI heading verified; no body paragraph.", "4.45 has a–c in the upper system and d below; exercise 1 is complete, exercise 2 continues onto 303."]
+    },
+    {
+      "printed_page": 303,
+      "pdf_page": 152,
+      "source": "sources/pages/page-303.png",
+      "visually_opened": true,
+      "status": "text verified",
+      "visual_slots": ["4.1.6 — zadatak 2 (nastavak)", "4.1.6 — zadatak 3", "4.1.6 — zadatak 4", "4.1.6 — zadatak 5", "4.1.6 — zadatak 6", "4.1.6 — Realizacija zadatka 3 (početak)"],
+      "notes": ["Verified Realizacija zadatka 3. label.", "Continuation of exercise 2 occupies top two systems; exercise 6 occupies three melody systems; realization begins at bottom and continues onto 304."]
+    },
+    {
+      "printed_page": 304,
+      "pdf_page": 153,
+      "source": "sources/pages/page-304.png",
+      "visually_opened": true,
+      "status": "text verified",
+      "visual_slots": ["4.1.6 — Realizacija zadatka 3 (nastavak; oznake * i **)", "4.1.6 — šifra trostruke appoggiature u bilješci ** (9/7/4 > 8/3)", "4.46 a–h, itd."],
+      "notes": ["Verified both complete notes * and **, not merely the first printed lines. Joined akordički to-novi and to-ničkog across printed breaks.", "Preserved quoted »c«, »fis«, »a«, »d«, appoggiatura terminology, Mozart cadence explanation and reference 2.66.c.", "Inline figured appoggiatura symbol reserved as its own visual slot rather than prose.", "Verified section 4.1.7 heading and introductory paragraph; example 4.46 spans two systems a–d and e–h with printed itd."]
+    },
+    {
+      "printed_page": 305,
+      "pdf_page": 153,
+      "source": "sources/pages/page-305.png",
+      "visually_opened": true,
+      "status": "text verified",
+      "visual_slots": ["4.47 a–b", "4.48 a–b", "4.49 a–b", "4.50 a–b"],
+      "notes": ["Verified both full paragraphs on enharmonic reinterpretation, preserving source distinction between slučajne harmonije and alterirani akordi.", "All references 4.47–4.51 retained; printer's signature at bottom excluded as non-body material."]
+    },
+    {
+      "printed_page": 306,
+      "pdf_page": 154,
+      "source": "sources/pages/page-306.png",
+      "visually_opened": true,
+      "status": "text verified",
+      "visual_slots": ["4.51 a–b", "4.52 — (Chopin: Mazurka op. 63 br. 1)", "4.1.7 — zadatak 1", "4.1.7 — zadatak 2 (početak)"],
+      "notes": ["Verified complete paragraph on es/dis, es-g-b versus dis-fizis-ais, H-dur, intermediate gis-mol, deceptive resolution to VI (e-gis-h) with »cis« and target II degree.", "Composer/work attribution retained in 4.52 visual identifier; no score transcribed as prose.", "ZADACI heading verified; exercise 2 continues onto 307."]
+    },
+    {
+      "printed_page": 307,
+      "pdf_page": 154,
+      "source": "sources/pages/page-307.png",
+      "visually_opened": true,
+      "status": "text verified",
+      "visual_slots": ["4.1.7 — zadatak 2 (nastavak)", "4.1.7 — zadatak 3", "4.1.7 — zadatak 4", "4.1.7 — zadatak 5"],
+      "notes": ["Score-only page; no body prose, headings or footnotes.", "First system finishes exercise 2; exercise 3 spans four bass systems, exercise 4 three melody systems including its final two-voice passage, exercise 5 two melody systems."]
+    },
+    {
+      "printed_page": 308,
+      "pdf_page": 155,
+      "source": "sources/pages/page-308.png",
+      "visually_opened": true,
+      "status": "text verified",
+      "visual_slots": ["4.1.7 — Realizacija zadatka 3"],
+      "notes": ["Verified Realizacija zadatka 3. label.", "Entire five-system realization assigned a single visual identifier, ending with final double barline; no prose continuation at end of assigned range."]
+    }
+  ],
+  "ready_for_text_integration": true,
+  "ready_for_milestone_completion": false,
+  "remaining_work": "Independent text review and separate score-image extraction/review/integration remain outside this text-only assignment."
+}

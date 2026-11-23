@@ -1,0 +1,14 @@
+[
+  {
+    "id": "M11-primjer-5-6",
+    "image": "images/05-rekapitulacija/recrops/primjer-5-6.png",
+    "printed_page": 380,
+    "pdf_page": 191,
+    "source_image": "sources/pages/page-380.png",
+    "rect": [164, 1810, 1694, 2393],
+    "decision": "PASS",
+    "reason": "Independently reopened the corrected complete crop and authoritative source page. Exact decoded RGB pixel equality with the declared source rectangle, dimensions 1530 x 583. Printed exercise 6, all three systems, clefs, key/time signatures, all accidentals including the complete high flat in system 1 final measure, notes, stems, beams, slurs/ties, staff ends and final barline are retained. The high-flat source detail was also reread at 4x enlargement and its source-pixel provenance revalidated. All four crop edges inspected at native resolution: genuine feasible source whitespace, no clipped notation, adjacent exercise, page number, prose or coherent foreign partial ink. Printed page 380 maps to PDF source page 191, 1-based. Approval applies only to this corrected image; the other eight source-layout cases remain blocked.",
+    "source_limited": false,
+    "decoded_pixel_equality": true
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "milestone": "M07",
+  "scope": "Only the four pending_recrop_review entries in review-candidates/book/M07/images-corrected.json",
+  "counts": {"PASS": 4, "RECROP_REQUIRED": 0, "source_limited": 0, "unreviewed": 0},
+  "method": "Reopened the four current recrop PNGs at native resolution and all three authoritative source pages (259, 265, 271). Inspected all four edges, complete printed content, restored lowest annotations/clef curls and feasible genuine source-white margins. Independently compared decoded RGB pixels and dimensions against each recorded source rectangle: 4/4 exact. Checked source_image, printed_page and 1-based pdf_page against sources/index.json: 4/4 match. No delegation, model subprocesses, API calls, GUI, retouching or edits to images/manifests/chapters/trackers.",
+  "recrops_ready_for_integration": true,
+  "milestone_ready_for_integration": false,
+  "readiness_note": "These four corrected images pass. This bounded review does not resolve or reapprove the other 53 records; the previous 17 source-limited failures remain outside this re-review.",
+  "records": [
+    {
+      "id": "M07-06",
+      "image": "images/03-kromatika-c/recrops/primjer-3-181.png",
+      "printed_page": 259,
+      "pdf_page": 130,
+      "source_image": "sources/pages/page-259.png",
+      "rect": [237, 373, 1773, 1296],
+      "decision": "PASS",
+      "reason": "Complete printed 3.181, all a–d variants, both grand-staff systems, slurs, asterisk and harmonic figures retained. Lowest (D), including both parentheses and its full lower ink, is restored with genuine source-white margin. Top, bottom, left and right edges are clean; braces, staff ends and lowest stems intact. Following prose footnote, page number and unrelated content excluded. Exact decoded source pixels and PDF 130 mapping verified; filename/caption agree with source.",
+      "proposed_rect": null,
+      "source_limited": false
+    },
+    {
+      "id": "M07-27",
+      "image": "images/03-kromatika-c/recrops/zadatak-3-8-9.png",
+      "printed_page": 265,
+      "pdf_page": 133,
+      "source_image": "sources/pages/page-265.png",
+      "rect": [210, 1421, 1732, 1770],
+      "decision": "PASS",
+      "reason": "Printed exercise 9, both complete systems, signatures, notes, stems, slurs and final barline retained. Lower-system treble-clef curl fully restored with genuine white margin below. All four edges inspected at native resolution: no adjacent exercise 8/10 fragments, page number, handwriting or meaningful foreign marks. Exact decoded source pixels and PDF 133 mapping verified; filename/caption agree with source.",
+      "proposed_rect": null,
+      "source_limited": false
+    },
+    {
+      "id": "M07-44",
+      "image": "images/03-kromatika-c/recrops/zadatak-3-9-3.png",
+      "printed_page": 271,
+      "pdf_page": 136,
+      "source_image": "sources/pages/page-271.png",
+      "rect": [199, 1443, 1719, 1597],
+      "decision": "PASS",
+      "reason": "Printed exercise 3, full treble clef including restored bottom curl, signatures, long slur, ties, notes/stems and final barline complete. Genuine lower white margin restored. All four edges clean at native resolution; narrow genuine top margin follows the natural separation from exercise 2 figures, which are excluded. No exercise 4, foreign partial marks or handwriting. Exact decoded source pixels and PDF 136 mapping verified; filename/caption agree with source.",
+      "proposed_rect": null,
+      "source_limited": false
+    },
+    {
+      "id": "M07-45",
+      "image": "images/03-kromatika-c/recrops/zadatak-3-9-4.png",
+      "printed_page": 271,
+      "pdf_page": 136,
+      "source_image": "sources/pages/page-271.png",
+      "rect": [196, 1620, 1719, 1980],
+      "decision": "PASS",
+      "reason": "Printed exercise 4, both complete systems, key/time signatures, all notes/stems, slurs and final barline retained. Lower-system treble-clef curl fully restored with genuine source-white margin. All four edges clean at native resolution; no exercise 3/5 fragments, page number, handwriting or meaningful foreign marks. Exact decoded source pixels and PDF 136 mapping verified; filename/caption agree with source.",
+      "proposed_rect": null,
+      "source_limited": false
+    }
+  ]
+}

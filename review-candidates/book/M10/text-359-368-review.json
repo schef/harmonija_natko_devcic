@@ -1,0 +1,92 @@
+[
+  {
+    "printed_page": 359,
+    "pdf_page": 180,
+    "source_image": "sources/pages/page-359.png",
+    "verified": true,
+    "review_role": "text_only_worker",
+    "visuals": ["realizacija zadatka 9"],
+    "notes": "Opened authoritative source PNG visually. Verified exact heading Realizacija zadatka 9. and three-system realization with figured bass. No body prose, lyrics or explanatory footnote. Explicit 358/359 boundary preserves the preceding shard unchanged. Score represented by its own positional visual slot, not transcribed as prose; no image extraction or crop approval."
+  },
+  {
+    "printed_page": 360,
+    "pdf_page": 181,
+    "source_image": "sources/pages/page-360.png",
+    "verified": true,
+    "review_role": "text_only_worker",
+    "visuals": ["realizacija zadatka 12"],
+    "notes": "Opened authoritative source PNG visually. Verified Realizacija zadatka 12. and four systems ending in a final barline; separate realization from page359. No other prose, instructions or footnote. One positional score slot; no crop approval."
+  },
+  {
+    "printed_page": 361,
+    "pdf_page": 181,
+    "source_image": "sources/pages/page-361.png",
+    "verified": true,
+    "review_role": "text_only_worker",
+    "visuals": ["4.164", "4.165", "4.166"],
+    "notes": "Opened authoritative source PNG visually and compared both paragraphs, new 4.4 Anticipacije heading, Latin definition, quoted terms and all example references. Dehyphenated line splits without modernizing slijedećoj/postepenim; preserved najviše jednako s njim. 4.164 includes a–d;4.165 Beethoven G-major op49 no2 attribution transcribed;4.166 has no attribution. Stars are notation markers, with no printed explanatory footnote on this page. No unreadable prose and no crop approval."
+  },
+  {
+    "printed_page": 362,
+    "pdf_page": 182,
+    "source_image": "sources/pages/page-362.png",
+    "verified": true,
+    "review_role": "text_only_worker",
+    "visuals": ["4.167", "4.168", "4.169", "4.170"],
+    "notes": "Opened authoritative source PNG visually. Verified Beethoven A-major op2 no2 and c-minor op111 attributions, both star explanations Dvostruka anticipacija./Četverostruke anticipacije., and complete paragraph on freely resolved anticipation with references4.170–4.172 and4.116. Preserved apparent printed typo nakog koga rather than silently correcting it. 4.170 contains variants a/b. The reference range wraps across source lines but is joined losslessly. No unreadable text; no crop approval."
+  },
+  {
+    "printed_page": 363,
+    "pdf_page": 182,
+    "source_image": "sources/pages/page-363.png",
+    "verified": true,
+    "review_role": "text_only_worker",
+    "visuals": ["4.171", "4.172", "4.173", "4.174"],
+    "notes": "Opened authoritative source PNG visually and checked all three prose paragraphs and four work attributions. Preserved quoted pitches gizis/ais/his and exact references4.173–4.175. 4.171/4.172 are side-by-side at top,4.173 follows first paragraph,4.174 follows second; final paragraph points forward to4.175 on364 without a split sentence. No lyrics or explanatory footnotes. No unreadable prose; no crop approval."
+  },
+  {
+    "printed_page": 364,
+    "pdf_page": 183,
+    "source_image": "sources/pages/page-364.png",
+    "verified": true,
+    "review_role": "text_only_worker",
+    "visuals": ["4.175", "4.176", "4.177", "zadatak 1", "zadatak 2 (početak)"],
+    "notes": "Opened authoritative source PNG visually. Verified Chopin Mazurka op24 no4 attribution, complete single-star and double-star explanations (quoted f/es/c), full paragraph naming Bach/Corelli with4.176/4.177 references, J.S.Bach Koral br8 attribution and ZADACI heading. Exercise1 has two bass rows and ends here;exercise2 starts in bottom row and continues365. No additional instruction or lyric. No unreadable text and no crop approval."
+  },
+  {
+    "printed_page": 365,
+    "pdf_page": 183,
+    "source_image": "sources/pages/page-365.png",
+    "verified": true,
+    "review_role": "text_only_worker",
+    "visuals": ["zadatak 2 (nastavak)", "zadatak 3", "zadatak 4"],
+    "notes": "Opened authoritative source PNG visually and inspected entire score-only page. Top bass row finishes exercise2 from364;exercise3 is two treble rows and exercise4 two treble rows. All have separate actual-identity positional slots. No printed prose, heading, attribution, lyric or footnote. No crop approval."
+  },
+  {
+    "printed_page": 366,
+    "pdf_page": 184,
+    "source_image": "sources/pages/page-366.png",
+    "verified": true,
+    "review_role": "text_only_worker",
+    "visuals": ["4.178 (početak)"],
+    "notes": "Opened authoritative source PNG visually and compared new4.5 Pedalni ton heading and every paragraph, including Orgelpunkt, tenor discussion, demantiralo, and4.74.a/c,4.75.a/c references. Preserved bold named pedal types and Chopin Preludij op28,br8 attribution. Last prose line ends with I; continuation drugi stupnjevi occurs below scores on367 and is explicitly documented without dropping or duplicating the I. 4.178 starts here and continues367. No unreadable prose or crop approval."
+  },
+  {
+    "printed_page": 367,
+    "pdf_page": 184,
+    "source_image": "sources/pages/page-367.png",
+    "verified": true,
+    "review_role": "text_only_worker",
+    "visuals": ["4.178 (nastavak)", "4.179", "4.180"],
+    "notes": "Opened authoritative source PNG visually. Top two systems continue4.178;then4.179 with J.S.Bach b-minor Prelude/Wohltemperiertes Klavier I dio attribution and4.180 Chopin Mazurka op67 no3. Checked complete bottom paragraph beginning drugi stupnjevi as continuation of page366 I; dehyphenated poprimiti/podređenih/neposredno. Text retains printed grammatical wording, punctuation and tonička/dominantna terminology. No unreadable prose or crop approval."
+  },
+  {
+    "printed_page": 368,
+    "pdf_page": 185,
+    "source_image": "sources/pages/page-368.png",
+    "verified": true,
+    "review_role": "text_only_worker",
+    "visuals": ["4.181", "4.182"],
+    "notes": "Opened authoritative source PNG visually and compared both upper paragraphs and complete lower paragraph. Verified bold dvostruki pedalni ton, Grieg Lirski komadi X,60 and Chopin Balada op38 attributions, references4.178/4.179/4.181/4.182/4.183 and ostinato forward reference. 4.181 has two systems;4.182 is bottom system. Explicit368/369 boundary states no split prose sentence and no transcription of unassigned369;4.183 is only referenced on368, not an actual visual here. No unreadable text; no crop approval."
+  }
+]

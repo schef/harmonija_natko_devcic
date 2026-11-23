@@ -1,0 +1,34 @@
+[
+  {
+    "printed_page": 351,
+    "pdf_page": 176,
+    "verified": true,
+    "review_role": "parent_text_agent",
+    "visuals": ["4.150", "4.151", "4.152 a–c"],
+    "notes": "Opened authoritative page-351.png and visually verified both prose paragraphs and all references. The second paragraph is interrupted by 4.151 within printed word škol-/skih; joined the complete paragraph and word losslessly, placing 4.151 after that paragraph while preserving visual order 4.150/4.151/4.152. Preserved all range references and source wording. No unreadable prose; no crop approval."
+  },
+  {
+    "printed_page": 352,
+    "pdf_page": 177,
+    "verified": true,
+    "review_role": "parent_text_agent",
+    "visuals": ["4.152 d–g (nastavak)", "4.153", "4.154", "4.155", "4.156"],
+    "notes": "Opened authoritative page-352.png and visually checked entire score-only layout and the printed asterisk explanation for continued 4.152. Beethoven and Chopin attributions belong to their visual crops. No repeated 4.152 number is printed on this page; continuation must remain paired with first part on 351. Open staff endings in 4.156 are source endpoints, not proof of clipping. No other body prose printed."
+  },
+  {
+    "printed_page": 353,
+    "pdf_page": 177,
+    "verified": true,
+    "review_role": "parent_text_agent",
+    "visuals": ["4.157", "4.158", "4.159"],
+    "notes": "Opened authoritative page-353.png and verified all four asterisk/double-asterisk explanations and both complete body paragraphs. Preserved V7 as V₇, printed genitive appoggiaturâ, composer/work references and K.V.550. Schumann's i dalje continuation belongs to the same 4.158 visual slot, not a new numbered example. Excluded bottom printer signature 23 Devčić: Harmonija. No unreadable prose or image approval."
+  },
+  {
+    "printed_page": 354,
+    "pdf_page": 178,
+    "verified": true,
+    "review_role": "parent_text_agent",
+    "visuals": ["4.160", "4.161"],
+    "notes": "Opened authoritative page-354.png and verified both long prose paragraphs, all pitches, chord descriptions, quotations and example references. Preserved Novelletti op. 21 br. 8, L. Janačeka and the printed argument/wording without editorial reconstruction. Example 4.160 includes its two-system variant a and variants b/c in one visual slot. Final paragraph is complete here and refers forward to 4.162 on355. No unreadable printed prose or crop approvals."
+  }
+]

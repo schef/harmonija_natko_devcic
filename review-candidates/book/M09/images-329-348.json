@@ -1,0 +1,1190 @@
+[
+  {
+    "id": "zadatak-4-329-1",
+    "example": "1",
+    "kind": "exercise",
+    "printed_page": 329,
+    "pdf_page": 165,
+    "source_image": "sources/pages/page-329.png",
+    "rect": [
+      204,
+      217,
+      1744,
+      1374
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-329-1.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Zadatak 1. Izvor: tiskana str. 329."
+  },
+  {
+    "id": "zadatak-4-329-2",
+    "example": "2",
+    "kind": "exercise",
+    "printed_page": 329,
+    "pdf_page": 165,
+    "source_image": "sources/pages/page-329.png",
+    "rect": [
+      231,
+      1448,
+      1742,
+      1589
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-329-2.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Zadatak 2. Izvor: tiskana str. 329."
+  },
+  {
+    "id": "zadatak-4-329-3",
+    "example": "3",
+    "kind": "exercise",
+    "printed_page": 329,
+    "pdf_page": 165,
+    "source_image": "sources/pages/page-329.png",
+    "rect": [
+      232,
+      1623,
+      1740,
+      1791
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-329-3.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Zadatak 3. Izvor: tiskana str. 329."
+  },
+  {
+    "id": "zadatak-4-329-4",
+    "example": "4",
+    "kind": "exercise",
+    "printed_page": 329,
+    "pdf_page": 165,
+    "source_image": "sources/pages/page-329.png",
+    "rect": [
+      234,
+      1824,
+      1742,
+      2196
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-329-4.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Zadatak 4. Izvor: tiskana str. 329."
+  },
+  {
+    "id": "zadatak-4-329-5-a",
+    "example": "5",
+    "kind": "exercise",
+    "printed_page": 329,
+    "pdf_page": 165,
+    "source_image": "sources/pages/page-329.png",
+    "rect": [
+      235,
+      2236,
+      1741,
+      2400
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-329-5-a.png",
+    "review_status": "pending_independent_review",
+    "review_note": "First part; printed exercise 5 present. Continues on 330.",
+    "caption": "Zadatak 5 — početak. Izvor: tiskana str. 329."
+  },
+  {
+    "id": "zadatak-4-330-5-b",
+    "example": "5",
+    "kind": "exercise",
+    "printed_page": 330,
+    "pdf_page": 166,
+    "source_image": "sources/pages/page-330.png",
+    "rect": [
+      179,
+      124,
+      1694,
+      478
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-330-5-b.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Continuation of exercise 5 on 329; no repeated number printed. No number added.",
+    "caption": "Zadatak 5 — nastavak. Izvor: tiskana str. 330."
+  },
+  {
+    "id": "zadatak-4-330-3-realizacija",
+    "example": "3",
+    "kind": "realization",
+    "printed_page": 330,
+    "pdf_page": 166,
+    "source_image": "sources/pages/page-330.png",
+    "rect": [
+      152,
+      511,
+      1697,
+      1481
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-330-3-realizacija.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Printed realization title retained.",
+    "caption": "Realizacija zadatka 3. Izvor: tiskana str. 330."
+  },
+  {
+    "id": "primjer-4-104",
+    "example": "4.104",
+    "kind": "example",
+    "printed_page": 331,
+    "pdf_page": 166,
+    "source_image": "sources/pages/page-331.png",
+    "rect": [
+      228,
+      104,
+      1745,
+      479
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-104.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Primjer 4.104. Izvor: tiskana str. 331."
+  },
+  {
+    "id": "primjer-4-105",
+    "example": "4.105",
+    "kind": "example",
+    "printed_page": 331,
+    "pdf_page": 166,
+    "source_image": "sources/pages/page-331.png",
+    "rect": [
+      296,
+      528,
+      1688,
+      882
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-105.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Primjer 4.105. Izvor: tiskana str. 331."
+  },
+  {
+    "id": "primjer-4-106",
+    "example": "4.106",
+    "kind": "example",
+    "printed_page": 331,
+    "pdf_page": 166,
+    "source_image": "sources/pages/page-331.png",
+    "rect": [
+      614,
+      1987,
+      1406,
+      2381
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-106.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Bach attribution retained; open staff ends as printed.",
+    "caption": "Primjer 4.106. Izvor: tiskana str. 331."
+  },
+  {
+    "id": "primjer-4-107",
+    "example": "4.107",
+    "kind": "example",
+    "printed_page": 332,
+    "pdf_page": 167,
+    "source_image": "sources/pages/page-332.png",
+    "rect": [
+      173,
+      138,
+      1700,
+      571
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-107.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Bach attribution and lower fermata retained; open staff ends as printed.",
+    "caption": "Primjer 4.107. Izvor: tiskana str. 332."
+  },
+  {
+    "id": "zadatak-4-332-1",
+    "example": "1",
+    "kind": "exercise",
+    "printed_page": 332,
+    "pdf_page": 167,
+    "source_image": "sources/pages/page-332.png",
+    "rect": [
+      147,
+      686,
+      1692,
+      1459
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-332-1.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Zadatak 1. Izvor: tiskana str. 332."
+  },
+  {
+    "id": "zadatak-4-332-2",
+    "example": "2",
+    "kind": "exercise",
+    "printed_page": 332,
+    "pdf_page": 167,
+    "source_image": "sources/pages/page-332.png",
+    "rect": [
+      149,
+      1501,
+      1687,
+      2300
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-332-2.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Lowest bass ledger note and stem retained.",
+    "caption": "Zadatak 2. Izvor: tiskana str. 332."
+  },
+  {
+    "id": "zadatak-4-333-3",
+    "example": "3",
+    "kind": "exercise",
+    "printed_page": 333,
+    "pdf_page": 167,
+    "source_image": "sources/pages/page-333.png",
+    "rect": [
+      245,
+      130,
+      1749,
+      291
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-333-3.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Zadatak 3. Izvor: tiskana str. 333."
+  },
+  {
+    "id": "zadatak-4-333-4",
+    "example": "4",
+    "kind": "exercise",
+    "printed_page": 333,
+    "pdf_page": 167,
+    "source_image": "sources/pages/page-333.png",
+    "rect": [
+      239,
+      318,
+      1749,
+      660
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-333-4.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Zadatak 4. Izvor: tiskana str. 333."
+  },
+  {
+    "id": "zadatak-4-333-3-realizacija",
+    "example": "3",
+    "kind": "realization",
+    "printed_page": 333,
+    "pdf_page": 167,
+    "source_image": "sources/pages/page-333.png",
+    "rect": [
+      212,
+      767,
+      1750,
+      1678
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-333-3-realizacija.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Printed title and score *) retained; explanatory footnote is transcribed separately in text-319-333.md.",
+    "caption": "Realizacija zadatka 3. Izvor: tiskana str. 333."
+  },
+  {
+    "id": "primjer-4-108",
+    "example": "4.108",
+    "kind": "example",
+    "printed_page": 334,
+    "pdf_page": 168,
+    "source_image": "sources/pages/page-334.png",
+    "rect": [
+      145,
+      507,
+      1666,
+      881
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-108.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup: pencil circles retained. C-dur title and both staves retained.",
+    "caption": "Primjer 4.108. Izvor: tiskana str. 334."
+  },
+  {
+    "id": "primjer-4-109",
+    "example": "4.109",
+    "kind": "example",
+    "printed_page": 334,
+    "pdf_page": 168,
+    "source_image": "sources/pages/page-334.png",
+    "rect": [
+      145,
+      928,
+      1665,
+      1299
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-109.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup: pencil circles retained. c-mol title and both staves retained.",
+    "caption": "Primjer 4.109. Izvor: tiskana str. 334."
+  },
+  {
+    "id": "primjer-4-110",
+    "example": "4.110",
+    "kind": "example",
+    "printed_page": 334,
+    "pdf_page": 168,
+    "source_image": "sources/pages/page-334.png",
+    "rect": [
+      394,
+      2155,
+      1418,
+      2333
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-110.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Primjer 4.110. Izvor: tiskana str. 334."
+  },
+  {
+    "id": "primjer-4-111",
+    "example": "4.111",
+    "kind": "example",
+    "printed_page": 335,
+    "pdf_page": 168,
+    "source_image": "sources/pages/page-335.png",
+    "rect": [
+      300,
+      126,
+      1635,
+      497
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-111.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Primjer 4.111. Izvor: tiskana str. 335."
+  },
+  {
+    "id": "primjer-4-112",
+    "example": "4.112",
+    "kind": "example",
+    "printed_page": 335,
+    "pdf_page": 168,
+    "source_image": "sources/pages/page-335.png",
+    "rect": [
+      447,
+      1003,
+      1523,
+      1410
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-112.png",
+    "review_status": "pending_independent_review",
+    "review_note": "All lower asterisk markers retained.",
+    "caption": "Primjer 4.112. Izvor: tiskana str. 335."
+  },
+  {
+    "id": "zadatak-4-335-1",
+    "example": "1",
+    "kind": "exercise",
+    "printed_page": 335,
+    "pdf_page": 168,
+    "source_image": "sources/pages/page-335.png",
+    "rect": [
+      185,
+      1644,
+      1725,
+      2368
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-335-1.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Zadatak 1. Izvor: tiskana str. 335."
+  },
+  {
+    "id": "zadatak-4-336-2",
+    "example": "2",
+    "kind": "exercise",
+    "printed_page": 336,
+    "pdf_page": 169,
+    "source_image": "sources/pages/page-336.png",
+    "rect": [
+      189,
+      160,
+      1707,
+      892
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-336-2.png",
+    "review_status": "pending_independent_review",
+    "review_note": "source_layout: exceptionally narrow lower separation from exercise 3 slur; lowest parenthesized figures retained.",
+    "caption": "Zadatak 2. Izvor: tiskana str. 336."
+  },
+  {
+    "id": "zadatak-4-336-3",
+    "example": "3",
+    "kind": "exercise",
+    "printed_page": 336,
+    "pdf_page": 169,
+    "source_image": "sources/pages/page-336.png",
+    "rect": [
+      191,
+      894,
+      1707,
+      1618
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-336-3.png",
+    "review_status": "pending_independent_review",
+    "review_note": "source_layout: upper edge follows narrow source gap after exercise 2 figures; full opening slur retained.",
+    "caption": "Zadatak 3. Izvor: tiskana str. 336."
+  },
+  {
+    "id": "zadatak-4-336-1-realizacija-a",
+    "example": "1",
+    "kind": "realization",
+    "printed_page": 336,
+    "pdf_page": 169,
+    "source_image": "sources/pages/page-336.png",
+    "rect": [
+      163,
+      1873,
+      1706,
+      2382
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-336-1-realizacija-a.png",
+    "review_status": "pending_independent_review",
+    "review_note": "First part, printed realization title retained; continues on 337. Lower page number excluded.",
+    "caption": "Realizacija zadatka 1 — početak. Izvor: tiskana str. 336."
+  },
+  {
+    "id": "zadatak-4-337-1-realizacija-b",
+    "example": "1",
+    "kind": "realization",
+    "printed_page": 337,
+    "pdf_page": 169,
+    "source_image": "sources/pages/page-337.png",
+    "rect": [
+      187,
+      103,
+      1731,
+      982
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-337-1-realizacija-b.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Continuation of realization 1 on 336, two systems; no repeated title printed.",
+    "caption": "Realizacija zadatka 1 — nastavak. Izvor: tiskana str. 337."
+  },
+  {
+    "id": "primjer-4-113",
+    "example": "4.113",
+    "kind": "example",
+    "printed_page": 337,
+    "pdf_page": 169,
+    "source_image": "sources/pages/page-337.png",
+    "rect": [
+      638,
+      1751,
+      1320,
+      2219
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-113.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup/source_damage/layout_overlap: pencil analysis below score and faint pencil pointer above first asterisk retained. Pointer meets handwriting under preceding prose; some source pencil underline remains at upper edge, but no printed prose. No retouching.",
+    "caption": "Primjer 4.113. Izvor: tiskana str. 337."
+  },
+  {
+    "id": "primjer-4-114",
+    "example": "4.114",
+    "kind": "example",
+    "printed_page": 338,
+    "pdf_page": 170,
+    "source_image": "sources/pages/page-338.png",
+    "rect": [
+      176,
+      452,
+      1394,
+      899
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-114.png",
+    "review_status": "pending_independent_review",
+    "review_note": "cleanup: handwritten harmonic analysis beneath bass retained; open staff ends as printed.",
+    "caption": "Primjer 4.114. Izvor: tiskana str. 338."
+  },
+  {
+    "id": "primjer-4-115",
+    "example": "4.115",
+    "kind": "example",
+    "printed_page": 338,
+    "pdf_page": 170,
+    "source_image": "sources/pages/page-338.png",
+    "rect": [
+      174,
+      904,
+      1281,
+      1352
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-115.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Beethoven attribution and lowest bass stems retained; open staff ends as printed.",
+    "caption": "Primjer 4.115. Izvor: tiskana str. 338."
+  },
+  {
+    "id": "primjer-4-116",
+    "example": "4.116",
+    "kind": "example",
+    "printed_page": 338,
+    "pdf_page": 170,
+    "source_image": "sources/pages/page-338.png",
+    "rect": [
+      174,
+      1396,
+      1692,
+      1791
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-116.png",
+    "review_status": "pending_independent_review",
+    "review_note": "source_layout: narrow lower gap before prose; all three lower asterisks retained.",
+    "caption": "Primjer 4.116. Izvor: tiskana str. 338."
+  },
+  {
+    "id": "primjer-4-117",
+    "example": "4.117",
+    "kind": "example",
+    "printed_page": 338,
+    "pdf_page": 170,
+    "source_image": "sources/pages/page-338.png",
+    "rect": [
+      458,
+      2007,
+      1378,
+      2382
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-117.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Primjer 4.117. Izvor: tiskana str. 338."
+  },
+  {
+    "id": "primjer-4-118",
+    "example": "4.118",
+    "kind": "example",
+    "printed_page": 339,
+    "pdf_page": 170,
+    "source_image": "sources/pages/page-339.png",
+    "rect": [
+      229,
+      310,
+      909,
+      698
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-118.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Primjer 4.118. Izvor: tiskana str. 339."
+  },
+  {
+    "id": "primjer-4-119",
+    "example": "4.119",
+    "kind": "example",
+    "printed_page": 339,
+    "pdf_page": 170,
+    "source_image": "sources/pages/page-339.png",
+    "rect": [
+      910,
+      283,
+      1752,
+      720
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-119.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Haydn attribution and score *) retained; footnote separately transcribed in text-334-348.md.",
+    "caption": "Primjer 4.119. Izvor: tiskana str. 339."
+  },
+  {
+    "id": "primjer-4-120",
+    "example": "4.120",
+    "kind": "example",
+    "printed_page": 339,
+    "pdf_page": 170,
+    "source_image": "sources/pages/page-339.png",
+    "rect": [
+      476,
+      791,
+      1460,
+      1173
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-120.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Primjer 4.120. Izvor: tiskana str. 339."
+  },
+  {
+    "id": "primjer-4-121",
+    "example": "4.121",
+    "kind": "example",
+    "printed_page": 339,
+    "pdf_page": 170,
+    "source_image": "sources/pages/page-339.png",
+    "rect": [
+      219,
+      1519,
+      1078,
+      1885
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-121.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Primjer 4.121. Izvor: tiskana str. 339."
+  },
+  {
+    "id": "primjer-4-122",
+    "example": "4.122",
+    "kind": "example",
+    "printed_page": 339,
+    "pdf_page": 170,
+    "source_image": "sources/pages/page-339.png",
+    "rect": [
+      1080,
+      1505,
+      1739,
+      1906
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-122.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Lowest asterisk retained.",
+    "caption": "Primjer 4.122. Izvor: tiskana str. 339."
+  },
+  {
+    "id": "primjer-4-123",
+    "example": "4.123",
+    "kind": "example",
+    "printed_page": 339,
+    "pdf_page": 170,
+    "source_image": "sources/pages/page-339.png",
+    "rect": [
+      480,
+      1963,
+      1461,
+      2356
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-123.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Lowest bass stems retained.",
+    "caption": "Primjer 4.123. Izvor: tiskana str. 339."
+  },
+  {
+    "id": "primjer-4-124",
+    "example": "4.124",
+    "kind": "example",
+    "printed_page": 340,
+    "pdf_page": 171,
+    "source_image": "sources/pages/page-340.png",
+    "rect": [
+      374,
+      104,
+      1411,
+      555
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-124.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Beethoven attribution and lowest staccato retained.",
+    "caption": "Primjer 4.124. Izvor: tiskana str. 340."
+  },
+  {
+    "id": "primjer-4-125",
+    "example": "4.125",
+    "kind": "example",
+    "printed_page": 340,
+    "pdf_page": 171,
+    "source_image": "sources/pages/page-340.png",
+    "rect": [
+      373,
+      555,
+      1531,
+      988
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-125.png",
+    "review_status": "pending_independent_review",
+    "review_note": "source_layout: exceptionally narrow lower source gap between bass ledger note and following prose; Chopin attribution retained.",
+    "caption": "Primjer 4.125. Izvor: tiskana str. 340."
+  },
+  {
+    "id": "primjer-4-126",
+    "example": "4.126",
+    "kind": "example",
+    "printed_page": 340,
+    "pdf_page": 171,
+    "source_image": "sources/pages/page-340.png",
+    "rect": [
+      170,
+      1456,
+      1689,
+      1825
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-126.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Open staff ends retained as printed.",
+    "caption": "Primjer 4.126. Izvor: tiskana str. 340."
+  },
+  {
+    "id": "primjer-4-127",
+    "example": "4.127",
+    "kind": "example",
+    "printed_page": 340,
+    "pdf_page": 171,
+    "source_image": "sources/pages/page-340.png",
+    "rect": [
+      170,
+      1909,
+      1693,
+      2378
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-127.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Chopin attribution and complete lowest figures 7/4—3 retained.",
+    "caption": "Primjer 4.127. Izvor: tiskana str. 340."
+  },
+  {
+    "id": "primjer-4-128",
+    "example": "4.128",
+    "kind": "example",
+    "printed_page": 341,
+    "pdf_page": 171,
+    "source_image": "sources/pages/page-341.png",
+    "rect": [
+      695,
+      114,
+      1266,
+      483
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-128.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Footnote prose separately transcribed in text-334-348.md; printed score has asterisks, no added marker.",
+    "caption": "Primjer 4.128. Izvor: tiskana str. 341."
+  },
+  {
+    "id": "primjer-4-129",
+    "example": "4.129",
+    "kind": "example",
+    "printed_page": 341,
+    "pdf_page": 171,
+    "source_image": "sources/pages/page-341.png",
+    "rect": [
+      403,
+      572,
+      1559,
+      1094
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-129.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Bach attribution and lowest figures retained.",
+    "caption": "Primjer 4.129. Izvor: tiskana str. 341."
+  },
+  {
+    "id": "primjer-4-130",
+    "example": "4.130",
+    "kind": "example",
+    "printed_page": 341,
+    "pdf_page": 171,
+    "source_image": "sources/pages/page-341.png",
+    "rect": [
+      426,
+      1289,
+      1520,
+      1644
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-130.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Primjer 4.130. Izvor: tiskana str. 341."
+  },
+  {
+    "id": "primjer-4-131",
+    "example": "4.131",
+    "kind": "example",
+    "printed_page": 341,
+    "pdf_page": 171,
+    "source_image": "sources/pages/page-341.png",
+    "rect": [
+      220,
+      1702,
+      1742,
+      2168
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-131.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Chopin attribution and all score *, **, *** markers retained; three footnotes separately transcribed in text-334-348.md.",
+    "caption": "Primjer 4.131. Izvor: tiskana str. 341."
+  },
+  {
+    "id": "primjer-4-132",
+    "example": "4.132",
+    "kind": "example",
+    "printed_page": 342,
+    "pdf_page": 172,
+    "source_image": "sources/pages/page-342.png",
+    "rect": [
+      345,
+      551,
+      1508,
+      958
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-132.png",
+    "review_status": "pending_independent_review",
+    "review_note": "NE, DA and asterisk retained; open staff ends as printed.",
+    "caption": "Primjer 4.132. Izvor: tiskana str. 342."
+  },
+  {
+    "id": "primjer-4-133",
+    "example": "4.133",
+    "kind": "example",
+    "printed_page": 342,
+    "pdf_page": 172,
+    "source_image": "sources/pages/page-342.png",
+    "rect": [
+      164,
+      988,
+      1687,
+      1599
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-133.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Lowest bass ledger notes retained; open staff ends as printed.",
+    "caption": "Primjer 4.133. Izvor: tiskana str. 342."
+  },
+  {
+    "id": "primjer-4-134",
+    "example": "4.134",
+    "kind": "example",
+    "printed_page": 342,
+    "pdf_page": 172,
+    "source_image": "sources/pages/page-342.png",
+    "rect": [
+      467,
+      2056,
+      1383,
+      2444
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-134.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Lowest figures retained; crop shifted right of printed page number.",
+    "caption": "Primjer 4.134. Izvor: tiskana str. 342."
+  },
+  {
+    "id": "primjer-4-135",
+    "example": "4.135",
+    "kind": "example",
+    "printed_page": 343,
+    "pdf_page": 172,
+    "source_image": "sources/pages/page-343.png",
+    "rect": [
+      469,
+      136,
+      1517,
+      538
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-135.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Primjer 4.135. Izvor: tiskana str. 343."
+  },
+  {
+    "id": "primjer-4-136",
+    "example": "4.136",
+    "kind": "example",
+    "printed_page": 343,
+    "pdf_page": 172,
+    "source_image": "sources/pages/page-343.png",
+    "rect": [
+      224,
+      587,
+      1743,
+      972
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-136.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Printed itd. and complete open staff ends retained.",
+    "caption": "Primjer 4.136. Izvor: tiskana str. 343."
+  },
+  {
+    "id": "primjer-4-137",
+    "example": "4.137",
+    "kind": "example",
+    "printed_page": 343,
+    "pdf_page": 172,
+    "source_image": "sources/pages/page-343.png",
+    "rect": [
+      202,
+      1401,
+      1745,
+      2217
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-137.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Both systems a–f and lowest figures retained.",
+    "caption": "Primjer 4.137. Izvor: tiskana str. 343."
+  },
+  {
+    "id": "primjer-4-138",
+    "example": "4.138",
+    "kind": "example",
+    "printed_page": 344,
+    "pdf_page": 173,
+    "source_image": "sources/pages/page-344.png",
+    "rect": [
+      177,
+      515,
+      1697,
+      883
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-138.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Primjer 4.138. Izvor: tiskana str. 344."
+  },
+  {
+    "id": "primjer-4-139",
+    "example": "4.139",
+    "kind": "example",
+    "printed_page": 344,
+    "pdf_page": 173,
+    "source_image": "sources/pages/page-344.png",
+    "rect": [
+      162,
+      933,
+      1701,
+      1766
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-139.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Both systems a–e plus itd. retained. Source prose says d–f, but no f is printed in the score.",
+    "caption": "Primjer 4.139. Izvor: tiskana str. 344."
+  },
+  {
+    "id": "primjer-4-140",
+    "example": "4.140",
+    "kind": "example",
+    "printed_page": 345,
+    "pdf_page": 173,
+    "source_image": "sources/pages/page-345.png",
+    "rect": [
+      230,
+      111,
+      1755,
+      492
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-140.png",
+    "review_status": "pending_independent_review",
+    "review_note": "source_layout: close lower separation from prose; all lower beams and slurs retained.",
+    "caption": "Primjer 4.140. Izvor: tiskana str. 345."
+  },
+  {
+    "id": "primjer-4-141",
+    "example": "4.141",
+    "kind": "example",
+    "printed_page": 345,
+    "pdf_page": 173,
+    "source_image": "sources/pages/page-345.png",
+    "rect": [
+      230,
+      1239,
+      917,
+      1621
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-141.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Printed CAMBIATA title and bracket retained.",
+    "caption": "Primjer 4.141. Izvor: tiskana str. 345."
+  },
+  {
+    "id": "primjer-4-142",
+    "example": "4.142",
+    "kind": "example",
+    "printed_page": 345,
+    "pdf_page": 173,
+    "source_image": "sources/pages/page-345.png",
+    "rect": [
+      229,
+      1627,
+      1754,
+      2039
+    ],
+    "image": "images/04-neakordicki-b/primjer-4-142.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Marx–Bayer attribution retained; open staff ends as printed.",
+    "caption": "Primjer 4.142. Izvor: tiskana str. 345."
+  },
+  {
+    "id": "zadatak-4-346-1",
+    "example": "1",
+    "kind": "exercise",
+    "printed_page": 346,
+    "pdf_page": 174,
+    "source_image": "sources/pages/page-346.png",
+    "rect": [
+      165,
+      216,
+      1683,
+      699
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-346-1.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Complete figured bass through lowest altered figures retained.",
+    "caption": "Zadatak 1. Izvor: tiskana str. 346."
+  },
+  {
+    "id": "zadatak-4-346-2",
+    "example": "2",
+    "kind": "exercise",
+    "printed_page": 346,
+    "pdf_page": 174,
+    "source_image": "sources/pages/page-346.png",
+    "rect": [
+      165,
+      706,
+      1683,
+      1200
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-346-2.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Complete figured bass retained.",
+    "caption": "Zadatak 2. Izvor: tiskana str. 346."
+  },
+  {
+    "id": "zadatak-4-346-3",
+    "example": "3",
+    "kind": "exercise",
+    "printed_page": 346,
+    "pdf_page": 174,
+    "source_image": "sources/pages/page-346.png",
+    "rect": [
+      165,
+      1204,
+      1683,
+      1554
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-346-3.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Zadatak 3. Izvor: tiskana str. 346."
+  },
+  {
+    "id": "zadatak-4-346-4",
+    "example": "4",
+    "kind": "exercise",
+    "printed_page": 346,
+    "pdf_page": 174,
+    "source_image": "sources/pages/page-346.png",
+    "rect": [
+      165,
+      1594,
+      1683,
+      1922
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-346-4.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Zadatak 4. Izvor: tiskana str. 346."
+  },
+  {
+    "id": "zadatak-4-346-5",
+    "example": "5",
+    "kind": "exercise",
+    "printed_page": 346,
+    "pdf_page": 174,
+    "source_image": "sources/pages/page-346.png",
+    "rect": [
+      165,
+      1930,
+      1684,
+      2354
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-346-5.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Printed Allegretto retained.",
+    "caption": "Zadatak 5. Izvor: tiskana str. 346."
+  },
+  {
+    "id": "zadatak-4-347-6",
+    "example": "6",
+    "kind": "exercise",
+    "printed_page": 347,
+    "pdf_page": 174,
+    "source_image": "sources/pages/page-347.png",
+    "rect": [
+      233,
+      165,
+      1755,
+      521
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-347-6.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Zadatak 6. Izvor: tiskana str. 347."
+  },
+  {
+    "id": "zadatak-4-347-7",
+    "example": "7",
+    "kind": "exercise",
+    "printed_page": 347,
+    "pdf_page": 174,
+    "source_image": "sources/pages/page-347.png",
+    "rect": [
+      234,
+      539,
+      1755,
+      897
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-347-7.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Zadatak 7. Izvor: tiskana str. 347."
+  },
+  {
+    "id": "zadatak-4-347-8",
+    "example": "8",
+    "kind": "exercise",
+    "printed_page": 347,
+    "pdf_page": 174,
+    "source_image": "sources/pages/page-347.png",
+    "rect": [
+      232,
+      927,
+      1751,
+      1286
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-347-8.png",
+    "review_status": "pending_independent_review",
+    "review_note": "",
+    "caption": "Zadatak 8. Izvor: tiskana str. 347."
+  },
+  {
+    "id": "zadatak-4-347-9",
+    "example": "9",
+    "kind": "exercise",
+    "printed_page": 347,
+    "pdf_page": 174,
+    "source_image": "sources/pages/page-347.png",
+    "rect": [
+      230,
+      1304,
+      1752,
+      1853
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-347-9.png",
+    "review_status": "pending_independent_review",
+    "review_note": "All three staves, changing time signatures and lowest ledger note retained.",
+    "caption": "Zadatak 9. Izvor: tiskana str. 347."
+  },
+  {
+    "id": "zadatak-4-348-3-realizacija",
+    "example": "3",
+    "kind": "realization",
+    "printed_page": 348,
+    "pdf_page": 175,
+    "source_image": "sources/pages/page-348.png",
+    "rect": [
+      159,
+      124,
+      1705,
+      1134
+    ],
+    "image": "images/04-neakordicki-b/zadatak-4-348-3-realizacija.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Printed title and brackets with *) and **) retained. Both explanatory footnotes separately transcribed in text-334-348.md.",
+    "caption": "Realizacija zadatka 3. Izvor: tiskana str. 348."
+  }
+]

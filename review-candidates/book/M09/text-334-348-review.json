@@ -1,0 +1,162 @@
+{
+  "milestone": "M09",
+  "role": "text-only worker",
+  "printed_pages": [334, 348],
+  "pdf_pages_1based": [168, 175],
+  "text_file": "review-candidates/book/M09/text-334-348.md",
+  "source_index": "sources/index.json",
+  "method": "Direct visual transcription and paragraph comparison against every authoritative source PNG; no embedded PDF OCR used. All 15 whole pages opened visually, including their lower portions. Printed prose, headings, references and figure-associated asterisk explanations retained; visual slots follow source order. Line-end word divisions removed. No images created or edited.",
+  "status": "text visually verified; ready for text integration, not image approval",
+  "independent_image_review": "not performed; no extracted crops in this text-only assignment",
+  "unreadable_text": [],
+  "boundaries": {
+    "333/334": "Page 334 begins a complete new paragraph continuing section 4.2.6, whose heading and first paragraph belong to the preceding shard. Earlier shards unchanged.",
+    "348/349": "Page 348 ends the complete two-system Realizacija zadatka 3 and its two asterisk explanations. No unfinished sentence or bottom-edge score continuation. Page 349 not opened or transcribed because outside assignment."
+  },
+  "pages": [
+    {
+      "printed_page": 334,
+      "pdf_page": 168,
+      "source": "sources/pages/page-334.png",
+      "visually_opened": true,
+      "text_verified": true,
+      "visual_ids": ["4.108", "4.109", "4.110 a–c"],
+      "notes": ["Two complete prose paragraphs checked, before scales and between scales and 4.110.", "C-dur and c-mol labels retained in visual notes; each scale occupies two rows.", "Printed spelling 'indentičnim' retained; later 'identičan' likewise follows print.", "Pencil underlining and page number are not prose."]
+    },
+    {
+      "printed_page": 335,
+      "pdf_page": 168,
+      "source": "sources/pages/page-335.png",
+      "visually_opened": true,
+      "text_verified": true,
+      "visual_ids": ["4.111 a–b", "4.112", "zadatak 1"],
+      "notes": ["Top example precedes complete paragraph beginning Kromatski izmjenični tonovi.", "ZADACI heading follows 4.112; zadatak 1 has two systems and concludes on this page."]
+    },
+    {
+      "printed_page": 336,
+      "pdf_page": 169,
+      "source": "sources/pages/page-336.png",
+      "visually_opened": true,
+      "text_verified": true,
+      "visual_ids": ["zadatak 2", "zadatak 3", "Realizacija zadatka 1 početak"],
+      "notes": ["Whole page checked: task 2 four rows with riten.; task 3 four rows.", "Only independent prose is Realizacija zadatka 1.; its first system lies at bottom and continues on 337."]
+    },
+    {
+      "printed_page": 337,
+      "pdf_page": 169,
+      "source": "sources/pages/page-337.png",
+      "visually_opened": true,
+      "text_verified": true,
+      "visual_ids": ["Realizacija zadatka 1 nastavak", "4.113 a–b"],
+      "notes": ["Two top systems finish realization from 336.", "Section 4.2.7 heading and three prose paragraphs checked.", "Third paragraph physically interrupted by 4.113; slot retained between 'koji' and 'uokviruju'.", "Signature line '22 Devčić: Harmonija' is printer furniture, not a footnote."]
+    },
+    {
+      "printed_page": 338,
+      "pdf_page": 170,
+      "source": "sources/pages/page-338.png",
+      "visually_opened": true,
+      "text_verified": true,
+      "visual_ids": ["4.114 a–b", "4.115", "4.116 a–b", "4.117 a–b"],
+      "notes": ["Both complete paragraphs and all four visual slots checked in print order.", "Beethoven attribution belongs to 4.115: Sonata za klavir u C-duru, op. 2 br. 3; retained as printed despite key-signature appearance.", "Bottom 4.117 inspected, not omitted."]
+    },
+    {
+      "printed_page": 339,
+      "pdf_page": 170,
+      "source": "sources/pages/page-339.png",
+      "visually_opened": true,
+      "text_verified": true,
+      "visual_ids": ["4.118 a–b", "4.119", "4.120 a–b", "4.121 a–b", "4.122 a–b", "4.123 a–b"],
+      "notes": ["Two prose paragraphs checked, including Druga varijanta.", "Haydn attribution belongs to 4.119 and prints Es-duru; not silently changed to match notation.", "Asterisk explanation 'U basu leži tonički pedalni ton »e«.' retained immediately after 4.119, before 4.120.", "Bottom 4.123 complete, including both variants."]
+    },
+    {
+      "printed_page": 340,
+      "pdf_page": 171,
+      "source": "sources/pages/page-340.png",
+      "visually_opened": true,
+      "text_verified": true,
+      "visual_ids": ["4.124", "4.125", "4.126 a–e", "4.127"],
+      "notes": ["Complete paragraph on kruženje checked.", "Printed reference 4.126.a—c retained even though following clause also separately cites b.", "Attributions preserved: Beethoven A-dur op. 2 br. 2; Chopin Preludij op. 28 br. 23; Chopin Etida op. 10 br. 6.", "Bottom numeric annotations remain part of 4.127 visual, not prose."]
+    },
+    {
+      "printed_page": 341,
+      "pdf_page": 171,
+      "source": "sources/pages/page-341.png",
+      "visually_opened": true,
+      "text_verified": true,
+      "visual_ids": ["4.128", "4.129", "4.130 a–b", "4.131"],
+      "notes": ["Asterisk note about opreka f-fis associated with 4.128.", "Bach Muka po Mateju attribution belongs to 4.129.", "Complete paragraph on an izmjenični ton's own izmjenični ton checked.", "Chopin Etida u f-molu attribution and all three explanatory notes (*, **, ***) associated with 4.131 retained in full."]
+    },
+    {
+      "printed_page": 342,
+      "pdf_page": 172,
+      "source": "sources/pages/page-342.png",
+      "visually_opened": true,
+      "text_verified": true,
+      "visual_ids": ["4.132 a–b", "4.133", "4.134 a–b"],
+      "notes": ["Two full prose paragraphs checked: avoidance of doubling seventh, and definition of Posredno rješenje zaostajalice.", "4.132 NE/DA labels recorded; 4.133 is a three-staff score without printed lyrics.", "Bottom 4.134 includes both variants and numeric annotations."]
+    },
+    {
+      "printed_page": 343,
+      "pdf_page": 172,
+      "source": "sources/pages/page-343.png",
+      "visually_opened": true,
+      "text_verified": true,
+      "visual_ids": ["4.135 a–b", "4.136 a–c", "4.137 a–f"],
+      "notes": ["Whole intervening prose paragraph checked, including nasljedna kvinta and nasljedna oktava distinction.", "4.136 ends with itd.; 4.137 occupies two systems, a–c then d–f; d bears NE."]
+    },
+    {
+      "printed_page": 344,
+      "pdf_page": 173,
+      "source": "sources/pages/page-344.png",
+      "visually_opened": true,
+      "text_verified": true,
+      "visual_ids": ["4.138 a–d", "4.139 a–e"],
+      "notes": ["Whole page inspected, including all lower prose previously absent from partial plan.", "Three complete paragraphs transcribed: variations of resolution, Šifraža, Liszt Consolation br. 2 analysis.", "Source discrepancy preserved explicitly: prose cites 4.139.d—f, but visual has only a–e and itd.; no f invented.", "Liszt analysis references 4.140 printed on next page; no dangling paragraph or omitted ending."]
+    },
+    {
+      "printed_page": 345,
+      "pdf_page": 173,
+      "source": "sources/pages/page-345.png",
+      "visually_opened": true,
+      "text_verified": true,
+      "visual_ids": ["4.140", "4.141", "4.142 a–b"],
+      "notes": ["Top 4.140 follows Liszt discussion on 344; no separately printed attribution on 345.", "Both complete prose paragraphs transcribed, including cambiata, Fux dates and French échappée explanation.", "CAMBIATA label and Marx—Bayer: Harmonielehre attribution recorded.", "Printed Francuzâ accent retained."]
+    },
+    {
+      "printed_page": 346,
+      "pdf_page": 174,
+      "source": "sources/pages/page-346.png",
+      "visually_opened": true,
+      "text_verified": true,
+      "visual_ids": ["zadatak 1", "zadatak 2", "zadatak 3", "zadatak 4", "zadatak 5"],
+      "notes": ["Whole page checked from ZADACI to bottom task 5; no prose paragraphs or footnotes.", "Each task occupies two rows. Tasks 1 and 2 include figured-bass annotations; task 5 carries Allegretto.", "All five tasks end on this page; 347 begins task 6."]
+    },
+    {
+      "printed_page": 347,
+      "pdf_page": 174,
+      "source": "sources/pages/page-347.png",
+      "visually_opened": true,
+      "text_verified": true,
+      "visual_ids": ["zadatak 6", "zadatak 7", "zadatak 8", "zadatak 9"],
+      "notes": ["Whole page checked: no prose, attribution, lyrics or footnotes.", "Tasks 6, 7, 8 have two rows apiece; task 9 three rows and meter changes.", "Task 9 ends at final barline on third row; lower blank region contains no omitted text."]
+    },
+    {
+      "printed_page": 348,
+      "pdf_page": 175,
+      "source": "sources/pages/page-348.png",
+      "visually_opened": true,
+      "text_verified": true,
+      "visual_ids": ["Realizacija zadatka 3"],
+      "notes": ["Whole page inspected, including blank lower half.", "Title, two complete score systems, and both * and ** explanations retained.", "Asterisk notes explicitly associated with brackets in second system; pitch names a, c, b, g and as transcribed as printed.", "No prose or score continuation across lower boundary."]
+    }
+  ],
+  "integration": {
+    "text_ready": true,
+    "images_extracted": false,
+    "image_review_results": "not applicable to text-only work; visual slots are source inventories, not approved crops",
+    "milestone_complete": false,
+    "earlier_shards_edited": false,
+    "shared_files_edited": false,
+    "delegation_used": false
+  }
+}

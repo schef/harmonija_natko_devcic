@@ -1,0 +1,144 @@
+{
+  "milestone": "M09",
+  "role": "text-only worker",
+  "printed_pages": [319, 333],
+  "pdf_pages_1_based": [160, 167],
+  "source_index": "sources/index.json",
+  "output": "review-candidates/book/M09/text-319-333.md",
+  "method": "Every authoritative PNG opened visually; prose transcribed and checked directly from source pixels. No embedded PDF OCR used. No crops or notation transcription produced.",
+  "text_review": "pass",
+  "image_review": "not performed; visual comments identify source material for a separate extraction/review workflow",
+  "unreadable": [],
+  "boundaries": {
+    "318/319": "Previous section file read only, not changed. Page 318 ends a complete paragraph referring to 4.67; page 319 starts 4.76, then continues 4.2.3.",
+    "319/320": "Sentence joined with source marker between još and složenijim.",
+    "322/323": "Na-/protiv dehyphenated as Naprotiv with the rest of the sentence on 323. Comment records initial syllable on 322 before visuals 4.83 and 4.84.",
+    "327/328": "os-/tvariti joined losslessly with page marker inside ostvariti.",
+    "329/330": "Exercise 5 begins on 329 and continues on 330; separate visual slots retained.",
+    "333/334": "4.2.6 begins on 333 with a complete paragraph. No page 334 source opened or transcribed. Continuation outside assigned scope explicitly marked."
+  },
+  "pages": [
+    {
+      "printed_page": 319,
+      "pdf_page": 160,
+      "source": "sources/pages/page-319.png",
+      "visually_verified": true,
+      "visual_ids": ["4.76", "4.77", "4.78", "4.79", "4.80"],
+      "notes": ["Two prose paragraphs checked; second continues onto 320.", "Variants 4.77 a–d, 4.78 a–b, 4.79 a–c and 4.80 a–d belong to their respective visual slots.", "No footnote or attribution."]
+    },
+    {
+      "printed_page": 320,
+      "pdf_page": 161,
+      "source": "sources/pages/page-320.png",
+      "visually_verified": true,
+      "visual_ids": ["4.81", "4.82"],
+      "notes": ["Opening continuation and full paragraph on rhythmic modifications checked.", "4.81 a–g and 4.82 a–k retained as visual content; 4.82 spans three systems.", "No footnote or attribution."]
+    },
+    {
+      "printed_page": 321,
+      "pdf_page": 161,
+      "source": "sources/pages/page-321.png",
+      "visually_verified": true,
+      "visual_ids": ["zadatak 1", "zadatak 2", "zadatak 3", "zadatak 4", "zadatak 5"],
+      "notes": ["ZADACI heading and all five numbered exercises verified; no prose instructions or lyrics.", "Bottom 21 Devčić: Harmonija is a printer signature, not a footnote or example attribution; excluded from body transcription."]
+    },
+    {
+      "printed_page": 322,
+      "pdf_page": 162,
+      "source": "sources/pages/page-322.png",
+      "visually_verified": true,
+      "visual_ids": ["Realizacija zadatka 4", "4.83", "4.84"],
+      "notes": ["Realization caption, heading 4.2.4 and all three prose paragraphs checked.", "Printed konsonatnoga retained without silent correction.", "4.83 a–h and 4.84 a–i (latter on two systems) belong to visuals.", "Final Na- continues as protiv on 323; dehyphenation documented."]
+    },
+    {
+      "printed_page": 323,
+      "pdf_page": 162,
+      "source": "sources/pages/page-323.png",
+      "visually_verified": true,
+      "visual_ids": ["4.85", "4.86", "4.87", "4.88"],
+      "notes": ["Opening continuation and three subsequent paragraphs checked; bold run-in Sudar izmjeničnog tona s akordičkim tonom. retained.", "4.85 a–d, 4.86 a–d, 4.87 a–f, 4.88 a–b identified.", "No footnote or attribution."]
+    },
+    {
+      "printed_page": 324,
+      "pdf_page": 163,
+      "source": "sources/pages/page-324.png",
+      "visually_verified": true,
+      "visual_ids": ["4.89", "4.90", "4.91"],
+      "notes": ["Four paragraphs checked, including all four enumerated possibilities and final reference to 4.92.d i e.", "4.89 a–h includes printed NE above g and h; these are visual labels.", "4.90 a–d and 4.91 a–d retained as visual slots.", "No footnote or attribution."]
+    },
+    {
+      "printed_page": 325,
+      "pdf_page": 163,
+      "source": "sources/pages/page-325.png",
+      "visually_verified": true,
+      "visual_ids": ["4.92", "4.93", "4.94"],
+      "notes": ["Three prose paragraphs checked; Koechlin named in prose, no separately printed attribution above 4.94.", "Preserved III dijelu, na izgled, IV stupnja and quoted tones as/es/f/g.", "4.92 has variants a–e. 4.94 lower figured-bass annotations belong to visual.", "Final paragraph refers forward to 4.95 on 326."]
+    },
+    {
+      "printed_page": 326,
+      "pdf_page": 164,
+      "source": "sources/pages/page-326.png",
+      "visually_verified": true,
+      "visual_ids": ["4.95", "4.96", "4.97", "4.98 a–c"],
+      "notes": ["Two full paragraphs checked, including quoted pokrile and decime.", "4.96 a–b includes NE/DA labels; 4.97 a–g spans two systems.", "4.98 starts here with a–c and continues on 327.", "No footnote or attribution."]
+    },
+    {
+      "printed_page": 327,
+      "pdf_page": 164,
+      "source": "sources/pages/page-327.png",
+      "visually_verified": true,
+      "visual_ids": ["4.98 d–e", "4.99", "4.100"],
+      "notes": ["Top system is continuation of 4.98, variants d and e; not a new numbered example.", "All three prose blocks checked; last paragraph continues on 328 inside ostvariti.", "Printed konsonatni interval followed by konsonantni interval sekste retained as printed.", "4.99 a–b NE/DA and 4.100 a–b labels are visual content."]
+    },
+    {
+      "printed_page": 328,
+      "pdf_page": 165,
+      "source": "sources/pages/page-328.png",
+      "visually_verified": true,
+      "visual_ids": ["4.101", "4.102", "4.103"],
+      "notes": ["Opening continuation and full next paragraph checked; bold križanje glasova retained.", "Attributions recorded in visual notes: (J. S. Bach: Koral br. 33), (J. S. Bach: Koral br. 52), (J. S. Bach: Koral br. 26).", "No footnote."]
+    },
+    {
+      "printed_page": 329,
+      "pdf_page": 165,
+      "source": "sources/pages/page-329.png",
+      "visually_verified": true,
+      "visual_ids": ["zadatak 1", "zadatak 2", "zadatak 3", "zadatak 4", "zadatak 5 početak"],
+      "notes": ["ZADACI heading and numbering checked; no prose, lyrics or attribution.", "Exercise 1 has three grand-staff systems; exercise 4 has two single-staff systems; exercise 5 continues onto 330."]
+    },
+    {
+      "printed_page": 330,
+      "pdf_page": 166,
+      "source": "sources/pages/page-330.png",
+      "visually_verified": true,
+      "visual_ids": ["zadatak 5 nastavak", "Realizacija zadatka 3"],
+      "notes": ["Top two single-staff systems complete exercise 5 from 329.", "Realization caption and heading 4.2.5 checked, followed by one full paragraph.", "Printed reference pr. 3.91.d retained, not silently changed to 4.91.d.", "Circumflex in obratâ retained; distinctions among appoggiaturas and passing/neighbour tones transcribed in full."]
+    },
+    {
+      "printed_page": 331,
+      "pdf_page": 166,
+      "source": "sources/pages/page-331.png",
+      "visually_verified": true,
+      "visual_ids": ["4.104", "4.105", "4.106"],
+      "notes": ["Two full prose paragraphs checked, including complete harmonic analysis and all tone-name quotations.", "4.104 a–d and 4.105 a–d have star markings identifying non-chord tones, not prose footnotes.", "4.106 attribution recorded: (J. S. Bach: Koral br. 13).", "Forward description of 4.107 retained on this page before that example on 332."]
+    },
+    {
+      "printed_page": 332,
+      "pdf_page": 167,
+      "source": "sources/pages/page-332.png",
+      "visually_verified": true,
+      "visual_ids": ["4.107", "zadatak 1", "zadatak 2"],
+      "notes": ["4.107 attribution recorded: (J. S. Bach: Koral br. 203).", "ZADACI heading checked; exercises 1 and 2 each occupy two grand-staff systems.", "No prose instructions or footnote."]
+    },
+    {
+      "printed_page": 333,
+      "pdf_page": 167,
+      "source": "sources/pages/page-333.png",
+      "visually_verified": true,
+      "visual_ids": ["zadatak 3", "zadatak 4", "Realizacija zadatka 3"],
+      "notes": ["Exercise 3 one single-staff system, exercise 4 two single-staff systems, realization two grand-staff systems.", "Realization caption and *) anchor checked; entire following footnote transcribed, including harmony (B: I₆), third beat of bar 4 and first beat of bar 5.", "Heading 4.2.6 and complete opening paragraph checked; continuation beyond 333 outside scope.", "Bottom library stamp excluded as non-book material."]
+    }
+  ],
+  "ready_for_integration": true,
+  "integration_scope": "Text-only candidate ready; musical-example extraction and independent image review remain separate and are not approved by this report. No shared tracker or chapter file edited."
+}

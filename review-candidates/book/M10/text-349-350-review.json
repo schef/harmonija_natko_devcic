@@ -1,0 +1,18 @@
+[
+  {
+    "printed_page": 349,
+    "pdf_page": 175,
+    "verified": true,
+    "review_role": "parent_text_agent",
+    "visuals": ["4.143", "4.144", "4.145"],
+    "notes": "Opened authoritative page-349.png and visually checked both complete prose paragraphs, section heading and references. Preserved printed wording slučajna je harmonija, što je čini and its punctuation. Dehyphenated line breaks. All three score positions remain visual slots; no unreadable prose and no image approval."
+  },
+  {
+    "printed_page": 350,
+    "pdf_page": 176,
+    "verified": true,
+    "review_role": "parent_text_agent",
+    "visuals": ["4.146", "4.147", "4.148", "4.149"],
+    "notes": "Opened authoritative page-350.png and visually verified all three body paragraphs plus the printed asterisk explanation for 4.149. Preserved sakritu oktavu, na neku dominantu and the source punctuation. Figure references and slots remain in order. The final paragraph ends on this page; no unreadable prose and no crop approvals."
+  }
+]

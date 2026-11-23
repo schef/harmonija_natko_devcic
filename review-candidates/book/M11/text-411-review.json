@@ -1,0 +1,11 @@
+[
+  {
+    "printed_page": 411,
+    "pdf_page": 206,
+    "verified": true,
+    "review_role": "parent_text_agent",
+    "visuals": [],
+    "table_entries": 29,
+    "notes": "Opened authoritative page-411.png and visually transcribed all 29 final table-of-contents entries, with every printed-page number and heading level preserved. Dehyphenated wrapped headings without dropping words or converting page references to PDF indices. Page begins with3.8 and continues earlier contents rather than a new heading. Verified the unnumbered appendices begin with Obilježavanje akorda386, terminology389, concept index393 and name index407. Excluded the library stamp and running page number; no diagram or musical example occurs here. No unreadable printed text and no crop approval."
+  }
+]

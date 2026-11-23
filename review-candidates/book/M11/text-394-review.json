@@ -1,0 +1,11 @@
+[
+  {
+    "printed_page": 394,
+    "pdf_page": 198,
+    "verified": true,
+    "review_role": "parent_text_agent",
+    "visuals": [],
+    "table_entries": 38,
+    "notes": "Opened authoritative page-394.png and visually transcribed all 38 main/subentry and cross-reference rows, preserving every printed-page reference and abbreviation. Retained the printed trailing comma after273 in dominanta dominante rather than silently repairing punctuation; preserved the complete two-line dominantna funkcija reference sequence. Dehyphenated wrapped labels, retained accented échappée and dash-prefixed e. p. subentries. Blank reference cells reflect source cross-reference-only or parent entries. No unreadable print, no musical figures omitted and no image approval."
+  }
+]

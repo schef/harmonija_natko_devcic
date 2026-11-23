@@ -1,0 +1,92 @@
+[
+  {
+    "printed_page": 369,
+    "pdf_page": 185,
+    "source_image": "sources/pages/page-369.png",
+    "verified": true,
+    "review_role": "text_only_worker",
+    "visuals": ["4.182 (nastavak)", "4.183", "4.184"],
+    "notes": "Opened authoritative PNG visually and checked all three prose paragraphs, Latin pes/pedis, bold ležećim tonom, references 4.184–4.187, and Chopin/Beethoven attributions. Top unnumbered system continues 4.182 from368; separate numbered4.183 follows. No split prose sentence at368/369. Preserved potiče and original musical terminology; dehyphenated line breaks. No unreadable prose. No images extracted or crops approved. PDF page verified from sources/index.json."
+  },
+  {
+    "printed_page": 370,
+    "pdf_page": 186,
+    "source_image": "sources/pages/page-370.png",
+    "verified": true,
+    "review_role": "text_only_worker",
+    "visuals": ["4.185", "4.186", "4.187"],
+    "notes": "Opened authoritative PNG visually. Checked Schumann Albumblätter op.124,13; R.Strauss Simfonijska pjesma Don Quichotte; Schumann Papillons op.2 attributions and star explanation Ležeći ton »as«. 4.186 has two three-staff systems, represented by one slot;4.185 and4.187 are separate scores. No other prose or unreadable text; no crop approval. PDF page checked against source index."
+  },
+  {
+    "printed_page": 371,
+    "pdf_page": 186,
+    "source_image": "sources/pages/page-371.png",
+    "verified": true,
+    "review_role": "text_only_worker",
+    "visuals": ["zadatak 1", "zadatak 2 (početak)"],
+    "notes": "Opened authoritative PNG visually, checked ZADACI heading, complete three-system exercise1 and two opening systems of exercise2. Exact Allegro, ma non troppo instruction retained before exercise2 slot. Exercise2 continues372. No body paragraph, attribution or footnote; no crop approval. PDF page from source index."
+  },
+  {
+    "printed_page": 372,
+    "pdf_page": 187,
+    "source_image": "sources/pages/page-372.png",
+    "verified": true,
+    "review_role": "text_only_worker",
+    "visuals": ["zadatak 2 (nastavak)", "zadatak 3"],
+    "notes": "Opened authoritative PNG visually and inspected entire score-only page. First two systems finish exercise2 begun371; next three systems are exercise3, ending with final barline. Separate positional slots preserve identity and order. No prose, attribution, heading, tempo instruction or explanatory footnote. No crop approval. PDF page checked from source index."
+  },
+  {
+    "printed_page": 373,
+    "pdf_page": 187,
+    "source_image": "sources/pages/page-373.png",
+    "verified": true,
+    "review_role": "text_only_worker",
+    "visuals": ["zadatak 4", "zadatak 5 (početak)"],
+    "notes": "Opened authoritative PNG visually. Exercise4 occupies four systems and has printed instruction Andantino grazioso, transcribed exactly; exercise5 begins in bottom system and continues374. No prose, attribution or footnote. Actual exercise identities and original order retained in slots; no notation synthesized and no crop approval. PDF page from source index."
+  },
+  {
+    "printed_page": 374,
+    "pdf_page": 188,
+    "source_image": "sources/pages/page-374.png",
+    "verified": true,
+    "review_role": "text_only_worker",
+    "visuals": ["zadatak 5 (nastavak)", "realizacija zadatka 1 (početak)"],
+    "notes": "Opened authoritative PNG visually. Four top systems continue and finish exercise5 from373; exact heading Realizacija zadatka 1. precedes bottom system beginning its realization. Realization continues375. No additional paragraph, tempo text, attribution or footnote. Positional slots only, no crop approval. PDF page from source index."
+  },
+  {
+    "printed_page": 375,
+    "pdf_page": 188,
+    "source_image": "sources/pages/page-375.png",
+    "verified": true,
+    "review_role": "text_only_worker",
+    "visuals": ["realizacija zadatka 1 (nastavak)"],
+    "notes": "Opened authoritative PNG visually and inspected all three systems completing realization1 begun374, with final double barline. No prose, new heading, attribution, instruction or footnote. One continuation slot; notation left to source visual. No crop approval. PDF page from source index."
+  },
+  {
+    "printed_page": 376,
+    "pdf_page": 189,
+    "source_image": "sources/pages/page-376.png",
+    "verified": true,
+    "review_role": "text_only_worker",
+    "visuals": ["4.188"],
+    "notes": "Opened authoritative PNG visually and checked exact4.6 Neki posebni aspekti neakordičkih pojava heading, complete retardation definition and continuation interrupted by4.188, Beethoven f-minor op57 attribution, and full Dvostruka harmonija paragraph. Retained two printed dashes at nego/— slično line break, documented explicitly; all remaining parenthetical dashes, I/V degrees, B-dur/g-mol and4.189 reference preserved. Line-break hyphens removed. No unreadable prose or footnote; no crop approval. PDF page from source index."
+  },
+  {
+    "printed_page": 377,
+    "pdf_page": 189,
+    "source_image": "sources/pages/page-377.png",
+    "verified": true,
+    "review_role": "text_only_worker",
+    "visuals": ["4.189", "4.190"],
+    "notes": "Opened authoritative PNG visually and compared both complete prose paragraphs, quoted pitches »h«/»d«, IV degree, kvartsekstakord/terckvartakord terminology, and Beethoven D-major op10 no3/A-major op2 no2 attributions. Each score has two systems. Final paragraph's printed I—V—I with lowered6 encoded I—V—I₆, not newly synthesized notation. Star in4.190 has no accompanying prose footnote on this page. Final paragraph references4.191 on378 without splitting sentence. No unreadable text; no crop approval. PDF page from source index."
+  },
+  {
+    "printed_page": 378,
+    "pdf_page": 190,
+    "source_image": "sources/pages/page-378.png",
+    "verified": true,
+    "review_role": "text_only_worker",
+    "visuals": ["4.191", "4.192", "4.193"],
+    "notes": "Opened authoritative PNG visually and checked both full paragraphs on double harmony/ostinato, Milhaud and Stravinski, Latin obstinatus/uporan, references4.192/4.193, and all three Beethoven/Ravel attributions. Preserved printed ostinatna figura versus later ostinantne figure inconsistency. No explanatory footnotes or unreadable prose. Boundary378/379 explicitly records complete final prose sentence and no final double barline on4.193; possible score continuation must be checked by next assigned worker, without opening379 here. No crops extracted/approved. PDF page from source index."
+  }
+]

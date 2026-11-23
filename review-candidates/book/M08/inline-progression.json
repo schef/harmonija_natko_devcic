@@ -1,0 +1,15 @@
+[
+  {
+    "id": "progresija-277",
+    "example": "Nenumerirana harmonijska progresija",
+    "kind": "diagram",
+    "printed_page": 277,
+    "pdf_page": 139,
+    "source_image": "sources/pages/page-277.png",
+    "rect": [968, 1556, 1329, 1632],
+    "image": "images/04-neakordicki-a/progresija-277.png",
+    "review_status": "pending_independent_review",
+    "review_note": "Previously missing inline progression identified from the verified text slot and source scan. Each boundary selected separately: top is the natural blank separation below preceding prose, right excludes the following comma. Preserve both stacked 6/4 and 5/3 figures and the full I–II6–V–I sequence. This crop has not been independently approved.",
+    "caption": "Nenumerirana harmonijska progresija u uvodnom odlomku o zaostajalicama. Izvor: tiskana stranica 277."
+  }
+]

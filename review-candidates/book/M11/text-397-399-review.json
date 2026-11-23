@@ -1,0 +1,29 @@
+[
+  {
+    "printed_page": 397,
+    "pdf_page": 199,
+    "verified": true,
+    "review_role": "parent_text_agent",
+    "visuals": [],
+    "table_entries": 42,
+    "notes": "Opened authoritative page-397.png and visually transcribed all 42 index main/subentry/cross-reference rows. Retained complete long dur/mol/smanjeni kvintakord and both kvintni krug reference sequences, printed genitive accents akordâ/kvintakordâ, and apparent source punctuation 166. 167 in lidijski način. Cross-references remain text with intentionally empty page cells. The modulacije parent entry continues onto398. No unreadable print or image approval."
+  },
+  {
+    "printed_page": 398,
+    "pdf_page": 200,
+    "verified": true,
+    "review_role": "parent_text_agent",
+    "visuals": [],
+    "table_entries": 29,
+    "notes": "Opened authoritative page-398.png and visually transcribed all 29 rows, including twenty continuing modulacije subentries from397. Preserved each abbreviated label, full wording where printed, every range and list reference, genitive accents, and mol-dur compound spelling. Dehyphenated all wrapped chord names without expanding source abbreviations. No unreadable text or graphical example omitted; no image approval."
+  },
+  {
+    "printed_page": 399,
+    "pdf_page": 200,
+    "verified": true,
+    "review_role": "parent_text_agent",
+    "visuals": [],
+    "table_entries": 41,
+    "notes": "Opened authoritative page-399.png and visually transcribed all 41 main/subentry/cross-reference rows. Retained the complete dominantni nonakord, notacija, obilježavanje and obrati reference sequences; preserved all printed genitive circumflexes, left-column cross-references and empty parent cells. Wrapped words are joined without dropping page values. No unreadable print or crop approval."
+  }
+]

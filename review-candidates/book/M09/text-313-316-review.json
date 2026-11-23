@@ -1,0 +1,34 @@
+[
+  {
+    "printed_page": 313,
+    "pdf_page": 157,
+    "verified": true,
+    "review_role": "parent_text_agent",
+    "visuals": ["4.65", "4.66", "4.67", "4.68"],
+    "notes": "Opened authoritative page-313.png and visually verified both body paragraphs and the printed asterisk explanation associated with 4.67. Preserved s kojim se izmjenični izmjenjuje without inserting an omitted ton. Composer attributions belong to the score crops. Source handwriting excluded from prose. No unreadable printed text; no image approval."
+  },
+  {
+    "printed_page": 314,
+    "pdf_page": 158,
+    "verified": true,
+    "review_role": "parent_text_agent",
+    "visuals": ["4.69", "4.70", "4.71"],
+    "notes": "Opened authoritative page-314.png and verified all three prose paragraphs and bold Oktave i kvinte label. Preserved unisona podvostručenja and the complete final reference sequence pr. 4.54.d i e i dalje. Footnote-like musical figures remain in visual slots rather than fabricated prose. No unreadable printed text."
+  },
+  {
+    "printed_page": 315,
+    "pdf_page": 158,
+    "verified": true,
+    "review_role": "parent_text_agent",
+    "visuals": ["zadatak 1", "zadatak 2", "zadatak 3", "zadatak 4", "zadatak 5"],
+    "notes": "Opened authoritative page-315.png and verified numbered section heading, entire body paragraph, ZADACI heading and both bass/soprano instruction labels. Examples 2 and 3 each use multiple source staff rows within one exercise slot. Heading-number spacing normalized for Markdown. No unreadable prose and no image approvals."
+  },
+  {
+    "printed_page": 316,
+    "pdf_page": 159,
+    "verified": true,
+    "review_role": "parent_text_agent",
+    "visuals": ["zadatak 6", "zadatak 7", "zadatak 8"],
+    "notes": "Opened authoritative page-316.png and inspected the full page. Transcribed the instruction Prohodni i izmjenični tonovi u raznim glasovima naizmjence. Exercise 6 has two staff rows, 7 two grand-staff systems and 8 three staff rows; each is a single complete exercise slot. No other prose, footnote or attribution is printed. Page boundary noted; crops not reviewed."
+  }
+]

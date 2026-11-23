@@ -1,0 +1,135 @@
+{
+  "milestone": "M11",
+  "role": "text-only single worker",
+  "printed_pages_assigned": [400, 410],
+  "pdf_pages_1based": [201, 206],
+  "text_file": "review-candidates/book/M11/text-400-410.md",
+  "method": "Direct visual transcription and row-by-row comparison against every assigned sources/pages/page-NNN.png. No embedded PDF OCR used. No delegation, model subprocess, API, GUI, image creation or crop.",
+  "status": "text verified; ready for parent integration",
+  "independent_review": false,
+  "count_definition": "One Markdown data row per printed logical main entry, subentry, cross-reference or contents entry; wrapped lines joined. Table headers, section headings, printed folios and binding signatures excluded.",
+  "editorial_format": "Table headings are editorial (except the source contents label str.). Bold main entries and em-dash subentries preserve index hierarchy. Numbering, bold sections and em-space indentation preserve contents hierarchy. Line-break hyphenation joined; lexical hyphens retained. Folios and binding signatures omitted as page furniture. Blank page represented only by source marker and editorial comment.",
+  "pages": [
+    {
+      "printed_page": 400,
+      "pdf_page_1based": 201,
+      "source": "sources/pages/page-400.png",
+      "visually_opened": true,
+      "all_rows_verified": true,
+      "entry_count": 45,
+      "kind": "concept index",
+      "notes": ["Starts new main entry orgelpunkt, not a continuation of organum on 399.", "Checked all page lists, cross-references and subentry parents; parallel fifths list includes wrapped final value 364.", "Ends complete prohodni kvartsekstakord cross-reference; its second printed line is joined into the same row."]
+    },
+    {
+      "printed_page": 401,
+      "pdf_page_1based": 201,
+      "source": "sources/pages/page-401.png",
+      "visually_opened": true,
+      "all_rows_verified": true,
+      "entry_count": 43,
+      "kind": "concept index",
+      "notes": ["Checked all prohodni ton, rješenje, sekstakord and sekvenca subentries and complete long lists for secondary dominants and dominant seventh.", "Preserved printed missing comma in smanjeni s.: 201 202.", "Septakord parent continues onto 402. Binding signature 26 Devčić: Harmonija is not an index row."]
+    },
+    {
+      "printed_page": 402,
+      "pdf_page_1based": 202,
+      "source": "sources/pages/page-402.png",
+      "visually_opened": true,
+      "all_rows_verified": true,
+      "entry_count": 43,
+      "kind": "concept index",
+      "notes": ["First three rows continue septakord from 401.", "Preserved printed wording s. u vođanju glasova, rather than silently changing to vođenju.", "Checked sixte ajoutée accent and all cross-references, page values and ranges.", "Final parent sudar has no page list here; its four subentries are on 403."]
+    },
+    {
+      "printed_page": 403,
+      "pdf_page_1based": 202,
+      "source": "sources/pages/page-403.png",
+      "visually_opened": true,
+      "all_rows_verified": true,
+      "entry_count": 39,
+      "kind": "concept index",
+      "notes": ["First four rows continue sudar from 402.", "Checked akordâ and kvintakordâ circumflexes under tercna srodnost; retained lexical mol-ljestvici compounds and printed »Tristan-akord« quotation marks.", "Udvajanje begins here with four subentries and continues onto 404."]
+    },
+    {
+      "printed_page": 404,
+      "pdf_page_1based": 203,
+      "source": "sources/pages/page-404.png",
+      "visually_opened": true,
+      "all_rows_verified": true,
+      "entry_count": 34,
+      "kind": "concept index",
+      "notes": ["First nine rows continue udvajanje from 403.", "Verified long vođica, zajednički akord and zaostajalica lists against source, including all wrapped values.", "Zaostajalica parent and its eleven subentries on this page continue with one further subentry on 405."]
+    },
+    {
+      "printed_page": 405,
+      "pdf_page_1based": 203,
+      "source": "sources/pages/page-405.png",
+      "visually_opened": true,
+      "all_rows_verified": true,
+      "entry_count": 5,
+      "kind": "concept index ending",
+      "notes": ["First row continues zaostajalica from 404, with range 304—305.", "Other four entries are cross-references, including printed ženski završetak — v. kadenca; not normalized to another target.", "Concept index ends here after ženski završetak."]
+    },
+    {
+      "printed_page": 406,
+      "pdf_page_1based": 204,
+      "source": "sources/pages/page-406.png",
+      "visually_opened": true,
+      "all_rows_verified": true,
+      "entry_count": 0,
+      "kind": "blank",
+      "notes": ["Source pixels are blank apart from scan specks; no printed folio, text, diagram or score. Page identity derives from assigned source sequence, not a visible printed numeral."]
+    },
+    {
+      "printed_page": 407,
+      "pdf_page_1based": 204,
+      "source": "sources/pages/page-407.png",
+      "visually_opened": true,
+      "all_rows_verified": true,
+      "entry_count": 23,
+      "kind": "name index beginning",
+      "notes": ["Printed INDEKS IMENA heading retained.", "Every name and complete page list checked visually, including long Bach, Beethoven, Chopin and Mozart lists.", "Retained source forms Dvořak, Antonín; Grieg, Edward; Dugan st., Franjo; Rimski-Korsakov, Andrej Nikolajevič; and the single combined Marx, Joseph — Bayer, Friedrich row. Did not normalize names from external knowledge.", "Final Rimski-Korsakov entry and page 234 are complete on this page."]
+    },
+    {
+      "printed_page": 408,
+      "pdf_page_1based": 205,
+      "source": "sources/pages/page-408.png",
+      "visually_opened": true,
+      "all_rows_verified": true,
+      "entry_count": 10,
+      "kind": "name index ending",
+      "notes": ["Every name and page list checked; Schumann list includes wrapped final value 370.", "Preserved printed Wagner page order 117, 270, 179, 273—274 without sorting or correcting.", "Name index ends with Webern, Anton von, page 9."]
+    },
+    {
+      "printed_page": 409,
+      "pdf_page_1based": 205,
+      "source": "sources/pages/page-409.png",
+      "visually_opened": true,
+      "all_rows_verified": true,
+      "entry_count": 32,
+      "kind": "contents beginning",
+      "notes": ["Actual SADRŽAJ boundary confirmed at 409; heading and str. column retained.", "Checked every title, section identifier, punctuation and page value from PREDGOVOR through 2.4.3. Frigijska kadenca, 79.", "Retained sekstakordâ in 2.2.7 and semicolons in 2.2 subheadings; joined long wrapped titles without omission.", "Chapter 2 hierarchy continues onto 410."]
+    },
+    {
+      "printed_page": 410,
+      "pdf_page_1based": 206,
+      "source": "sources/pages/page-410.png",
+      "visually_opened": true,
+      "all_rows_verified": true,
+      "entry_count": 38,
+      "kind": "contents continuation",
+      "notes": ["Checked every title, identifier and page value from 2.5 through 3.7.4.", "Retained printed 2.9.3. Modulacije iz mola u mol, 150, and 2.9.4. Modulacije iz mola u dur, 152, even though other book references may differ; no silent correction.", "Retained septakordâ circumflex in 2.5.4; all long 3.4–3.7 titles joined accurately.", "Final complete row 3.7.4. Rekapitulacija enharmonijskih modulacija, 254. Parent's existing text-411.md starts 3.8. Povećani sekundakord, 257; chapter 3 continues, subsection 3.7 does not. None of its 29 data rows duplicated or edited."]
+    }
+  ],
+  "total_entry_count": 312,
+  "meaningful_visual_examples": [],
+  "image_review": "not applicable: assigned pages contain indexes, contents and one blank page only; no images created or modified",
+  "illegible_material": [],
+  "boundaries": {
+    "399_400": "Complete organum entry on parent 399, followed by new orgelpunkt entry on 400. No continuing parent and no duplicate row.",
+    "410_411": "Complete 3.7.4 row on 410; new 3.8 section on parent's unchanged 411, under ongoing chapter 3. No duplicated rows."
+  },
+  "files_created": ["review-candidates/book/M11/text-400-410.md", "review-candidates/book/M11/text-400-410-review.json"],
+  "other_files_modified": [],
+  "ready_for_integration": true
+}

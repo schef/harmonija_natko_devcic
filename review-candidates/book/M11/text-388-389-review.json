@@ -1,0 +1,19 @@
+[
+  {
+    "printed_page": 388,
+    "pdf_page": 195,
+    "verified": true,
+    "review_role": "parent_text_agent",
+    "visuals": [],
+    "notes": "Opened authoritative page-388.png and confirmed blank source page apart from isolated scan specks. No printed prose, table, score or diagram omitted. No page scan is embedded as a musical example."
+  },
+  {
+    "printed_page": 389,
+    "pdf_page": 195,
+    "verified": true,
+    "review_role": "parent_text_agent",
+    "visuals": [],
+    "table_entries": 15,
+    "notes": "Opened authoritative page-389.png and visually transcribed the heading, full introduction, all 15 two-column terminology entries and printed footnote 8. Preserved language abbreviations, French accents, German umlaut and capitalization; dehyphenated line wrapping in foreign compounds. Enlarged native source details confirmed Dominantseptnonakkord and the unusual printed double-m spelling Dominantseptimmenakkord, retained without normalization. Markdown column headings are explicitly identified as editorial formatting. Table is structured text, not a full-page image. Opened page 390 to verify continuation begins with kadenca and that no entry is split across this boundary. No unreadable text; no crop approval."
+  }
+]

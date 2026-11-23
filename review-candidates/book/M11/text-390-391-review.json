@@ -1,0 +1,20 @@
+[
+  {
+    "printed_page": 390,
+    "pdf_page": 196,
+    "verified": true,
+    "review_role": "parent_text_agent",
+    "visuals": [],
+    "table_entries": 22,
+    "notes": "Opened authoritative page-390.png and visually transcribed all 22 terminology entries in correct left/right association. The source cross-reference kvintakord v. trozvuk has no foreign-translation value and its table cell is intentionally empty. Restored line-wrapped foreign words without adding translations or language variants absent in the source. Native enlarged detail confirms the unusual printed Qurstand, retained instead of silently correcting it to a standard form. Preserved trailing semicolons. No unreadable text; no image approval."
+  },
+  {
+    "printed_page": 391,
+    "pdf_page": 196,
+    "verified": true,
+    "review_role": "parent_text_agent",
+    "visuals": [],
+    "table_entries": 20,
+    "notes": "Opened authoritative page-391.png and visually transcribed all 20 two-column entries. Preserved language abbreviations, accented French words, German umlauts and printed ss spellings in übermässiger. Native enlarged source confirms Septimmenakkord with double m; retained without normalization. Dehyphenated word wrapping in foreign compounds and phrases, keeping actual compound hyphens such as demi-cadence and six-four. No reference entry or text is substituted by a page image. No unreadable text or crop approvals."
+  }
+]

@@ -1,0 +1,174 @@
+{
+  "milestone": "M08",
+  "role": "text-only",
+  "printed_pages": [277, 292],
+  "pdf_pages": [139, 147],
+  "pdf_page_numbering": "1-based; checked against sources/index.json",
+  "output": "review-candidates/book/M08/text-277-292.md",
+  "authority": "sources/pages/page-NNN.png",
+  "method": "Opened all 16 authoritative page PNGs visually and transcribed and checked prose against the printed pixels. Pixel-OCR page-283.txt consulted only as a draft cross-check; no embedded PDF OCR used. Printed line-end hyphenation removed; terminology, punctuation, references and original wording retained. Musical notation represented only by source-position visual slots.",
+  "text_status": "verified against source images by text worker",
+  "independent_review": "not performed by this worker",
+  "image_extraction": "not assigned; no images created or changed",
+  "image_review": "not assigned; no crop approvals issued",
+  "unreadable_prose": [],
+  "boundaries": {
+    "276/277": "Page 277 opens chapter 4 with a heading and a new complete paragraph, not a continued sentence. Page 276 was outside assignment and was not opened.",
+    "278/279": "Pedalni ton paragraph continues: 'nastup dotičnoga' / 'neakordičkog tona'. Page 279 contains this continuation and two further prose paragraphs; it is not blank.",
+    "284/285": "Same paragraph continues: 'po sistemu obilježavanja obratâ' / 'nonakorda'.",
+    "292/293": "Page 292 prose ends with a complete sentence, followed by examples 4.27–4.30. Page 293 was outside assignment and was not opened; no claim made about its contents."
+  },
+  "pages": [
+    {
+      "printed_page": 277,
+      "pdf_page": 139,
+      "source": "sources/pages/page-277.png",
+      "visually_opened": true,
+      "status": "text verified",
+      "visual_slots": ["nenumerirana harmonijska progresija u odlomku o zaostajalicama", "4.1 a–b"],
+      "notes": ["Chapter 4 opening heading and all four prose paragraphs verified.", "Inline Roman-numeral progression reserved as a visual rather than flattened into prose.", "References 2.42, 2.197, 2.269, 3.91, 3.149, 3.184 and 4.1.a/b retained; manuscript annotations excluded."]
+    },
+    {
+      "printed_page": 278,
+      "pdf_page": 140,
+      "source": "sources/pages/page-278.png",
+      "visually_opened": true,
+      "status": "text verified",
+      "visual_slots": ["4.1 c (nastavak)", "4.2"],
+      "notes": ["Anticipacije paragraph, full Prohodni i izmjenični tonovi paragraph and beginning of Pedalni ton paragraph verified.", "Preserved quoted note names »d« and »f« and »zadanom«; retained source wording 'olakšaju'.", "Final sentence continues on 279 after 'dotičnoga'."]
+    },
+    {
+      "printed_page": 279,
+      "pdf_page": 140,
+      "source": "sources/pages/page-279.png",
+      "visually_opened": true,
+      "status": "text verified",
+      "visual_slots": [],
+      "notes": ["Prose-only page, not blank: continuation of pedal-tone paragraph plus complete paragraphs about slučajna harmonija and the combined use of non-chord tones.", "Verified 4.1.a i b reference and final 'individualnom htijenju i zamisli izvodioca'."]
+    },
+    {
+      "printed_page": 280,
+      "pdf_page": 141,
+      "source": "sources/pages/page-280.png",
+      "visually_opened": true,
+      "status": "text verified",
+      "visual_slots": ["4.3"],
+      "notes": ["Section 4.1 heading, two long prose paragraphs and footnote 7 verified.", "Retained appoggiatura/appoggiare, Latin »contradictio in adjecto«, source 'protivrječnost' and distinction between prepared and unprepared suspensions.", "Footnote concerning indirectly prepared appoggiatura transcribed fully, including practical-use qualification."]
+    },
+    {
+      "printed_page": 281,
+      "pdf_page": 141,
+      "source": "sources/pages/page-281.png",
+      "visually_opened": true,
+      "status": "text verified",
+      "visual_slots": ["4.4", "4.5"],
+      "notes": ["Opening Šifriranje paragraph, 4.1.1 heading, preparation paragraph, duration paragraph and full onset paragraph verified.", "Preserved 4.3, 4.4.a/b, 4.5.a/b and 4.6.a/b/c references and printed bold lead-ins."]
+    },
+    {
+      "printed_page": 282,
+      "pdf_page": 142,
+      "source": "sources/pages/page-282.png",
+      "visually_opened": true,
+      "status": "text verified",
+      "visual_slots": ["4.6", "4.7", "4.8", "4.9"],
+      "notes": ["Both prose paragraphs verified, including conditions on doubling below a suspension and the dominant-sixth-chord exception.", "Cross-reference to section 4.1.6 and references to 4.10.a/b/c retained; notation and handwritten analyses not converted into prose."]
+    },
+    {
+      "printed_page": 283,
+      "pdf_page": 142,
+      "source": "sources/pages/page-283.png",
+      "visually_opened": true,
+      "status": "text verified",
+      "visual_slots": ["4.10", "4.11", "4.12", "4.13"],
+      "notes": ["Three prose paragraphs verified: successive octaves/fifths, chord changes on resolution, and failed avoidance of successive/hidden octaves.", "Printed reference 2.213.d—t retained, not silently corrected; pixel-OCR draft consulted as a secondary cross-check only.", "Retained source 'sakrita oktava' and plural harmonijâ."]
+    },
+    {
+      "printed_page": 284,
+      "pdf_page": 143,
+      "source": "sources/pages/page-284.png",
+      "visually_opened": true,
+      "status": "text verified",
+      "visual_slots": ["4.14", "4.15", "4.16"],
+      "notes": ["Bach paragraph, section 4.1.2 heading and beginning of its first paragraph verified.", "Source quote »škripca« and references to 4.14–4.17 retained.", "Composer/work attributions belong to the example slots (Bach chorales 15, 74, 136), not separate prose paragraphs.", "Paragraph continues onto 285 after 'obratâ'."]
+    },
+    {
+      "printed_page": 285,
+      "pdf_page": 143,
+      "source": "sources/pages/page-285.png",
+      "visually_opened": true,
+      "status": "text verified",
+      "visual_slots": ["4.17", "4.18"],
+      "notes": ["Continuation beginning 'nonakorda' and full explanation of root suspension in bass verified.", "Short paragraph about inversions verified, including printed reference punctuation '4.18. i 4.19'.", "All lettered notation remains in visual slots rather than prose."]
+    },
+    {
+      "printed_page": 286,
+      "pdf_page": 144,
+      "source": "sources/pages/page-286.png",
+      "visually_opened": true,
+      "status": "text verified",
+      "visual_slots": ["4.19", "4.20", "4.21 a–c"],
+      "notes": ["Asterisk explanation under 4.19 transcribed fully: added figure 8 distinguishes suspension figuring from the fifth-sixth chord.", "Complete paragraph extending the procedure to diminished and augmented triads verified, including prohibition on doubled leading note or diminished fifth.", "Example 4.21 continues on 287."]
+    },
+    {
+      "printed_page": 287,
+      "pdf_page": 144,
+      "source": "sources/pages/page-287.png",
+      "visually_opened": true,
+      "status": "text verified",
+      "visual_slots": ["4.21 d–f (nastavak)", "zadatak 1", "zadatak 2", "zadatak 3 (početak)"],
+      "notes": ["Only prose heading is ZADACI; no explanatory prose or instructions omitted.", "Top system continues 4.21 with d/e/f; exercise 1 spans four systems, exercise 2 two systems, exercise 3 starts at bottom and continues on 288."]
+    },
+    {
+      "printed_page": 288,
+      "pdf_page": 145,
+      "source": "sources/pages/page-288.png",
+      "visually_opened": true,
+      "status": "text verified (notation-only page)",
+      "visual_slots": ["zadatak 3 (nastavak)", "zadatak 4", "zadatak 5", "zadatak 6", "zadatak 7", "zadatak 8"],
+      "notes": ["No body prose, headings or footnotes present.", "First two systems finish exercise 3; exercise 4 spans four systems, 5 and 6 one each, 7 two, 8 one. All assigned visual identifiers reserved in order."]
+    },
+    {
+      "printed_page": 289,
+      "pdf_page": 145,
+      "source": "sources/pages/page-289.png",
+      "visually_opened": true,
+      "status": "text verified",
+      "visual_slots": ["zadatak 9", "zadatak 10", "zadatak 11", "zadatak 12", "zadatak 13", "Realizacija zadatka 9 (početak)"],
+      "notes": ["Printed prose label 'Realizacija zadatka 9.' transcribed exactly.", "Exercises 9–13 and first realization system reserved; realization continues on 290.", "Performance directions rit. and a tempo remain in the score visual; bottom printer signature '19 Devčić: Harmonija' is not body prose and excluded."]
+    },
+    {
+      "printed_page": 290,
+      "pdf_page": 146,
+      "source": "sources/pages/page-290.png",
+      "visually_opened": true,
+      "status": "text verified",
+      "visual_slots": ["Realizacija zadatka 9 (nastavak)", "4.22"],
+      "notes": ["Two upper systems finish realization 9; section 4.1.3 heading, full dominant-seventh paragraph and final reference paragraph verified.", "Preserved source distinction between chromatic chord change and a true suspension; VII reference retained.", "Last paragraph points to examples 4.23 — 4.25 on following page."]
+    },
+    {
+      "printed_page": 291,
+      "pdf_page": 146,
+      "source": "sources/pages/page-291.png",
+      "visually_opened": true,
+      "status": "text verified",
+      "visual_slots": ["4.23", "4.24", "4.25", "4.26"],
+      "notes": ["One complete prose paragraph between 4.25 and 4.26 verified: inner-voice seventh rising on resolution is treated as a neighbour tone, unlike delayed downward resolution in 4.26.b.", "Handwritten material excluded; printed references and 'nadolje' retained."]
+    },
+    {
+      "printed_page": 292,
+      "pdf_page": 147,
+      "source": "sources/pages/page-292.png",
+      "visually_opened": true,
+      "status": "text verified",
+      "visual_slots": ["4.27", "4.28", "4.29", "4.30"],
+      "notes": ["Opening paragraph transcribed completely, including peteroglasje, complete nonachord and obtaining četveroglasje by omitting one voice.", "All four examples reserved in source order; bracketed score voices remain in visuals.", "No trailing unfinished prose sentence; explicit boundary note records that 293 was outside this task."]
+    }
+  ],
+  "ready_for_text_integration": true,
+  "milestone_complete": false,
+  "integration_notes": [
+    "Text handoff only; visual slots require parent integration with separately extracted and independently reviewed score crops.",
+    "No crop pass/recrop decisions are asserted here.",
+    "Only the two assigned text files were created or changed; no chapter, image, milestone tracker, commit or push operations."
+  ]
+}

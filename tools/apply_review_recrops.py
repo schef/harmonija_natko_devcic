@@ -22,12 +22,14 @@ def load_records(path):
     raise ValueError(f"No record list found in {path}")
 
 
-def apply(milestone, batch=None):
+def apply(milestone, batch=None, manifest_name=None):
     folder = ROOT / "review-candidates/book" / milestone
     if batch is not None and not re.fullmatch(r"\d{3}-\d{3}", batch):
         raise ValueError("Batch must look like 101-118")
     suffix = f"-{batch}" if batch else ""
-    records = load_records(folder / f"images{suffix}.json")
+    if manifest_name is not None and (Path(manifest_name).name != manifest_name or not manifest_name.endswith(".json")):
+        raise ValueError("Manifest override must name a JSON file in the milestone folder")
+    records = load_records(folder / (manifest_name or f"images{suffix}.json"))
     reviews = {row["id"]: row for row in load_records(folder / f"visual-review{suffix}.json")}
     source_pages = {
         page["image"]: page
@@ -66,7 +68,11 @@ def apply(milestone, batch=None):
             row["rect"] = rect
             row["review_status"] = "pending_recrop_review"
         elif review["decision"] == "PASS":
-            row["review_status"] = "independent_pass"
+            if review.get("source_limited"):
+                row["crop_review_status"] = "independent_pass"
+                row["review_status"] = "source_damage"
+            else:
+                row["review_status"] = "independent_pass"
         else:
             row["review_status"] = "source_limited" if review.get("source_limited") else "recrop_required"
         corrected.append(row)
@@ -80,8 +86,9 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("milestone", choices=[f"M{number:02}" for number in range(2, 12)])
     parser.add_argument("--batch", help="Optional printed-page shard, for example 101-118")
+    parser.add_argument("--manifest", help="Optional milestone-local input JSON, for example images-complete.json")
     args = parser.parse_args()
-    apply(args.milestone, args.batch)
+    apply(args.milestone, args.batch, args.manifest)
 
 
 if __name__ == "__main__":

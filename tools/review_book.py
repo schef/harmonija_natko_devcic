@@ -29,7 +29,7 @@ img{max-width:100%;height:auto} .pane img.full{max-width:none}
 <button id="prev">← Previous</button><button id="next">Next →</button>
 <button data-choice="accept">Accept</button><button data-choice="recrop">Needs recrop</button>
 <button data-choice="cleanup">Needs GIMP cleanup</button><button data-choice="reject">Reject</button>
-<label>View <select id="status-filter"><option value="independent_pass">Independently passed — confirm</option><option value="cleanup_required">Cleanup required</option><option value="pending_independent_review">Independent review pending</option><option value="all">All prepared images</option></select></label>
+<label>View <select id="status-filter"><option value="independent_pass">Independently passed — confirm</option><option value="cleanup_required">Cleanup required</option><option value="source_damage">Damaged or uncertain source notation</option><option value="pending_independent_review">Independent review pending</option><option value="all">All prepared images</option></select></label>
 <label><input type="checkbox" id="pending" checked>Undecided only</label>
 <label><input type="checkbox" id="full">Native-resolution images</label>
 <input id="note" placeholder="Optional review note"><span id="saved"></span></header>

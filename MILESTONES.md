@@ -33,8 +33,9 @@ the user has approved it or that transcription uncertainties have been resolved.
 
 Concurrency constraint: **at most one subagent may run at a time**, with no nested
 delegation or model subprocesses. Complete and checkpoint one bounded batch before
-starting the next. Check reported Codex limits between batches and stop at 50%
-remaining in an active-account usage window (or earlier if a quota blocks work).
+starting the next. The user resumed work on 2026-11-22 with a new cutoff:
+check reported Codex limits between batches and stop at **20% weekly allowance
+remaining on the active account** (or earlier if a quota blocks work).
 
 ### Current unattended-preparation checkpoint
 
@@ -45,26 +46,42 @@ remaining in an active-account usage window (or earlier if a quota blocks work).
 | M04, printed 137–174 / PDF 69–88 | All 38 pages verified and provisionally integrated, including blank page 174 | 128 parts: 107 pass, 21 cleanup required | Human confirmation, handwriting/layout cleanup, full-section preview |
 | M05, printed 175–206 / PDF 88–104 | All 32 pages verified and provisionally integrated | 104 parts: 66 pass, 38 cleanup required | Human confirmation, handwriting/layout cleanup, full-section preview |
 | M06, printed 207–256 / PDF 104–129 | All 50 pages verified and provisionally integrated | 169 parts: 142 pass, 27 cleanup required | Human confirmation, handwriting/layout cleanup, full-section preview |
-| M07, printed 257–276 / PDF 129–139 | All 20 pages verified in the text shard; not yet chapter-integrated | 57 source-only crops prepared, all pending independent review | Independent review, corrections and integration before confirmation |
+| M07, printed 257–276 / PDF 129–139 | All 20 pages verified and provisionally integrated | 57 parts: 40 pass, 17 cleanup required | Human confirmation, handwriting/layout cleanup, full-section preview |
+| M08, printed 277–308 / PDF 139–155 | All 32 pages verified and provisionally integrated | 105 parts: 81 pass, 22 cleanup required, 2 damaged-source holds | Human confirmation, cleanup, source-notation decisions and full-section preview |
+| M09, printed 309–348 / PDF 155–175 | All 40 pages verified and provisionally integrated | 134 parts: 111 pass, 23 manual-review/cleanup holds | Human confirmation, handwriting/layout cleanup and full-section preview |
+| M10, printed 349–378 / PDF 175–190 | All 30 pages verified and provisionally integrated | 86 parts: 80 pass, 5 cleanup required, 1 damaged-source hold | Human confirmation, manual/source-notation decisions and full-section preview |
 
-The consolidated queue currently contains these **837 newly prepared parts**:
-522 independently passing crops, 258 explicitly blocked cleanup cases, and
-57 crops still awaiting independent review. The local viewer defaults to the
+| M11, printed 379–411 / PDF 190–206 | All 33 pages verified and provisionally integrated; structured reference tables preserved | 44 parts: 36 pass, 8 layout holds | Human confirmation, manual layout decisions and final proofreading |
+
+The consolidated queue currently contains these **1,206 newly prepared parts**:
+870 independently passing crops, 333 explicitly blocked cleanup cases, and
+three damaged-source notation holds that are not approved.
+No image in this integrated queue remains pending independent review.
+The local viewer defaults to the
 independently passed images for confirmation; cleanup and pending-review cases
 have separate views and are never presented as approved.
 It excludes the previously reviewed material through printed page 46 and is
 not a claim of whole-book completion. Start local confirmation with
 `python tools/review_book.py`; decisions are saved separately from source crops.
-Detailed hand-offs are under `review-candidates/book/M02/` through `M07/`.
+Detailed hand-offs are under `review-candidates/book/M02/` through `M11/`.
 Original source crops and extraction manifests are preserved. M03's final shard
 has 35 corrected PDF references, checked against `sources/index.json`.
 
-**Paused at the usage guard:** active-account weekly allowance was 51% remaining
-at the last check. No further subagent was started, to avoid crossing the user's
-50%-remaining cutoff. Resume with independent review of M07's
-`review-candidates/book/M07/images.json` (57 records), then integrate the verified
-`text-257-276.md`. M08–M11 remain incomplete; earlier partial assets are preserved
-but have not been promoted to reviewed chapter content.
+**Resumed 2026-11-22:** the previous checkpoint paused at 51% weekly allowance
+remaining under the former 50% cutoff. The resumption check reported 69% weekly
+remaining, and the user authorized continuing to 20% remaining. M07's 57
+records are now independently reviewed and provisionally integrated, including
+four separately corrected and re-reviewed crops. M08 is now provisionally
+integrated through printed page 308, including its two newly identified inline
+graphics and explicit source-damage holds on pages 290 and 295.
+M09 printed 309–348 / PDF 155–175 is now fully provisionally integrated, with
+134 independently reviewed image parts. M10 is now provisionally integrated
+through page 378, with 80 approved crops, five cleanup cases and a source-damage
+hold on 4.173. M11 is now provisionally integrated in the recap and appendices,
+with all 33 pages and 44 visual parts accounted for. **Preparation coverage is
+complete through printed page 411.** No further extraction is queued; all provisional milestones still
+require their documented manual/final review work before completion.
+Earlier partial assets are preserved but not silently promoted to reviewed content.
 
 | Status | Job | Scope | Printed pages | PDF pages | Output |
 | --- | --- | --- | --- | --- | --- |

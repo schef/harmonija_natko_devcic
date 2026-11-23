@@ -1,0 +1,1674 @@
+[
+  {
+    "id": "M11-primjer-5-1",
+    "example": "1",
+    "kind": "score",
+    "printed_page": 379,
+    "pdf_page": 190,
+    "source_image": "sources/pages/page-379.png",
+    "rect": [
+      201,
+      1326,
+      1726,
+      1859
+    ],
+    "image": "images/05-rekapitulacija/primjer-5-1.png",
+    "review_status": "independent_pass",
+    "review_note": "Source-exact crop. Printed 1, all three systems, accidentals, slurs, final rest and barline retained. All four edges clean with genuine source whitespace; no prose or page number.",
+    "caption": "Zadatak 1.",
+    "original_image": "images/05-rekapitulacija/primjer-5-1.png",
+    "original_rect": [
+      201,
+      1326,
+      1726,
+      1859
+    ],
+    "slot_index": 1,
+    "source_damage": null,
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/05-rekapitulacija.md",
+    "source_marker": "<!-- visual: zadatak 1; page 379 -->",
+    "integration_anchor": "m11-slot-01",
+    "decoded_rgb_sha256": "f8811188625c99b199f2bd442d2dfef29092b825c9400e46012dd303dc3b287c",
+    "decoded_size": [
+      1525,
+      533
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": true
+  },
+  {
+    "id": "M11-primjer-5-2",
+    "example": "2",
+    "kind": "score",
+    "printed_page": 379,
+    "pdf_page": 190,
+    "source_image": "sources/pages/page-379.png",
+    "rect": [
+      203,
+      1906,
+      1726,
+      2418
+    ],
+    "image": "images/05-rekapitulacija/primjer-5-2.png",
+    "review_status": "independent_pass",
+    "review_note": "Source-exact crop. Printed 2, all three systems, riten. dotted extension, lowest final whole note and final barline retained. Four clean edges and source margins; page 379 excluded.",
+    "caption": "Zadatak 2.",
+    "original_image": "images/05-rekapitulacija/primjer-5-2.png",
+    "original_rect": [
+      203,
+      1906,
+      1726,
+      2418
+    ],
+    "slot_index": 2,
+    "source_damage": null,
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/05-rekapitulacija.md",
+    "source_marker": "<!-- visual: zadatak 2; page 379 -->",
+    "integration_anchor": "m11-slot-02",
+    "decoded_rgb_sha256": "50caa3b222539ae4804e171381e9a3741748b2237d03e55b9817ba850f3166aa",
+    "decoded_size": [
+      1523,
+      512
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": true
+  },
+  {
+    "id": "M11-primjer-5-3",
+    "example": "3",
+    "kind": "score",
+    "printed_page": 380,
+    "pdf_page": 191,
+    "source_image": "sources/pages/page-380.png",
+    "rect": [
+      177,
+      127,
+      1704,
+      656
+    ],
+    "image": "images/05-rekapitulacija/primjer-5-3.png",
+    "review_status": "independent_pass",
+    "review_note": "Source-exact crop. Printed 3, three systems, upper ledger notes and sharps, low ledger note, both lower final ties and final barline retained. Four clean edges; isolated scan specks are not coherent foreign notation.",
+    "caption": "Zadatak 3.",
+    "original_image": "images/05-rekapitulacija/primjer-5-3.png",
+    "original_rect": [
+      177,
+      127,
+      1704,
+      656
+    ],
+    "slot_index": 3,
+    "source_damage": null,
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/05-rekapitulacija.md",
+    "source_marker": "<!-- visual: zadatak 3; page 380 -->",
+    "integration_anchor": "m11-slot-03",
+    "decoded_rgb_sha256": "b1155c4a89c3b67c3665300fc07d1270c754789af23e59f3eb5d3fc35fb504cc",
+    "decoded_size": [
+      1527,
+      529
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": true
+  },
+  {
+    "id": "M11-primjer-5-4",
+    "example": "4",
+    "kind": "score",
+    "printed_page": 380,
+    "pdf_page": 191,
+    "source_image": "sources/pages/page-380.png",
+    "rect": [
+      177,
+      668,
+      1699,
+      1231
+    ],
+    "image": "images/05-rekapitulacija/primjer-5-4.png",
+    "review_status": "independent_pass",
+    "review_note": "Source-exact crop. Printed 4, three systems, highest flats/ledger notes, lowest penultimate ledger note, final note and barline complete. All four edges retain feasible clean source margins.",
+    "caption": "Zadatak 4.",
+    "original_image": "images/05-rekapitulacija/primjer-5-4.png",
+    "original_rect": [
+      177,
+      668,
+      1699,
+      1231
+    ],
+    "slot_index": 4,
+    "source_damage": null,
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/05-rekapitulacija.md",
+    "source_marker": "<!-- visual: zadatak 4; page 380 -->",
+    "integration_anchor": "m11-slot-04",
+    "decoded_rgb_sha256": "0577dca8696ffd2260136f9d9f61b666818f93e1288e38b340f4a16094d3a5a5",
+    "decoded_size": [
+      1522,
+      563
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": true
+  },
+  {
+    "id": "M11-primjer-5-5",
+    "example": "5",
+    "kind": "score",
+    "printed_page": 380,
+    "pdf_page": 191,
+    "source_image": "sources/pages/page-380.png",
+    "rect": [
+      174,
+      1263,
+      1696,
+      1806
+    ],
+    "image": "images/05-rekapitulacija/primjer-5-5.png",
+    "review_status": "independent_pass",
+    "review_note": "Source-exact crop. Printed 5, three systems, accidentals, lower ties, final rest and barline complete. Four clean edges and original whitespace; no adjacent exercise.",
+    "caption": "Zadatak 5.",
+    "original_image": "images/05-rekapitulacija/primjer-5-5.png",
+    "original_rect": [
+      174,
+      1263,
+      1696,
+      1806
+    ],
+    "slot_index": 5,
+    "source_damage": null,
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/05-rekapitulacija.md",
+    "source_marker": "<!-- visual: zadatak 5; page 380 -->",
+    "integration_anchor": "m11-slot-05",
+    "decoded_rgb_sha256": "4440e616766a7fec1dd77f042db091942b51072c8e416bf83c4688ca1ce0d737",
+    "decoded_size": [
+      1522,
+      543
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": true
+  },
+  {
+    "id": "M11-primjer-5-6",
+    "example": "6",
+    "kind": "score",
+    "printed_page": 380,
+    "pdf_page": 191,
+    "source_image": "sources/pages/page-380.png",
+    "rect": [
+      164,
+      1810,
+      1694,
+      2393
+    ],
+    "image": "images/05-rekapitulacija/recrops/primjer-5-6.png",
+    "review_status": "independent_pass",
+    "review_note": "Independently reopened the corrected complete crop and authoritative source page. Exact decoded RGB pixel equality with the declared source rectangle, dimensions 1530 x 583. Printed exercise 6, all three systems, clefs, key/time signatures, all accidentals including the complete high flat in system 1 final measure, notes, stems, beams, slurs/ties, staff ends and final barline are retained. The high-flat source detail was also reread at 4x enlargement and its source-pixel provenance revalidated. All four crop edges inspected at native resolution: genuine feasible source whitespace, no clipped notation, adjacent exercise, page number, prose or coherent foreign partial ink. Printed page 380 maps to PDF source page 191, 1-based. Approval applies only to this corrected image; the other eight source-layout cases remain blocked.",
+    "caption": "Zadatak 6.",
+    "original_image": "images/05-rekapitulacija/primjer-5-6.png",
+    "original_rect": [
+      164,
+      1825,
+      1694,
+      2393
+    ],
+    "slot_index": 6,
+    "source_damage": null,
+    "review_evidence": "review-candidates/book/M11/recrop-review.json",
+    "integration_output": "chapters/05-rekapitulacija.md",
+    "source_marker": "<!-- visual: zadatak 6; page 380 -->",
+    "integration_anchor": "m11-slot-06",
+    "decoded_rgb_sha256": "9f14204006e99e8c3680a81ab0fa2f9027975f3bf805b1c430bc9ac2248ee79d",
+    "decoded_size": [
+      1530,
+      583
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": true
+  },
+  {
+    "id": "M11-primjer-5-7",
+    "example": "7",
+    "kind": "score",
+    "printed_page": 381,
+    "pdf_page": 191,
+    "source_image": "sources/pages/page-381.png",
+    "rect": [
+      208,
+      136,
+      1732,
+      672
+    ],
+    "image": "images/05-rekapitulacija/primjer-5-7.png",
+    "review_status": "independent_pass",
+    "review_note": "Source-exact crop. Printed 7, three systems, all accidentals and upper/lower slurs, lowest sharp and final barline complete. Four clean edges with original whitespace.",
+    "caption": "Zadatak 7.",
+    "original_image": "images/05-rekapitulacija/primjer-5-7.png",
+    "original_rect": [
+      208,
+      136,
+      1732,
+      672
+    ],
+    "slot_index": 7,
+    "source_damage": null,
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/05-rekapitulacija.md",
+    "source_marker": "<!-- visual: zadatak 7; page 381 -->",
+    "integration_anchor": "m11-slot-07",
+    "decoded_rgb_sha256": "17ff71cbd395a076674422299b1dc90c0f2e330d6632c19ab2a6c66207596b7d",
+    "decoded_size": [
+      1524,
+      536
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": true
+  },
+  {
+    "id": "M11-primjer-5-8",
+    "example": "8",
+    "kind": "score",
+    "printed_page": 381,
+    "pdf_page": 191,
+    "source_image": "sources/pages/page-381.png",
+    "rect": [
+      212,
+      694,
+      1733,
+      1273
+    ],
+    "image": "images/05-rekapitulacija/primjer-5-8.png",
+    "review_status": "independent_pass",
+    "review_note": "Source-exact crop. Printed 8, three systems, high flat, parenthesized accidental, both low whole notes and lower ties complete. All staff ends and four clean source margins retained.",
+    "caption": "Zadatak 8.",
+    "original_image": "images/05-rekapitulacija/primjer-5-8.png",
+    "original_rect": [
+      212,
+      694,
+      1733,
+      1273
+    ],
+    "slot_index": 8,
+    "source_damage": null,
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/05-rekapitulacija.md",
+    "source_marker": "<!-- visual: zadatak 8; page 381 -->",
+    "integration_anchor": "m11-slot-08",
+    "decoded_rgb_sha256": "8ed2193e96de1b9b2f16a4c9856f62ea1afb2137ac8c85393099c6dff634243c",
+    "decoded_size": [
+      1521,
+      579
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": true
+  },
+  {
+    "id": "M11-primjer-5-9",
+    "example": "9",
+    "kind": "score",
+    "printed_page": 381,
+    "pdf_page": 191,
+    "source_image": "sources/pages/page-381.png",
+    "rect": [
+      210,
+      1276,
+      1733,
+      1843
+    ],
+    "image": "images/05-rekapitulacija/primjer-5-9.png",
+    "review_status": "cleanup_required",
+    "review_note": "Bottom edge contains coherent upper portions of the following exercise 10 title Andantino. Exercise 9's low ending slurs occupy the same vertical band elsewhere across the width. Raising the bottom would clip those slurs; moving a side would lose exercise content. No safe single source rectangle certified. Printed 9 and remaining notation otherwise present; requires a separately reviewed source-only multipart solution, not erasure.",
+    "caption": "Zadatak 9.",
+    "original_image": "images/05-rekapitulacija/primjer-5-9.png",
+    "original_rect": [
+      210,
+      1276,
+      1733,
+      1843
+    ],
+    "slot_index": 9,
+    "source_damage": "Source-layout cleanup required: exercise 10 title Andantino overlaps the vertical range of the final lower slur of exercise 9. Existing rectangle retains partial foreign title. Do not clip the slur.",
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/05-rekapitulacija.md",
+    "source_marker": "<!-- visual: zadatak 9; page 381 -->",
+    "integration_anchor": "m11-slot-09",
+    "decoded_rgb_sha256": "4854f55502ded7e060258d4c1c578c5b125319cecde981f3034707c2463af80c",
+    "decoded_size": [
+      1523,
+      567
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": false
+  },
+  {
+    "id": "M11-primjer-5-10-part-1",
+    "example": "10",
+    "kind": "score",
+    "printed_page": 381,
+    "pdf_page": 191,
+    "source_image": "sources/pages/page-381.png",
+    "rect": [
+      204,
+      1819,
+      1734,
+      2415
+    ],
+    "image": "images/05-rekapitulacija/primjer-5-10-part-1.png",
+    "review_status": "cleanup_required",
+    "review_note": "Top contains cut-off low slurs/accidental from exercise 9, while Andantino genuinely belongs to exercise 10 and must remain. Their vertical ranges overlap. No safe full-width rectangle certified. Printed 10 and three systems retained; continuation pairing is correct, but this first part is not clean.",
+    "caption": "Zadatak 10., prvi dio.",
+    "original_image": "images/05-rekapitulacija/primjer-5-10-part-1.png",
+    "original_rect": [
+      204,
+      1819,
+      1734,
+      2415
+    ],
+    "slot_index": 10,
+    "source_damage": "Source-layout cleanup required: Andantino belongs here, but neighboring exercise 9 lower slur intrudes at upper right. A single full-width rectangle cannot exclude it while retaining this title.",
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/05-rekapitulacija.md",
+    "source_marker": "<!-- visual: zadatak 10 (početak, Andantino); page 381 -->",
+    "integration_anchor": "m11-slot-10",
+    "decoded_rgb_sha256": "10888cc7b75e3fab6824f9df59b5033864bafb67ecaeb9934853ef8917069ca5",
+    "decoded_size": [
+      1530,
+      596
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": false
+  },
+  {
+    "id": "M11-primjer-5-10-part-2",
+    "example": "10",
+    "kind": "score",
+    "printed_page": 382,
+    "pdf_page": 192,
+    "source_image": "sources/pages/page-382.png",
+    "rect": [
+      169,
+      116,
+      1693,
+      287
+    ],
+    "image": "images/05-rekapitulacija/primjer-5-10-part-2.png",
+    "review_status": "independent_pass",
+    "review_note": "Source-exact final continuation system of exercise 10; upper slur, all notes and final barline complete, four clean edges and feasible source margins. No repeated number is printed here: first-part number plus continuation caption is correct; do not fabricate 10.",
+    "caption": "Zadatak 10., nastavak sa str. 381.",
+    "original_image": "images/05-rekapitulacija/primjer-5-10-part-2.png",
+    "original_rect": [
+      169,
+      116,
+      1693,
+      287
+    ],
+    "slot_index": 11,
+    "source_damage": null,
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/05-rekapitulacija.md",
+    "source_marker": "<!-- visual: zadatak 10 (nastavak); page 382 -->",
+    "integration_anchor": "m11-slot-11",
+    "decoded_rgb_sha256": "f8c6174e8ee8fa7896669f8a4c84fcf61b3199804634c7d351d9b64bfecb4596",
+    "decoded_size": [
+      1524,
+      171
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": true
+  },
+  {
+    "id": "M11-primjer-5-11",
+    "example": "11",
+    "kind": "score",
+    "printed_page": 382,
+    "pdf_page": 192,
+    "source_image": "sources/pages/page-382.png",
+    "rect": [
+      164,
+      325,
+      1696,
+      1130
+    ],
+    "image": "images/05-rekapitulacija/primjer-5-11.png",
+    "review_status": "cleanup_required",
+    "review_note": "Contains unrelated Risoluto title of exercise 12 at lower left. The genuine final reduction, its low beams and closing chord of exercise 11 extend into the same vertical band at right. Removing the title by a straight bottom crop would remove the reduction. No safe single rectangle certified. Printed 11 and four main systems are otherwise intact.",
+    "caption": "Zadatak 11.",
+    "original_image": "images/05-rekapitulacija/primjer-5-11.png",
+    "original_rect": [
+      164,
+      325,
+      1696,
+      1130
+    ],
+    "slot_index": 12,
+    "source_damage": "Source-layout cleanup required: low ending reduction of exercise 11 extends below the adjacent Risoluto title of exercise 12. Existing rectangle contains that unrelated title; do not clip reduction.",
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/05-rekapitulacija.md",
+    "source_marker": "<!-- visual: zadatak 11; page 382 -->",
+    "integration_anchor": "m11-slot-12",
+    "decoded_rgb_sha256": "180550c025c23d43257247b53f924f0633e2d1890a8378dd4a032bbd378af3b8",
+    "decoded_size": [
+      1532,
+      805
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": false
+  },
+  {
+    "id": "M11-primjer-5-12",
+    "example": "12",
+    "kind": "score",
+    "printed_page": 382,
+    "pdf_page": 192,
+    "source_image": "sources/pages/page-382.png",
+    "rect": [
+      156,
+      1080,
+      1685,
+      2038
+    ],
+    "image": "images/05-rekapitulacija/primjer-5-12.png",
+    "review_status": "cleanup_required",
+    "review_note": "Top-right edge retains cut-off reduction/beams and chord belonging to exercise 11. Risoluto belongs to exercise 12 at top left and cannot be discarded. No safe single rectangle certified because the two occupy the same vertical range. Printed 12, five systems, riten. and low ending sharp otherwise retained.",
+    "caption": "Zadatak 12.",
+    "original_image": "images/05-rekapitulacija/primjer-5-12.png",
+    "original_rect": [
+      156,
+      1080,
+      1685,
+      2038
+    ],
+    "slot_index": 13,
+    "source_damage": "Source-layout cleanup required: Risoluto belongs here, but exercise 11 lower reduction intrudes at upper right. Do not remove the title to hide this conflict.",
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/05-rekapitulacija.md",
+    "source_marker": "<!-- visual: zadatak 12 (Risoluto); page 382 -->",
+    "integration_anchor": "m11-slot-13",
+    "decoded_rgb_sha256": "9a497a580a016c92a3a28d8d4abb1df4070afd0e761e9ea220b476e8d2bcdeba",
+    "decoded_size": [
+      1529,
+      958
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": false
+  },
+  {
+    "id": "M11-primjer-5-13-part-1",
+    "example": "13",
+    "kind": "score",
+    "printed_page": 382,
+    "pdf_page": 192,
+    "source_image": "sources/pages/page-382.png",
+    "rect": [
+      154,
+      2048,
+      1682,
+      2411
+    ],
+    "image": "images/05-rekapitulacija/primjer-5-13-part-1.png",
+    "review_status": "independent_pass",
+    "review_note": "Source-exact crop. Printed 13 and first two systems, all slurs, lowest clef tail and final sharp retained. Four edges clean; page 382 below left excluded without clipping notation. Correctly continues on page 383.",
+    "caption": "Zadatak 13., prvi dio.",
+    "original_image": "images/05-rekapitulacija/primjer-5-13-part-1.png",
+    "original_rect": [
+      154,
+      2048,
+      1682,
+      2411
+    ],
+    "slot_index": 14,
+    "source_damage": null,
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/05-rekapitulacija.md",
+    "source_marker": "<!-- visual: zadatak 13 (početak); page 382 -->",
+    "integration_anchor": "m11-slot-14",
+    "decoded_rgb_sha256": "2958fd955738f75666a41a0c1eea9aee5cc34169d92313414de62341e2c24c28",
+    "decoded_size": [
+      1528,
+      363
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": true
+  },
+  {
+    "id": "M11-primjer-5-13-part-2",
+    "example": "13",
+    "kind": "score",
+    "printed_page": 383,
+    "pdf_page": 192,
+    "source_image": "sources/pages/page-383.png",
+    "rect": [
+      217,
+      108,
+      1740,
+      482
+    ],
+    "image": "images/05-rekapitulacija/primjer-5-13-part-2.png",
+    "review_status": "independent_pass",
+    "review_note": "Source-exact final two continuation systems, accidentals, lower stems, slurs and final barline complete. Four clean source margins. No repeated printed number: pair with first part and continuation caption, not a fabricated 13. Following Andantino excluded.",
+    "caption": "Zadatak 13., nastavak sa str. 382.",
+    "original_image": "images/05-rekapitulacija/primjer-5-13-part-2.png",
+    "original_rect": [
+      217,
+      108,
+      1740,
+      482
+    ],
+    "slot_index": 15,
+    "source_damage": null,
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/05-rekapitulacija.md",
+    "source_marker": "<!-- visual: zadatak 13 (nastavak); page 383 -->",
+    "integration_anchor": "m11-slot-15",
+    "decoded_rgb_sha256": "2789052b5189a7cb553f1707b024b3c678896569238d709282d414b63fa9ec2b",
+    "decoded_size": [
+      1523,
+      374
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": true
+  },
+  {
+    "id": "M11-primjer-5-14",
+    "example": "14",
+    "kind": "score",
+    "printed_page": 383,
+    "pdf_page": 192,
+    "source_image": "sources/pages/page-383.png",
+    "rect": [
+      217,
+      489,
+      1741,
+      1293
+    ],
+    "image": "images/05-rekapitulacija/primjer-5-14.png",
+    "review_status": "independent_pass",
+    "review_note": "Source-exact crop. Printed 14, complete Andantino title, four systems, riten. extension, final rest/barline and lower ties retained. All four edges clean with genuine source whitespace.",
+    "caption": "Zadatak 14.",
+    "original_image": "images/05-rekapitulacija/primjer-5-14.png",
+    "original_rect": [
+      217,
+      489,
+      1741,
+      1293
+    ],
+    "slot_index": 16,
+    "source_damage": null,
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/05-rekapitulacija.md",
+    "source_marker": "<!-- visual: zadatak 14 (Andantino); page 383 -->",
+    "integration_anchor": "m11-slot-16",
+    "decoded_rgb_sha256": "6fcf344a58545033e3be1c06bc208c59ea60ba997880484730e901d104784d59",
+    "decoded_size": [
+      1524,
+      804
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": true
+  },
+  {
+    "id": "M11-primjer-5-15",
+    "example": "15",
+    "kind": "score",
+    "printed_page": 383,
+    "pdf_page": 192,
+    "source_image": "sources/pages/page-383.png",
+    "rect": [
+      217,
+      1317,
+      1742,
+      2243
+    ],
+    "image": "images/05-rekapitulacija/primjer-5-15.png",
+    "review_status": "independent_pass",
+    "review_note": "Source-exact crop. Printed 15 and all five systems complete, including long slurs, parenthesized accidental, lowest final-system sharps and closing whole note/barline. Four clean edges; no page number or adjacent exercise.",
+    "caption": "Zadatak 15.",
+    "original_image": "images/05-rekapitulacija/primjer-5-15.png",
+    "original_rect": [
+      217,
+      1317,
+      1742,
+      2243
+    ],
+    "slot_index": 17,
+    "source_damage": null,
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/05-rekapitulacija.md",
+    "source_marker": "<!-- visual: zadatak 15; page 383 -->",
+    "integration_anchor": "m11-slot-17",
+    "decoded_rgb_sha256": "29b3bcea8efb07b8f829ed4f36b119030fdbf4dfb2803824ce704294c1ad5ac5",
+    "decoded_size": [
+      1525,
+      926
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": true
+  },
+  {
+    "id": "M11-slika-384-1",
+    "example": null,
+    "kind": "score",
+    "printed_page": 384,
+    "pdf_page": 193,
+    "source_image": "sources/pages/page-384.png",
+    "rect": [
+      161,
+      106,
+      1714,
+      2012
+    ],
+    "image": "images/05-rekapitulacija/slika-384-1.png",
+    "review_status": "independent_pass",
+    "review_note": "Source-exact realization of task 4, not a newly numbered exercise. Full printed Realizacija zadatka 4. title and four grand-staff systems retained, including braces, staff ends, ties, lowest stems and final barline. All four edges clean; page 384 excluded.",
+    "caption": "Realizacija zadatka 4.",
+    "original_image": "images/05-rekapitulacija/slika-384-1.png",
+    "original_rect": [
+      161,
+      106,
+      1714,
+      2012
+    ],
+    "slot_index": 18,
+    "source_damage": null,
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/05-rekapitulacija.md",
+    "source_marker": "<!-- visual: Realizacija zadatka 4; page 384 -->",
+    "integration_anchor": "m11-slot-18",
+    "decoded_rgb_sha256": "b80fa85e1864938de5bad6a855e1d7e156a8f2f3c5236be3af5417d05a9a9427",
+    "decoded_size": [
+      1553,
+      1906
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": true
+  },
+  {
+    "id": "M11-slika-385-1",
+    "example": null,
+    "kind": "score",
+    "printed_page": 385,
+    "pdf_page": 193,
+    "source_image": "sources/pages/page-385.png",
+    "rect": [
+      183,
+      106,
+      1725,
+      1523
+    ],
+    "image": "images/05-rekapitulacija/slika-385-1.png",
+    "review_status": "independent_pass",
+    "review_note": "Source-exact realization of task 9, not a newly numbered exercise. Full Realizacija zadatka 9. title and three grand-staff systems retained, including lowest stems, crossing ties, staff ends and final barline. Four clean source margins; page number, signature and marginal marks excluded.",
+    "caption": "Realizacija zadatka 9.",
+    "original_image": "images/05-rekapitulacija/slika-385-1.png",
+    "original_rect": [
+      183,
+      106,
+      1725,
+      1523
+    ],
+    "slot_index": 19,
+    "source_damage": null,
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/05-rekapitulacija.md",
+    "source_marker": "<!-- visual: Realizacija zadatka 9; page 385 -->",
+    "integration_anchor": "m11-slot-19",
+    "decoded_rgb_sha256": "71c5182130c021adaebb01f6964fc3a29951c7ba789daa584a44502e25a4cac9",
+    "decoded_size": [
+      1542,
+      1417
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": true
+  },
+  {
+    "id": "M11-slika-386-1",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 386,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-386.png",
+    "rect": [
+      1047,
+      1038,
+      1148,
+      1089
+    ],
+    "image": "images/dodaci/slika-386-1-recrop-m11.png",
+    "review_status": "cleanup_required",
+    "review_note": "Complete sharp and 4 retained, but coherent tops of the next prose line remain at lower right. Sharp descender and next-line ink overlap in vertical range; shortening the rectangle clips the sharp. No safe combined rectangle certified. A split sharp/4 representation would need new extraction and review; no stitching or retouch approved.",
+    "caption": "Oznaka povišene kvarte: ♯4.",
+    "original_image": "images/dodaci/slika-386-1.png",
+    "original_rect": [
+      1043,
+      1031,
+      1155,
+      1093
+    ],
+    "slot_index": 20,
+    "source_damage": "Source-layout cleanup required: removed upper-right preceding-line ink, but full sharp descends to y=1088 while next prose under the 4 begins at y=1087. Single rectangle still retains tiny lower-right foreign ink. A separately embedded sharp and 4 may resolve this; no stitching authorized.",
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/dodaci.md",
+    "source_marker": "<!-- visual: slika-386-1; page 386 -->",
+    "integration_anchor": "m11-slot-20",
+    "decoded_rgb_sha256": "c9bc7a96f2be461a2a8967d67fed07791a03b632073156249b39c27a15fcf057",
+    "decoded_size": [
+      101,
+      51
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": false
+  },
+  {
+    "id": "M11-slika-386-2",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 386,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-386.png",
+    "rect": [
+      1064,
+      1122,
+      1086,
+      1178
+    ],
+    "image": "images/dodaci/slika-386-2-recrop-m11.png",
+    "review_status": "cleanup_required",
+    "review_note": "Slashed 4 and its lower slash tip retained, but right edge contains coherent fragments of closing parenthesis, not scan specks. Full glyph and parenthesis overlap in horizontal range, so narrowing would clip glyph. Text already supplies parentheses; do not integrate fragments or duplicate punctuation. No safe glyph-only rectangle certified.",
+    "caption": "Brojka 4 precrtana kosim potezom.",
+    "original_image": "images/dodaci/slika-386-2.png",
+    "original_rect": [
+      1061,
+      1125,
+      1092,
+      1173
+    ],
+    "slot_index": 21,
+    "source_damage": "Source-layout cleanup required: full slashed 4 extends through y=1175; old crop clipped its lower tip. Parenthesis begins at x=1084 while glyph extends through x=1084, so the new rectangle preserves glyph but retains parenthesis fragments. Do not clip slash or paint out punctuation.",
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/dodaci.md",
+    "source_marker": "<!-- visual: slika-386-2; page 386 -->",
+    "integration_anchor": "m11-slot-21",
+    "decoded_rgb_sha256": "93bafefa565f4708c8097064400eca313dba5ac761fcb3380921d2ab2fa8cba0",
+    "decoded_size": [
+      22,
+      56
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": false
+  },
+  {
+    "id": "M11-slika-386-3",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 386,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-386.png",
+    "rect": [
+      1007,
+      1199,
+      1094,
+      1245
+    ],
+    "image": "images/dodaci/slika-386-3-recrop-m11.png",
+    "review_status": "independent_pass",
+    "review_note": "Source-exact four complete diagonal repetition strokes, including all upper/lower tips. Four edges inspected enlarged; feasible narrow original whitespace retained. Both surrounding parentheses and next prose line excluded; use the existing text parentheses once.",
+    "caption": "Kosi potezi za ponavljanje prethodne oznake.",
+    "original_image": "images/dodaci/slika-386-3.png",
+    "original_rect": [
+      1002,
+      1195,
+      1094,
+      1250
+    ],
+    "slot_index": 22,
+    "source_damage": null,
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/dodaci.md",
+    "source_marker": "<!-- visual: slika-386-3; page 386 -->",
+    "integration_anchor": "m11-slot-22",
+    "decoded_rgb_sha256": "d7ba24cc993eb74ba9031cab5aee1ddbb7c58e05d478a8e488c356eb16e221d2",
+    "decoded_size": [
+      87,
+      46
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": true
+  },
+  {
+    "id": "M11-slika-386-4",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 386,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-386.png",
+    "rect": [
+      485,
+      1681,
+      506,
+      1732
+    ],
+    "image": "images/dodaci/slika-386-4-recrop-m11.png",
+    "review_status": "independent_pass",
+    "review_note": "Source-exact slashed 5, full upper/lower slash and numeral retained. Four edges inspected enlarged: no parenthesis fragments. Lateral whitespace is necessarily narrow because surrounding parentheses are close; no artificial margin. Text supplies the parentheses once.",
+    "caption": "Precrtana brojka 5 u francuskom obilježavanju.",
+    "original_image": "images/dodaci/slika-386-4.png",
+    "original_rect": [
+      483,
+      1681,
+      510,
+      1730
+    ],
+    "slot_index": 23,
+    "source_damage": null,
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/dodaci.md",
+    "source_marker": "<!-- visual: slika-386-4; page 386 -->",
+    "integration_anchor": "m11-slot-23",
+    "decoded_rgb_sha256": "268f3d7f16cde8c8d0eaaee1aed6b55c78647e95a684ab4ed8e706eaea007bbb",
+    "decoded_size": [
+      21,
+      51
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": true
+  },
+  {
+    "id": "M11-slika-386-5",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 386,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-386.png",
+    "rect": [
+      858,
+      1725,
+      879,
+      1778
+    ],
+    "image": "images/dodaci/slika-386-5-recrop-m11.png",
+    "review_status": "cleanup_required",
+    "review_note": "Bottom-left black blob is coherent next-line i dot, not part of the slashed 7 or a random speck. Enlarged source also shows upper slash ink at y=1724, while current top=1725 loses its first tip pixel; extending to 1724 includes preceding-line descender at left. Lower slash reaches y=1773 and i dot begins y=1774. Tested temporary alternatives were rejected; no safe complete rectangular glyph-only replacement certified. Keep notation/separation uncertainty on parent hold; do not clip tips or paint out prose.",
+    "caption": "Precrtana brojka 7 u francuskom obilježavanju.",
+    "original_image": "images/dodaci/slika-386-5.png",
+    "original_rect": [
+      856,
+      1725,
+      882,
+      1772
+    ],
+    "slot_index": 24,
+    "source_damage": "Uncertified source separation: restored lower slash beyond old bottom y=1772. Neighboring prose above and tiny ink below slash leave essentially no margin; independent reviewer must distinguish slash tip from next-line ink. Cleanup required if foreign ink remains.",
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/dodaci.md",
+    "source_marker": "<!-- visual: slika-386-5; page 386 -->",
+    "integration_anchor": "m11-slot-24",
+    "decoded_rgb_sha256": "ea768d7897e2bb1f9d79a5720c2654f7ea5d4f25628d90a8df202fe8a7622975",
+    "decoded_size": [
+      21,
+      53
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": false
+  },
+  {
+    "id": "M11-slika-386-6",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 386,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-386.png",
+    "rect": [
+      272,
+      1906,
+      315,
+      1976
+    ],
+    "image": "images/dodaci/slika-386-6.png",
+    "review_status": "independent_pass",
+    "review_note": "Source-exact complete 7 above +, both components retained with clean four-edge source whitespace. Adjacent prose and next figure excluded; no invented example number.",
+    "caption": "Francuska oznaka dominantnog septakorda.",
+    "original_image": "images/dodaci/slika-386-6.png",
+    "original_rect": [
+      272,
+      1906,
+      315,
+      1976
+    ],
+    "slot_index": 25,
+    "source_damage": null,
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/dodaci.md",
+    "source_marker": "<!-- visual: slika-386-6; page 386 -->",
+    "integration_anchor": "m11-slot-25",
+    "decoded_rgb_sha256": "ec8c4212b149550a209a484fa46a4d72226402f75d3d1328a7deebbd9c357fe7",
+    "decoded_size": [
+      43,
+      70
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": true
+  },
+  {
+    "id": "M11-slika-386-7",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 386,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-386.png",
+    "rect": [
+      276,
+      1980,
+      310,
+      2042
+    ],
+    "image": "images/dodaci/slika-386-7.png",
+    "review_status": "independent_pass",
+    "review_note": "Source-exact complete stacked 6/5 as printed. Four edges clean and full numeral shapes retained. Tiny isolated source speck beside 6 is not coherent foreign prose or notation; no repair inferred.",
+    "caption": "Francuska oznaka dominantnog kvintsekstakorda.",
+    "original_image": "images/dodaci/slika-386-7.png",
+    "original_rect": [
+      276,
+      1980,
+      310,
+      2042
+    ],
+    "slot_index": 26,
+    "source_damage": null,
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/dodaci.md",
+    "source_marker": "<!-- visual: slika-386-7; page 386 -->",
+    "integration_anchor": "m11-slot-26",
+    "decoded_rgb_sha256": "f7906df6692d8fb64dad1d6a1f7baacc5d82fa102abb0f5baff319ff9bcf8fb4",
+    "decoded_size": [
+      34,
+      62
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": true
+  },
+  {
+    "id": "M11-slika-386-8",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 386,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-386.png",
+    "rect": [
+      251,
+      2054,
+      310,
+      2102
+    ],
+    "image": "images/dodaci/slika-386-8.png",
+    "review_status": "independent_pass",
+    "review_note": "Source-exact complete +6 figure, including all plus arms and numeral. Four clean margins from source; no adjacent prose or stack fragment.",
+    "caption": "Francuska oznaka dominantnog terckvartakorda.",
+    "original_image": "images/dodaci/slika-386-8.png",
+    "original_rect": [
+      251,
+      2054,
+      310,
+      2102
+    ],
+    "slot_index": 27,
+    "source_damage": null,
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/dodaci.md",
+    "source_marker": "<!-- visual: slika-386-8; page 386 -->",
+    "integration_anchor": "m11-slot-27",
+    "decoded_rgb_sha256": "5565f53f1304bbdebe3dae0f3b0abca64ff605e076b63e0867e10da953d5e51a",
+    "decoded_size": [
+      59,
+      48
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": true
+  },
+  {
+    "id": "M11-slika-386-9",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 386,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-386.png",
+    "rect": [
+      248,
+      2118,
+      310,
+      2164
+    ],
+    "image": "images/dodaci/slika-386-9.png",
+    "review_status": "independent_pass",
+    "review_note": "Source-exact complete +4 figure, including plus and full numeral. All four edges clean with genuine source whitespace.",
+    "caption": "Francuska oznaka dominantnog sekundakorda.",
+    "original_image": "images/dodaci/slika-386-9.png",
+    "original_rect": [
+      248,
+      2118,
+      310,
+      2164
+    ],
+    "slot_index": 28,
+    "source_damage": null,
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/dodaci.md",
+    "source_marker": "<!-- visual: slika-386-9; page 386 -->",
+    "integration_anchor": "m11-slot-28",
+    "decoded_rgb_sha256": "ef0d8fca61a3fd938b92146b5a8e5337deefa8dba2a7e07e618c0a677d554ac5",
+    "decoded_size": [
+      62,
+      46
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": true
+  },
+  {
+    "id": "M11-slika-386-10",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 386,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-386.png",
+    "rect": [
+      252,
+      2173,
+      314,
+      2236
+    ],
+    "image": "images/dodaci/slika-386-10.png",
+    "review_status": "independent_pass",
+    "review_note": "Source-exact full two-level figure: +6 above 5. All numeral and plus extremities retained, four clean source margins, neighboring figures and prose excluded.",
+    "caption": "Francuska oznaka prvog obrata smanjenog septakorda.",
+    "original_image": "images/dodaci/slika-386-10.png",
+    "original_rect": [
+      252,
+      2173,
+      314,
+      2236
+    ],
+    "slot_index": 29,
+    "source_damage": null,
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/dodaci.md",
+    "source_marker": "<!-- visual: slika-386-10; page 386 -->",
+    "integration_anchor": "m11-slot-29",
+    "decoded_rgb_sha256": "094e9b68d48bc70a0b20ed0f57cdaed6abd3312afc55dc3e5795fb0e0d5361db",
+    "decoded_size": [
+      62,
+      63
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": true
+  },
+  {
+    "id": "M11-slika-386-11",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 386,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-386.png",
+    "rect": [
+      247,
+      2240,
+      313,
+      2311
+    ],
+    "image": "images/dodaci/slika-386-11.png",
+    "review_status": "independent_pass",
+    "review_note": "Source-exact full two-level figure: +4 above 3. Four clean edges and feasible original margins; lowest 3 and all plus arms complete. Correctly paired with continuation variants on page 387.",
+    "caption": "Francuska oznaka drugog obrata smanjenog septakorda.",
+    "original_image": "images/dodaci/slika-386-11.png",
+    "original_rect": [
+      247,
+      2240,
+      313,
+      2311
+    ],
+    "slot_index": 30,
+    "source_damage": null,
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/dodaci.md",
+    "source_marker": "<!-- visual: slika-386-11; page 386 -->",
+    "integration_anchor": "m11-slot-30",
+    "decoded_rgb_sha256": "581d8f70626ce62ba5f36b87d0c4e177fc6cf6b57ef0f4efb77882f38b43db50",
+    "decoded_size": [
+      66,
+      71
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": true
+  },
+  {
+    "id": "M11-slika-387-1",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 387,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-387.png",
+    "rect": [
+      626,
+      64,
+      688,
+      156
+    ],
+    "image": "images/dodaci/slika-387-1.png",
+    "review_status": "independent_pass",
+    "review_note": "Source-exact complete +4 above natural, including natural's lowest descending stroke. All four source margins clean; adjacent words excluded.",
+    "caption": "Varijanta oznake s razrješilicom.",
+    "original_image": "images/dodaci/slika-387-1.png",
+    "original_rect": [
+      626,
+      64,
+      688,
+      156
+    ],
+    "slot_index": 31,
+    "source_damage": null,
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/dodaci.md",
+    "source_marker": "<!-- visual: slika-387-1; page 387 -->",
+    "integration_anchor": "m11-slot-31",
+    "decoded_rgb_sha256": "057d72da7d9b290c62c840f9eb3bc467c4c6a6231487954efb85da6ef9ea3e97",
+    "decoded_size": [
+      62,
+      92
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": true
+  },
+  {
+    "id": "M11-slika-387-2",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 387,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-387.png",
+    "rect": [
+      850,
+      62,
+      915,
+      154
+    ],
+    "image": "images/dodaci/slika-387-2.png",
+    "review_status": "independent_pass",
+    "review_note": "Source-exact complete +4 above sharp, including both sharp stems and diagonal arms. Four clean source margins; no adjacent ili or punctuation.",
+    "caption": "Varijanta oznake s povisilicom.",
+    "original_image": "images/dodaci/slika-387-2.png",
+    "original_rect": [
+      850,
+      62,
+      915,
+      154
+    ],
+    "slot_index": 32,
+    "source_damage": null,
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/dodaci.md",
+    "source_marker": "<!-- visual: slika-387-2; page 387 -->",
+    "integration_anchor": "m11-slot-32",
+    "decoded_rgb_sha256": "11c783aa0a95acbac338dd295edfe66bd8e3ccf6d5e7a1d576a3149a9381384a",
+    "decoded_size": [
+      65,
+      92
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": true
+  },
+  {
+    "id": "M11-slika-387-3",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 387,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-387.png",
+    "rect": [
+      1008,
+      62,
+      1067,
+      138
+    ],
+    "image": "images/dodaci/slika-387-3.png",
+    "review_status": "independent_pass",
+    "review_note": "Source-exact complete +4 above flat. Flat stem and bowl retained; all four edges clean. Following semicolon correctly excluded for text punctuation.",
+    "caption": "Varijanta oznake sa snizilicom.",
+    "original_image": "images/dodaci/slika-387-3.png",
+    "original_rect": [
+      1008,
+      62,
+      1067,
+      138
+    ],
+    "slot_index": 33,
+    "source_damage": null,
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/dodaci.md",
+    "source_marker": "<!-- visual: slika-387-3; page 387 -->",
+    "integration_anchor": "m11-slot-33",
+    "decoded_rgb_sha256": "28af230eb49000f2d33d9695e8128a1a061e3a41f392cbd011465583ee73ba11",
+    "decoded_size": [
+      59,
+      76
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": true
+  },
+  {
+    "id": "M11-slika-387-4",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 387,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-387.png",
+    "rect": [
+      355,
+      187,
+      462,
+      283
+    ],
+    "image": "images/dodaci/slika-387-4.png",
+    "review_status": "independent_pass",
+    "review_note": "Source-exact full dominant-ninth figure: 9, +, 7 and the parenthesized flat-9/+ alternative alongside. Four clean source margins. These internal parentheses belong to the notation; text does not wrap this slot in another pair.",
+    "caption": "Francuska oznaka dominantnog nonakorda.",
+    "original_image": "images/dodaci/slika-387-4.png",
+    "original_rect": [
+      355,
+      187,
+      462,
+      283
+    ],
+    "slot_index": 34,
+    "source_damage": null,
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/dodaci.md",
+    "source_marker": "<!-- visual: slika-387-4; page 387 -->",
+    "integration_anchor": "m11-slot-34",
+    "decoded_rgb_sha256": "d1427caaba5c60ebc59d308266a6a1374967f0bd48b1f8daa8f1274e362d7f45",
+    "decoded_size": [
+      107,
+      96
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": true
+  },
+  {
+    "id": "M11-slika-387-5",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 387,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-387.png",
+    "rect": [
+      355,
+      290,
+      394,
+      363
+    ],
+    "image": "images/dodaci/slika-387-5.png",
+    "review_status": "independent_pass",
+    "review_note": "Source-exact stacked 6 and densely printed slashed 5, including full lower diagonal tip. Four edges clean with source whitespace. Printed density is retained, not retouched or reconstructed; no missing symbol inferred.",
+    "caption": "Francuska oznaka prvog obrata dominantnog nonakorda.",
+    "original_image": "images/dodaci/slika-387-5.png",
+    "original_rect": [
+      355,
+      290,
+      394,
+      363
+    ],
+    "slot_index": 35,
+    "source_damage": null,
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/dodaci.md",
+    "source_marker": "<!-- visual: slika-387-5; page 387 -->",
+    "integration_anchor": "m11-slot-35",
+    "decoded_rgb_sha256": "589f7aa16aa06247c02f6e85f75bc16528c46f82986264291e447f7f66e23b78",
+    "decoded_size": [
+      39,
+      73
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": true
+  },
+  {
+    "id": "M11-slika-387-6",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 387,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-387.png",
+    "rect": [
+      333,
+      376,
+      391,
+      467
+    ],
+    "image": "images/dodaci/slika-387-6.png",
+    "review_status": "independent_pass",
+    "review_note": "Source-exact full three-level +6/5/4 figure. Lowest 4 and plus extremities retained; all four margins clean and source-derived.",
+    "caption": "Francuska oznaka drugog obrata dominantnog nonakorda.",
+    "original_image": "images/dodaci/slika-387-6.png",
+    "original_rect": [
+      333,
+      376,
+      391,
+      467
+    ],
+    "slot_index": 36,
+    "source_damage": null,
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/dodaci.md",
+    "source_marker": "<!-- visual: slika-387-6; page 387 -->",
+    "integration_anchor": "m11-slot-36",
+    "decoded_rgb_sha256": "83b71c785f7dc039e801366dba1e77131634dd1dac03d42404fce28616f08196",
+    "decoded_size": [
+      58,
+      91
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": true
+  },
+  {
+    "id": "M11-slika-387-7",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 387,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-387.png",
+    "rect": [
+      332,
+      476,
+      391,
+      566
+    ],
+    "image": "images/dodaci/slika-387-7.png",
+    "review_status": "independent_pass",
+    "review_note": "Source-exact full three-level +4/3/2 figure, including lowest 2. Four clean source margins; neighboring figures and prose excluded.",
+    "caption": "Francuska oznaka trećeg obrata dominantnog nonakorda.",
+    "original_image": "images/dodaci/slika-387-7.png",
+    "original_rect": [
+      332,
+      476,
+      391,
+      566
+    ],
+    "slot_index": 37,
+    "source_damage": null,
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/dodaci.md",
+    "source_marker": "<!-- visual: slika-387-7; page 387 -->",
+    "integration_anchor": "m11-slot-37",
+    "decoded_rgb_sha256": "09e3bbca489c71f1117c112035d2ed4fe852343e970d3e763b3b08987f35e722",
+    "decoded_size": [
+      59,
+      90
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": true
+  },
+  {
+    "id": "M11-slika-387-8",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 387,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-387.png",
+    "rect": [
+      291,
+      716,
+      357,
+      792
+    ],
+    "image": "images/dodaci/slika-387-8.png",
+    "review_status": "independent_pass",
+    "review_note": "Source-exact two-level 4-dash/2-dash suspension figure, both full dashes and both numerals retained. All four edges clean with source whitespace; explanatory text excluded.",
+    "caption": "Francuska oznaka zaostajalice na basov ton kvintakorda.",
+    "original_image": "images/dodaci/slika-387-8.png",
+    "original_rect": [
+      291,
+      716,
+      357,
+      792
+    ],
+    "slot_index": 38,
+    "source_damage": null,
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/dodaci.md",
+    "source_marker": "<!-- visual: slika-387-8; page 387 -->",
+    "integration_anchor": "m11-slot-38",
+    "decoded_rgb_sha256": "3e891032ec045960da3a1ed09b356778f188cd5e07cc4fe6bc6d1491474ee94f",
+    "decoded_size": [
+      66,
+      76
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": true
+  },
+  {
+    "id": "M11-slika-387-9",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 387,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-387.png",
+    "rect": [
+      291,
+      800,
+      358,
+      876
+    ],
+    "image": "images/dodaci/slika-387-9.png",
+    "review_status": "independent_pass",
+    "review_note": "Source-exact two-level 5-dash/2-dash figure, complete numeral shapes and dash ends. Four clean source margins; figures above and below excluded.",
+    "caption": "Francuska oznaka zaostajalice na basov ton sekstakorda.",
+    "original_image": "images/dodaci/slika-387-9.png",
+    "original_rect": [
+      291,
+      800,
+      358,
+      876
+    ],
+    "slot_index": 39,
+    "source_damage": null,
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/dodaci.md",
+    "source_marker": "<!-- visual: slika-387-9; page 387 -->",
+    "integration_anchor": "m11-slot-39",
+    "decoded_rgb_sha256": "8aedbf5b496451ac8c23f29dce6f4c91a40c086b82e3b2a7e1171bb3f8a1273d",
+    "decoded_size": [
+      67,
+      76
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": true
+  },
+  {
+    "id": "M11-slika-387-10",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 387,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-387.png",
+    "rect": [
+      290,
+      877,
+      359,
+      967
+    ],
+    "image": "images/dodaci/slika-387-10.png",
+    "review_status": "independent_pass",
+    "review_note": "Source-exact complete three-level 5-dash/4-dash/2-dash figure. All four edges clean, all dash ends and lowest numeral intact. Correctly paired with resolution slika-387-11 in the same text item.",
+    "caption": "Francuska oznaka zaostajalice na basov ton kvintsekstakorda.",
+    "original_image": "images/dodaci/slika-387-10.png",
+    "original_rect": [
+      290,
+      877,
+      359,
+      967
+    ],
+    "slot_index": 40,
+    "source_damage": null,
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/dodaci.md",
+    "source_marker": "<!-- visual: slika-387-10; page 387 -->",
+    "integration_anchor": "m11-slot-40",
+    "decoded_rgb_sha256": "b4959cc8ae95530ced2fca5be05736220fe076df6ecfb148ce9ed4eeb0fce914",
+    "decoded_size": [
+      69,
+      90
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": true
+  },
+  {
+    "id": "M11-slika-387-11",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 387,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-387.png",
+    "rect": [
+      1429,
+      894,
+      1486,
+      964
+    ],
+    "image": "images/dodaci/slika-387-11.png",
+    "review_status": "independent_pass",
+    "review_note": "Source-exact full two-level dash-6/dash-5 resolution. Four clean margins; following semicolon excluded, so prose supplies it once. Correct partner to slika-387-10.",
+    "caption": "Oznaka rješenja zaostajalice na basov ton kvintsekstakorda.",
+    "original_image": "images/dodaci/slika-387-11.png",
+    "original_rect": [
+      1429,
+      894,
+      1486,
+      964
+    ],
+    "slot_index": 41,
+    "source_damage": null,
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/dodaci.md",
+    "source_marker": "<!-- visual: slika-387-11; page 387 -->",
+    "integration_anchor": "m11-slot-41",
+    "decoded_rgb_sha256": "a17f3b52d14dff6faa1d8098d30fbfb3ecc692daa54e71e1e6a0f1560d191809",
+    "decoded_size": [
+      57,
+      70
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": true
+  },
+  {
+    "id": "M11-slika-387-12",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 387,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-387.png",
+    "rect": [
+      291,
+      981,
+      359,
+      1071
+    ],
+    "image": "images/dodaci/slika-387-12.png",
+    "review_status": "independent_pass",
+    "review_note": "Source-exact complete three-level 5-dash/3-dash/2-dash figure. Four clean source margins, complete lowest 2 and all dash ends. Correctly paired with resolution slika-387-13.",
+    "caption": "Francuska oznaka zaostajalice na basov ton terckvartakorda.",
+    "original_image": "images/dodaci/slika-387-12.png",
+    "original_rect": [
+      291,
+      981,
+      359,
+      1071
+    ],
+    "slot_index": 42,
+    "source_damage": null,
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/dodaci.md",
+    "source_marker": "<!-- visual: slika-387-12; page 387 -->",
+    "integration_anchor": "m11-slot-42",
+    "decoded_rgb_sha256": "dee06bf809632c5a775e0922625bf0ff169684cd42aecfe2246cd3c3526ad6e9",
+    "decoded_size": [
+      68,
+      90
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": true
+  },
+  {
+    "id": "M11-slika-387-13",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 387,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-387.png",
+    "rect": [
+      1438,
+      995,
+      1484,
+      1060
+    ],
+    "image": "images/dodaci/slika-387-13-recrop-m11.png",
+    "review_status": "independent_pass",
+    "review_note": "Source-exact complete dash-4/dash-3 resolution. Enlarged four-edge comparison confirms full horizontal strokes/numerals and exclusion of sentence period to right; feasible clean source whitespace remains. Text supplies the period once. Correct partner to slika-387-12.",
+    "caption": "Oznaka rješenja zaostajalice na basov ton terckvartakorda.",
+    "original_image": "images/dodaci/slika-387-13.png",
+    "original_rect": [
+      1432,
+      993,
+      1492,
+      1060
+    ],
+    "slot_index": 43,
+    "source_damage": null,
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/dodaci.md",
+    "source_marker": "<!-- visual: slika-387-13; page 387 -->",
+    "integration_anchor": "m11-slot-43",
+    "decoded_rgb_sha256": "6e1d7e0b388124b058729e2b5cd6aba4950dbd658c7f7ed37ff4c811b34698d9",
+    "decoded_size": [
+      46,
+      65
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": true
+  },
+  {
+    "id": "M11-slika-387-14",
+    "example": null,
+    "kind": "notation",
+    "printed_page": 387,
+    "pdf_page": 194,
+    "source_image": "sources/pages/page-387.png",
+    "rect": [
+      652,
+      1146,
+      689,
+      1189
+    ],
+    "image": "images/dodaci/slika-387-14-recrop-m11.png",
+    "review_status": "cleanup_required",
+    "review_note": "Full overbar and 5 retained, but coherent sentence period remains at lower right and is already represented after the text slot. Full overbar extends farther right than the period's left edge, preventing a clean glyph-only rectangle without clipping notation. No safe replacement rectangle certified; do not shorten overbar, erase period or duplicate punctuation.",
+    "caption": "Alternativna oznaka smanjene kvinte odnosno smanjenog kvintakorda.",
+    "original_image": "images/dodaci/slika-387-14.png",
+    "original_rect": [
+      649,
+      1145,
+      689,
+      1192
+    ],
+    "slot_index": 44,
+    "source_damage": "Source-layout cleanup required: complete overbar of 5 extends to x=686, but sentence period occupies x=680..685 at y=1178..1185. A rectangle retaining full figure also contains period already transcribed in text. Do not clip overbar or lower 5 to remove period.",
+    "review_evidence": "review-candidates/book/M11/visual-review.json",
+    "integration_output": "chapters/dodaci.md",
+    "source_marker": "<!-- visual: slika-387-14; page 387 -->",
+    "integration_anchor": "m11-slot-44",
+    "decoded_rgb_sha256": "eed0656e11e17121018783dba8fb769fb88c154f11e00ae4cdcda6ed4f4507c7",
+    "decoded_size": [
+      37,
+      43
+    ],
+    "decoded_pixel_equality": true,
+    "embedded": false
+  }
+]

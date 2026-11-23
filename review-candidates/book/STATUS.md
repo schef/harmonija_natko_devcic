@@ -1,18 +1,22 @@
 # Whole-book preparation checkpoint
 
-## Paused at the usage guard
+## Resumed with a revised usage guard
 
-The latest active-account weekly limit was **51% remaining**. Work was paused
-before starting another agent, leaving a buffer above the user's 50%-remaining
-cutoff. All work in this sequential phase used at most one subagent at a time,
-without nested delegation or model subprocesses.
+The previous preparation phase paused at **51% weekly remaining**, just above
+the former 50% cutoff. On **2026-11-22** the user requested continuation with
+**one active subagent maximum** and a revised stopping point of **20% weekly
+allowance remaining on the active account**. The initial resumed check reported
+69% weekly remaining on Account 1. Check limits between bounded tasks; do not
+start nested agents or model subprocesses.
 
-This is **not a whole-book completion report**. Do not mark milestones complete
+**Preparation coverage is complete through printed page 411; human review is ready.**
+Final hand-off and validation: `review-candidates/book/PREPARATION-COMPLETE.md`.
+This is **not publication readiness or milestone acceptance**. Do not mark milestones complete
 merely because text and image placeholders have been integrated.
 
 ## Completed preparation and independent review
 
-Verified text is provisionally integrated from printed page 47 through 256.
+Verified text is provisionally integrated from printed page 47 through 411.
 The previously approved work through page 46 is preserved.
 
 | Milestone | Printed pages | PDF pages | Prepared parts | Independent pass | Cleanup required |
@@ -22,7 +26,12 @@ The previously approved work through page 46 is preserved.
 | M04 | 137–174 | 69–88 | 128 | 107 | 21 |
 | M05 | 175–206 | 88–104 | 104 | 66 | 38 |
 | M06 | 207–256 | 104–129 | 169 | 142 | 27 |
-| **Reviewed total** | **47–256** | **24–129** | **780** | **522** | **258** |
+| M07 | 257–276 | 129–139 | 57 | 40 | 17 |
+| M08 | 277–308 | 139–155 | 105 | 81 | 22, plus 2 source-damage holds |
+| M09 | 309–348 | 155–175 | 134 | 111 | 23 |
+| M10 | 349–378 | 175–190 | 86 | 80 | 5, plus 1 source-damage hold |
+| M11 | 379–411 | 190–206 | 44 | 36 | 8 |
+| **Reviewed total** | **47–411** | **24–206** | **1,206** | **870** | **333, plus 3 source-damage holds** |
 
 Each reviewed image has an independent per-image decision. Feasible boundary
 corrections were generated as separate source-only recrops and independently
@@ -30,31 +39,74 @@ re-reviewed; originals were not overwritten. Source-limited crops remain
 explicitly provisional links, not approved embedded images. No unattended
 handwriting removal or generated borders were used.
 
-The 258 cleanup cases include internal pencil annotations, adjacent visual/prose
+The 333 cleanup cases include internal pencil annotations, adjacent visual/prose
 overlap, and other source-layout constraints. They require a separate cleanup
 or source decision and another review—not automatic human acceptance.
 
-## Prepared but not independently reviewed
+Three additional records have **damaged/uncertified original notation**, not
+merely unwanted handwriting: the realization continuation on printed page 290
+and example 4.31 on page 295 in M08, plus example 4.173 on page 363 in M10.
+Their crop boundaries passed, but the affected
+notation did not receive certification. They are `source_damage`, explicitly
+unapproved and excluded from the default independent-pass confirmation view.
 
-M07 printed **257–276 / PDF 129–139**:
+## Earlier resumed batch: M07
 
-- Verified text: `review-candidates/book/M07/text-257-276.md`.
-- Per-page verification: `review-candidates/book/M07/text-257-276-review.json`.
-- **57 crops**, all `pending_independent_review`:
-  `review-candidates/book/M07/images.json`.
-- The extractor flagged 18 examples for potential source-mark cleanup; these
-  flags are not independent review decisions.
-- M07 has not been promoted to `chapters/03-kromatika-c.md`.
+M07 printed **257–276 / PDF 129–139** is now provisionally integrated in
+`chapters/03-kromatika-c.md`. Independent review classified 36 initial passes,
+four correctable clipping failures and 17 source-limited failures. All four
+source-only recrops passed a separate re-review, yielding **40 independent
+passes and 17 explicit cleanup cases**. The original extraction manifest is
+preserved; final paths and statuses are in
+`review-candidates/book/M07/images-integrated.json`, with the complete slot
+mapping and validation in `review-candidates/book/M07/INTEGRATION.md`.
+
+## M08 preparation
+
+M08 printed **277–308 / PDF 139–155** is provisionally integrated in
+`chapters/04-neakordicki-a.md`. All 105 visual slots are accounted for, including
+the two inline graphics missing from the earlier 103-record extraction. Its
+independent reviews and applied recrop yield **81 approved crops, 22 cleanup
+holds and two source-damage holds**. Both inline graphics remain inline in the
+prose. Original crops, metadata and verified text shards are preserved.
+
+Full per-slot mapping: `review-candidates/book/M08/INTEGRATION.md`.
+Final paths/statuses: `review-candidates/book/M08/images-integrated.json`.
+
+## Current M09 checkpoint
+
+All M09 text for **309–348 / PDF 155–175** is verified in five shards and
+provisionally integrated in `chapters/04-neakordicki-b.md`, with **111 approved
+image embeds and 23 explicit manual-review/cleanup holds** across both batches.
+Example 4.67's footnote/fermata conflict is not
+treated as approved; its printed explanation remains transcribed beside it.
+The second **66-crop batch for 329–348** contributed 59 passes and seven
+source-limited holds. No failed crop was promoted to a pass. Both integration
+reports preserve the printed reference discrepancy on page 344.
+
+## Current M10 and M11 checkpoint
+
+All M10 text and **86 visual parts on pages 349–378** are provisionally
+integrated in `chapters/04-neakordicki-c.md`: **80 approved embeds, five explicit
+cleanup holds and one source-damage hold**. Both 4.178 parts, 4.169, 4.192 and
+4.193 remain blocked; no excerpt continuation or final barline was invented.
+
+M11 is provisionally integrated in `chapters/05-rekapitulacija.md` (379–385)
+and `chapters/dodaci.md` (386–411). All 33 pages, all 730 table lines, footnote 8,
+blank-page metadata and 44 visual slots are preserved. Independent review and
+the exercise-6 recrop re-review yield **36 passing crops and eight layout holds**:
+exercises 9, 10 first part, 11, 12; glyphs `slika-386-1`, `slika-386-2`,
+`slika-386-5`, `slika-387-14`. These eight remain unapproved links.
+Full source-page/decision mapping: `review-candidates/book/M11/INTEGRATION.md`.
 
 ## Next session
 
 1. Check usage limits before resuming; keep **one active subagent maximum**.
-2. Independently review all 57 M07 crops, apply feasible source-only recrops and
-   re-review replacements, then integrate the verified text and image decisions.
-3. Continue M08–M11, printed **277–411 / PDF 139–206**. Earlier partial crop
-   manifests for these sections are preserved but must be checked for complete
-   coverage and independently reviewed; they are not silently approved.
-4. Resolve provisional images and run full-section rendered previews, footnote,
+2. **Do not restart book extraction: preparation is finished.** Confirm passing
+   images in the viewer; handle cleanup/layout and source-damage cases separately.
+   Preserve originals and edit separate GIMP copies. Closing GIMP signals the
+   edited copy is ready for independent review, not automatic approval.
+3. Resolve provisional images and run full-section rendered previews, footnote,
    link, example-number continuity and text integration checks before marking
    any milestone complete.
 
@@ -66,19 +118,21 @@ python tools/review_book.py
 
 Open the local URL it prints (default `http://127.0.0.1:8765`). The viewer defaults
 to **Independently passed — confirm**, showing the crop beside its original
-source page. It also has separate **Cleanup required**, **Independent review
+source page. It also has separate **Cleanup required**, **Damaged or uncertain source notation**, **Independent review
 pending**, and **All prepared images** views. Decisions are stored in
 `review-candidates/book/human-review-state.json`; this file is separate from
 source crops and independent review records.
 
-The current consolidated queue has **837 records**: 522 independent passes,
-258 cleanup cases and 57 pending independent review. It intentionally excludes
+The current consolidated queue has **1,206 records**: 870 independent passes,
+333 cleanup cases, three source-damage holds and no pending independent review.
+M11 is included; human decisions do not overwrite independent-review metadata.
+It intentionally excludes
 the earlier approved material through printed page 46.
 
 Rebuild the same queue after updating reviewed hand-offs:
 
 ```bash
-python tools/build_book_review_queue.py --milestone M02 --milestone M03 --milestone M04 --milestone M05 --milestone M06 --milestone M07
+python tools/build_book_review_queue.py --milestone M02 --milestone M03 --milestone M04 --milestone M05 --milestone M06 --milestone M07 --milestone M08 --milestone M09 --milestone M10 --milestone M11
 ```
 
 ## Provenance and outstanding checks
@@ -95,14 +149,20 @@ python tools/build_book_review_queue.py --milestone M02 --milestone M03 --milest
 - No unresolved unreadable printed prose was reported in the verified shards;
   printed irregularities and cross-page continuations are documented in the
   per-page text reviews. This does not replace final full-section proofreading.
-- Final integration audit verified **837/837 queue crops** against original
-  source pixels and authoritative page mappings, and **1,038 chapter links**.
+- Final parent audit verified **1,206/1,206 queue crops** against original source
+  pixels and authoritative page mappings. After M11 integration, all **1,551
+  chapter links** resolve and all **365 source-page markers for pages 47–411**
+  are present exactly once with correct PDF references.
   It corrected 849 generated links that had incorrectly been relative to the
   repository root rather than their containing chapter; no prose or image
   pixels were changed by that correction. The correction is reproducible with
   `python tools/fix_markdown_links.py --apply` and is idempotent.
-- The user explicitly requested committing and pushing this checkpoint after
-  preparation paused. The commit includes chapter content, source/recrop images,
-  selected review manifests and reports, and the review tools. Raw OCR output,
-  temporary inspection files, logs, GIMP working backups and unrelated catalog/
-  cache changes remain local and are excluded. Working files are preserved.
+- All 12 chapter files render with `python tools/preview_book.py`. Representative
+  recap, terminology, index, inline-glyph and source-damage/cleanup label previews
+  were visually inspected. This is a spot check, not full-book visual acceptance.
+  Chromium fragment-navigation screenshots were blank; standalone page excerpts
+  rendered correctly. Local output: `/tmp/opencode/harmonija-book-preview/`.
+- The earlier preparation checkpoint was committed/pushed as `62be9a5`.
+  On 2026-11-23 the user authorized committing and pushing the resumed M07–M11
+  preparation and preview work as a scoped checkpoint. Unrelated catalog/cache edits, raw OCR,
+  temporary previews/logs and GIMP working backups are preserved.
