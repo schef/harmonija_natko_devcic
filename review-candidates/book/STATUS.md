@@ -5,7 +5,10 @@
 The previous preparation phase paused at **51% weekly remaining**, just above
 the former 50% cutoff. On **2026-11-22** the user requested continuation with
 **one active subagent maximum** and a revised stopping point of **20% weekly
-allowance remaining on the active account**. The initial resumed check reported
+allowance remaining on the active account**. On 2026-11-23 the user lowered the
+current cutoff to **3% weekly remaining on the active account** for review-workflow
+improvements before the reset. This supersedes 20%; one active subagent maximum
+still applies. The initial resumed check reported
 69% weekly remaining on Account 1. Check limits between bounded tasks; do not
 start nested agents or model subprocesses.
 
@@ -112,6 +115,18 @@ Full source-page/decision mapping: `review-candidates/book/M11/INTEGRATION.md`.
 
 ## Human confirmation interface
 
+The upgraded workspace adds keyboard shortcuts, chapter/page/issue filters,
+progress/resume, draft-note protection, undo, source-region highlighting and
+per-page chapter context. Full instructions: `tools/BOOK-REVIEW.md`.
+GIMP edits use separate copies and are snapshotted/queued on editor exit; the
+viewer does not launch AI reviewers or approve/integrate edits automatically.
+Use the generated `CLEANUP-REVIEW-READY.md` bundle for the separate review step.
+The workflow upgrade passed **28 isolated tests**, including a real Chromium
+session using a fake GIMP process; a real desktop GIMP edit/export/close cycle
+still needs a user smoke test. A separate read-only run checked all 1,206 real
+records for findings and chapter context without creating decisions or jobs.
+Structural results: `review-candidates/book/REVIEW-WORKFLOW-AUDIT.md`.
+
 ```bash
 python tools/review_book.py
 ```
@@ -162,7 +177,7 @@ python tools/build_book_review_queue.py --milestone M02 --milestone M03 --milest
   were visually inspected. This is a spot check, not full-book visual acceptance.
   Chromium fragment-navigation screenshots were blank; standalone page excerpts
   rendered correctly. Local output: `/tmp/opencode/harmonija-book-preview/`.
-- The earlier preparation checkpoint was committed/pushed as `62be9a5`.
-  On 2026-11-23 the user authorized committing and pushing the resumed M07–M11
-  preparation and preview work as a scoped checkpoint. Unrelated catalog/cache edits, raw OCR,
+- Book preparation through page 411 was committed/pushed as **`0a28718`** after
+  `62be9a5`. The subsequent review-workflow upgrade is included in its own
+  user-authorized commit/push checkpoint on 2026-11-23. Unrelated catalog/cache edits, raw OCR,
   temporary previews/logs and GIMP working backups are preserved.

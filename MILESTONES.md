@@ -34,8 +34,9 @@ the user has approved it or that transcription uncertainties have been resolved.
 Concurrency constraint: **at most one subagent may run at a time**, with no nested
 delegation or model subprocesses. Complete and checkpoint one bounded batch before
 starting the next. The user resumed work on 2026-11-22 with a new cutoff:
-check reported Codex limits between batches and stop at **20% weekly allowance
-remaining on the active account** (or earlier if a quota blocks work).
+check reported Codex limits between batches. On 2026-11-23 the user revised the
+cutoff again: stop at **3% weekly allowance remaining on the active account**
+(or earlier if a quota blocks work). This supersedes the former 20% guard.
 
 ### Current unattended-preparation checkpoint
 
